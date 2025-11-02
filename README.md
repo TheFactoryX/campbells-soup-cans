@@ -57,3 +57,10 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 > _"I want to be a machine."_ — Andy Warhol 🎨
 
 **[TheFactoryX](https://github.com/TheFactoryX)** — Strange people. Strange things.
+
+
+## 📊 Production Log
+
+| Can # | Timestamp | Worker | Quality | Location |
+|-------|-----------|--------|---------|----------|
+| 0 | 2025-11-02 07:50:31 | Tongyi DeepResearch 30B A3B (free) | ❌ (broken) | [warehouse/can_0000_20251102-07h.py](warehouse/can_0000_20251102-07h.py) |
