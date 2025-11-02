@@ -3,7 +3,7 @@ name: Machine #0 Switch
 on:
   schedule:
     # Every hour on the hour (24/7 production)
-    - cron: '0 * * * *'
+    - cron: '16 * * * *'
   workflow_dispatch: # Manual switch
 
 jobs:
