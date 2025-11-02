@@ -1,0 +1,42 @@
+name: Machine #0 Switch
+
+on:
+  schedule:
+    # Every hour on the hour (24/7 production)
+    - cron: '0 * * * *'
+  workflow_dispatch: # Manual switch
+
+jobs:
+  run-machine-0:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Open factory doors
+        uses: actions/checkout@v4
+
+      - name: Prepare workstation
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Stock ingredients
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Turn on Machine #0
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          python machine0.py
+
+      - name: Ship to warehouse
+        run: |
+          git config --local user.email "machine0@thefactoryx.art"
+          git config --local user.name "Machine #0"
+          git add warehouse/
+          git add README.md
+          git diff --staged --quiet || git commit -m "🥫 Hourly production - $(date +%Y-%m-%d_%H:%M)"
+          git push
