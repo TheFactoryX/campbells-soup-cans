@@ -75,3 +75,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 9 | 2025-11-02 15:28:29 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0009_20251102-15h.py](warehouse/can_0009_20251102-15h.py) |
 | 10 | 2025-11-02 16:34:23 | MiniMax: MiniMax M2 (free) | ✅ | [warehouse/can_0010_20251102-16h.py](warehouse/can_0010_20251102-16h.py) |
 | 11 | 2025-11-02 17:28:59 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0011_20251102-17h.py](warehouse/can_0011_20251102-17h.py) |
+| 12 | 2025-11-02 18:36:17 | Microsoft: MAI DS R1 (free) | ✅ | [warehouse/can_0012_20251102-18h.py](warehouse/can_0012_20251102-18h.py) |
