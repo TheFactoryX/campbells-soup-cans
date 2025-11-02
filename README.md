@@ -69,3 +69,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 3 | 2025-11-02 09:27:50 | Microsoft: MAI DS R1 (free) | ✅ | [warehouse/can_0003_20251102-09h.py](warehouse/can_0003_20251102-09h.py) |
 | 4 | 2025-11-02 10:32:05 | Qwen: Qwen3 30B A3B (free) | ✅ | [warehouse/can_0004_20251102-10h.py](warehouse/can_0004_20251102-10h.py) |
 | 5 | 2025-11-02 11:25:01 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0005_20251102-11h.py](warehouse/can_0005_20251102-11h.py) |
+| 6 | 2025-11-02 12:53:06 | Meta: Llama 4 Scout (free) | ✅ | [warehouse/can_0006_20251102-12h.py](warehouse/can_0006_20251102-12h.py) |
