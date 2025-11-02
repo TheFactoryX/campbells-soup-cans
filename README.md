@@ -34,9 +34,9 @@ Good ✅ or Bad ❌. All stored.
 
 ## 📦 Orders
 
-**🎨 Custom Flavors** — Your recipe, our machine
-**📚 Bulk Production** — Scale to Machine #1, #2, #3...
-**🔍 Factory Tours** — Watch the line run
+- **🎨 Custom Flavors** — Your recipe, our machine
+- **📚 Bulk Production** — Scale to Machine #1, #2, #3...
+- **🔍 Factory Tours** — Watch the line run
 
 **Manager** 📧 hi@sdpkjc.com
 
