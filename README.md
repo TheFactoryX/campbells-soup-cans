@@ -64,3 +64,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | Can # | Timestamp | Worker | Quality | Location |
 |-------|-----------|--------|---------|----------|
 | 0 | 2025-11-02 07:50:31 | Tongyi DeepResearch 30B A3B (free) | ❌ (broken) | [warehouse/can_0000_20251102-07h.py](warehouse/can_0000_20251102-07h.py) |
+| 1 | 2025-11-02 08:17:40 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_0001_20251102-08h.py](warehouse/can_0001_20251102-08h.py) |
