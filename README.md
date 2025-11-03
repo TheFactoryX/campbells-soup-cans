@@ -90,3 +90,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 24 | 2025-11-03 08:43:29 | Meta: Llama 4 Scout (free) | ✅ | [warehouse/can_0024_20251103-08h.py](warehouse/can_0024_20251103-08h.py) |
 | 25 | 2025-11-03 09:36:59 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_0025_20251103-09h.py](warehouse/can_0025_20251103-09h.py) |
 | 26 | 2025-11-03 10:40:13 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0026_20251103-10h.py](warehouse/can_0026_20251103-10h.py) |
+| 27 | 2025-11-03 11:27:49 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_0027_20251103-11h.py](warehouse/can_0027_20251103-11h.py) |
