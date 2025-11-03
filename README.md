@@ -87,3 +87,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 21 | 2025-11-03 05:34:09 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_0021_20251103-05h.py](warehouse/can_0021_20251103-05h.py) |
 | 22 | 2025-11-03 06:47:16 | OpenAI: GPT-4 Turbo | ✅ | [warehouse/can_0022_20251103-06h.py](warehouse/can_0022_20251103-06h.py) |
 | 23 | 2025-11-03 07:30:36 | Qwen2.5 72B Instruct (free) | ❌ (broken) | [warehouse/can_0023_20251103-07h.py](warehouse/can_0023_20251103-07h.py) |
+| 24 | 2025-11-03 08:43:29 | Meta: Llama 4 Scout (free) | ✅ | [warehouse/can_0024_20251103-08h.py](warehouse/can_0024_20251103-08h.py) |
