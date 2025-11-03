@@ -101,3 +101,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 35 | 2025-11-03 19:26:25 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0035_20251103-19h.py](warehouse/can_0035_20251103-19h.py) |
 | 36 | 2025-11-03 20:33:56 | ArliAI: QwQ 32B RpR v1 (free) | ❌ (empty, missing print) | [warehouse/can_0036_20251103-20h.py](warehouse/can_0036_20251103-20h.py) |
 | 37 | 2025-11-03 21:29:24 | Meta: Llama 3.2 3B Instruct (free) | ✅ | [warehouse/can_0037_20251103-21h.py](warehouse/can_0037_20251103-21h.py) |
+| 38 | 2025-11-03 22:33:05 | Qwen2.5 Coder 32B Instruct (free) | ✅ | [warehouse/can_0038_20251103-22h.py](warehouse/can_0038_20251103-22h.py) |
