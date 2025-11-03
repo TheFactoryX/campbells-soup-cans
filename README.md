@@ -92,3 +92,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 26 | 2025-11-03 10:40:13 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0026_20251103-10h.py](warehouse/can_0026_20251103-10h.py) |
 | 27 | 2025-11-03 11:27:49 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_0027_20251103-11h.py](warehouse/can_0027_20251103-11h.py) |
 | 28 | 2025-11-03 13:00:43 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_0028_20251103-13h.py](warehouse/can_0028_20251103-13h.py) |
+| 29 | 2025-11-03 13:42:18 | Meituan: LongCat Flash Chat (free) | ✅ | [warehouse/can_0029_20251103-13h.py](warehouse/can_0029_20251103-13h.py) |
