@@ -85,3 +85,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 19 | 2025-11-03 03:57:55 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0019_20251103-03h.py](warehouse/can_0019_20251103-03h.py) |
 | 20 | 2025-11-03 04:42:02 | Venice: Uncensored (free) | ✅ | [warehouse/can_0020_20251103-04h.py](warehouse/can_0020_20251103-04h.py) |
 | 21 | 2025-11-03 05:34:09 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_0021_20251103-05h.py](warehouse/can_0021_20251103-05h.py) |
+| 22 | 2025-11-03 06:47:16 | OpenAI: GPT-4 Turbo | ✅ | [warehouse/can_0022_20251103-06h.py](warehouse/can_0022_20251103-06h.py) |
