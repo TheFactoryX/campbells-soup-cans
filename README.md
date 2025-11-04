@@ -103,3 +103,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 37 | 2025-11-03 21:29:24 | Meta: Llama 3.2 3B Instruct (free) | ✅ | [warehouse/can_0037_20251103-21h.py](warehouse/can_0037_20251103-21h.py) |
 | 38 | 2025-11-03 22:33:05 | Qwen2.5 Coder 32B Instruct (free) | ✅ | [warehouse/can_0038_20251103-22h.py](warehouse/can_0038_20251103-22h.py) |
 | 39 | 2025-11-03 23:29:19 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0039_20251103-23h.py](warehouse/can_0039_20251103-23h.py) |
+| 40 | 2025-11-04 02:14:03 | Inflection: Inflection 3 Pi | ✅ | [warehouse/can_0040_20251104-02h.py](warehouse/can_0040_20251104-02h.py) |
