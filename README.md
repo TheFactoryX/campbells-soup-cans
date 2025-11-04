@@ -118,3 +118,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 52 | 2025-11-04 14:36:57 | ArliAI: QwQ 32B RpR v1 (free) | ✅ | [warehouse/can_0052_20251104-14h.py](warehouse/can_0052_20251104-14h.py) |
 | 53 | 2025-11-04 15:34:32 | Venice: Uncensored (free) | ✅ | [warehouse/can_0053_20251104-15h.py](warehouse/can_0053_20251104-15h.py) |
 | 54 | 2025-11-04 16:39:49 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0054_20251104-16h.py](warehouse/can_0054_20251104-16h.py) |
+| 55 | 2025-11-04 17:31:06 | DeepSeek: R1 Distill Llama 70B (free) | ❌ (broken) | [warehouse/can_0055_20251104-17h.py](warehouse/can_0055_20251104-17h.py) |
