@@ -121,3 +121,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 55 | 2025-11-04 17:31:06 | DeepSeek: R1 Distill Llama 70B (free) | ❌ (broken) | [warehouse/can_0055_20251104-17h.py](warehouse/can_0055_20251104-17h.py) |
 | 56 | 2025-11-04 18:44:25 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0056_20251104-18h.py](warehouse/can_0056_20251104-18h.py) |
 | 57 | 2025-11-04 19:26:51 | Sao10K: Llama 3.1 70B Hanami x1 | ✅ | [warehouse/can_0057_20251104-19h.py](warehouse/can_0057_20251104-19h.py) |
+| 58 | 2025-11-04 20:34:24 | Meta: Llama 3.2 3B Instruct (free) | ✅ | [warehouse/can_0058_20251104-20h.py](warehouse/can_0058_20251104-20h.py) |
