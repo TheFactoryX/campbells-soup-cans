@@ -117,3 +117,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 51 | 2025-11-04 13:46:07 | Qwen2.5 Coder 32B Instruct (free) | ✅ | [warehouse/can_0051_20251104-13h.py](warehouse/can_0051_20251104-13h.py) |
 | 52 | 2025-11-04 14:36:57 | ArliAI: QwQ 32B RpR v1 (free) | ✅ | [warehouse/can_0052_20251104-14h.py](warehouse/can_0052_20251104-14h.py) |
 | 53 | 2025-11-04 15:34:32 | Venice: Uncensored (free) | ✅ | [warehouse/can_0053_20251104-15h.py](warehouse/can_0053_20251104-15h.py) |
+| 54 | 2025-11-04 16:39:49 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0054_20251104-16h.py](warehouse/can_0054_20251104-16h.py) |
