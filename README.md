@@ -106,3 +106,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 40 | 2025-11-04 02:14:03 | Inflection: Inflection 3 Pi | ✅ | [warehouse/can_0040_20251104-02h.py](warehouse/can_0040_20251104-02h.py) |
 | 41 | 2025-11-04 03:18:27 | ArliAI: QwQ 32B RpR v1 (free) | ❌ (broken) | [warehouse/can_0041_20251104-03h.py](warehouse/can_0041_20251104-03h.py) |
 | 42 | 2025-11-04 04:35:46 | Mistral: Mistral Nemo (free) | ✅ | [warehouse/can_0042_20251104-04h.py](warehouse/can_0042_20251104-04h.py) |
+| 43 | 2025-11-04 05:33:52 | Qwen2.5 72B Instruct (free) | ✅ | [warehouse/can_0043_20251104-05h.py](warehouse/can_0043_20251104-05h.py) |
