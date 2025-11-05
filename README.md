@@ -125,3 +125,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 59 | 2025-11-04 21:29:29 | Meta: Llama 4 Scout (free) | ✅ | [warehouse/can_0059_20251104-21h.py](warehouse/can_0059_20251104-21h.py) |
 | 60 | 2025-11-04 22:33:12 | Qwen2.5 72B Instruct (free) | ✅ | [warehouse/can_0060_20251104-22h.py](warehouse/can_0060_20251104-22h.py) |
 | 61 | 2025-11-04 23:29:29 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_0061_20251104-23h.py](warehouse/can_0061_20251104-23h.py) |
+| 62 | 2025-11-05 02:16:35 | WizardLM-2 8x22B | ✅ | [warehouse/can_0062_20251105-02h.py](warehouse/can_0062_20251105-02h.py) |
