@@ -143,3 +143,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 77 | 2025-11-05 17:33:37 | Meta: Llama 4 Scout (free) | ✅ | [warehouse/can_0077_20251105-17h.py](warehouse/can_0077_20251105-17h.py) |
 | 78 | 2025-11-05 18:43:59 | Qwen: Qwen2.5 VL 32B Instruct (free) | ✅ | [warehouse/can_0078_20251105-18h.py](warehouse/can_0078_20251105-18h.py) |
 | 79 | 2025-11-05 19:27:27 | Qwen2.5 72B Instruct (free) | ✅ | [warehouse/can_0079_20251105-19h.py](warehouse/can_0079_20251105-19h.py) |
+| 80 | 2025-11-05 20:34:56 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0080_20251105-20h.py](warehouse/can_0080_20251105-20h.py) |
