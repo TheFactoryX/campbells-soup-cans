@@ -133,3 +133,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 67 | 2025-11-05 07:30:41 | Microsoft: MAI DS R1 (free) | ✅ | [warehouse/can_0067_20251105-07h.py](warehouse/can_0067_20251105-07h.py) |
 | 68 | 2025-11-05 08:43:04 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0068_20251105-08h.py](warehouse/can_0068_20251105-08h.py) |
 | 69 | 2025-11-05 09:34:51 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0069_20251105-09h.py](warehouse/can_0069_20251105-09h.py) |
+| 70 | 2025-11-05 10:38:42 | Qwen: Qwen2.5 VL 32B Instruct (free) | ✅ | [warehouse/can_0070_20251105-10h.py](warehouse/can_0070_20251105-10h.py) |
