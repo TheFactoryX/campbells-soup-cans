@@ -147,3 +147,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 81 | 2025-11-05 21:29:52 | DeepSeek: R1 Distill Llama 70B (free) | ❌ (broken) | [warehouse/can_0081_20251105-21h.py](warehouse/can_0081_20251105-21h.py) |
 | 82 | 2025-11-05 22:33:07 | Mistral: Mistral Small 3 (free) | ✅ | [warehouse/can_0082_20251105-22h.py](warehouse/can_0082_20251105-22h.py) |
 | 83 | 2025-11-05 23:29:50 | Qwen: Qwen3 14B (free) | ✅ | [warehouse/can_0083_20251105-23h.py](warehouse/can_0083_20251105-23h.py) |
+| 84 | 2025-11-06 02:16:40 | Qwen: Qwen3 14B (free) | ✅ | [warehouse/can_0084_20251106-02h.py](warehouse/can_0084_20251106-02h.py) |
