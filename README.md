@@ -151,3 +151,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 85 | 2025-11-06 03:54:34 | ArliAI: QwQ 32B RpR v1 (free) | ❌ (empty, missing print) | [warehouse/can_0085_20251106-03h.py](warehouse/can_0085_20251106-03h.py) |
 | 86 | 2025-11-06 04:41:43 | Meta: Llama 4 Maverick (free) | ✅ | [warehouse/can_0086_20251106-04h.py](warehouse/can_0086_20251106-04h.py) |
 | 87 | 2025-11-06 05:33:59 | Tongyi DeepResearch 30B A3B (free) | ❌ (broken) | [warehouse/can_0087_20251106-05h.py](warehouse/can_0087_20251106-05h.py) |
+| 88 | 2025-11-06 06:46:05 | Microsoft: MAI DS R1 (free) | ✅ | [warehouse/can_0088_20251106-06h.py](warehouse/can_0088_20251106-06h.py) |
