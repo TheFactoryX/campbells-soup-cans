@@ -167,3 +167,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 101 | 2025-11-06 19:26:59 | Z.AI: GLM 4.5 Air (free) | ❌ (missing print) | [warehouse/can_0101_20251106-19h.py](warehouse/can_0101_20251106-19h.py) |
 | 102 | 2025-11-06 20:33:57 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_0102_20251106-20h.py](warehouse/can_0102_20251106-20h.py) |
 | 103 | 2025-11-06 21:39:06 | MiniMax: MiniMax M2 (free) | ✅ | [warehouse/can_0103_20251106-21h.py](warehouse/can_0103_20251106-21h.py) |
+| 104 | 2025-11-06 22:33:11 | DeepSeek: R1 Distill Llama 70B (free) | ✅ | [warehouse/can_0104_20251106-22h.py](warehouse/can_0104_20251106-22h.py) |
