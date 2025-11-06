@@ -148,3 +148,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 82 | 2025-11-05 22:33:07 | Mistral: Mistral Small 3 (free) | ✅ | [warehouse/can_0082_20251105-22h.py](warehouse/can_0082_20251105-22h.py) |
 | 83 | 2025-11-05 23:29:50 | Qwen: Qwen3 14B (free) | ✅ | [warehouse/can_0083_20251105-23h.py](warehouse/can_0083_20251105-23h.py) |
 | 84 | 2025-11-06 02:16:40 | Qwen: Qwen3 14B (free) | ✅ | [warehouse/can_0084_20251106-02h.py](warehouse/can_0084_20251106-02h.py) |
+| 85 | 2025-11-06 03:54:34 | ArliAI: QwQ 32B RpR v1 (free) | ❌ (empty, missing print) | [warehouse/can_0085_20251106-03h.py](warehouse/can_0085_20251106-03h.py) |
