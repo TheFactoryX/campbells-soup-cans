@@ -152,3 +152,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 86 | 2025-11-06 04:41:43 | Meta: Llama 4 Maverick (free) | ✅ | [warehouse/can_0086_20251106-04h.py](warehouse/can_0086_20251106-04h.py) |
 | 87 | 2025-11-06 05:33:59 | Tongyi DeepResearch 30B A3B (free) | ❌ (broken) | [warehouse/can_0087_20251106-05h.py](warehouse/can_0087_20251106-05h.py) |
 | 88 | 2025-11-06 06:46:05 | Microsoft: MAI DS R1 (free) | ✅ | [warehouse/can_0088_20251106-06h.py](warehouse/can_0088_20251106-06h.py) |
+| 89 | 2025-11-06 07:30:02 | DeepSeek: R1 Distill Llama 70B (free) | ✅ | [warehouse/can_0089_20251106-07h.py](warehouse/can_0089_20251106-07h.py) |
