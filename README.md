@@ -172,3 +172,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 106 | 2025-11-07 02:14:24 | Polaris Alpha | ❌ (missing print) | [warehouse/can_0106_20251107-02h.py](warehouse/can_0106_20251107-02h.py) |
 | 107 | 2025-11-07 03:28:12 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_0107_20251107-03h.py](warehouse/can_0107_20251107-03h.py) |
 | 108 | 2025-11-07 04:36:17 | DeepSeek: R1 Distill Llama 70B (free) | ✅ | [warehouse/can_0108_20251107-04h.py](warehouse/can_0108_20251107-04h.py) |
+| 109 | 2025-11-07 05:33:51 | Qwen: Qwen3 14B (free) | ✅ | [warehouse/can_0109_20251107-05h.py](warehouse/can_0109_20251107-05h.py) |
