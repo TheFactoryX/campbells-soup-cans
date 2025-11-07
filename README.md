@@ -177,3 +177,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 111 | 2025-11-07 07:30:18 | Meta: Llama 3.3 8B Instruct (free) | ✅ | [warehouse/can_0111_20251107-07h.py](warehouse/can_0111_20251107-07h.py) |
 | 112 | 2025-11-07 08:42:03 | Meta: Llama 3.3 8B Instruct (free) | ❌ (broken) | [warehouse/can_0112_20251107-08h.py](warehouse/can_0112_20251107-08h.py) |
 | 113 | 2025-11-07 09:32:34 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_0113_20251107-09h.py](warehouse/can_0113_20251107-09h.py) |
+| 114 | 2025-11-07 10:36:34 | Polaris Alpha | ✅ | [warehouse/can_0114_20251107-10h.py](warehouse/can_0114_20251107-10h.py) |
