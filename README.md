@@ -169,3 +169,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 103 | 2025-11-06 21:39:06 | MiniMax: MiniMax M2 (free) | ✅ | [warehouse/can_0103_20251106-21h.py](warehouse/can_0103_20251106-21h.py) |
 | 104 | 2025-11-06 22:33:11 | DeepSeek: R1 Distill Llama 70B (free) | ✅ | [warehouse/can_0104_20251106-22h.py](warehouse/can_0104_20251106-22h.py) |
 | 105 | 2025-11-06 23:29:05 | Qwen2.5 Coder 32B Instruct (free) | ✅ | [warehouse/can_0105_20251106-23h.py](warehouse/can_0105_20251106-23h.py) |
+| 106 | 2025-11-07 02:14:24 | Polaris Alpha | ❌ (missing print) | [warehouse/can_0106_20251107-02h.py](warehouse/can_0106_20251107-02h.py) |
