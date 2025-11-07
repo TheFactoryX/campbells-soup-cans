@@ -180,3 +180,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 114 | 2025-11-07 10:36:34 | Polaris Alpha | ✅ | [warehouse/can_0114_20251107-10h.py](warehouse/can_0114_20251107-10h.py) |
 | 115 | 2025-11-07 11:28:12 | DeepSeek: DeepSeek R1 0528 Qwen3 8B (free) | ❌ (broken) | [warehouse/can_0115_20251107-11h.py](warehouse/can_0115_20251107-11h.py) |
 | 116 | 2025-11-07 12:59:16 | OpenAI: gpt-oss-20b | ✅ | [warehouse/can_0116_20251107-12h.py](warehouse/can_0116_20251107-12h.py) |
+| 117 | 2025-11-07 13:39:15 | DeepSeek: DeepSeek R1 0528 Qwen3 8B (free) | ✅ | [warehouse/can_0117_20251107-13h.py](warehouse/can_0117_20251107-13h.py) |
