@@ -207,3 +207,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 141 | 2025-11-08 14:30:19 | OpenAI: GPT-4o (2024-08-06) | ✅ | [warehouse/can_0141_20251108-14h.py](warehouse/can_0141_20251108-14h.py) |
 | 142 | 2025-11-08 15:28:53 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_0142_20251108-15h.py](warehouse/can_0142_20251108-15h.py) |
 | 143 | 2025-11-08 16:34:47 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0143_20251108-16h.py](warehouse/can_0143_20251108-16h.py) |
+| 144 | 2025-11-08 17:28:29 | Qwen2.5 Coder 32B Instruct (free) | ✅ | [warehouse/can_0144_20251108-17h.py](warehouse/can_0144_20251108-17h.py) |
