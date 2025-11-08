@@ -192,3 +192,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 126 | 2025-11-07 22:32:06 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_0126_20251107-22h.py](warehouse/can_0126_20251107-22h.py) |
 | 127 | 2025-11-07 23:28:25 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0127_20251107-23h.py](warehouse/can_0127_20251107-23h.py) |
 | 128 | 2025-11-08 02:02:23 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_0128_20251108-02h.py](warehouse/can_0128_20251108-02h.py) |
+| 129 | 2025-11-08 03:11:59 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_0129_20251108-03h.py](warehouse/can_0129_20251108-03h.py) |
