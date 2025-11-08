@@ -203,3 +203,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 137 | 2025-11-08 10:32:47 | Mistral: Mistral Small 3.2 24B (free) | ✅ | [warehouse/can_0137_20251108-10h.py](warehouse/can_0137_20251108-10h.py) |
 | 138 | 2025-11-08 11:25:49 | Mistral: Mistral Nemo (free) | ✅ | [warehouse/can_0138_20251108-11h.py](warehouse/can_0138_20251108-11h.py) |
 | 139 | 2025-11-08 12:53:41 | Mistral: Mistral 7B Instruct (free) | ❌ (broken) | [warehouse/can_0139_20251108-12h.py](warehouse/can_0139_20251108-12h.py) |
+| 140 | 2025-11-08 13:32:47 | ArliAI: QwQ 32B RpR v1 (free) | ❌ (empty, missing print) | [warehouse/can_0140_20251108-13h.py](warehouse/can_0140_20251108-13h.py) |
