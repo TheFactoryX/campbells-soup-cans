@@ -227,3 +227,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 161 | 2025-11-09 12:53:55 | Tongyi DeepResearch 30B A3B (free) | ❌ (broken) | [warehouse/can_0161_20251109-12h.py](warehouse/can_0161_20251109-12h.py) |
 | 162 | 2025-11-09 13:32:48 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_0162_20251109-13h.py](warehouse/can_0162_20251109-13h.py) |
 | 163 | 2025-11-09 14:29:17 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_0163_20251109-14h.py](warehouse/can_0163_20251109-14h.py) |
+| 164 | 2025-11-09 15:28:14 | Meta: Llama 4 Maverick (free) | ✅ | [warehouse/can_0164_20251109-15h.py](warehouse/can_0164_20251109-15h.py) |
