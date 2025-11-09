@@ -217,3 +217,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 151 | 2025-11-09 02:18:48 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_0151_20251109-02h.py](warehouse/can_0151_20251109-02h.py) |
 | 152 | 2025-11-09 03:51:08 | Mistral: Mistral Small 3 (free) | ✅ | [warehouse/can_0152_20251109-03h.py](warehouse/can_0152_20251109-03h.py) |
 | 153 | 2025-11-09 04:34:44 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_0153_20251109-04h.py](warehouse/can_0153_20251109-04h.py) |
+| 154 | 2025-11-09 05:32:00 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_0154_20251109-05h.py](warehouse/can_0154_20251109-05h.py) |
