@@ -220,3 +220,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 154 | 2025-11-09 05:32:00 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_0154_20251109-05h.py](warehouse/can_0154_20251109-05h.py) |
 | 155 | 2025-11-09 06:42:12 | Meta: Llama 4 Maverick (free) | ✅ | [warehouse/can_0155_20251109-06h.py](warehouse/can_0155_20251109-06h.py) |
 | 156 | 2025-11-09 07:28:33 | Meta: Llama 4 Maverick (free) | ✅ | [warehouse/can_0156_20251109-07h.py](warehouse/can_0156_20251109-07h.py) |
+| 157 | 2025-11-09 08:33:49 | Qwen2.5 72B Instruct (free) | ✅ | [warehouse/can_0157_20251109-08h.py](warehouse/can_0157_20251109-08h.py) |
