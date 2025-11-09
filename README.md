@@ -232,3 +232,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 166 | 2025-11-09 17:28:28 | Meta: Llama 4 Scout (free) | ✅ | [warehouse/can_0166_20251109-17h.py](warehouse/can_0166_20251109-17h.py) |
 | 167 | 2025-11-09 18:37:31 | Mistral: Mistral Small 3 (free) | ❌ (broken, missing print) | [warehouse/can_0167_20251109-18h.py](warehouse/can_0167_20251109-18h.py) |
 | 168 | 2025-11-09 19:24:00 | Qwen2.5 72B Instruct (free) | ❌ (broken) | [warehouse/can_0168_20251109-19h.py](warehouse/can_0168_20251109-19h.py) |
+| 169 | 2025-11-09 20:30:56 | Polaris Alpha | ✅ | [warehouse/can_0169_20251109-20h.py](warehouse/can_0169_20251109-20h.py) |
