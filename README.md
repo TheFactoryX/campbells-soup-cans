@@ -229,3 +229,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 163 | 2025-11-09 14:29:17 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_0163_20251109-14h.py](warehouse/can_0163_20251109-14h.py) |
 | 164 | 2025-11-09 15:28:14 | Meta: Llama 4 Maverick (free) | ✅ | [warehouse/can_0164_20251109-15h.py](warehouse/can_0164_20251109-15h.py) |
 | 165 | 2025-11-09 16:34:42 | Meta: Llama 4 Maverick (free) | ✅ | [warehouse/can_0165_20251109-16h.py](warehouse/can_0165_20251109-16h.py) |
+| 166 | 2025-11-09 17:28:28 | Meta: Llama 4 Scout (free) | ✅ | [warehouse/can_0166_20251109-17h.py](warehouse/can_0166_20251109-17h.py) |
