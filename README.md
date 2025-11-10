@@ -243,3 +243,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 177 | 2025-11-10 06:47:05 | Qwen2.5 72B Instruct (free) | ✅ | [warehouse/can_0177_20251110-06h.py](warehouse/can_0177_20251110-06h.py) |
 | 178 | 2025-11-10 07:31:03 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_0178_20251110-07h.py](warehouse/can_0178_20251110-07h.py) |
 | 179 | 2025-11-10 08:43:07 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_0179_20251110-08h.py](warehouse/can_0179_20251110-08h.py) |
+| 180 | 2025-11-10 09:36:48 | Meta: Llama 4 Maverick (free) | ✅ | [warehouse/can_0180_20251110-09h.py](warehouse/can_0180_20251110-09h.py) |
