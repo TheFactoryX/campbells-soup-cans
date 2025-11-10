@@ -240,3 +240,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 174 | 2025-11-10 03:57:52 | Google: Gemma 3n 4B | ✅ | [warehouse/can_0174_20251110-03h.py](warehouse/can_0174_20251110-03h.py) |
 | 175 | 2025-11-10 04:40:41 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_0175_20251110-04h.py](warehouse/can_0175_20251110-04h.py) |
 | 176 | 2025-11-10 05:33:56 | Noromaid 20B | ✅ | [warehouse/can_0176_20251110-05h.py](warehouse/can_0176_20251110-05h.py) |
+| 177 | 2025-11-10 06:47:05 | Qwen2.5 72B Instruct (free) | ✅ | [warehouse/can_0177_20251110-06h.py](warehouse/can_0177_20251110-06h.py) |
