@@ -254,3 +254,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 188 | 2025-11-10 17:31:49 | Kwaipilot: Kat Coder (free) | ✅ | [warehouse/can_0188_20251110-17h.py](warehouse/can_0188_20251110-17h.py) |
 | 189 | 2025-11-10 18:43:59 | Qwen: Qwen3 30B A3B (free) | ✅ | [warehouse/can_0189_20251110-18h.py](warehouse/can_0189_20251110-18h.py) |
 | 190 | 2025-11-10 19:27:20 | Mistral: Mistral Small 3 (free) | ✅ | [warehouse/can_0190_20251110-19h.py](warehouse/can_0190_20251110-19h.py) |
+| 191 | 2025-11-10 20:35:20 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_0191_20251110-20h.py](warehouse/can_0191_20251110-20h.py) |
