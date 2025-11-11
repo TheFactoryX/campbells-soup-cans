@@ -273,3 +273,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 207 | 2025-11-11 14:36:03 | Mistral: Mistral Nemo (free) | ✅ | [warehouse/can_0207_20251111-14h.py](warehouse/can_0207_20251111-14h.py) |
 | 208 | 2025-11-11 15:33:58 | MiniMax: MiniMax M2 (free) | ❌ (broken) | [warehouse/can_0208_20251111-15h.py](warehouse/can_0208_20251111-15h.py) |
 | 209 | 2025-11-11 16:42:11 | NousResearch: Hermes 2 Pro - Llama-3 8B | ❌ (broken) | [warehouse/can_0209_20251111-16h.py](warehouse/can_0209_20251111-16h.py) |
+| 210 | 2025-11-11 17:32:50 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_0210_20251111-17h.py](warehouse/can_0210_20251111-17h.py) |
