@@ -275,3 +275,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 209 | 2025-11-11 16:42:11 | NousResearch: Hermes 2 Pro - Llama-3 8B | ❌ (broken) | [warehouse/can_0209_20251111-16h.py](warehouse/can_0209_20251111-16h.py) |
 | 210 | 2025-11-11 17:32:50 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_0210_20251111-17h.py](warehouse/can_0210_20251111-17h.py) |
 | 211 | 2025-11-11 18:43:40 | Polaris Alpha | ✅ | [warehouse/can_0211_20251111-18h.py](warehouse/can_0211_20251111-18h.py) |
+| 212 | 2025-11-11 19:27:20 | Meta: Llama 3.3 8B Instruct (free) | ✅ | [warehouse/can_0212_20251111-19h.py](warehouse/can_0212_20251111-19h.py) |
