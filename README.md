@@ -265,3 +265,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 199 | 2025-11-11 06:46:17 | Mistral: Mistral Nemo (free) | ✅ | [warehouse/can_0199_20251111-06h.py](warehouse/can_0199_20251111-06h.py) |
 | 200 | 2025-11-11 07:31:29 | Mistral: Mistral Small 3 (free) | ✅ | [warehouse/can_0200_20251111-07h.py](warehouse/can_0200_20251111-07h.py) |
 | 201 | 2025-11-11 08:41:39 | MiniMax: MiniMax M2 (free) | ✅ | [warehouse/can_0201_20251111-08h.py](warehouse/can_0201_20251111-08h.py) |
+| 202 | 2025-11-11 09:34:25 | Mistral: Mixtral 8x22B Instruct | ✅ | [warehouse/can_0202_20251111-09h.py](warehouse/can_0202_20251111-09h.py) |
