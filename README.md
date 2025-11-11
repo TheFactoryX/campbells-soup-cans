@@ -277,3 +277,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 211 | 2025-11-11 18:43:40 | Polaris Alpha | ✅ | [warehouse/can_0211_20251111-18h.py](warehouse/can_0211_20251111-18h.py) |
 | 212 | 2025-11-11 19:27:20 | Meta: Llama 3.3 8B Instruct (free) | ✅ | [warehouse/can_0212_20251111-19h.py](warehouse/can_0212_20251111-19h.py) |
 | 213 | 2025-11-11 20:33:40 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_0213_20251111-20h.py](warehouse/can_0213_20251111-20h.py) |
+| 214 | 2025-11-11 21:29:27 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0214_20251111-21h.py](warehouse/can_0214_20251111-21h.py) |
