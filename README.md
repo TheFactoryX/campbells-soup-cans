@@ -283,3 +283,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 217 | 2025-11-12 02:15:27 | Mistral: Mistral Nemo (free) | ✅ | [warehouse/can_0217_20251112-02h.py](warehouse/can_0217_20251112-02h.py) |
 | 218 | 2025-11-12 03:29:29 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0218_20251112-03h.py](warehouse/can_0218_20251112-03h.py) |
 | 219 | 2025-11-12 04:38:15 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_0219_20251112-04h.py](warehouse/can_0219_20251112-04h.py) |
+| 220 | 2025-11-12 05:34:12 | DeepSeek: DeepSeek R1 0528 Qwen3 8B (free) | ✅ | [warehouse/can_0220_20251112-05h.py](warehouse/can_0220_20251112-05h.py) |
