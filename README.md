@@ -293,3 +293,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 227 | 2025-11-12 13:03:04 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0227_20251112-13h.py](warehouse/can_0227_20251112-13h.py) |
 | 228 | 2025-11-12 13:45:30 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_0228_20251112-13h.py](warehouse/can_0228_20251112-13h.py) |
 | 229 | 2025-11-12 14:37:19 | DeepSeek: R1 Distill Llama 70B (free) | ✅ | [warehouse/can_0229_20251112-14h.py](warehouse/can_0229_20251112-14h.py) |
+| 230 | 2025-11-12 15:35:55 | ArliAI: QwQ 32B RpR v1 (free) | ✅ | [warehouse/can_0230_20251112-15h.py](warehouse/can_0230_20251112-15h.py) |
