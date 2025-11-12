@@ -296,3 +296,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 230 | 2025-11-12 15:35:55 | ArliAI: QwQ 32B RpR v1 (free) | ✅ | [warehouse/can_0230_20251112-15h.py](warehouse/can_0230_20251112-15h.py) |
 | 231 | 2025-11-12 16:44:00 | Qwen: Qwen3 14B (free) | ❌ (empty, missing print) | [warehouse/can_0231_20251112-16h.py](warehouse/can_0231_20251112-16h.py) |
 | 232 | 2025-11-12 17:33:48 | Meta: Llama 4 Scout (free) | ✅ | [warehouse/can_0232_20251112-17h.py](warehouse/can_0232_20251112-17h.py) |
+| 233 | 2025-11-12 18:41:33 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_0233_20251112-18h.py](warehouse/can_0233_20251112-18h.py) |
