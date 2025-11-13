@@ -317,3 +317,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 251 | 2025-11-13 14:33:19 | Meta: Llama 4 Scout (free) | ✅ | [warehouse/can_0251_20251113-14h.py](warehouse/can_0251_20251113-14h.py) |
 | 252 | 2025-11-13 15:33:21 | OpenAI: GPT-5 Nano | ✅ | [warehouse/can_0252_20251113-15h.py](warehouse/can_0252_20251113-15h.py) |
 | 253 | 2025-11-13 16:40:58 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0253_20251113-16h.py](warehouse/can_0253_20251113-16h.py) |
+| 254 | 2025-11-13 17:33:53 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0254_20251113-17h.py](warehouse/can_0254_20251113-17h.py) |
