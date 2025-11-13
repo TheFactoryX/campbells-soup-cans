@@ -302,3 +302,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 236 | 2025-11-12 21:30:55 | Meta: Llama 3.3 8B Instruct (free) | ✅ | [warehouse/can_0236_20251112-21h.py](warehouse/can_0236_20251112-21h.py) |
 | 237 | 2025-11-12 22:31:49 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_0237_20251112-22h.py](warehouse/can_0237_20251112-22h.py) |
 | 238 | 2025-11-12 23:30:20 | Meta: Llama 4 Maverick (free) | ✅ | [warehouse/can_0238_20251112-23h.py](warehouse/can_0238_20251112-23h.py) |
+| 239 | 2025-11-13 02:17:58 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_0239_20251113-02h.py](warehouse/can_0239_20251113-02h.py) |
