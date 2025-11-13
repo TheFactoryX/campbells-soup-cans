@@ -310,3 +310,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 244 | 2025-11-13 07:30:55 | Qwen: Qwen3 235B A22B (free) | ✅ | [warehouse/can_0244_20251113-07h.py](warehouse/can_0244_20251113-07h.py) |
 | 245 | 2025-11-13 08:42:44 | xAI: Grok Code Fast 1 | ✅ | [warehouse/can_0245_20251113-08h.py](warehouse/can_0245_20251113-08h.py) |
 | 246 | 2025-11-13 09:34:45 | Meta: Llama 4 Maverick (free) | ✅ | [warehouse/can_0246_20251113-09h.py](warehouse/can_0246_20251113-09h.py) |
+| 247 | 2025-11-13 10:40:02 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0247_20251113-10h.py](warehouse/can_0247_20251113-10h.py) |
