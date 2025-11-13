@@ -316,3 +316,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 250 | 2025-11-13 13:45:12 | Tongyi DeepResearch 30B A3B (free) | ❌ (broken) | [warehouse/can_0250_20251113-13h.py](warehouse/can_0250_20251113-13h.py) |
 | 251 | 2025-11-13 14:33:19 | Meta: Llama 4 Scout (free) | ✅ | [warehouse/can_0251_20251113-14h.py](warehouse/can_0251_20251113-14h.py) |
 | 252 | 2025-11-13 15:33:21 | OpenAI: GPT-5 Nano | ✅ | [warehouse/can_0252_20251113-15h.py](warehouse/can_0252_20251113-15h.py) |
+| 253 | 2025-11-13 16:40:58 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0253_20251113-16h.py](warehouse/can_0253_20251113-16h.py) |
