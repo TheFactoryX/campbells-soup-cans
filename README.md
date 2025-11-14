@@ -327,3 +327,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 261 | 2025-11-14 02:16:07 | Qwen2.5 72B Instruct (free) | ✅ | [warehouse/can_0261_20251114-02h.py](warehouse/can_0261_20251114-02h.py) |
 | 262 | 2025-11-14 03:30:25 | Meta: Llama 4 Maverick (free) | ✅ | [warehouse/can_0262_20251114-03h.py](warehouse/can_0262_20251114-03h.py) |
 | 263 | 2025-11-14 04:37:04 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_0263_20251114-04h.py](warehouse/can_0263_20251114-04h.py) |
+| 264 | 2025-11-14 05:33:33 | OpenAI: gpt-oss-120b | ✅ | [warehouse/can_0264_20251114-05h.py](warehouse/can_0264_20251114-05h.py) |
