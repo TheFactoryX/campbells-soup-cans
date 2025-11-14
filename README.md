@@ -335,3 +335,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 269 | 2025-11-14 10:37:24 | Meta: Llama 3.3 8B Instruct (free) | ✅ | [warehouse/can_0269_20251114-10h.py](warehouse/can_0269_20251114-10h.py) |
 | 270 | 2025-11-14 11:28:15 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0270_20251114-11h.py](warehouse/can_0270_20251114-11h.py) |
 | 271 | 2025-11-14 12:59:46 | Mistral: Mistral Small 3.2 24B (free) | ✅ | [warehouse/can_0271_20251114-12h.py](warehouse/can_0271_20251114-12h.py) |
+| 272 | 2025-11-14 13:41:26 | DeepSeek: R1 Distill Llama 70B (free) | ✅ | [warehouse/can_0272_20251114-13h.py](warehouse/can_0272_20251114-13h.py) |
