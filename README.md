@@ -349,3 +349,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 283 | 2025-11-15 03:16:00 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0283_20251115-03h.py](warehouse/can_0283_20251115-03h.py) |
 | 284 | 2025-11-15 03:47:31 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0284_20251115-03h.py](warehouse/can_0284_20251115-03h.py) |
 | 285 | 2025-11-15 04:34:56 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_0285_20251115-04h.py](warehouse/can_0285_20251115-04h.py) |
+| 286 | 2025-11-15 05:32:35 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0286_20251115-05h.py](warehouse/can_0286_20251115-05h.py) |
