@@ -360,3 +360,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 294 | 2025-11-15 13:33:33 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0294_20251115-13h.py](warehouse/can_0294_20251115-13h.py) |
 | 295 | 2025-11-15 14:30:29 | Qwen: Qwen VL Plus | ✅ | [warehouse/can_0295_20251115-14h.py](warehouse/can_0295_20251115-14h.py) |
 | 296 | 2025-11-15 15:29:38 | Qwen: Qwen3 14B (free) | ✅ | [warehouse/can_0296_20251115-15h.py](warehouse/can_0296_20251115-15h.py) |
+| 297 | 2025-11-15 16:34:55 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0297_20251115-16h.py](warehouse/can_0297_20251115-16h.py) |
