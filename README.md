@@ -375,3 +375,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 309 | 2025-11-16 06:43:22 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0309_20251116-06h.py](warehouse/can_0309_20251116-06h.py) |
 | 310 | 2025-11-16 07:28:21 | Qwen: Qwen3 30B A3B (free) | ✅ | [warehouse/can_0310_20251116-07h.py](warehouse/can_0310_20251116-07h.py) |
 | 311 | 2025-11-16 08:36:32 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_0311_20251116-08h.py](warehouse/can_0311_20251116-08h.py) |
+| 312 | 2025-11-16 09:29:58 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0312_20251116-09h.py](warehouse/can_0312_20251116-09h.py) |
