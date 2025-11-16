@@ -368,3 +368,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 302 | 2025-11-15 21:27:02 | Mistral: Mistral Small 3 (free) | ✅ | [warehouse/can_0302_20251115-21h.py](warehouse/can_0302_20251115-21h.py) |
 | 303 | 2025-11-15 22:29:54 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0303_20251115-22h.py](warehouse/can_0303_20251115-22h.py) |
 | 304 | 2025-11-15 23:28:08 | Qwen2.5 Coder 32B Instruct (free) | ✅ | [warehouse/can_0304_20251115-23h.py](warehouse/can_0304_20251115-23h.py) |
+| 305 | 2025-11-16 02:21:52 | DeepSeek: R1 Distill Llama 70B (free) | ✅ | [warehouse/can_0305_20251116-02h.py](warehouse/can_0305_20251116-02h.py) |
