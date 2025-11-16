@@ -382,3 +382,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 316 | 2025-11-16 13:33:19 | Microsoft: MAI DS R1 (free) | ✅ | [warehouse/can_0316_20251116-13h.py](warehouse/can_0316_20251116-13h.py) |
 | 317 | 2025-11-16 14:30:51 | OpenAI: o3 | ✅ | [warehouse/can_0317_20251116-14h.py](warehouse/can_0317_20251116-14h.py) |
 | 318 | 2025-11-16 15:29:12 | ArliAI: QwQ 32B RpR v1 (free) | ❌ (broken) | [warehouse/can_0318_20251116-15h.py](warehouse/can_0318_20251116-15h.py) |
+| 319 | 2025-11-16 16:35:41 | Anthropic: Claude 3.7 Sonnet | ✅ | [warehouse/can_0319_20251116-16h.py](warehouse/can_0319_20251116-16h.py) |
