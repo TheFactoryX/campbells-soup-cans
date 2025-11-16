@@ -385,3 +385,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 319 | 2025-11-16 16:35:41 | Anthropic: Claude 3.7 Sonnet | ✅ | [warehouse/can_0319_20251116-16h.py](warehouse/can_0319_20251116-16h.py) |
 | 320 | 2025-11-16 17:29:57 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0320_20251116-17h.py](warehouse/can_0320_20251116-17h.py) |
 | 321 | 2025-11-16 18:40:09 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0321_20251116-18h.py](warehouse/can_0321_20251116-18h.py) |
+| 322 | 2025-11-16 19:24:58 | Sherlock Think Alpha | ✅ | [warehouse/can_0322_20251116-19h.py](warehouse/can_0322_20251116-19h.py) |
