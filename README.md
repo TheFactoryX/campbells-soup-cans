@@ -378,3 +378,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 312 | 2025-11-16 09:29:58 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0312_20251116-09h.py](warehouse/can_0312_20251116-09h.py) |
 | 313 | 2025-11-16 10:33:29 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_0313_20251116-10h.py](warehouse/can_0313_20251116-10h.py) |
 | 314 | 2025-11-16 11:25:46 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0314_20251116-11h.py](warehouse/can_0314_20251116-11h.py) |
+| 315 | 2025-11-16 12:53:58 | Qwen: Qwen2.5 VL 32B Instruct (free) | ✅ | [warehouse/can_0315_20251116-12h.py](warehouse/can_0315_20251116-12h.py) |
