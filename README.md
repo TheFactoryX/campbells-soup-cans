@@ -387,3 +387,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 321 | 2025-11-16 18:40:09 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0321_20251116-18h.py](warehouse/can_0321_20251116-18h.py) |
 | 322 | 2025-11-16 19:24:58 | Sherlock Think Alpha | ✅ | [warehouse/can_0322_20251116-19h.py](warehouse/can_0322_20251116-19h.py) |
 | 323 | 2025-11-16 20:32:10 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_0323_20251116-20h.py](warehouse/can_0323_20251116-20h.py) |
+| 324 | 2025-11-16 21:27:48 | Sherlock Think Alpha | ❌ (broken) | [warehouse/can_0324_20251116-21h.py](warehouse/can_0324_20251116-21h.py) |
