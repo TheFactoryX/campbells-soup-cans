@@ -389,3 +389,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 323 | 2025-11-16 20:32:10 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_0323_20251116-20h.py](warehouse/can_0323_20251116-20h.py) |
 | 324 | 2025-11-16 21:27:48 | Sherlock Think Alpha | ❌ (broken) | [warehouse/can_0324_20251116-21h.py](warehouse/can_0324_20251116-21h.py) |
 | 325 | 2025-11-16 22:32:07 | Mistral: Mistral Nemo (free) | ✅ | [warehouse/can_0325_20251116-22h.py](warehouse/can_0325_20251116-22h.py) |
+| 326 | 2025-11-16 23:28:41 | OpenAI: gpt-oss-20b (free) | ❌ (missing print) | [warehouse/can_0326_20251116-23h.py](warehouse/can_0326_20251116-23h.py) |
