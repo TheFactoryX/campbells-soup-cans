@@ -398,3 +398,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 332 | 2025-11-17 07:31:17 | Meituan: LongCat Flash Chat (free) | ❌ (broken) | [warehouse/can_0332_20251117-07h.py](warehouse/can_0332_20251117-07h.py) |
 | 333 | 2025-11-17 08:44:34 | Meta: Llama 3.2 3B Instruct (free) | ✅ | [warehouse/can_0333_20251117-08h.py](warehouse/can_0333_20251117-08h.py) |
 | 334 | 2025-11-17 09:38:07 | ArliAI: QwQ 32B RpR v1 (free) | ❌ (broken) | [warehouse/can_0334_20251117-09h.py](warehouse/can_0334_20251117-09h.py) |
+| 335 | 2025-11-17 10:40:13 | Anthropic: Claude 3.7 Sonnet | ✅ | [warehouse/can_0335_20251117-10h.py](warehouse/can_0335_20251117-10h.py) |
