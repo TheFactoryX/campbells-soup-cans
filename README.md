@@ -396,3 +396,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 330 | 2025-11-17 05:34:54 | Google: Gemini 2.5 Flash | ✅ | [warehouse/can_0330_20251117-05h.py](warehouse/can_0330_20251117-05h.py) |
 | 331 | 2025-11-17 06:46:34 | DeepSeek: R1 Distill Llama 70B (free) | ✅ | [warehouse/can_0331_20251117-06h.py](warehouse/can_0331_20251117-06h.py) |
 | 332 | 2025-11-17 07:31:17 | Meituan: LongCat Flash Chat (free) | ❌ (broken) | [warehouse/can_0332_20251117-07h.py](warehouse/can_0332_20251117-07h.py) |
+| 333 | 2025-11-17 08:44:34 | Meta: Llama 3.2 3B Instruct (free) | ✅ | [warehouse/can_0333_20251117-08h.py](warehouse/can_0333_20251117-08h.py) |
