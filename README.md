@@ -402,3 +402,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 336 | 2025-11-17 11:29:02 | Mistral: Mistral 7B Instruct (free) | ❌ (broken) | [warehouse/can_0336_20251117-11h.py](warehouse/can_0336_20251117-11h.py) |
 | 337 | 2025-11-17 13:01:52 | Microsoft: MAI DS R1 (free) | ✅ | [warehouse/can_0337_20251117-13h.py](warehouse/can_0337_20251117-13h.py) |
 | 338 | 2025-11-17 13:44:18 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0338_20251117-13h.py](warehouse/can_0338_20251117-13h.py) |
+| 339 | 2025-11-17 14:36:12 | Qwen: Qwen2.5 VL 32B Instruct (free) | ✅ | [warehouse/can_0339_20251117-14h.py](warehouse/can_0339_20251117-14h.py) |
