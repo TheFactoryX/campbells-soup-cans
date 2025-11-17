@@ -394,3 +394,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 328 | 2025-11-17 03:55:45 | ArliAI: QwQ 32B RpR v1 (free) | ❌ (empty, missing print) | [warehouse/can_0328_20251117-03h.py](warehouse/can_0328_20251117-03h.py) |
 | 329 | 2025-11-17 04:41:11 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0329_20251117-04h.py](warehouse/can_0329_20251117-04h.py) |
 | 330 | 2025-11-17 05:34:54 | Google: Gemini 2.5 Flash | ✅ | [warehouse/can_0330_20251117-05h.py](warehouse/can_0330_20251117-05h.py) |
+| 331 | 2025-11-17 06:46:34 | DeepSeek: R1 Distill Llama 70B (free) | ✅ | [warehouse/can_0331_20251117-06h.py](warehouse/can_0331_20251117-06h.py) |
