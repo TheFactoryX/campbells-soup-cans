@@ -410,3 +410,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 344 | 2025-11-17 19:27:37 | Qwen2.5 Coder 32B Instruct (free) | ✅ | [warehouse/can_0344_20251117-19h.py](warehouse/can_0344_20251117-19h.py) |
 | 345 | 2025-11-17 20:33:21 | DeepSeek: DeepSeek R1 0528 Qwen3 8B (free) | ✅ | [warehouse/can_0345_20251117-20h.py](warehouse/can_0345_20251117-20h.py) |
 | 346 | 2025-11-17 21:30:28 | DeepSeek: DeepSeek R1 0528 Qwen3 8B (free) | ✅ | [warehouse/can_0346_20251117-21h.py](warehouse/can_0346_20251117-21h.py) |
+| 347 | 2025-11-17 22:33:45 | Qwen: Qwen2.5 VL 32B Instruct (free) | ❌ (broken) | [warehouse/can_0347_20251117-22h.py](warehouse/can_0347_20251117-22h.py) |
