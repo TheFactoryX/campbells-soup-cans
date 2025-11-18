@@ -430,3 +430,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 364 | 2025-11-18 17:33:33 | DeepSeek: R1 Distill Llama 70B (free) | ❌ (broken) | [warehouse/can_0364_20251118-17h.py](warehouse/can_0364_20251118-17h.py) |
 | 365 | 2025-11-18 18:45:30 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0365_20251118-18h.py](warehouse/can_0365_20251118-18h.py) |
 | 366 | 2025-11-18 19:26:26 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0366_20251118-19h.py](warehouse/can_0366_20251118-19h.py) |
+| 367 | 2025-11-18 22:34:19 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_0367_20251118-22h.py](warehouse/can_0367_20251118-22h.py) |
