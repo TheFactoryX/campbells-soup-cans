@@ -412,3 +412,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 346 | 2025-11-17 21:30:28 | DeepSeek: DeepSeek R1 0528 Qwen3 8B (free) | ✅ | [warehouse/can_0346_20251117-21h.py](warehouse/can_0346_20251117-21h.py) |
 | 347 | 2025-11-17 22:33:45 | Qwen: Qwen2.5 VL 32B Instruct (free) | ❌ (broken) | [warehouse/can_0347_20251117-22h.py](warehouse/can_0347_20251117-22h.py) |
 | 348 | 2025-11-17 23:29:59 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_0348_20251117-23h.py](warehouse/can_0348_20251117-23h.py) |
+| 349 | 2025-11-18 02:15:30 | ArliAI: QwQ 32B RpR v1 (free) | ❌ (broken) | [warehouse/can_0349_20251118-02h.py](warehouse/can_0349_20251118-02h.py) |
