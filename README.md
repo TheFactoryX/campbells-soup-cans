@@ -445,3 +445,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 379 | 2025-11-19 13:01:34 | Cohere: Command R7B (12-2024) | ❌ (broken) | [warehouse/can_0379_20251119-13h.py](warehouse/can_0379_20251119-13h.py) |
 | 380 | 2025-11-19 13:44:37 | Anthropic: Claude Haiku 4.5 | ✅ | [warehouse/can_0380_20251119-13h.py](warehouse/can_0380_20251119-13h.py) |
 | 381 | 2025-11-19 14:35:57 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0381_20251119-14h.py](warehouse/can_0381_20251119-14h.py) |
+| 382 | 2025-11-19 15:32:39 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0382_20251119-15h.py](warehouse/can_0382_20251119-15h.py) |
