@@ -452,3 +452,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 386 | 2025-11-19 19:27:04 | Meta: Llama 3.2 3B Instruct (free) | ❌ (broken) | [warehouse/can_0386_20251119-19h.py](warehouse/can_0386_20251119-19h.py) |
 | 387 | 2025-11-19 20:30:48 | Sherlock Dash Alpha | ✅ | [warehouse/can_0387_20251119-20h.py](warehouse/can_0387_20251119-20h.py) |
 | 388 | 2025-11-19 21:26:52 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0388_20251119-21h.py](warehouse/can_0388_20251119-21h.py) |
+| 389 | 2025-11-19 22:33:19 | Mistral: Mistral Nemo (free) | ✅ | [warehouse/can_0389_20251119-22h.py](warehouse/can_0389_20251119-22h.py) |
