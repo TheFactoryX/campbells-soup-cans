@@ -444,3 +444,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 378 | 2025-11-19 11:29:07 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_0378_20251119-11h.py](warehouse/can_0378_20251119-11h.py) |
 | 379 | 2025-11-19 13:01:34 | Cohere: Command R7B (12-2024) | ❌ (broken) | [warehouse/can_0379_20251119-13h.py](warehouse/can_0379_20251119-13h.py) |
 | 380 | 2025-11-19 13:44:37 | Anthropic: Claude Haiku 4.5 | ✅ | [warehouse/can_0380_20251119-13h.py](warehouse/can_0380_20251119-13h.py) |
+| 381 | 2025-11-19 14:35:57 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0381_20251119-14h.py](warehouse/can_0381_20251119-14h.py) |
