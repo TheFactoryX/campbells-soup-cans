@@ -442,3 +442,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 376 | 2025-11-19 09:35:05 | Venice: Uncensored (free) | ✅ | [warehouse/can_0376_20251119-09h.py](warehouse/can_0376_20251119-09h.py) |
 | 377 | 2025-11-19 10:38:44 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0377_20251119-10h.py](warehouse/can_0377_20251119-10h.py) |
 | 378 | 2025-11-19 11:29:07 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_0378_20251119-11h.py](warehouse/can_0378_20251119-11h.py) |
+| 379 | 2025-11-19 13:01:34 | Cohere: Command R7B (12-2024) | ❌ (broken) | [warehouse/can_0379_20251119-13h.py](warehouse/can_0379_20251119-13h.py) |
