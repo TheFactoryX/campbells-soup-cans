@@ -438,3 +438,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 372 | 2025-11-19 05:34:37 | DeepSeek: R1 Distill Llama 70B (free) | ✅ | [warehouse/can_0372_20251119-05h.py](warehouse/can_0372_20251119-05h.py) |
 | 373 | 2025-11-19 06:45:28 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_0373_20251119-06h.py](warehouse/can_0373_20251119-06h.py) |
 | 374 | 2025-11-19 07:30:58 | Qwen: Qwen3 235B A22B (free) | ✅ | [warehouse/can_0374_20251119-07h.py](warehouse/can_0374_20251119-07h.py) |
+| 375 | 2025-11-19 08:42:23 | TheDrummer: Cydonia 24B V4.1 | ❌ (broken) | [warehouse/can_0375_20251119-08h.py](warehouse/can_0375_20251119-08h.py) |
