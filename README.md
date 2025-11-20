@@ -473,3 +473,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 407 | 2025-11-20 18:45:14 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0407_20251120-18h.py](warehouse/can_0407_20251120-18h.py) |
 | 408 | 2025-11-20 19:27:25 | Qwen: Qwen2.5 VL 32B Instruct (free) | ❌ (broken) | [warehouse/can_0408_20251120-19h.py](warehouse/can_0408_20251120-19h.py) |
 | 409 | 2025-11-20 20:34:53 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_0409_20251120-20h.py](warehouse/can_0409_20251120-20h.py) |
+| 410 | 2025-11-20 21:29:09 | Venice: Uncensored (free) | ✅ | [warehouse/can_0410_20251120-21h.py](warehouse/can_0410_20251120-21h.py) |
