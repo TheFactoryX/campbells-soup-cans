@@ -458,3 +458,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 392 | 2025-11-20 03:19:05 | Mistral: Mistral Small 3 (free) | ✅ | [warehouse/can_0392_20251120-03h.py](warehouse/can_0392_20251120-03h.py) |
 | 393 | 2025-11-20 04:35:53 | Anthropic: Claude Sonnet 4 | ✅ | [warehouse/can_0393_20251120-04h.py](warehouse/can_0393_20251120-04h.py) |
 | 394 | 2025-11-20 05:34:15 | Qwen: Qwen3 30B A3B (free) | ✅ | [warehouse/can_0394_20251120-05h.py](warehouse/can_0394_20251120-05h.py) |
+| 395 | 2025-11-20 06:44:53 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0395_20251120-06h.py](warehouse/can_0395_20251120-06h.py) |
