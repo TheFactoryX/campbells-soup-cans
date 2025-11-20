@@ -468,3 +468,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 402 | 2025-11-20 13:41:51 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_0402_20251120-13h.py](warehouse/can_0402_20251120-13h.py) |
 | 403 | 2025-11-20 14:35:08 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_0403_20251120-14h.py](warehouse/can_0403_20251120-14h.py) |
 | 404 | 2025-11-20 15:34:53 | Qwen: Qwen3 235B A22B (free) | ❌ (broken) | [warehouse/can_0404_20251120-15h.py](warehouse/can_0404_20251120-15h.py) |
+| 405 | 2025-11-20 16:43:48 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0405_20251120-16h.py](warehouse/can_0405_20251120-16h.py) |
