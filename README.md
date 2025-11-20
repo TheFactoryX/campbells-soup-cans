@@ -456,3 +456,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 390 | 2025-11-19 23:29:39 | Mistral: Mistral Small 3 (free) | ✅ | [warehouse/can_0390_20251119-23h.py](warehouse/can_0390_20251119-23h.py) |
 | 391 | 2025-11-20 02:13:26 | Qwen2.5 Coder 32B Instruct (free) | ✅ | [warehouse/can_0391_20251120-02h.py](warehouse/can_0391_20251120-02h.py) |
 | 392 | 2025-11-20 03:19:05 | Mistral: Mistral Small 3 (free) | ✅ | [warehouse/can_0392_20251120-03h.py](warehouse/can_0392_20251120-03h.py) |
+| 393 | 2025-11-20 04:35:53 | Anthropic: Claude Sonnet 4 | ✅ | [warehouse/can_0393_20251120-04h.py](warehouse/can_0393_20251120-04h.py) |
