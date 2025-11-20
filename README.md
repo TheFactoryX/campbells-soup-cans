@@ -460,3 +460,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 394 | 2025-11-20 05:34:15 | Qwen: Qwen3 30B A3B (free) | ✅ | [warehouse/can_0394_20251120-05h.py](warehouse/can_0394_20251120-05h.py) |
 | 395 | 2025-11-20 06:44:53 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0395_20251120-06h.py](warehouse/can_0395_20251120-06h.py) |
 | 396 | 2025-11-20 07:30:42 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0396_20251120-07h.py](warehouse/can_0396_20251120-07h.py) |
+| 397 | 2025-11-20 08:43:02 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_0397_20251120-08h.py](warehouse/can_0397_20251120-08h.py) |
