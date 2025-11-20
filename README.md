@@ -466,3 +466,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 400 | 2025-11-20 11:28:31 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0400_20251120-11h.py](warehouse/can_0400_20251120-11h.py) |
 | 401 | 2025-11-20 13:00:15 | Mistral: Mistral Nemo (free) | ✅ | [warehouse/can_0401_20251120-13h.py](warehouse/can_0401_20251120-13h.py) |
 | 402 | 2025-11-20 13:41:51 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_0402_20251120-13h.py](warehouse/can_0402_20251120-13h.py) |
+| 403 | 2025-11-20 14:35:08 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_0403_20251120-14h.py](warehouse/can_0403_20251120-14h.py) |
