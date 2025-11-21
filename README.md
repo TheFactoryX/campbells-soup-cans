@@ -476,3 +476,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 410 | 2025-11-20 21:29:09 | Venice: Uncensored (free) | ✅ | [warehouse/can_0410_20251120-21h.py](warehouse/can_0410_20251120-21h.py) |
 | 411 | 2025-11-20 22:30:46 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_0411_20251120-22h.py](warehouse/can_0411_20251120-22h.py) |
 | 412 | 2025-11-20 23:29:22 | Tongyi DeepResearch 30B A3B (free) | ❌ (broken) | [warehouse/can_0412_20251120-23h.py](warehouse/can_0412_20251120-23h.py) |
+| 413 | 2025-11-21 02:13:54 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0413_20251121-02h.py](warehouse/can_0413_20251121-02h.py) |
