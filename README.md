@@ -488,3 +488,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 422 | 2025-11-21 11:27:55 | Meituan: LongCat Flash Chat (free) | ✅ | [warehouse/can_0422_20251121-11h.py](warehouse/can_0422_20251121-11h.py) |
 | 423 | 2025-11-21 12:59:16 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_0423_20251121-12h.py](warehouse/can_0423_20251121-12h.py) |
 | 424 | 2025-11-21 13:39:24 | OpenAI: o3 Mini High | ✅ | [warehouse/can_0424_20251121-13h.py](warehouse/can_0424_20251121-13h.py) |
+| 425 | 2025-11-21 14:34:11 | Inception: Mercury | ✅ | [warehouse/can_0425_20251121-14h.py](warehouse/can_0425_20251121-14h.py) |
