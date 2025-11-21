@@ -478,3 +478,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 412 | 2025-11-20 23:29:22 | Tongyi DeepResearch 30B A3B (free) | ❌ (broken) | [warehouse/can_0412_20251120-23h.py](warehouse/can_0412_20251120-23h.py) |
 | 413 | 2025-11-21 02:13:54 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0413_20251121-02h.py](warehouse/can_0413_20251121-02h.py) |
 | 414 | 2025-11-21 03:27:55 | Microsoft: MAI DS R1 (free) | ✅ | [warehouse/can_0414_20251121-03h.py](warehouse/can_0414_20251121-03h.py) |
+| 415 | 2025-11-21 04:38:13 | Mistral: Mistral Small 3.2 24B (free) | ✅ | [warehouse/can_0415_20251121-04h.py](warehouse/can_0415_20251121-04h.py) |
