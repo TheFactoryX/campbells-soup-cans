@@ -496,3 +496,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 430 | 2025-11-21 19:26:50 | xAI: Grok 4.1 Fast | ✅ | [warehouse/can_0430_20251121-19h.py](warehouse/can_0430_20251121-19h.py) |
 | 431 | 2025-11-21 20:33:48 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_0431_20251121-20h.py](warehouse/can_0431_20251121-20h.py) |
 | 432 | 2025-11-21 21:28:51 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_0432_20251121-21h.py](warehouse/can_0432_20251121-21h.py) |
+| 433 | 2025-11-21 22:33:30 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_0433_20251121-22h.py](warehouse/can_0433_20251121-22h.py) |
