@@ -490,3 +490,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 424 | 2025-11-21 13:39:24 | OpenAI: o3 Mini High | ✅ | [warehouse/can_0424_20251121-13h.py](warehouse/can_0424_20251121-13h.py) |
 | 425 | 2025-11-21 14:34:11 | Inception: Mercury | ✅ | [warehouse/can_0425_20251121-14h.py](warehouse/can_0425_20251121-14h.py) |
 | 426 | 2025-11-21 15:29:09 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_0426_20251121-15h.py](warehouse/can_0426_20251121-15h.py) |
+| 427 | 2025-11-21 16:37:20 | Qwen: Qwen2.5 VL 32B Instruct | ✅ | [warehouse/can_0427_20251121-16h.py](warehouse/can_0427_20251121-16h.py) |
