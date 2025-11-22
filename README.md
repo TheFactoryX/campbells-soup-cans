@@ -504,3 +504,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 438 | 2025-11-22 04:34:35 | Qwen2.5 72B Instruct | ✅ | [warehouse/can_0438_20251122-04h.py](warehouse/can_0438_20251122-04h.py) |
 | 439 | 2025-11-22 05:32:10 | Meta: Llama 3.2 3B Instruct (free) | ✅ | [warehouse/can_0439_20251122-05h.py](warehouse/can_0439_20251122-05h.py) |
 | 440 | 2025-11-22 06:42:09 | Qwen: Qwen3 Max | ✅ | [warehouse/can_0440_20251122-06h.py](warehouse/can_0440_20251122-06h.py) |
+| 441 | 2025-11-22 07:27:52 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_0441_20251122-07h.py](warehouse/can_0441_20251122-07h.py) |
