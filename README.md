@@ -520,3 +520,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 454 | 2025-11-22 20:32:18 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0454_20251122-20h.py](warehouse/can_0454_20251122-20h.py) |
 | 455 | 2025-11-22 21:28:06 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0455_20251122-21h.py](warehouse/can_0455_20251122-21h.py) |
 | 456 | 2025-11-22 22:32:32 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0456_20251122-22h.py](warehouse/can_0456_20251122-22h.py) |
+| 457 | 2025-11-22 23:29:30 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0457_20251122-23h.py](warehouse/can_0457_20251122-23h.py) |
