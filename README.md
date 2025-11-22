@@ -515,3 +515,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 449 | 2025-11-22 15:29:04 | xAI: Grok 4.1 Fast | ✅ | [warehouse/can_0449_20251122-15h.py](warehouse/can_0449_20251122-15h.py) |
 | 450 | 2025-11-22 16:35:45 | xAI: Grok 4.1 Fast | ✅ | [warehouse/can_0450_20251122-16h.py](warehouse/can_0450_20251122-16h.py) |
 | 451 | 2025-11-22 17:29:19 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_0451_20251122-17h.py](warehouse/can_0451_20251122-17h.py) |
+| 452 | 2025-11-22 18:40:33 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0452_20251122-18h.py](warehouse/can_0452_20251122-18h.py) |
