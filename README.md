@@ -507,3 +507,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 441 | 2025-11-22 07:27:52 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_0441_20251122-07h.py](warehouse/can_0441_20251122-07h.py) |
 | 442 | 2025-11-22 08:36:32 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0442_20251122-08h.py](warehouse/can_0442_20251122-08h.py) |
 | 443 | 2025-11-22 09:29:40 | xAI: Grok 4.1 Fast | ❌ (broken) | [warehouse/can_0443_20251122-09h.py](warehouse/can_0443_20251122-09h.py) |
+| 444 | 2025-11-22 10:32:43 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0444_20251122-10h.py](warehouse/can_0444_20251122-10h.py) |
