@@ -517,3 +517,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 451 | 2025-11-22 17:29:19 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_0451_20251122-17h.py](warehouse/can_0451_20251122-17h.py) |
 | 452 | 2025-11-22 18:40:33 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0452_20251122-18h.py](warehouse/can_0452_20251122-18h.py) |
 | 453 | 2025-11-22 19:25:40 | MoonshotAI: Kimi K2 0711 | ❌ (broken) | [warehouse/can_0453_20251122-19h.py](warehouse/can_0453_20251122-19h.py) |
+| 454 | 2025-11-22 20:32:18 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0454_20251122-20h.py](warehouse/can_0454_20251122-20h.py) |
