@@ -525,3 +525,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 459 | 2025-11-23 04:04:06 | Meta: Llama 3.2 3B Instruct (free) | ✅ | [warehouse/can_0459_20251123-04h.py](warehouse/can_0459_20251123-04h.py) |
 | 460 | 2025-11-23 04:46:15 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_0460_20251123-04h.py](warehouse/can_0460_20251123-04h.py) |
 | 461 | 2025-11-23 05:33:12 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0461_20251123-05h.py](warehouse/can_0461_20251123-05h.py) |
+| 462 | 2025-11-23 06:43:43 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_0462_20251123-06h.py](warehouse/can_0462_20251123-06h.py) |
