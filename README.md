@@ -539,3 +539,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 473 | 2025-11-23 17:29:34 | xAI: Grok 4.1 Fast (free) | ✅ | [warehouse/can_0473_20251123-17h.py](warehouse/can_0473_20251123-17h.py) |
 | 474 | 2025-11-23 18:41:27 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0474_20251123-18h.py](warehouse/can_0474_20251123-18h.py) |
 | 475 | 2025-11-23 19:26:05 | Qwen: Qwen3 Coder Flash | ✅ | [warehouse/can_0475_20251123-19h.py](warehouse/can_0475_20251123-19h.py) |
+| 476 | 2025-11-23 20:33:10 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_0476_20251123-20h.py](warehouse/can_0476_20251123-20h.py) |
