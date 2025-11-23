@@ -529,3 +529,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 463 | 2025-11-23 07:28:47 | xAI: Grok 4.1 Fast | ✅ | [warehouse/can_0463_20251123-07h.py](warehouse/can_0463_20251123-07h.py) |
 | 464 | 2025-11-23 08:37:01 | xAI: Grok 4.1 Fast | ✅ | [warehouse/can_0464_20251123-08h.py](warehouse/can_0464_20251123-08h.py) |
 | 465 | 2025-11-23 09:30:18 | OpenAI: GPT-4o-mini (2024-07-18) | ✅ | [warehouse/can_0465_20251123-09h.py](warehouse/can_0465_20251123-09h.py) |
+| 466 | 2025-11-23 10:33:54 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0466_20251123-10h.py](warehouse/can_0466_20251123-10h.py) |
