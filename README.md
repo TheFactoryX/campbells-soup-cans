@@ -535,3 +535,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 469 | 2025-11-23 13:32:36 | Auto Router | ✅ | [warehouse/can_0469_20251123-13h.py](warehouse/can_0469_20251123-13h.py) |
 | 470 | 2025-11-23 14:30:29 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0470_20251123-14h.py](warehouse/can_0470_20251123-14h.py) |
 | 471 | 2025-11-23 15:29:39 | xAI: Grok 4.1 Fast | ✅ | [warehouse/can_0471_20251123-15h.py](warehouse/can_0471_20251123-15h.py) |
+| 472 | 2025-11-23 16:36:27 | AI21: Jamba Mini 1.7 | ✅ | [warehouse/can_0472_20251123-16h.py](warehouse/can_0472_20251123-16h.py) |
