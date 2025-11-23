@@ -532,3 +532,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 466 | 2025-11-23 10:33:54 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0466_20251123-10h.py](warehouse/can_0466_20251123-10h.py) |
 | 467 | 2025-11-23 11:26:21 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0467_20251123-11h.py](warehouse/can_0467_20251123-11h.py) |
 | 468 | 2025-11-23 12:52:43 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0468_20251123-12h.py](warehouse/can_0468_20251123-12h.py) |
+| 469 | 2025-11-23 13:32:36 | Auto Router | ✅ | [warehouse/can_0469_20251123-13h.py](warehouse/can_0469_20251123-13h.py) |
