@@ -559,3 +559,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 493 | 2025-11-24 15:36:09 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0493_20251124-15h.py](warehouse/can_0493_20251124-15h.py) |
 | 494 | 2025-11-24 16:36:50 | xAI: Grok 4.1 Fast (free) | ✅ | [warehouse/can_0494_20251124-16h.py](warehouse/can_0494_20251124-16h.py) |
 | 495 | 2025-11-24 17:33:40 | Mistral Large 2411 | ✅ | [warehouse/can_0495_20251124-17h.py](warehouse/can_0495_20251124-17h.py) |
+| 496 | 2025-11-24 18:46:09 | xAI: Grok 4.1 Fast | ❌ (broken) | [warehouse/can_0496_20251124-18h.py](warehouse/can_0496_20251124-18h.py) |
