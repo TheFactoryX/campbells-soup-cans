@@ -550,3 +550,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 484 | 2025-11-24 06:46:38 | Meituan: LongCat Flash Chat (free) | ✅ | [warehouse/can_0484_20251124-06h.py](warehouse/can_0484_20251124-06h.py) |
 | 485 | 2025-11-24 07:31:08 | xAI: Grok 4.1 Fast | ❌ (broken) | [warehouse/can_0485_20251124-07h.py](warehouse/can_0485_20251124-07h.py) |
 | 486 | 2025-11-24 08:44:24 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0486_20251124-08h.py](warehouse/can_0486_20251124-08h.py) |
+| 487 | 2025-11-24 09:39:05 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_0487_20251124-09h.py](warehouse/can_0487_20251124-09h.py) |
