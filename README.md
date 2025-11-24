@@ -543,3 +543,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 477 | 2025-11-23 21:28:59 | xAI: Grok 4.1 Fast (free) | ✅ | [warehouse/can_0477_20251123-21h.py](warehouse/can_0477_20251123-21h.py) |
 | 478 | 2025-11-23 22:33:06 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_0478_20251123-22h.py](warehouse/can_0478_20251123-22h.py) |
 | 479 | 2025-11-23 23:29:25 | xAI: Grok 3 Mini | ✅ | [warehouse/can_0479_20251123-23h.py](warehouse/can_0479_20251123-23h.py) |
+| 480 | 2025-11-24 02:24:03 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_0480_20251124-02h.py](warehouse/can_0480_20251124-02h.py) |
