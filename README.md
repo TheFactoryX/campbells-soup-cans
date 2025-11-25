@@ -586,3 +586,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 520 | 2025-11-25 20:35:35 | NeverSleep: Lumimaid v0.2 8B | ✅ | [warehouse/can_0520_20251125-20h.py](warehouse/can_0520_20251125-20h.py) |
 | 521 | 2025-11-25 21:29:57 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0521_20251125-21h.py](warehouse/can_0521_20251125-21h.py) |
 | 522 | 2025-11-25 22:34:27 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_0522_20251125-22h.py](warehouse/can_0522_20251125-22h.py) |
+| 523 | 2025-11-25 23:30:23 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_0523_20251125-23h.py](warehouse/can_0523_20251125-23h.py) |
