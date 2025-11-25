@@ -583,3 +583,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 517 | 2025-11-25 17:34:41 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0517_20251125-17h.py](warehouse/can_0517_20251125-17h.py) |
 | 518 | 2025-11-25 18:45:14 | SorcererLM 8x22B | ❌ (broken) | [warehouse/can_0518_20251125-18h.py](warehouse/can_0518_20251125-18h.py) |
 | 519 | 2025-11-25 19:29:03 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0519_20251125-19h.py](warehouse/can_0519_20251125-19h.py) |
+| 520 | 2025-11-25 20:35:35 | NeverSleep: Lumimaid v0.2 8B | ✅ | [warehouse/can_0520_20251125-20h.py](warehouse/can_0520_20251125-20h.py) |
