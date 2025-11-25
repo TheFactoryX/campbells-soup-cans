@@ -566,3 +566,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 500 | 2025-11-24 22:34:01 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0500_20251124-22h.py](warehouse/can_0500_20251124-22h.py) |
 | 501 | 2025-11-24 23:30:05 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0501_20251124-23h.py](warehouse/can_0501_20251124-23h.py) |
 | 502 | 2025-11-25 02:17:13 | Deep Cogito: Cogito v2.1 671B | ✅ | [warehouse/can_0502_20251125-02h.py](warehouse/can_0502_20251125-02h.py) |
+| 503 | 2025-11-25 03:55:42 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0503_20251125-03h.py](warehouse/can_0503_20251125-03h.py) |
