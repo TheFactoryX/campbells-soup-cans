@@ -575,3 +575,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 509 | 2025-11-25 09:36:58 | OpenAI: GPT-5 Image | ✅ | [warehouse/can_0509_20251125-09h.py](warehouse/can_0509_20251125-09h.py) |
 | 510 | 2025-11-25 10:42:21 | Qwen: Qwen3 Next 80B A3B Thinking | ✅ | [warehouse/can_0510_20251125-10h.py](warehouse/can_0510_20251125-10h.py) |
 | 511 | 2025-11-25 11:30:11 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_0511_20251125-11h.py](warehouse/can_0511_20251125-11h.py) |
+| 512 | 2025-11-25 13:02:37 | xAI: Grok 4.1 Fast | ❌ (broken) | [warehouse/can_0512_20251125-13h.py](warehouse/can_0512_20251125-13h.py) |
