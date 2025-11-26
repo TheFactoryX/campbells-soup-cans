@@ -603,3 +603,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 537 | 2025-11-26 15:33:57 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0537_20251126-15h.py](warehouse/can_0537_20251126-15h.py) |
 | 538 | 2025-11-26 16:43:43 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0538_20251126-16h.py](warehouse/can_0538_20251126-16h.py) |
 | 539 | 2025-11-26 17:33:12 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0539_20251126-17h.py](warehouse/can_0539_20251126-17h.py) |
+| 540 | 2025-11-26 18:41:23 | Anthropic: Claude 3.7 Sonnet (thinking) | ✅ | [warehouse/can_0540_20251126-18h.py](warehouse/can_0540_20251126-18h.py) |
