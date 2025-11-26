@@ -590,3 +590,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 524 | 2025-11-26 02:17:23 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_0524_20251126-02h.py](warehouse/can_0524_20251126-02h.py) |
 | 525 | 2025-11-26 03:54:59 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0525_20251126-03h.py](warehouse/can_0525_20251126-03h.py) |
 | 526 | 2025-11-26 04:41:44 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0526_20251126-04h.py](warehouse/can_0526_20251126-04h.py) |
+| 527 | 2025-11-26 05:34:09 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0527_20251126-05h.py](warehouse/can_0527_20251126-05h.py) |
