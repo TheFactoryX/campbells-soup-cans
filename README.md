@@ -595,3 +595,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 529 | 2025-11-26 07:30:58 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0529_20251126-07h.py](warehouse/can_0529_20251126-07h.py) |
 | 530 | 2025-11-26 08:43:18 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_0530_20251126-08h.py](warehouse/can_0530_20251126-08h.py) |
 | 531 | 2025-11-26 09:36:14 | Mancer: Weaver (alpha) | ❌ (broken, missing print) | [warehouse/can_0531_20251126-09h.py](warehouse/can_0531_20251126-09h.py) |
+| 532 | 2025-11-26 10:40:09 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken, missing print) | [warehouse/can_0532_20251126-10h.py](warehouse/can_0532_20251126-10h.py) |
