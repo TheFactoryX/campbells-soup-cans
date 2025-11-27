@@ -624,3 +624,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 558 | 2025-11-27 14:35:23 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0558_20251127-14h.py](warehouse/can_0558_20251127-14h.py) |
 | 559 | 2025-11-27 15:33:36 | Baidu: ERNIE 4.5 21B A3B Thinking | ✅ | [warehouse/can_0559_20251127-15h.py](warehouse/can_0559_20251127-15h.py) |
 | 560 | 2025-11-27 16:40:58 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0560_20251127-16h.py](warehouse/can_0560_20251127-16h.py) |
+| 561 | 2025-11-27 17:30:52 | Mistral: Magistral Small 2506 | ❌ (broken) | [warehouse/can_0561_20251127-17h.py](warehouse/can_0561_20251127-17h.py) |
