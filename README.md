@@ -620,3 +620,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 554 | 2025-11-27 10:39:33 | OpenAI: GPT-3.5 Turbo Instruct | ❌ (broken) | [warehouse/can_0554_20251127-10h.py](warehouse/can_0554_20251127-10h.py) |
 | 555 | 2025-11-27 11:29:37 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_0555_20251127-11h.py](warehouse/can_0555_20251127-11h.py) |
 | 556 | 2025-11-27 13:02:11 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_0556_20251127-13h.py](warehouse/can_0556_20251127-13h.py) |
+| 557 | 2025-11-27 13:44:22 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_0557_20251127-13h.py](warehouse/can_0557_20251127-13h.py) |
