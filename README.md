@@ -630,3 +630,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 564 | 2025-11-27 20:31:23 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_0564_20251127-20h.py](warehouse/can_0564_20251127-20h.py) |
 | 565 | 2025-11-27 21:29:08 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0565_20251127-21h.py](warehouse/can_0565_20251127-21h.py) |
 | 566 | 2025-11-27 22:32:58 | Qwen: QwQ 32B | ✅ | [warehouse/can_0566_20251127-22h.py](warehouse/can_0566_20251127-22h.py) |
+| 567 | 2025-11-27 23:29:48 | Anthropic: Claude 3.5 Haiku | ✅ | [warehouse/can_0567_20251127-23h.py](warehouse/can_0567_20251127-23h.py) |
