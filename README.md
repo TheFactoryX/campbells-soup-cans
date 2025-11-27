@@ -622,3 +622,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 556 | 2025-11-27 13:02:11 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_0556_20251127-13h.py](warehouse/can_0556_20251127-13h.py) |
 | 557 | 2025-11-27 13:44:22 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_0557_20251127-13h.py](warehouse/can_0557_20251127-13h.py) |
 | 558 | 2025-11-27 14:35:23 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0558_20251127-14h.py](warehouse/can_0558_20251127-14h.py) |
+| 559 | 2025-11-27 15:33:36 | Baidu: ERNIE 4.5 21B A3B Thinking | ✅ | [warehouse/can_0559_20251127-15h.py](warehouse/can_0559_20251127-15h.py) |
