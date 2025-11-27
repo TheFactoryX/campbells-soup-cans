@@ -611,3 +611,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 545 | 2025-11-26 23:29:51 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_0545_20251126-23h.py](warehouse/can_0545_20251126-23h.py) |
 | 546 | 2025-11-27 02:14:30 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_0546_20251127-02h.py](warehouse/can_0546_20251127-02h.py) |
 | 547 | 2025-11-27 03:29:41 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_0547_20251127-03h.py](warehouse/can_0547_20251127-03h.py) |
+| 548 | 2025-11-27 04:39:01 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_0548_20251127-04h.py](warehouse/can_0548_20251127-04h.py) |
