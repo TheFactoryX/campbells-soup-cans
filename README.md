@@ -618,3 +618,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 552 | 2025-11-27 08:43:34 | Google: Gemma 3 27B (free) | ❌ (empty, missing print) | [warehouse/can_0552_20251127-08h.py](warehouse/can_0552_20251127-08h.py) |
 | 553 | 2025-11-27 09:34:47 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0553_20251127-09h.py](warehouse/can_0553_20251127-09h.py) |
 | 554 | 2025-11-27 10:39:33 | OpenAI: GPT-3.5 Turbo Instruct | ❌ (broken) | [warehouse/can_0554_20251127-10h.py](warehouse/can_0554_20251127-10h.py) |
+| 555 | 2025-11-27 11:29:37 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_0555_20251127-11h.py](warehouse/can_0555_20251127-11h.py) |
