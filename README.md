@@ -634,3 +634,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 568 | 2025-11-28 02:13:59 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0568_20251128-02h.py](warehouse/can_0568_20251128-02h.py) |
 | 569 | 2025-11-28 03:29:19 | Venice: Uncensored (free) | ✅ | [warehouse/can_0569_20251128-03h.py](warehouse/can_0569_20251128-03h.py) |
 | 570 | 2025-11-28 04:38:54 | Meituan: LongCat Flash Chat (free) | ✅ | [warehouse/can_0570_20251128-04h.py](warehouse/can_0570_20251128-04h.py) |
+| 571 | 2025-11-28 05:34:56 | xAI: Grok 4.1 Fast (free) | ✅ | [warehouse/can_0571_20251128-05h.py](warehouse/can_0571_20251128-05h.py) |
