@@ -639,3 +639,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 573 | 2025-11-28 07:31:41 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0573_20251128-07h.py](warehouse/can_0573_20251128-07h.py) |
 | 574 | 2025-11-28 08:43:25 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0574_20251128-08h.py](warehouse/can_0574_20251128-08h.py) |
 | 575 | 2025-11-28 09:33:31 | Meituan: LongCat Flash Chat (free) | ✅ | [warehouse/can_0575_20251128-09h.py](warehouse/can_0575_20251128-09h.py) |
+| 576 | 2025-11-28 10:37:30 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_0576_20251128-10h.py](warehouse/can_0576_20251128-10h.py) |
