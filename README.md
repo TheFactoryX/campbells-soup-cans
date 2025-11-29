@@ -659,3 +659,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 593 | 2025-11-29 05:33:38 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0593_20251129-05h.py](warehouse/can_0593_20251129-05h.py) |
 | 594 | 2025-11-29 06:44:01 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_0594_20251129-06h.py](warehouse/can_0594_20251129-06h.py) |
 | 595 | 2025-11-29 07:29:22 | xAI: Grok 4.1 Fast (free) | ✅ | [warehouse/can_0595_20251129-07h.py](warehouse/can_0595_20251129-07h.py) |
+| 596 | 2025-11-29 08:39:10 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_0596_20251129-08h.py](warehouse/can_0596_20251129-08h.py) |
