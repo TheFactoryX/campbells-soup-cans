@@ -663,3 +663,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 597 | 2025-11-29 09:31:11 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0597_20251129-09h.py](warehouse/can_0597_20251129-09h.py) |
 | 598 | 2025-11-29 10:34:23 | Mistral: Mistral Small 3.1 24B (free) | ❌ (broken, missing print) | [warehouse/can_0598_20251129-10h.py](warehouse/can_0598_20251129-10h.py) |
 | 599 | 2025-11-29 11:27:02 | Meituan: LongCat Flash Chat (free) | ✅ | [warehouse/can_0599_20251129-11h.py](warehouse/can_0599_20251129-11h.py) |
+| 600 | 2025-11-29 12:56:41 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_0600_20251129-12h.py](warehouse/can_0600_20251129-12h.py) |
