@@ -657,3 +657,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 591 | 2025-11-29 03:29:04 | Bert-Nebulon Alpha | ✅ | [warehouse/can_0591_20251129-03h.py](warehouse/can_0591_20251129-03h.py) |
 | 592 | 2025-11-29 04:37:25 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0592_20251129-04h.py](warehouse/can_0592_20251129-04h.py) |
 | 593 | 2025-11-29 05:33:38 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0593_20251129-05h.py](warehouse/can_0593_20251129-05h.py) |
+| 594 | 2025-11-29 06:44:01 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_0594_20251129-06h.py](warehouse/can_0594_20251129-06h.py) |
