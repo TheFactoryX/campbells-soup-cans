@@ -671,3 +671,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 605 | 2025-11-29 17:30:09 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_0605_20251129-17h.py](warehouse/can_0605_20251129-17h.py) |
 | 606 | 2025-11-29 18:41:53 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0606_20251129-18h.py](warehouse/can_0606_20251129-18h.py) |
 | 607 | 2025-11-29 19:26:04 | Venice: Uncensored (free) | ✅ | [warehouse/can_0607_20251129-19h.py](warehouse/can_0607_20251129-19h.py) |
+| 608 | 2025-11-29 20:32:43 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_0608_20251129-20h.py](warehouse/can_0608_20251129-20h.py) |
