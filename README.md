@@ -679,3 +679,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 613 | 2025-11-30 04:04:37 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_0613_20251130-04h.py](warehouse/can_0613_20251130-04h.py) |
 | 614 | 2025-11-30 04:47:24 | Bert-Nebulon Alpha | ❌ (broken, missing print) | [warehouse/can_0614_20251130-04h.py](warehouse/can_0614_20251130-04h.py) |
 | 615 | 2025-11-30 05:34:18 | Qwen: Qwen3 235B A22B (free) | ✅ | [warehouse/can_0615_20251130-05h.py](warehouse/can_0615_20251130-05h.py) |
+| 616 | 2025-11-30 06:45:28 | xAI: Grok 4.1 Fast (free) | ❌ (broken) | [warehouse/can_0616_20251130-06h.py](warehouse/can_0616_20251130-06h.py) |
