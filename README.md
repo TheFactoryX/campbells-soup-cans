@@ -684,3 +684,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 618 | 2025-11-30 08:36:18 | Meituan: LongCat Flash Chat (free) | ✅ | [warehouse/can_0618_20251130-08h.py](warehouse/can_0618_20251130-08h.py) |
 | 619 | 2025-11-30 09:30:13 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0619_20251130-09h.py](warehouse/can_0619_20251130-09h.py) |
 | 620 | 2025-11-30 10:33:59 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_0620_20251130-10h.py](warehouse/can_0620_20251130-10h.py) |
+| 621 | 2025-11-30 11:26:36 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_0621_20251130-11h.py](warehouse/can_0621_20251130-11h.py) |
