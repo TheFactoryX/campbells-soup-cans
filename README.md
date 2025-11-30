@@ -692,3 +692,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 626 | 2025-11-30 16:37:42 | Bert-Nebulon Alpha | ✅ | [warehouse/can_0626_20251130-16h.py](warehouse/can_0626_20251130-16h.py) |
 | 627 | 2025-11-30 17:30:14 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0627_20251130-17h.py](warehouse/can_0627_20251130-17h.py) |
 | 628 | 2025-11-30 18:41:51 | TNG: R1T Chimera (free) | ❌ (broken) | [warehouse/can_0628_20251130-18h.py](warehouse/can_0628_20251130-18h.py) |
+| 629 | 2025-11-30 19:26:10 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0629_20251130-19h.py](warehouse/can_0629_20251130-19h.py) |
