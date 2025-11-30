@@ -677,3 +677,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 611 | 2025-11-29 23:29:54 | Venice: Uncensored (free) | ✅ | [warehouse/can_0611_20251129-23h.py](warehouse/can_0611_20251129-23h.py) |
 | 612 | 2025-11-30 02:28:59 | Bert-Nebulon Alpha | ❌ (broken) | [warehouse/can_0612_20251130-02h.py](warehouse/can_0612_20251130-02h.py) |
 | 613 | 2025-11-30 04:04:37 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_0613_20251130-04h.py](warehouse/can_0613_20251130-04h.py) |
+| 614 | 2025-11-30 04:47:24 | Bert-Nebulon Alpha | ❌ (broken, missing print) | [warehouse/can_0614_20251130-04h.py](warehouse/can_0614_20251130-04h.py) |
