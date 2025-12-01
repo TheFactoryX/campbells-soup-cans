@@ -700,3 +700,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 634 | 2025-12-01 02:38:34 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0634_20251201-02h.py](warehouse/can_0634_20251201-02h.py) |
 | 635 | 2025-12-01 04:18:34 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_0635_20251201-04h.py](warehouse/can_0635_20251201-04h.py) |
 | 636 | 2025-12-01 05:44:09 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0636_20251201-05h.py](warehouse/can_0636_20251201-05h.py) |
+| 637 | 2025-12-01 06:49:58 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0637_20251201-06h.py](warehouse/can_0637_20251201-06h.py) |
