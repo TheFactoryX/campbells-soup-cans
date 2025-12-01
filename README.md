@@ -705,3 +705,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 639 | 2025-12-01 08:46:48 | Bert-Nebulon Alpha | ✅ | [warehouse/can_0639_20251201-08h.py](warehouse/can_0639_20251201-08h.py) |
 | 640 | 2025-12-01 09:43:17 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_0640_20251201-09h.py](warehouse/can_0640_20251201-09h.py) |
 | 641 | 2025-12-01 10:43:14 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0641_20251201-10h.py](warehouse/can_0641_20251201-10h.py) |
+| 642 | 2025-12-01 11:30:20 | Baidu: ERNIE 4.5 VL 28B A3B | ❌ (broken) | [warehouse/can_0642_20251201-11h.py](warehouse/can_0642_20251201-11h.py) |
