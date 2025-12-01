@@ -708,3 +708,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 642 | 2025-12-01 11:30:20 | Baidu: ERNIE 4.5 VL 28B A3B | ❌ (broken) | [warehouse/can_0642_20251201-11h.py](warehouse/can_0642_20251201-11h.py) |
 | 643 | 2025-12-01 13:05:24 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0643_20251201-13h.py](warehouse/can_0643_20251201-13h.py) |
 | 644 | 2025-12-01 13:47:31 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0644_20251201-13h.py](warehouse/can_0644_20251201-13h.py) |
+| 645 | 2025-12-01 14:40:53 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0645_20251201-14h.py](warehouse/can_0645_20251201-14h.py) |
