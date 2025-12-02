@@ -732,3 +732,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 666 | 2025-12-02 13:48:51 | OpenAI: o3 | ❌ (broken) | [warehouse/can_0666_20251202-13h.py](warehouse/can_0666_20251202-13h.py) |
 | 667 | 2025-12-02 14:42:01 | Qwen: Qwen3 235B A22B (free) | ❌ (broken) | [warehouse/can_0667_20251202-14h.py](warehouse/can_0667_20251202-14h.py) |
 | 668 | 2025-12-02 15:38:11 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0668_20251202-15h.py](warehouse/can_0668_20251202-15h.py) |
+| 669 | 2025-12-02 16:46:59 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_0669_20251202-16h.py](warehouse/can_0669_20251202-16h.py) |
