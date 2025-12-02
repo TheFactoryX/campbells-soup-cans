@@ -735,3 +735,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 669 | 2025-12-02 16:46:59 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_0669_20251202-16h.py](warehouse/can_0669_20251202-16h.py) |
 | 670 | 2025-12-02 17:38:31 | Meta: Llama 3.2 3B Instruct (free) | ❌ (broken) | [warehouse/can_0670_20251202-17h.py](warehouse/can_0670_20251202-17h.py) |
 | 671 | 2025-12-02 18:49:08 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_0671_20251202-18h.py](warehouse/can_0671_20251202-18h.py) |
+| 672 | 2025-12-02 19:30:47 | Amazon: Nova 2 Lite (free) | ✅ | [warehouse/can_0672_20251202-19h.py](warehouse/can_0672_20251202-19h.py) |
