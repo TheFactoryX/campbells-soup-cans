@@ -743,3 +743,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 677 | 2025-12-03 02:19:04 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0677_20251203-02h.py](warehouse/can_0677_20251203-02h.py) |
 | 678 | 2025-12-03 03:58:05 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_0678_20251203-03h.py](warehouse/can_0678_20251203-03h.py) |
 | 679 | 2025-12-03 04:42:29 | xAI: Grok 4.1 Fast (free) | ❌ (broken) | [warehouse/can_0679_20251203-04h.py](warehouse/can_0679_20251203-04h.py) |
+| 680 | 2025-12-03 05:35:01 | Amazon: Nova 2 Lite (free) | ❌ (broken) | [warehouse/can_0680_20251203-05h.py](warehouse/can_0680_20251203-05h.py) |
