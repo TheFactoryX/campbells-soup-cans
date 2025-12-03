@@ -748,3 +748,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 682 | 2025-12-03 07:34:00 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_0682_20251203-07h.py](warehouse/can_0682_20251203-07h.py) |
 | 683 | 2025-12-03 08:45:29 | Nous: Hermes 3 405B Instruct (free) | ❌ (missing print) | [warehouse/can_0683_20251203-08h.py](warehouse/can_0683_20251203-08h.py) |
 | 684 | 2025-12-03 09:38:16 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0684_20251203-09h.py](warehouse/can_0684_20251203-09h.py) |
+| 685 | 2025-12-03 10:43:02 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0685_20251203-10h.py](warehouse/can_0685_20251203-10h.py) |
