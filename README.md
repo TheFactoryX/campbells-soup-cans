@@ -745,3 +745,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 679 | 2025-12-03 04:42:29 | xAI: Grok 4.1 Fast (free) | ❌ (broken) | [warehouse/can_0679_20251203-04h.py](warehouse/can_0679_20251203-04h.py) |
 | 680 | 2025-12-03 05:35:01 | Amazon: Nova 2 Lite (free) | ❌ (broken) | [warehouse/can_0680_20251203-05h.py](warehouse/can_0680_20251203-05h.py) |
 | 681 | 2025-12-03 06:48:21 | Venice: Uncensored (free) | ✅ | [warehouse/can_0681_20251203-06h.py](warehouse/can_0681_20251203-06h.py) |
+| 682 | 2025-12-03 07:34:00 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_0682_20251203-07h.py](warehouse/can_0682_20251203-07h.py) |
