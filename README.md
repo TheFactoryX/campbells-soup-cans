@@ -772,3 +772,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 706 | 2025-12-04 09:38:45 | Amazon: Nova 2 Lite (free) | ❌ (broken) | [warehouse/can_0706_20251204-09h.py](warehouse/can_0706_20251204-09h.py) |
 | 707 | 2025-12-04 10:42:25 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_0707_20251204-10h.py](warehouse/can_0707_20251204-10h.py) |
 | 708 | 2025-12-04 11:30:53 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0708_20251204-11h.py](warehouse/can_0708_20251204-11h.py) |
+| 709 | 2025-12-04 13:06:06 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0709_20251204-13h.py](warehouse/can_0709_20251204-13h.py) |
