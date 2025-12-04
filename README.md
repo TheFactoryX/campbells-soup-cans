@@ -777,3 +777,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 711 | 2025-12-04 14:40:32 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0711_20251204-14h.py](warehouse/can_0711_20251204-14h.py) |
 | 712 | 2025-12-04 15:38:13 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_0712_20251204-15h.py](warehouse/can_0712_20251204-15h.py) |
 | 713 | 2025-12-04 16:46:36 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0713_20251204-16h.py](warehouse/can_0713_20251204-16h.py) |
+| 714 | 2025-12-04 17:37:47 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0714_20251204-17h.py](warehouse/can_0714_20251204-17h.py) |
