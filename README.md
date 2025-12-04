@@ -783,3 +783,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 717 | 2025-12-04 20:37:00 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_0717_20251204-20h.py](warehouse/can_0717_20251204-20h.py) |
 | 718 | 2025-12-04 21:31:55 | Qwen: Qwen2.5-VL 7B Instruct | ❌ (broken) | [warehouse/can_0718_20251204-21h.py](warehouse/can_0718_20251204-21h.py) |
 | 719 | 2025-12-04 22:34:01 | Anthropic: Claude Opus 4 | ✅ | [warehouse/can_0719_20251204-22h.py](warehouse/can_0719_20251204-22h.py) |
+| 720 | 2025-12-04 23:31:04 | Qwen: Qwen3 Coder 480B A35B (free) | ❌ (broken) | [warehouse/can_0720_20251204-23h.py](warehouse/can_0720_20251204-23h.py) |
