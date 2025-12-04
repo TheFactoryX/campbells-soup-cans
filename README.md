@@ -781,3 +781,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 715 | 2025-12-04 18:48:46 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_0715_20251204-18h.py](warehouse/can_0715_20251204-18h.py) |
 | 716 | 2025-12-04 19:30:12 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0716_20251204-19h.py](warehouse/can_0716_20251204-19h.py) |
 | 717 | 2025-12-04 20:37:00 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_0717_20251204-20h.py](warehouse/can_0717_20251204-20h.py) |
+| 718 | 2025-12-04 21:31:55 | Qwen: Qwen2.5-VL 7B Instruct | ❌ (broken) | [warehouse/can_0718_20251204-21h.py](warehouse/can_0718_20251204-21h.py) |
