@@ -762,3 +762,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 696 | 2025-12-03 21:28:41 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_0696_20251203-21h.py](warehouse/can_0696_20251203-21h.py) |
 | 697 | 2025-12-03 22:34:53 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0697_20251203-22h.py](warehouse/can_0697_20251203-22h.py) |
 | 698 | 2025-12-03 23:29:41 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_0698_20251203-23h.py](warehouse/can_0698_20251203-23h.py) |
+| 699 | 2025-12-04 02:19:53 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_0699_20251204-02h.py](warehouse/can_0699_20251204-02h.py) |
