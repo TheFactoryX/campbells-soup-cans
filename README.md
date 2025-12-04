@@ -769,3 +769,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 703 | 2025-12-04 06:48:14 | Venice: Uncensored (free) | ✅ | [warehouse/can_0703_20251204-06h.py](warehouse/can_0703_20251204-06h.py) |
 | 704 | 2025-12-04 07:33:21 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_0704_20251204-07h.py](warehouse/can_0704_20251204-07h.py) |
 | 705 | 2025-12-04 08:44:48 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_0705_20251204-08h.py](warehouse/can_0705_20251204-08h.py) |
+| 706 | 2025-12-04 09:38:45 | Amazon: Nova 2 Lite (free) | ❌ (broken) | [warehouse/can_0706_20251204-09h.py](warehouse/can_0706_20251204-09h.py) |
