@@ -800,3 +800,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 734 | 2025-12-05 15:35:30 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0734_20251205-15h.py](warehouse/can_0734_20251205-15h.py) |
 | 735 | 2025-12-05 17:34:00 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_0735_20251205-17h.py](warehouse/can_0735_20251205-17h.py) |
 | 736 | 2025-12-05 18:43:31 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0736_20251205-18h.py](warehouse/can_0736_20251205-18h.py) |
+| 737 | 2025-12-05 19:28:38 | Mistral: Mistral Small 3.1 24B (free) | ❌ (broken) | [warehouse/can_0737_20251205-19h.py](warehouse/can_0737_20251205-19h.py) |
