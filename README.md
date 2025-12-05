@@ -798,3 +798,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 732 | 2025-12-05 13:44:46 | Meituan: LongCat Flash Chat (free) | ✅ | [warehouse/can_0732_20251205-13h.py](warehouse/can_0732_20251205-13h.py) |
 | 733 | 2025-12-05 14:37:07 | Tongyi DeepResearch 30B A3B (free) | ❌ (broken) | [warehouse/can_0733_20251205-14h.py](warehouse/can_0733_20251205-14h.py) |
 | 734 | 2025-12-05 15:35:30 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0734_20251205-15h.py](warehouse/can_0734_20251205-15h.py) |
+| 735 | 2025-12-05 17:34:00 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_0735_20251205-17h.py](warehouse/can_0735_20251205-17h.py) |
