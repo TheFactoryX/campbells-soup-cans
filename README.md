@@ -785,3 +785,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 719 | 2025-12-04 22:34:01 | Anthropic: Claude Opus 4 | ✅ | [warehouse/can_0719_20251204-22h.py](warehouse/can_0719_20251204-22h.py) |
 | 720 | 2025-12-04 23:31:04 | Qwen: Qwen3 Coder 480B A35B (free) | ❌ (broken) | [warehouse/can_0720_20251204-23h.py](warehouse/can_0720_20251204-23h.py) |
 | 721 | 2025-12-05 02:19:51 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0721_20251205-02h.py](warehouse/can_0721_20251205-02h.py) |
+| 722 | 2025-12-05 03:59:04 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0722_20251205-03h.py](warehouse/can_0722_20251205-03h.py) |
