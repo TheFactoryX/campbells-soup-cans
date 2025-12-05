@@ -795,3 +795,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 729 | 2025-12-05 10:38:56 | TNG: DeepSeek R1T Chimera (free) | ❌ (broken) | [warehouse/can_0729_20251205-10h.py](warehouse/can_0729_20251205-10h.py) |
 | 730 | 2025-12-05 11:29:36 | Qwen: Qwen3 8B | ✅ | [warehouse/can_0730_20251205-11h.py](warehouse/can_0730_20251205-11h.py) |
 | 731 | 2025-12-05 13:02:15 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_0731_20251205-13h.py](warehouse/can_0731_20251205-13h.py) |
+| 732 | 2025-12-05 13:44:46 | Meituan: LongCat Flash Chat (free) | ✅ | [warehouse/can_0732_20251205-13h.py](warehouse/can_0732_20251205-13h.py) |
