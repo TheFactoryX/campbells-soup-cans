@@ -789,3 +789,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 723 | 2025-12-05 04:43:08 | Qwen: Qwen3 235B A22B (free) | ✅ | [warehouse/can_0723_20251205-04h.py](warehouse/can_0723_20251205-04h.py) |
 | 724 | 2025-12-05 05:35:17 | Nous: Hermes 3 405B Instruct (free) | ❌ (broken) | [warehouse/can_0724_20251205-05h.py](warehouse/can_0724_20251205-05h.py) |
 | 725 | 2025-12-05 06:48:40 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0725_20251205-06h.py](warehouse/can_0725_20251205-06h.py) |
+| 726 | 2025-12-05 07:32:50 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0726_20251205-07h.py](warehouse/can_0726_20251205-07h.py) |
