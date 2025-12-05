@@ -792,3 +792,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 726 | 2025-12-05 07:32:50 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0726_20251205-07h.py](warehouse/can_0726_20251205-07h.py) |
 | 727 | 2025-12-05 08:42:59 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0727_20251205-08h.py](warehouse/can_0727_20251205-08h.py) |
 | 728 | 2025-12-05 09:34:44 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0728_20251205-09h.py](warehouse/can_0728_20251205-09h.py) |
+| 729 | 2025-12-05 10:38:56 | TNG: DeepSeek R1T Chimera (free) | ❌ (broken) | [warehouse/can_0729_20251205-10h.py](warehouse/can_0729_20251205-10h.py) |
