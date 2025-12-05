@@ -802,3 +802,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 736 | 2025-12-05 18:43:31 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0736_20251205-18h.py](warehouse/can_0736_20251205-18h.py) |
 | 737 | 2025-12-05 19:28:38 | Mistral: Mistral Small 3.1 24B (free) | ❌ (broken) | [warehouse/can_0737_20251205-19h.py](warehouse/can_0737_20251205-19h.py) |
 | 738 | 2025-12-05 20:35:48 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_0738_20251205-20h.py](warehouse/can_0738_20251205-20h.py) |
+| 739 | 2025-12-05 21:30:33 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0739_20251205-21h.py](warehouse/can_0739_20251205-21h.py) |
