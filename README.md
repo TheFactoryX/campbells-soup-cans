@@ -819,3 +819,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 753 | 2025-12-06 14:31:29 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_0753_20251206-14h.py](warehouse/can_0753_20251206-14h.py) |
 | 754 | 2025-12-06 15:29:58 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0754_20251206-15h.py](warehouse/can_0754_20251206-15h.py) |
 | 755 | 2025-12-06 16:36:58 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0755_20251206-16h.py](warehouse/can_0755_20251206-16h.py) |
+| 756 | 2025-12-06 17:29:44 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_0756_20251206-17h.py](warehouse/can_0756_20251206-17h.py) |
