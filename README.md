@@ -805,3 +805,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 739 | 2025-12-05 21:30:33 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0739_20251205-21h.py](warehouse/can_0739_20251205-21h.py) |
 | 740 | 2025-12-05 22:34:23 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0740_20251205-22h.py](warehouse/can_0740_20251205-22h.py) |
 | 741 | 2025-12-05 23:30:12 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0741_20251205-23h.py](warehouse/can_0741_20251205-23h.py) |
+| 742 | 2025-12-06 02:13:38 | Tongyi DeepResearch 30B A3B (free) | ❌ (broken) | [warehouse/can_0742_20251206-02h.py](warehouse/can_0742_20251206-02h.py) |
