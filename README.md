@@ -825,3 +825,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 759 | 2025-12-06 20:32:44 | Venice: Uncensored (free) | ✅ | [warehouse/can_0759_20251206-20h.py](warehouse/can_0759_20251206-20h.py) |
 | 760 | 2025-12-06 21:28:16 | Meta: Llama 3.2 3B Instruct (free) | ✅ | [warehouse/can_0760_20251206-21h.py](warehouse/can_0760_20251206-21h.py) |
 | 761 | 2025-12-06 22:32:56 | Microsoft: Phi 4 Multimodal Instruct | ✅ | [warehouse/can_0761_20251206-22h.py](warehouse/can_0761_20251206-22h.py) |
+| 762 | 2025-12-06 23:29:46 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_0762_20251206-23h.py](warehouse/can_0762_20251206-23h.py) |
