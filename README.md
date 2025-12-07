@@ -833,3 +833,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 767 | 2025-12-07 06:43:32 | DeepSeek: DeepSeek V3.1 | ✅ | [warehouse/can_0767_20251207-06h.py](warehouse/can_0767_20251207-06h.py) |
 | 768 | 2025-12-07 07:29:07 | Perplexity: Sonar Pro Search | ✅ | [warehouse/can_0768_20251207-07h.py](warehouse/can_0768_20251207-07h.py) |
 | 769 | 2025-12-07 08:36:53 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0769_20251207-08h.py](warehouse/can_0769_20251207-08h.py) |
+| 770 | 2025-12-07 09:30:36 | DeepSeek: R1 | ✅ | [warehouse/can_0770_20251207-09h.py](warehouse/can_0770_20251207-09h.py) |
