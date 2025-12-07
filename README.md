@@ -829,3 +829,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 763 | 2025-12-07 02:29:28 | Amazon: Nova 2 Lite (free) | ✅ | [warehouse/can_0763_20251207-02h.py](warehouse/can_0763_20251207-02h.py) |
 | 764 | 2025-12-07 04:04:16 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0764_20251207-04h.py](warehouse/can_0764_20251207-04h.py) |
 | 765 | 2025-12-07 04:45:32 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_0765_20251207-04h.py](warehouse/can_0765_20251207-04h.py) |
+| 766 | 2025-12-07 05:32:10 | Qwen: Qwen3 235B A22B (free) | ✅ | [warehouse/can_0766_20251207-05h.py](warehouse/can_0766_20251207-05h.py) |
