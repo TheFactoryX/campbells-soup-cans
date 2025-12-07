@@ -840,3 +840,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 774 | 2025-12-07 13:35:03 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0774_20251207-13h.py](warehouse/can_0774_20251207-13h.py) |
 | 775 | 2025-12-07 14:31:40 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0775_20251207-14h.py](warehouse/can_0775_20251207-14h.py) |
 | 776 | 2025-12-07 15:29:26 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0776_20251207-15h.py](warehouse/can_0776_20251207-15h.py) |
+| 777 | 2025-12-07 16:36:20 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_0777_20251207-16h.py](warehouse/can_0777_20251207-16h.py) |
