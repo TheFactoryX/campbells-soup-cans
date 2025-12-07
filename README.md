@@ -838,3 +838,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 772 | 2025-12-07 11:26:23 | AllenAI: Olmo 3 32B Think (free) | ❌ (empty, missing print) | [warehouse/can_0772_20251207-11h.py](warehouse/can_0772_20251207-11h.py) |
 | 773 | 2025-12-07 12:55:38 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_0773_20251207-12h.py](warehouse/can_0773_20251207-12h.py) |
 | 774 | 2025-12-07 13:35:03 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0774_20251207-13h.py](warehouse/can_0774_20251207-13h.py) |
+| 775 | 2025-12-07 14:31:40 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0775_20251207-14h.py](warehouse/can_0775_20251207-14h.py) |
