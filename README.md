@@ -836,3 +836,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 770 | 2025-12-07 09:30:36 | DeepSeek: R1 | ✅ | [warehouse/can_0770_20251207-09h.py](warehouse/can_0770_20251207-09h.py) |
 | 771 | 2025-12-07 10:32:59 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0771_20251207-10h.py](warehouse/can_0771_20251207-10h.py) |
 | 772 | 2025-12-07 11:26:23 | AllenAI: Olmo 3 32B Think (free) | ❌ (empty, missing print) | [warehouse/can_0772_20251207-11h.py](warehouse/can_0772_20251207-11h.py) |
+| 773 | 2025-12-07 12:55:38 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_0773_20251207-12h.py](warehouse/can_0773_20251207-12h.py) |
