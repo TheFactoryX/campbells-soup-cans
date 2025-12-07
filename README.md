@@ -827,3 +827,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 761 | 2025-12-06 22:32:56 | Microsoft: Phi 4 Multimodal Instruct | ✅ | [warehouse/can_0761_20251206-22h.py](warehouse/can_0761_20251206-22h.py) |
 | 762 | 2025-12-06 23:29:46 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_0762_20251206-23h.py](warehouse/can_0762_20251206-23h.py) |
 | 763 | 2025-12-07 02:29:28 | Amazon: Nova 2 Lite (free) | ✅ | [warehouse/can_0763_20251207-02h.py](warehouse/can_0763_20251207-02h.py) |
+| 764 | 2025-12-07 04:04:16 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0764_20251207-04h.py](warehouse/can_0764_20251207-04h.py) |
