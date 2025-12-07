@@ -842,3 +842,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 776 | 2025-12-07 15:29:26 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0776_20251207-15h.py](warehouse/can_0776_20251207-15h.py) |
 | 777 | 2025-12-07 16:36:20 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_0777_20251207-16h.py](warehouse/can_0777_20251207-16h.py) |
 | 778 | 2025-12-07 17:29:45 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0778_20251207-17h.py](warehouse/can_0778_20251207-17h.py) |
+| 779 | 2025-12-07 18:41:24 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_0779_20251207-18h.py](warehouse/can_0779_20251207-18h.py) |
