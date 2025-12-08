@@ -849,3 +849,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 783 | 2025-12-07 22:32:29 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_0783_20251207-22h.py](warehouse/can_0783_20251207-22h.py) |
 | 784 | 2025-12-07 23:29:15 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0784_20251207-23h.py](warehouse/can_0784_20251207-23h.py) |
 | 785 | 2025-12-08 02:21:06 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0785_20251208-02h.py](warehouse/can_0785_20251208-02h.py) |
+| 786 | 2025-12-08 04:03:20 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_0786_20251208-04h.py](warehouse/can_0786_20251208-04h.py) |
