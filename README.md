@@ -858,3 +858,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 792 | 2025-12-08 09:43:00 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_0792_20251208-09h.py](warehouse/can_0792_20251208-09h.py) |
 | 793 | 2025-12-08 10:42:46 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_0793_20251208-10h.py](warehouse/can_0793_20251208-10h.py) |
 | 794 | 2025-12-08 11:30:30 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_0794_20251208-11h.py](warehouse/can_0794_20251208-11h.py) |
+| 795 | 2025-12-08 13:04:21 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0795_20251208-13h.py](warehouse/can_0795_20251208-13h.py) |
