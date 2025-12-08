@@ -862,3 +862,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 796 | 2025-12-08 13:46:46 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_0796_20251208-13h.py](warehouse/can_0796_20251208-13h.py) |
 | 797 | 2025-12-08 14:40:23 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_0797_20251208-14h.py](warehouse/can_0797_20251208-14h.py) |
 | 798 | 2025-12-08 15:35:14 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_0798_20251208-15h.py](warehouse/can_0798_20251208-15h.py) |
+| 799 | 2025-12-08 16:44:51 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (missing print) | [warehouse/can_0799_20251208-16h.py](warehouse/can_0799_20251208-16h.py) |
