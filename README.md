@@ -851,3 +851,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 785 | 2025-12-08 02:21:06 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0785_20251208-02h.py](warehouse/can_0785_20251208-02h.py) |
 | 786 | 2025-12-08 04:03:20 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_0786_20251208-04h.py](warehouse/can_0786_20251208-04h.py) |
 | 787 | 2025-12-08 04:46:52 | Z.AI: GLM 4.5 | ❌ (broken) | [warehouse/can_0787_20251208-04h.py](warehouse/can_0787_20251208-04h.py) |
+| 788 | 2025-12-08 05:38:28 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0788_20251208-05h.py](warehouse/can_0788_20251208-05h.py) |
