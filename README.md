@@ -879,3 +879,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 813 | 2025-12-09 08:45:44 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_0813_20251209-08h.py](warehouse/can_0813_20251209-08h.py) |
 | 814 | 2025-12-09 09:37:23 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0814_20251209-09h.py](warehouse/can_0814_20251209-09h.py) |
 | 815 | 2025-12-09 10:42:20 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0815_20251209-10h.py](warehouse/can_0815_20251209-10h.py) |
+| 816 | 2025-12-09 11:30:57 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_0816_20251209-11h.py](warehouse/can_0816_20251209-11h.py) |
