@@ -889,3 +889,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 823 | 2025-12-09 18:44:55 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0823_20251209-18h.py](warehouse/can_0823_20251209-18h.py) |
 | 824 | 2025-12-09 19:25:23 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0824_20251209-19h.py](warehouse/can_0824_20251209-19h.py) |
 | 825 | 2025-12-09 20:32:41 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_0825_20251209-20h.py](warehouse/can_0825_20251209-20h.py) |
+| 826 | 2025-12-09 21:31:02 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0826_20251209-21h.py](warehouse/can_0826_20251209-21h.py) |
