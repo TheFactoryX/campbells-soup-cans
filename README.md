@@ -913,3 +913,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 847 | 2025-12-10 20:40:01 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_0847_20251210-20h.py](warehouse/can_0847_20251210-20h.py) |
 | 848 | 2025-12-10 21:35:24 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_0848_20251210-21h.py](warehouse/can_0848_20251210-21h.py) |
 | 849 | 2025-12-10 22:35:19 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0849_20251210-22h.py](warehouse/can_0849_20251210-22h.py) |
+| 850 | 2025-12-10 23:30:24 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0850_20251210-23h.py](warehouse/can_0850_20251210-23h.py) |
