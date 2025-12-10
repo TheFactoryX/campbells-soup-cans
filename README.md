@@ -897,3 +897,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 831 | 2025-12-10 04:46:29 | OpenAI: GPT-4 Turbo Preview | ✅ | [warehouse/can_0831_20251210-04h.py](warehouse/can_0831_20251210-04h.py) |
 | 832 | 2025-12-10 05:37:06 | Qwen: Qwen3 235B A22B (free) | ✅ | [warehouse/can_0832_20251210-05h.py](warehouse/can_0832_20251210-05h.py) |
 | 833 | 2025-12-10 06:49:29 | Mistral: Mistral 7B Instruct (free) | ❌ (broken, missing print) | [warehouse/can_0833_20251210-06h.py](warehouse/can_0833_20251210-06h.py) |
+| 834 | 2025-12-10 07:34:22 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0834_20251210-07h.py](warehouse/can_0834_20251210-07h.py) |
