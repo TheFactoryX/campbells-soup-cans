@@ -899,3 +899,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 833 | 2025-12-10 06:49:29 | Mistral: Mistral 7B Instruct (free) | ❌ (broken, missing print) | [warehouse/can_0833_20251210-06h.py](warehouse/can_0833_20251210-06h.py) |
 | 834 | 2025-12-10 07:34:22 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0834_20251210-07h.py](warehouse/can_0834_20251210-07h.py) |
 | 835 | 2025-12-10 08:45:17 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_0835_20251210-08h.py](warehouse/can_0835_20251210-08h.py) |
+| 836 | 2025-12-10 09:39:31 | Amazon: Nova 2 Lite | ✅ | [warehouse/can_0836_20251210-09h.py](warehouse/can_0836_20251210-09h.py) |
