@@ -893,3 +893,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 827 | 2025-12-09 22:32:53 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_0827_20251209-22h.py](warehouse/can_0827_20251209-22h.py) |
 | 828 | 2025-12-09 23:30:25 | Amazon: Nova 2 Lite (free) | ❌ (broken) | [warehouse/can_0828_20251209-23h.py](warehouse/can_0828_20251209-23h.py) |
 | 829 | 2025-12-10 02:21:57 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0829_20251210-02h.py](warehouse/can_0829_20251210-02h.py) |
+| 830 | 2025-12-10 04:03:04 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0830_20251210-04h.py](warehouse/can_0830_20251210-04h.py) |
