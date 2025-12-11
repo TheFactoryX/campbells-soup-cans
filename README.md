@@ -920,3 +920,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 854 | 2025-12-11 05:39:52 | Google: Nano Banana Pro (Gemini 3 Pro Image Preview) | ✅ | [warehouse/can_0854_20251211-05h.py](warehouse/can_0854_20251211-05h.py) |
 | 855 | 2025-12-11 06:50:44 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_0855_20251211-06h.py](warehouse/can_0855_20251211-06h.py) |
 | 856 | 2025-12-11 07:35:28 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_0856_20251211-07h.py](warehouse/can_0856_20251211-07h.py) |
+| 857 | 2025-12-11 08:45:47 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0857_20251211-08h.py](warehouse/can_0857_20251211-08h.py) |
