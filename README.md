@@ -918,3 +918,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 852 | 2025-12-11 04:04:48 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0852_20251211-04h.py](warehouse/can_0852_20251211-04h.py) |
 | 853 | 2025-12-11 04:48:40 | Google: Gemma 2 27B | ❌ (broken) | [warehouse/can_0853_20251211-04h.py](warehouse/can_0853_20251211-04h.py) |
 | 854 | 2025-12-11 05:39:52 | Google: Nano Banana Pro (Gemini 3 Pro Image Preview) | ✅ | [warehouse/can_0854_20251211-05h.py](warehouse/can_0854_20251211-05h.py) |
+| 855 | 2025-12-11 06:50:44 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_0855_20251211-06h.py](warehouse/can_0855_20251211-06h.py) |
