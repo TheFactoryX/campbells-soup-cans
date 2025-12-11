@@ -931,3 +931,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 865 | 2025-12-11 16:49:11 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0865_20251211-16h.py](warehouse/can_0865_20251211-16h.py) |
 | 866 | 2025-12-11 17:46:26 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_0866_20251211-17h.py](warehouse/can_0866_20251211-17h.py) |
 | 867 | 2025-12-11 18:48:28 | Qwen: Qwen3 30B A3B | ❌ (broken) | [warehouse/can_0867_20251211-18h.py](warehouse/can_0867_20251211-18h.py) |
+| 868 | 2025-12-11 19:32:08 | MoonshotAI: Kimi K2 0905 | ✅ | [warehouse/can_0868_20251211-19h.py](warehouse/can_0868_20251211-19h.py) |
