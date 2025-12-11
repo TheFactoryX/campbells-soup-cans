@@ -924,3 +924,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 858 | 2025-12-11 09:40:07 | Cogito V2 Preview Llama 109B | ✅ | [warehouse/can_0858_20251211-09h.py](warehouse/can_0858_20251211-09h.py) |
 | 859 | 2025-12-11 10:43:30 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_0859_20251211-10h.py](warehouse/can_0859_20251211-10h.py) |
 | 860 | 2025-12-11 11:31:58 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0860_20251211-11h.py](warehouse/can_0860_20251211-11h.py) |
+| 861 | 2025-12-11 13:07:27 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0861_20251211-13h.py](warehouse/can_0861_20251211-13h.py) |
