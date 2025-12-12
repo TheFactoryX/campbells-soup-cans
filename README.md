@@ -940,3 +940,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 874 | 2025-12-12 04:04:22 | Meta: Llama 3.2 3B Instruct (free) | ❌ (broken) | [warehouse/can_0874_20251212-04h.py](warehouse/can_0874_20251212-04h.py) |
 | 875 | 2025-12-12 04:46:53 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_0875_20251212-04h.py](warehouse/can_0875_20251212-04h.py) |
 | 876 | 2025-12-12 05:37:28 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_0876_20251212-05h.py](warehouse/can_0876_20251212-05h.py) |
+| 877 | 2025-12-12 06:49:41 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0877_20251212-06h.py](warehouse/can_0877_20251212-06h.py) |
