@@ -953,3 +953,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 887 | 2025-12-12 16:42:11 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0887_20251212-16h.py](warehouse/can_0887_20251212-16h.py) |
 | 888 | 2025-12-12 17:34:32 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_0888_20251212-17h.py](warehouse/can_0888_20251212-17h.py) |
 | 889 | 2025-12-12 18:47:52 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_0889_20251212-18h.py](warehouse/can_0889_20251212-18h.py) |
+| 890 | 2025-12-12 19:28:55 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_0890_20251212-19h.py](warehouse/can_0890_20251212-19h.py) |
