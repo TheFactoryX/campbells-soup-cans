@@ -943,3 +943,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 877 | 2025-12-12 06:49:41 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0877_20251212-06h.py](warehouse/can_0877_20251212-06h.py) |
 | 878 | 2025-12-12 07:34:53 | Mistral: Mistral Small 3 | ✅ | [warehouse/can_0878_20251212-07h.py](warehouse/can_0878_20251212-07h.py) |
 | 879 | 2025-12-12 08:46:40 | MoonshotAI: Kimi K2 0905 (exacto) | ✅ | [warehouse/can_0879_20251212-08h.py](warehouse/can_0879_20251212-08h.py) |
+| 880 | 2025-12-12 09:39:02 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0880_20251212-09h.py](warehouse/can_0880_20251212-09h.py) |
