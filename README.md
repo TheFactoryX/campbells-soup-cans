@@ -955,3 +955,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 889 | 2025-12-12 18:47:52 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_0889_20251212-18h.py](warehouse/can_0889_20251212-18h.py) |
 | 890 | 2025-12-12 19:28:55 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_0890_20251212-19h.py](warehouse/can_0890_20251212-19h.py) |
 | 891 | 2025-12-12 21:11:56 | Perplexity: Sonar Pro | ❌ (broken) | [warehouse/can_0891_20251212-21h.py](warehouse/can_0891_20251212-21h.py) |
+| 892 | 2025-12-12 21:30:50 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0892_20251212-21h.py](warehouse/can_0892_20251212-21h.py) |
