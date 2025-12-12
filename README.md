@@ -945,3 +945,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 879 | 2025-12-12 08:46:40 | MoonshotAI: Kimi K2 0905 (exacto) | ✅ | [warehouse/can_0879_20251212-08h.py](warehouse/can_0879_20251212-08h.py) |
 | 880 | 2025-12-12 09:39:02 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0880_20251212-09h.py](warehouse/can_0880_20251212-09h.py) |
 | 881 | 2025-12-12 10:41:33 | Z.AI: GLM 4.5 Air (free) | ❌ (empty, missing print) | [warehouse/can_0881_20251212-10h.py](warehouse/can_0881_20251212-10h.py) |
+| 882 | 2025-12-12 11:31:44 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0882_20251212-11h.py](warehouse/can_0882_20251212-11h.py) |
