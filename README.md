@@ -967,3 +967,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 901 | 2025-12-13 08:39:16 | Venice: Uncensored (free) | ✅ | [warehouse/can_0901_20251213-08h.py](warehouse/can_0901_20251213-08h.py) |
 | 902 | 2025-12-13 09:31:02 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_0902_20251213-09h.py](warehouse/can_0902_20251213-09h.py) |
 | 903 | 2025-12-13 10:34:44 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0903_20251213-10h.py](warehouse/can_0903_20251213-10h.py) |
+| 904 | 2025-12-13 11:27:37 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_0904_20251213-11h.py](warehouse/can_0904_20251213-11h.py) |
