@@ -973,3 +973,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 907 | 2025-12-13 14:32:54 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_0907_20251213-14h.py](warehouse/can_0907_20251213-14h.py) |
 | 908 | 2025-12-13 15:31:30 | Mancer: Weaver (alpha) | ❌ (broken, missing print) | [warehouse/can_0908_20251213-15h.py](warehouse/can_0908_20251213-15h.py) |
 | 909 | 2025-12-13 16:39:11 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0909_20251213-16h.py](warehouse/can_0909_20251213-16h.py) |
+| 910 | 2025-12-13 17:30:25 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_0910_20251213-17h.py](warehouse/can_0910_20251213-17h.py) |
