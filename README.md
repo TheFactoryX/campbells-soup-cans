@@ -960,3 +960,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 894 | 2025-12-12 23:30:56 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0894_20251212-23h.py](warehouse/can_0894_20251212-23h.py) |
 | 895 | 2025-12-13 02:16:51 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0895_20251213-02h.py](warehouse/can_0895_20251213-02h.py) |
 | 896 | 2025-12-13 03:56:01 | Amazon: Nova 2 Lite (free) | ❌ (broken) | [warehouse/can_0896_20251213-03h.py](warehouse/can_0896_20251213-03h.py) |
+| 897 | 2025-12-13 04:41:37 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_0897_20251213-04h.py](warehouse/can_0897_20251213-04h.py) |
