@@ -980,3 +980,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 914 | 2025-12-13 21:29:13 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0914_20251213-21h.py](warehouse/can_0914_20251213-21h.py) |
 | 915 | 2025-12-13 22:33:27 | Tongyi DeepResearch 30B A3B (free) | ❌ (broken) | [warehouse/can_0915_20251213-22h.py](warehouse/can_0915_20251213-22h.py) |
 | 916 | 2025-12-13 23:29:59 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_0916_20251213-23h.py](warehouse/can_0916_20251213-23h.py) |
+| 917 | 2025-12-14 02:30:27 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0917_20251214-02h.py](warehouse/can_0917_20251214-02h.py) |
