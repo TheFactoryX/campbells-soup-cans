@@ -994,3 +994,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 928 | 2025-12-14 13:38:14 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_0928_20251214-13h.py](warehouse/can_0928_20251214-13h.py) |
 | 929 | 2025-12-14 14:32:58 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0929_20251214-14h.py](warehouse/can_0929_20251214-14h.py) |
 | 930 | 2025-12-14 15:31:10 | Amazon: Nova 2 Lite (free) | ✅ | [warehouse/can_0930_20251214-15h.py](warehouse/can_0930_20251214-15h.py) |
+| 931 | 2025-12-14 16:38:41 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0931_20251214-16h.py](warehouse/can_0931_20251214-16h.py) |
