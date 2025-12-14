@@ -1000,3 +1000,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 934 | 2025-12-14 19:26:49 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_0934_20251214-19h.py](warehouse/can_0934_20251214-19h.py) |
 | 935 | 2025-12-14 20:34:00 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_0935_20251214-20h.py](warehouse/can_0935_20251214-20h.py) |
 | 936 | 2025-12-14 21:29:53 | Amazon: Nova 2 Lite (free) | ✅ | [warehouse/can_0936_20251214-21h.py](warehouse/can_0936_20251214-21h.py) |
+| 937 | 2025-12-14 22:33:04 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_0937_20251214-22h.py](warehouse/can_0937_20251214-22h.py) |
