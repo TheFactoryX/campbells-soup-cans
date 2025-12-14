@@ -992,3 +992,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 926 | 2025-12-14 11:27:48 | Mistral: Devstral Small 1.1 | ✅ | [warehouse/can_0926_20251214-11h.py](warehouse/can_0926_20251214-11h.py) |
 | 927 | 2025-12-14 12:57:57 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ✅ | [warehouse/can_0927_20251214-12h.py](warehouse/can_0927_20251214-12h.py) |
 | 928 | 2025-12-14 13:38:14 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_0928_20251214-13h.py](warehouse/can_0928_20251214-13h.py) |
+| 929 | 2025-12-14 14:32:58 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_0929_20251214-14h.py](warehouse/can_0929_20251214-14h.py) |
