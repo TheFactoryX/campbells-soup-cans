@@ -997,3 +997,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 931 | 2025-12-14 16:38:41 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0931_20251214-16h.py](warehouse/can_0931_20251214-16h.py) |
 | 932 | 2025-12-14 17:31:07 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_0932_20251214-17h.py](warehouse/can_0932_20251214-17h.py) |
 | 933 | 2025-12-14 18:43:07 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0933_20251214-18h.py](warehouse/can_0933_20251214-18h.py) |
+| 934 | 2025-12-14 19:26:49 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_0934_20251214-19h.py](warehouse/can_0934_20251214-19h.py) |
