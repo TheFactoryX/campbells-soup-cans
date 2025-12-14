@@ -990,3 +990,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 924 | 2025-12-14 09:31:46 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0924_20251214-09h.py](warehouse/can_0924_20251214-09h.py) |
 | 925 | 2025-12-14 10:35:40 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ✅ | [warehouse/can_0925_20251214-10h.py](warehouse/can_0925_20251214-10h.py) |
 | 926 | 2025-12-14 11:27:48 | Mistral: Devstral Small 1.1 | ✅ | [warehouse/can_0926_20251214-11h.py](warehouse/can_0926_20251214-11h.py) |
+| 927 | 2025-12-14 12:57:57 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ✅ | [warehouse/can_0927_20251214-12h.py](warehouse/can_0927_20251214-12h.py) |
