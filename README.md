@@ -1018,3 +1018,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 952 | 2025-12-15 15:40:19 | Mistral: Mistral 7B Instruct (free) | ❌ (broken) | [warehouse/can_0952_20251215-15h.py](warehouse/can_0952_20251215-15h.py) |
 | 953 | 2025-12-15 16:49:13 | Venice: Uncensored (free) | ✅ | [warehouse/can_0953_20251215-16h.py](warehouse/can_0953_20251215-16h.py) |
 | 954 | 2025-12-15 17:40:29 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0954_20251215-17h.py](warehouse/can_0954_20251215-17h.py) |
+| 955 | 2025-12-15 18:49:03 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_0955_20251215-18h.py](warehouse/can_0955_20251215-18h.py) |
