@@ -1006,3 +1006,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 940 | 2025-12-15 04:11:36 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_0940_20251215-04h.py](warehouse/can_0940_20251215-04h.py) |
 | 941 | 2025-12-15 04:53:33 | Google: Gemini 2.5 Flash Lite | ✅ | [warehouse/can_0941_20251215-04h.py](warehouse/can_0941_20251215-04h.py) |
 | 942 | 2025-12-15 05:42:39 | Baidu: ERNIE 4.5 21B A3B | ✅ | [warehouse/can_0942_20251215-05h.py](warehouse/can_0942_20251215-05h.py) |
+| 943 | 2025-12-15 06:51:58 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_0943_20251215-06h.py](warehouse/can_0943_20251215-06h.py) |
