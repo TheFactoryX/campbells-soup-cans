@@ -1021,3 +1021,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 955 | 2025-12-15 18:49:03 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_0955_20251215-18h.py](warehouse/can_0955_20251215-18h.py) |
 | 956 | 2025-12-15 19:31:22 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_0956_20251215-19h.py](warehouse/can_0956_20251215-19h.py) |
 | 957 | 2025-12-15 20:38:05 | Qwen: Qwen3 235B A22B (free) | ❌ (missing print) | [warehouse/can_0957_20251215-20h.py](warehouse/can_0957_20251215-20h.py) |
+| 958 | 2025-12-15 21:32:55 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0958_20251215-21h.py](warehouse/can_0958_20251215-21h.py) |
