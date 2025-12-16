@@ -1033,3 +1033,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 967 | 2025-12-16 08:47:21 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_0967_20251216-08h.py](warehouse/can_0967_20251216-08h.py) |
 | 968 | 2025-12-16 09:40:45 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_0968_20251216-09h.py](warehouse/can_0968_20251216-09h.py) |
 | 969 | 2025-12-16 10:43:44 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0969_20251216-10h.py](warehouse/can_0969_20251216-10h.py) |
+| 970 | 2025-12-16 11:32:24 | Mistral: Mistral 7B Instruct (free) | ❌ (broken, missing print) | [warehouse/can_0970_20251216-11h.py](warehouse/can_0970_20251216-11h.py) |
