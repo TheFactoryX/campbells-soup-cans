@@ -1042,3 +1042,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 976 | 2025-12-16 17:39:44 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0976_20251216-17h.py](warehouse/can_0976_20251216-17h.py) |
 | 977 | 2025-12-16 18:48:48 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0977_20251216-18h.py](warehouse/can_0977_20251216-18h.py) |
 | 978 | 2025-12-16 19:30:32 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_0978_20251216-19h.py](warehouse/can_0978_20251216-19h.py) |
+| 979 | 2025-12-16 20:37:29 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_0979_20251216-20h.py](warehouse/can_0979_20251216-20h.py) |
