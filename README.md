@@ -1024,3 +1024,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 958 | 2025-12-15 21:32:55 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0958_20251215-21h.py](warehouse/can_0958_20251215-21h.py) |
 | 959 | 2025-12-15 22:36:09 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ✅ | [warehouse/can_0959_20251215-22h.py](warehouse/can_0959_20251215-22h.py) |
 | 960 | 2025-12-15 23:32:01 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_0960_20251215-23h.py](warehouse/can_0960_20251215-23h.py) |
+| 961 | 2025-12-16 02:24:46 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_0961_20251216-02h.py](warehouse/can_0961_20251216-02h.py) |
