@@ -1034,3 +1034,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 968 | 2025-12-16 09:40:45 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_0968_20251216-09h.py](warehouse/can_0968_20251216-09h.py) |
 | 969 | 2025-12-16 10:43:44 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0969_20251216-10h.py](warehouse/can_0969_20251216-10h.py) |
 | 970 | 2025-12-16 11:32:24 | Mistral: Mistral 7B Instruct (free) | ❌ (broken, missing print) | [warehouse/can_0970_20251216-11h.py](warehouse/can_0970_20251216-11h.py) |
+| 971 | 2025-12-16 13:06:43 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0971_20251216-13h.py](warehouse/can_0971_20251216-13h.py) |
