@@ -1040,3 +1040,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 974 | 2025-12-16 15:36:27 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0974_20251216-15h.py](warehouse/can_0974_20251216-15h.py) |
 | 975 | 2025-12-16 16:47:09 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_0975_20251216-16h.py](warehouse/can_0975_20251216-16h.py) |
 | 976 | 2025-12-16 17:39:44 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0976_20251216-17h.py](warehouse/can_0976_20251216-17h.py) |
+| 977 | 2025-12-16 18:48:48 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0977_20251216-18h.py](warehouse/can_0977_20251216-18h.py) |
