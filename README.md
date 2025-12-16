@@ -1036,3 +1036,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 970 | 2025-12-16 11:32:24 | Mistral: Mistral 7B Instruct (free) | ❌ (broken, missing print) | [warehouse/can_0970_20251216-11h.py](warehouse/can_0970_20251216-11h.py) |
 | 971 | 2025-12-16 13:06:43 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0971_20251216-13h.py](warehouse/can_0971_20251216-13h.py) |
 | 972 | 2025-12-16 13:50:46 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_0972_20251216-13h.py](warehouse/can_0972_20251216-13h.py) |
+| 973 | 2025-12-16 14:43:48 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_0973_20251216-14h.py](warehouse/can_0973_20251216-14h.py) |
