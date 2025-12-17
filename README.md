@@ -1052,3 +1052,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 986 | 2025-12-17 05:38:49 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_0986_20251217-05h.py](warehouse/can_0986_20251217-05h.py) |
 | 987 | 2025-12-17 06:49:29 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_0987_20251217-06h.py](warehouse/can_0987_20251217-06h.py) |
 | 988 | 2025-12-17 07:34:07 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_0988_20251217-07h.py](warehouse/can_0988_20251217-07h.py) |
+| 989 | 2025-12-17 08:46:23 | Qwen: Qwen2.5-VL 7B Instruct (free) | ✅ | [warehouse/can_0989_20251217-08h.py](warehouse/can_0989_20251217-08h.py) |
