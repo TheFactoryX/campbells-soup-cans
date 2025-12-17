@@ -1060,3 +1060,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 994 | 2025-12-17 13:46:20 | Qwen: Qwen2.5-VL 7B Instruct (free) | ❌ (broken) | [warehouse/can_0994_20251217-13h.py](warehouse/can_0994_20251217-13h.py) |
 | 995 | 2025-12-17 14:42:04 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_0995_20251217-14h.py](warehouse/can_0995_20251217-14h.py) |
 | 996 | 2025-12-17 15:38:57 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0996_20251217-15h.py](warehouse/can_0996_20251217-15h.py) |
+| 997 | 2025-12-17 16:47:18 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_0997_20251217-16h.py](warehouse/can_0997_20251217-16h.py) |
