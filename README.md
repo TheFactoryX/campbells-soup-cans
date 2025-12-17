@@ -1057,3 +1057,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 991 | 2025-12-17 10:42:50 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_0991_20251217-10h.py](warehouse/can_0991_20251217-10h.py) |
 | 992 | 2025-12-17 11:32:00 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0992_20251217-11h.py](warehouse/can_0992_20251217-11h.py) |
 | 993 | 2025-12-17 13:06:40 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_0993_20251217-13h.py](warehouse/can_0993_20251217-13h.py) |
+| 994 | 2025-12-17 13:46:20 | Qwen: Qwen2.5-VL 7B Instruct (free) | ❌ (broken) | [warehouse/can_0994_20251217-13h.py](warehouse/can_0994_20251217-13h.py) |
