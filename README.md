@@ -1087,3 +1087,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1021 | 2025-12-18 18:48:27 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1021_20251218-18h.py](warehouse/can_1021_20251218-18h.py) |
 | 1022 | 2025-12-18 19:27:16 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_1022_20251218-19h.py](warehouse/can_1022_20251218-19h.py) |
 | 1023 | 2025-12-18 20:32:44 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1023_20251218-20h.py](warehouse/can_1023_20251218-20h.py) |
+| 1024 | 2025-12-18 21:28:55 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1024_20251218-21h.py](warehouse/can_1024_20251218-21h.py) |
