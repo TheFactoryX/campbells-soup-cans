@@ -1074,3 +1074,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1008 | 2025-12-18 05:38:55 | Tongyi DeepResearch 30B A3B (free) | ❌ (empty, missing print) | [warehouse/can_1008_20251218-05h.py](warehouse/can_1008_20251218-05h.py) |
 | 1009 | 2025-12-18 06:49:37 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1009_20251218-06h.py](warehouse/can_1009_20251218-06h.py) |
 | 1010 | 2025-12-18 07:33:49 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1010_20251218-07h.py](warehouse/can_1010_20251218-07h.py) |
+| 1011 | 2025-12-18 08:45:27 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_1011_20251218-08h.py](warehouse/can_1011_20251218-08h.py) |
