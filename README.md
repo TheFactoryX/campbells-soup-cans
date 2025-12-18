@@ -1068,3 +1068,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1002 | 2025-12-17 21:33:01 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_1002_20251217-21h.py](warehouse/can_1002_20251217-21h.py) |
 | 1003 | 2025-12-17 22:36:09 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_1003_20251217-22h.py](warehouse/can_1003_20251217-22h.py) |
 | 1004 | 2025-12-17 23:31:32 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1004_20251217-23h.py](warehouse/can_1004_20251217-23h.py) |
+| 1005 | 2025-12-18 02:20:09 | Venice: Uncensored (free) | ✅ | [warehouse/can_1005_20251218-02h.py](warehouse/can_1005_20251218-02h.py) |
