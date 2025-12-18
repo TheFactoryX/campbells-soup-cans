@@ -1071,3 +1071,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1005 | 2025-12-18 02:20:09 | Venice: Uncensored (free) | ✅ | [warehouse/can_1005_20251218-02h.py](warehouse/can_1005_20251218-02h.py) |
 | 1006 | 2025-12-18 04:03:21 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_1006_20251218-04h.py](warehouse/can_1006_20251218-04h.py) |
 | 1007 | 2025-12-18 04:46:50 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1007_20251218-04h.py](warehouse/can_1007_20251218-04h.py) |
+| 1008 | 2025-12-18 05:38:55 | Tongyi DeepResearch 30B A3B (free) | ❌ (empty, missing print) | [warehouse/can_1008_20251218-05h.py](warehouse/can_1008_20251218-05h.py) |
