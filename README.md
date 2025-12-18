@@ -1089,3 +1089,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1023 | 2025-12-18 20:32:44 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1023_20251218-20h.py](warehouse/can_1023_20251218-20h.py) |
 | 1024 | 2025-12-18 21:28:55 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1024_20251218-21h.py](warehouse/can_1024_20251218-21h.py) |
 | 1025 | 2025-12-18 22:35:13 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_1025_20251218-22h.py](warehouse/can_1025_20251218-22h.py) |
+| 1026 | 2025-12-18 23:31:23 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_1026_20251218-23h.py](warehouse/can_1026_20251218-23h.py) |
