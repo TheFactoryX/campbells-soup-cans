@@ -1080,3 +1080,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1014 | 2025-12-18 11:31:17 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1014_20251218-11h.py](warehouse/can_1014_20251218-11h.py) |
 | 1015 | 2025-12-18 13:04:53 | Qwen: Qwen2.5-VL 7B Instruct (free) | ✅ | [warehouse/can_1015_20251218-13h.py](warehouse/can_1015_20251218-13h.py) |
 | 1016 | 2025-12-18 13:49:04 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_1016_20251218-13h.py](warehouse/can_1016_20251218-13h.py) |
+| 1017 | 2025-12-18 14:41:17 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1017_20251218-14h.py](warehouse/can_1017_20251218-14h.py) |
