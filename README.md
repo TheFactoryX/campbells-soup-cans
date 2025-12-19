@@ -1103,3 +1103,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1037 | 2025-12-19 13:03:04 | Qwen: Qwen3 Coder 480B A35B | ✅ | [warehouse/can_1037_20251219-13h.py](warehouse/can_1037_20251219-13h.py) |
 | 1038 | 2025-12-19 13:45:33 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_1038_20251219-13h.py](warehouse/can_1038_20251219-13h.py) |
 | 1039 | 2025-12-19 14:37:41 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1039_20251219-14h.py](warehouse/can_1039_20251219-14h.py) |
+| 1040 | 2025-12-19 15:35:17 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_1040_20251219-15h.py](warehouse/can_1040_20251219-15h.py) |
