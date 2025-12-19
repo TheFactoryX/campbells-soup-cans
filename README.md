@@ -1096,3 +1096,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1030 | 2025-12-19 05:37:54 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1030_20251219-05h.py](warehouse/can_1030_20251219-05h.py) |
 | 1031 | 2025-12-19 06:48:25 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_1031_20251219-06h.py](warehouse/can_1031_20251219-06h.py) |
 | 1032 | 2025-12-19 07:33:21 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_1032_20251219-07h.py](warehouse/can_1032_20251219-07h.py) |
+| 1033 | 2025-12-19 08:45:08 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1033_20251219-08h.py](warehouse/can_1033_20251219-08h.py) |
