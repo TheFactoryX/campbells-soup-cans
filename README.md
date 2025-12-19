@@ -1091,3 +1091,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1025 | 2025-12-18 22:35:13 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_1025_20251218-22h.py](warehouse/can_1025_20251218-22h.py) |
 | 1026 | 2025-12-18 23:31:23 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_1026_20251218-23h.py](warehouse/can_1026_20251218-23h.py) |
 | 1027 | 2025-12-19 02:23:20 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1027_20251219-02h.py](warehouse/can_1027_20251219-02h.py) |
+| 1028 | 2025-12-19 04:04:18 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1028_20251219-04h.py](warehouse/can_1028_20251219-04h.py) |
