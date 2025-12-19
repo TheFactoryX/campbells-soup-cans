@@ -1099,3 +1099,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1033 | 2025-12-19 08:45:08 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1033_20251219-08h.py](warehouse/can_1033_20251219-08h.py) |
 | 1034 | 2025-12-19 09:37:27 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1034_20251219-09h.py](warehouse/can_1034_20251219-09h.py) |
 | 1035 | 2025-12-19 10:40:31 | Venice: Uncensored (free) | ✅ | [warehouse/can_1035_20251219-10h.py](warehouse/can_1035_20251219-10h.py) |
+| 1036 | 2025-12-19 11:30:26 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1036_20251219-11h.py](warehouse/can_1036_20251219-11h.py) |
