@@ -1128,3 +1128,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1062 | 2025-12-20 15:31:02 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1062_20251220-15h.py](warehouse/can_1062_20251220-15h.py) |
 | 1063 | 2025-12-20 16:37:40 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1063_20251220-16h.py](warehouse/can_1063_20251220-16h.py) |
 | 1064 | 2025-12-20 17:30:16 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1064_20251220-17h.py](warehouse/can_1064_20251220-17h.py) |
+| 1065 | 2025-12-20 18:41:04 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_1065_20251220-18h.py](warehouse/can_1065_20251220-18h.py) |
