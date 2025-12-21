@@ -1151,3 +1151,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1085 | 2025-12-21 16:38:26 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_1085_20251221-16h.py](warehouse/can_1085_20251221-16h.py) |
 | 1086 | 2025-12-21 17:31:05 | Meta: Llama 3.1 405B Instruct (free) | ✅ | [warehouse/can_1086_20251221-17h.py](warehouse/can_1086_20251221-17h.py) |
 | 1087 | 2025-12-21 18:43:18 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_1087_20251221-18h.py](warehouse/can_1087_20251221-18h.py) |
+| 1088 | 2025-12-21 19:26:44 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1088_20251221-19h.py](warehouse/can_1088_20251221-19h.py) |
