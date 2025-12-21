@@ -1146,3 +1146,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1080 | 2025-12-21 11:28:01 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1080_20251221-11h.py](warehouse/can_1080_20251221-11h.py) |
 | 1081 | 2025-12-21 12:58:10 | AllenAI: Olmo 3.1 32B Think (free) | ✅ | [warehouse/can_1081_20251221-12h.py](warehouse/can_1081_20251221-12h.py) |
 | 1082 | 2025-12-21 13:38:59 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1082_20251221-13h.py](warehouse/can_1082_20251221-13h.py) |
+| 1083 | 2025-12-21 14:33:06 | Venice: Uncensored (free) | ✅ | [warehouse/can_1083_20251221-14h.py](warehouse/can_1083_20251221-14h.py) |
