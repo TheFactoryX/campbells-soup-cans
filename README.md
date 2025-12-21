@@ -1149,3 +1149,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1083 | 2025-12-21 14:33:06 | Venice: Uncensored (free) | ✅ | [warehouse/can_1083_20251221-14h.py](warehouse/can_1083_20251221-14h.py) |
 | 1084 | 2025-12-21 15:30:54 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_1084_20251221-15h.py](warehouse/can_1084_20251221-15h.py) |
 | 1085 | 2025-12-21 16:38:26 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_1085_20251221-16h.py](warehouse/can_1085_20251221-16h.py) |
+| 1086 | 2025-12-21 17:31:05 | Meta: Llama 3.1 405B Instruct (free) | ✅ | [warehouse/can_1086_20251221-17h.py](warehouse/can_1086_20251221-17h.py) |
