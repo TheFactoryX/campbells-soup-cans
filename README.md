@@ -1154,3 +1154,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1088 | 2025-12-21 19:26:44 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1088_20251221-19h.py](warehouse/can_1088_20251221-19h.py) |
 | 1089 | 2025-12-21 20:34:17 | Tongyi DeepResearch 30B A3B (free) | ✅ | [warehouse/can_1089_20251221-20h.py](warehouse/can_1089_20251221-20h.py) |
 | 1090 | 2025-12-21 21:29:48 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_1090_20251221-21h.py](warehouse/can_1090_20251221-21h.py) |
+| 1091 | 2025-12-21 22:34:17 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_1091_20251221-22h.py](warehouse/can_1091_20251221-22h.py) |
