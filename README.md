@@ -1159,3 +1159,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1093 | 2025-12-22 02:30:01 | OpenAI: GPT-5.1 Chat | ✅ | [warehouse/can_1093_20251222-02h.py](warehouse/can_1093_20251222-02h.py) |
 | 1094 | 2025-12-22 04:12:01 | Meta: Llama 3.2 3B Instruct (free) | ✅ | [warehouse/can_1094_20251222-04h.py](warehouse/can_1094_20251222-04h.py) |
 | 1095 | 2025-12-22 04:52:46 | AllenAI: Olmo 3.1 32B Think (free) | ✅ | [warehouse/can_1095_20251222-04h.py](warehouse/can_1095_20251222-04h.py) |
+| 1096 | 2025-12-22 05:40:44 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1096_20251222-05h.py](warehouse/can_1096_20251222-05h.py) |
