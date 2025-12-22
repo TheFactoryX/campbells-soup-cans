@@ -1177,3 +1177,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1111 | 2025-12-22 20:35:22 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_1111_20251222-20h.py](warehouse/can_1111_20251222-20h.py) |
 | 1112 | 2025-12-22 21:30:59 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ✅ | [warehouse/can_1112_20251222-21h.py](warehouse/can_1112_20251222-21h.py) |
 | 1113 | 2025-12-22 22:35:55 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_1113_20251222-22h.py](warehouse/can_1113_20251222-22h.py) |
+| 1114 | 2025-12-22 23:31:34 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_1114_20251222-23h.py](warehouse/can_1114_20251222-23h.py) |
