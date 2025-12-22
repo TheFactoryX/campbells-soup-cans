@@ -1156,3 +1156,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1090 | 2025-12-21 21:29:48 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_1090_20251221-21h.py](warehouse/can_1090_20251221-21h.py) |
 | 1091 | 2025-12-21 22:34:17 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_1091_20251221-22h.py](warehouse/can_1091_20251221-22h.py) |
 | 1092 | 2025-12-21 23:30:27 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1092_20251221-23h.py](warehouse/can_1092_20251221-23h.py) |
+| 1093 | 2025-12-22 02:30:01 | OpenAI: GPT-5.1 Chat | ✅ | [warehouse/can_1093_20251222-02h.py](warehouse/can_1093_20251222-02h.py) |
