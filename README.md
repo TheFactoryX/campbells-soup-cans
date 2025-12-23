@@ -1187,3 +1187,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1121 | 2025-12-23 08:45:45 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_1121_20251223-08h.py](warehouse/can_1121_20251223-08h.py) |
 | 1122 | 2025-12-23 09:38:47 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_1122_20251223-09h.py](warehouse/can_1122_20251223-09h.py) |
 | 1123 | 2025-12-23 10:41:53 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_1123_20251223-10h.py](warehouse/can_1123_20251223-10h.py) |
+| 1124 | 2025-12-23 11:31:00 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1124_20251223-11h.py](warehouse/can_1124_20251223-11h.py) |
