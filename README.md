@@ -1181,3 +1181,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1115 | 2025-12-23 02:24:57 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1115_20251223-02h.py](warehouse/can_1115_20251223-02h.py) |
 | 1116 | 2025-12-23 04:07:19 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_1116_20251223-04h.py](warehouse/can_1116_20251223-04h.py) |
 | 1117 | 2025-12-23 04:50:26 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_1117_20251223-04h.py](warehouse/can_1117_20251223-04h.py) |
+| 1118 | 2025-12-23 05:41:26 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_1118_20251223-05h.py](warehouse/can_1118_20251223-05h.py) |
