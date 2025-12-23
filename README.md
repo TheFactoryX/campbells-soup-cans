@@ -1199,3 +1199,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1133 | 2025-12-23 20:35:13 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_1133_20251223-20h.py](warehouse/can_1133_20251223-20h.py) |
 | 1134 | 2025-12-23 21:31:06 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1134_20251223-21h.py](warehouse/can_1134_20251223-21h.py) |
 | 1135 | 2025-12-23 22:34:57 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_1135_20251223-22h.py](warehouse/can_1135_20251223-22h.py) |
+| 1136 | 2025-12-23 23:31:04 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ✅ | [warehouse/can_1136_20251223-23h.py](warehouse/can_1136_20251223-23h.py) |
