@@ -1198,3 +1198,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1132 | 2025-12-23 19:28:43 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1132_20251223-19h.py](warehouse/can_1132_20251223-19h.py) |
 | 1133 | 2025-12-23 20:35:13 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_1133_20251223-20h.py](warehouse/can_1133_20251223-20h.py) |
 | 1134 | 2025-12-23 21:31:06 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1134_20251223-21h.py](warehouse/can_1134_20251223-21h.py) |
+| 1135 | 2025-12-23 22:34:57 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_1135_20251223-22h.py](warehouse/can_1135_20251223-22h.py) |
