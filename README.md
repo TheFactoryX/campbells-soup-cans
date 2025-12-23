@@ -1180,3 +1180,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1114 | 2025-12-22 23:31:34 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_1114_20251222-23h.py](warehouse/can_1114_20251222-23h.py) |
 | 1115 | 2025-12-23 02:24:57 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1115_20251223-02h.py](warehouse/can_1115_20251223-02h.py) |
 | 1116 | 2025-12-23 04:07:19 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_1116_20251223-04h.py](warehouse/can_1116_20251223-04h.py) |
+| 1117 | 2025-12-23 04:50:26 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_1117_20251223-04h.py](warehouse/can_1117_20251223-04h.py) |
