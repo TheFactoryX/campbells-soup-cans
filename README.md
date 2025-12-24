@@ -1219,3 +1219,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1153 | 2025-12-24 18:45:54 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1153_20251224-18h.py](warehouse/can_1153_20251224-18h.py) |
 | 1154 | 2025-12-24 19:27:39 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_1154_20251224-19h.py](warehouse/can_1154_20251224-19h.py) |
 | 1155 | 2025-12-24 20:34:37 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1155_20251224-20h.py](warehouse/can_1155_20251224-20h.py) |
+| 1156 | 2025-12-24 21:30:39 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_1156_20251224-21h.py](warehouse/can_1156_20251224-21h.py) |
