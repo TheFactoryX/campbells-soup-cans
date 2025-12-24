@@ -1217,3 +1217,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1151 | 2025-12-24 16:41:35 | Kwaipilot: KAT-Coder-Pro V1 (free) | ❌ (broken) | [warehouse/can_1151_20251224-16h.py](warehouse/can_1151_20251224-16h.py) |
 | 1152 | 2025-12-24 17:32:19 | Meta: Llama 3.1 405B Instruct (free) | ✅ | [warehouse/can_1152_20251224-17h.py](warehouse/can_1152_20251224-17h.py) |
 | 1153 | 2025-12-24 18:45:54 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1153_20251224-18h.py](warehouse/can_1153_20251224-18h.py) |
+| 1154 | 2025-12-24 19:27:39 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_1154_20251224-19h.py](warehouse/can_1154_20251224-19h.py) |
