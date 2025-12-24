@@ -1206,3 +1206,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1140 | 2025-12-24 05:41:20 | Google: Gemini 2.5 Flash Lite Preview 09-2025 | ✅ | [warehouse/can_1140_20251224-05h.py](warehouse/can_1140_20251224-05h.py) |
 | 1141 | 2025-12-24 06:50:25 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_1141_20251224-06h.py](warehouse/can_1141_20251224-06h.py) |
 | 1142 | 2025-12-24 07:35:13 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1142_20251224-07h.py](warehouse/can_1142_20251224-07h.py) |
+| 1143 | 2025-12-24 08:45:26 | AllenAI: Olmo 3.1 32B Think (free) | ✅ | [warehouse/can_1143_20251224-08h.py](warehouse/can_1143_20251224-08h.py) |
