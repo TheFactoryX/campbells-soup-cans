@@ -1211,3 +1211,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1145 | 2025-12-24 10:39:02 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1145_20251224-10h.py](warehouse/can_1145_20251224-10h.py) |
 | 1146 | 2025-12-24 11:30:09 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1146_20251224-11h.py](warehouse/can_1146_20251224-11h.py) |
 | 1147 | 2025-12-24 13:02:20 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1147_20251224-13h.py](warehouse/can_1147_20251224-13h.py) |
+| 1148 | 2025-12-24 13:44:04 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1148_20251224-13h.py](warehouse/can_1148_20251224-13h.py) |
