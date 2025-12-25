@@ -1243,3 +1243,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1177 | 2025-12-25 20:35:37 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1177_20251225-20h.py](warehouse/can_1177_20251225-20h.py) |
 | 1178 | 2025-12-25 21:30:46 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1178_20251225-21h.py](warehouse/can_1178_20251225-21h.py) |
 | 1179 | 2025-12-25 22:34:57 | Baidu: ERNIE 4.5 VL 28B A3B | ✅ | [warehouse/can_1179_20251225-22h.py](warehouse/can_1179_20251225-22h.py) |
+| 1180 | 2025-12-25 23:31:17 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1180_20251225-23h.py](warehouse/can_1180_20251225-23h.py) |
