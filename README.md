@@ -1222,3 +1222,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1156 | 2025-12-24 21:30:39 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_1156_20251224-21h.py](warehouse/can_1156_20251224-21h.py) |
 | 1157 | 2025-12-24 22:35:00 | AllenAI: Olmo 3.1 32B Think (free) | ✅ | [warehouse/can_1157_20251224-22h.py](warehouse/can_1157_20251224-22h.py) |
 | 1158 | 2025-12-24 23:31:18 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_1158_20251224-23h.py](warehouse/can_1158_20251224-23h.py) |
+| 1159 | 2025-12-25 02:25:30 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_1159_20251225-02h.py](warehouse/can_1159_20251225-02h.py) |
