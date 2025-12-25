@@ -1224,3 +1224,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1158 | 2025-12-24 23:31:18 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_1158_20251224-23h.py](warehouse/can_1158_20251224-23h.py) |
 | 1159 | 2025-12-25 02:25:30 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_1159_20251225-02h.py](warehouse/can_1159_20251225-02h.py) |
 | 1160 | 2025-12-25 04:07:14 | Venice: Uncensored (free) | ✅ | [warehouse/can_1160_20251225-04h.py](warehouse/can_1160_20251225-04h.py) |
+| 1161 | 2025-12-25 04:50:40 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_1161_20251225-04h.py](warehouse/can_1161_20251225-04h.py) |
