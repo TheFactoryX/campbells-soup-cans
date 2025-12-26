@@ -1252,3 +1252,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1186 | 2025-12-26 07:33:33 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_1186_20251226-07h.py](warehouse/can_1186_20251226-07h.py) |
 | 1187 | 2025-12-26 08:43:55 | Cohere: Command R7B (12-2024) | ✅ | [warehouse/can_1187_20251226-08h.py](warehouse/can_1187_20251226-08h.py) |
 | 1188 | 2025-12-26 09:35:19 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ✅ | [warehouse/can_1188_20251226-09h.py](warehouse/can_1188_20251226-09h.py) |
+| 1189 | 2025-12-26 10:38:30 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_1189_20251226-10h.py](warehouse/can_1189_20251226-10h.py) |
