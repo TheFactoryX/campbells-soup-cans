@@ -1259,3 +1259,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1193 | 2025-12-26 14:35:48 | Qwen: Qwen-Turbo | ✅ | [warehouse/can_1193_20251226-14h.py](warehouse/can_1193_20251226-14h.py) |
 | 1194 | 2025-12-26 15:34:12 | Mistral Large 2411 | ✅ | [warehouse/can_1194_20251226-15h.py](warehouse/can_1194_20251226-15h.py) |
 | 1195 | 2025-12-26 16:40:25 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1195_20251226-16h.py](warehouse/can_1195_20251226-16h.py) |
+| 1196 | 2025-12-26 17:31:42 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_1196_20251226-17h.py](warehouse/can_1196_20251226-17h.py) |
