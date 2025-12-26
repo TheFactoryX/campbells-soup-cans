@@ -1249,3 +1249,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1183 | 2025-12-26 04:47:58 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1183_20251226-04h.py](warehouse/can_1183_20251226-04h.py) |
 | 1184 | 2025-12-26 05:37:58 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1184_20251226-05h.py](warehouse/can_1184_20251226-05h.py) |
 | 1185 | 2025-12-26 06:48:55 | Mistral: Saba | ✅ | [warehouse/can_1185_20251226-06h.py](warehouse/can_1185_20251226-06h.py) |
+| 1186 | 2025-12-26 07:33:33 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_1186_20251226-07h.py](warehouse/can_1186_20251226-07h.py) |
