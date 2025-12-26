@@ -1264,3 +1264,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1198 | 2025-12-26 19:27:59 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1198_20251226-19h.py](warehouse/can_1198_20251226-19h.py) |
 | 1199 | 2025-12-26 20:33:52 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1199_20251226-20h.py](warehouse/can_1199_20251226-20h.py) |
 | 1200 | 2025-12-26 21:30:04 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1200_20251226-21h.py](warehouse/can_1200_20251226-21h.py) |
+| 1201 | 2025-12-26 22:35:10 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_1201_20251226-22h.py](warehouse/can_1201_20251226-22h.py) |
