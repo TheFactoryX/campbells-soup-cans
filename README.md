@@ -1272,3 +1272,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1206 | 2025-12-27 05:36:34 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_1206_20251227-05h.py](warehouse/can_1206_20251227-05h.py) |
 | 1207 | 2025-12-27 06:47:15 | ByteDance Seed: Seed 1.6 | ✅ | [warehouse/can_1207_20251227-06h.py](warehouse/can_1207_20251227-06h.py) |
 | 1208 | 2025-12-27 07:30:50 | AllenAI: Olmo 3.1 32B Think (free) | ✅ | [warehouse/can_1208_20251227-07h.py](warehouse/can_1208_20251227-07h.py) |
+| 1209 | 2025-12-27 08:41:53 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1209_20251227-08h.py](warehouse/can_1209_20251227-08h.py) |
