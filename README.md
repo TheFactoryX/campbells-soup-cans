@@ -1270,3 +1270,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1204 | 2025-12-27 04:02:46 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1204_20251227-04h.py](warehouse/can_1204_20251227-04h.py) |
 | 1205 | 2025-12-27 04:45:37 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1205_20251227-04h.py](warehouse/can_1205_20251227-04h.py) |
 | 1206 | 2025-12-27 05:36:34 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_1206_20251227-05h.py](warehouse/can_1206_20251227-05h.py) |
+| 1207 | 2025-12-27 06:47:15 | ByteDance Seed: Seed 1.6 | ✅ | [warehouse/can_1207_20251227-06h.py](warehouse/can_1207_20251227-06h.py) |
