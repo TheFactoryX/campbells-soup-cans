@@ -1278,3 +1278,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1212 | 2025-12-27 11:27:51 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ❌ (broken) | [warehouse/can_1212_20251227-11h.py](warehouse/can_1212_20251227-11h.py) |
 | 1213 | 2025-12-27 12:59:09 | Venice: Uncensored (free) | ✅ | [warehouse/can_1213_20251227-12h.py](warehouse/can_1213_20251227-12h.py) |
 | 1214 | 2025-12-27 13:40:00 | Meta: Llama 3.1 405B Instruct (free) | ✅ | [warehouse/can_1214_20251227-13h.py](warehouse/can_1214_20251227-13h.py) |
+| 1215 | 2025-12-27 14:33:26 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_1215_20251227-14h.py](warehouse/can_1215_20251227-14h.py) |
