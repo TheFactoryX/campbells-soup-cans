@@ -1274,3 +1274,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1208 | 2025-12-27 07:30:50 | AllenAI: Olmo 3.1 32B Think (free) | ✅ | [warehouse/can_1208_20251227-07h.py](warehouse/can_1208_20251227-07h.py) |
 | 1209 | 2025-12-27 08:41:53 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1209_20251227-08h.py](warehouse/can_1209_20251227-08h.py) |
 | 1210 | 2025-12-27 09:33:15 | Venice: Uncensored (free) | ✅ | [warehouse/can_1210_20251227-09h.py](warehouse/can_1210_20251227-09h.py) |
+| 1211 | 2025-12-27 10:36:18 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1211_20251227-10h.py](warehouse/can_1211_20251227-10h.py) |
