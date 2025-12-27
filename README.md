@@ -1281,3 +1281,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1215 | 2025-12-27 14:33:26 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_1215_20251227-14h.py](warehouse/can_1215_20251227-14h.py) |
 | 1216 | 2025-12-27 15:31:27 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1216_20251227-15h.py](warehouse/can_1216_20251227-15h.py) |
 | 1217 | 2025-12-27 16:39:54 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1217_20251227-16h.py](warehouse/can_1217_20251227-16h.py) |
+| 1218 | 2025-12-27 17:31:47 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1218_20251227-17h.py](warehouse/can_1218_20251227-17h.py) |
