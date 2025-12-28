@@ -1298,3 +1298,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1232 | 2025-12-28 09:33:07 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_1232_20251228-09h.py](warehouse/can_1232_20251228-09h.py) |
 | 1233 | 2025-12-28 10:36:48 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_1233_20251228-10h.py](warehouse/can_1233_20251228-10h.py) |
 | 1234 | 2025-12-28 11:28:32 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_1234_20251228-11h.py](warehouse/can_1234_20251228-11h.py) |
+| 1235 | 2025-12-28 13:00:21 | TNG: R1T Chimera (free) | ❌ (broken) | [warehouse/can_1235_20251228-13h.py](warehouse/can_1235_20251228-13h.py) |
