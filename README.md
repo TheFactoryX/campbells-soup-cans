@@ -1308,3 +1308,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1242 | 2025-12-28 19:27:47 | Google: Gemini 2.0 Flash Experimental (free) | ❌ (broken) | [warehouse/can_1242_20251228-19h.py](warehouse/can_1242_20251228-19h.py) |
 | 1243 | 2025-12-28 20:35:29 | Nous: Hermes 3 405B Instruct (free) | ❌ (broken) | [warehouse/can_1243_20251228-20h.py](warehouse/can_1243_20251228-20h.py) |
 | 1244 | 2025-12-28 21:30:44 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1244_20251228-21h.py](warehouse/can_1244_20251228-21h.py) |
+| 1245 | 2025-12-28 22:35:17 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1245_20251228-22h.py](warehouse/can_1245_20251228-22h.py) |
