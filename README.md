@@ -1290,3 +1290,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1224 | 2025-12-27 23:31:00 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1224_20251227-23h.py](warehouse/can_1224_20251227-23h.py) |
 | 1225 | 2025-12-28 02:37:24 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1225_20251228-02h.py](warehouse/can_1225_20251228-02h.py) |
 | 1226 | 2025-12-28 04:15:58 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ✅ | [warehouse/can_1226_20251228-04h.py](warehouse/can_1226_20251228-04h.py) |
+| 1227 | 2025-12-28 04:56:41 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1227_20251228-04h.py](warehouse/can_1227_20251228-04h.py) |
