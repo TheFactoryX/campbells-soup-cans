@@ -1292,3 +1292,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1226 | 2025-12-28 04:15:58 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ✅ | [warehouse/can_1226_20251228-04h.py](warehouse/can_1226_20251228-04h.py) |
 | 1227 | 2025-12-28 04:56:41 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1227_20251228-04h.py](warehouse/can_1227_20251228-04h.py) |
 | 1228 | 2025-12-28 05:41:10 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_1228_20251228-05h.py](warehouse/can_1228_20251228-05h.py) |
+| 1229 | 2025-12-28 06:47:10 | Meta: Llama 3.2 3B Instruct (free) | ❌ (broken) | [warehouse/can_1229_20251228-06h.py](warehouse/can_1229_20251228-06h.py) |
