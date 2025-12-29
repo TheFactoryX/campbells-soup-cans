@@ -1324,3 +1324,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1258 | 2025-12-29 14:39:41 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_1258_20251229-14h.py](warehouse/can_1258_20251229-14h.py) |
 | 1259 | 2025-12-29 15:35:31 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1259_20251229-15h.py](warehouse/can_1259_20251229-15h.py) |
 | 1260 | 2025-12-29 16:42:27 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1260_20251229-16h.py](warehouse/can_1260_20251229-16h.py) |
+| 1261 | 2025-12-29 17:33:20 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_1261_20251229-17h.py](warehouse/can_1261_20251229-17h.py) |
