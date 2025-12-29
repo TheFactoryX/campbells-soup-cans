@@ -1320,3 +1320,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1254 | 2025-12-29 10:42:43 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ✅ | [warehouse/can_1254_20251229-10h.py](warehouse/can_1254_20251229-10h.py) |
 | 1255 | 2025-12-29 11:31:19 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1255_20251229-11h.py](warehouse/can_1255_20251229-11h.py) |
 | 1256 | 2025-12-29 13:06:52 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_1256_20251229-13h.py](warehouse/can_1256_20251229-13h.py) |
+| 1257 | 2025-12-29 13:49:04 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_1257_20251229-13h.py](warehouse/can_1257_20251229-13h.py) |
