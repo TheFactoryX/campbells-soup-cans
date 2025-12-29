@@ -1322,3 +1322,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1256 | 2025-12-29 13:06:52 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_1256_20251229-13h.py](warehouse/can_1256_20251229-13h.py) |
 | 1257 | 2025-12-29 13:49:04 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_1257_20251229-13h.py](warehouse/can_1257_20251229-13h.py) |
 | 1258 | 2025-12-29 14:39:41 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_1258_20251229-14h.py](warehouse/can_1258_20251229-14h.py) |
+| 1259 | 2025-12-29 15:35:31 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1259_20251229-15h.py](warehouse/can_1259_20251229-15h.py) |
