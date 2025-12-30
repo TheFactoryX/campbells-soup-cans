@@ -1346,3 +1346,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1280 | 2025-12-30 14:38:09 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1280_20251230-14h.py](warehouse/can_1280_20251230-14h.py) |
 | 1281 | 2025-12-30 15:35:12 | Venice: Uncensored (free) | ✅ | [warehouse/can_1281_20251230-15h.py](warehouse/can_1281_20251230-15h.py) |
 | 1282 | 2025-12-30 16:44:52 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1282_20251230-16h.py](warehouse/can_1282_20251230-16h.py) |
+| 1283 | 2025-12-30 17:35:42 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1283_20251230-17h.py](warehouse/can_1283_20251230-17h.py) |
