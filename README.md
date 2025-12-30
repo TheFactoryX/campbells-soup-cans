@@ -1334,3 +1334,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1268 | 2025-12-30 02:25:57 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_1268_20251230-02h.py](warehouse/can_1268_20251230-02h.py) |
 | 1269 | 2025-12-30 04:08:35 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_1269_20251230-04h.py](warehouse/can_1269_20251230-04h.py) |
 | 1270 | 2025-12-30 04:52:40 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1270_20251230-04h.py](warehouse/can_1270_20251230-04h.py) |
+| 1271 | 2025-12-30 05:40:16 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_1271_20251230-05h.py](warehouse/can_1271_20251230-05h.py) |
