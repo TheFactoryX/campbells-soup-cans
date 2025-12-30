@@ -1339,3 +1339,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1273 | 2025-12-30 07:34:09 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1273_20251230-07h.py](warehouse/can_1273_20251230-07h.py) |
 | 1274 | 2025-12-30 08:45:39 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1274_20251230-08h.py](warehouse/can_1274_20251230-08h.py) |
 | 1275 | 2025-12-30 09:39:23 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1275_20251230-09h.py](warehouse/can_1275_20251230-09h.py) |
+| 1276 | 2025-12-30 10:41:24 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1276_20251230-10h.py](warehouse/can_1276_20251230-10h.py) |
