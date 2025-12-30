@@ -1331,3 +1331,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1265 | 2025-12-29 21:31:19 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_1265_20251229-21h.py](warehouse/can_1265_20251229-21h.py) |
 | 1266 | 2025-12-29 22:35:05 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_1266_20251229-22h.py](warehouse/can_1266_20251229-22h.py) |
 | 1267 | 2025-12-29 23:31:38 | Venice: Uncensored (free) | ✅ | [warehouse/can_1267_20251229-23h.py](warehouse/can_1267_20251229-23h.py) |
+| 1268 | 2025-12-30 02:25:57 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_1268_20251230-02h.py](warehouse/can_1268_20251230-02h.py) |
