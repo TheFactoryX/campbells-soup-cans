@@ -1372,3 +1372,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1306 | 2025-12-31 18:45:27 | Meta: Llama 3.1 405B Instruct (free) | ✅ | [warehouse/can_1306_20251231-18h.py](warehouse/can_1306_20251231-18h.py) |
 | 1307 | 2025-12-31 19:27:37 | Qwen: Qwen2.5-VL 7B Instruct (free) | ❌ (broken) | [warehouse/can_1307_20251231-19h.py](warehouse/can_1307_20251231-19h.py) |
 | 1308 | 2025-12-31 20:34:59 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_1308_20251231-20h.py](warehouse/can_1308_20251231-20h.py) |
+| 1309 | 2025-12-31 21:30:42 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_1309_20251231-21h.py](warehouse/can_1309_20251231-21h.py) |
