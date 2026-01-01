@@ -1390,3 +1390,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1324 | 2026-01-01 15:33:44 | Anthropic: Claude Sonnet 4.5 | ✅ | [warehouse/can_1324_20260101-15h.py](warehouse/can_1324_20260101-15h.py) |
 | 1325 | 2026-01-01 16:43:16 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_1325_20260101-16h.py](warehouse/can_1325_20260101-16h.py) |
 | 1326 | 2026-01-01 17:34:02 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1326_20260101-17h.py](warehouse/can_1326_20260101-17h.py) |
+| 1327 | 2026-01-01 18:45:59 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1327_20260101-18h.py](warehouse/can_1327_20260101-18h.py) |
