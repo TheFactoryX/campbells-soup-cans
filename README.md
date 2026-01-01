@@ -1380,3 +1380,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1314 | 2026-01-01 05:43:53 | Venice: Uncensored (free) | ✅ | [warehouse/can_1314_20260101-05h.py](warehouse/can_1314_20260101-05h.py) |
 | 1315 | 2026-01-01 06:50:15 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_1315_20260101-06h.py](warehouse/can_1315_20260101-06h.py) |
 | 1316 | 2026-01-01 07:34:43 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_1316_20260101-07h.py](warehouse/can_1316_20260101-07h.py) |
+| 1317 | 2026-01-01 08:45:13 | xAI: Grok 3 Beta | ✅ | [warehouse/can_1317_20260101-08h.py](warehouse/can_1317_20260101-08h.py) |
