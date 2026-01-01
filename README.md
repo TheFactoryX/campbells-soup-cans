@@ -1383,3 +1383,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1317 | 2026-01-01 08:45:13 | xAI: Grok 3 Beta | ✅ | [warehouse/can_1317_20260101-08h.py](warehouse/can_1317_20260101-08h.py) |
 | 1318 | 2026-01-01 09:38:05 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1318_20260101-09h.py](warehouse/can_1318_20260101-09h.py) |
 | 1319 | 2026-01-01 10:40:07 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1319_20260101-10h.py](warehouse/can_1319_20260101-10h.py) |
+| 1320 | 2026-01-01 11:29:32 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1320_20260101-11h.py](warehouse/can_1320_20260101-11h.py) |
