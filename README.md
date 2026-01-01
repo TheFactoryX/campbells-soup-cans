@@ -1377,3 +1377,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1311 | 2025-12-31 23:31:22 | Qwen: Qwen2.5-VL 7B Instruct (free) | ❌ (broken) | [warehouse/can_1311_20251231-23h.py](warehouse/can_1311_20251231-23h.py) |
 | 1312 | 2026-01-01 02:38:13 | Mistral: Mistral Small 3.1 24B (free) | ❌ (broken, missing print) | [warehouse/can_1312_20260101-02h.py](warehouse/can_1312_20260101-02h.py) |
 | 1313 | 2026-01-01 04:17:34 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_1313_20260101-04h.py](warehouse/can_1313_20260101-04h.py) |
+| 1314 | 2026-01-01 05:43:53 | Venice: Uncensored (free) | ✅ | [warehouse/can_1314_20260101-05h.py](warehouse/can_1314_20260101-05h.py) |
