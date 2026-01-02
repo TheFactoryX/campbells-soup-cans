@@ -1417,3 +1417,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1351 | 2026-01-02 20:34:39 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ✅ | [warehouse/can_1351_20260102-20h.py](warehouse/can_1351_20260102-20h.py) |
 | 1352 | 2026-01-02 21:27:41 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1352_20260102-21h.py](warehouse/can_1352_20260102-21h.py) |
 | 1353 | 2026-01-02 22:36:56 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1353_20260102-22h.py](warehouse/can_1353_20260102-22h.py) |
+| 1354 | 2026-01-02 23:30:58 | Venice: Uncensored (free) | ✅ | [warehouse/can_1354_20260102-23h.py](warehouse/can_1354_20260102-23h.py) |
