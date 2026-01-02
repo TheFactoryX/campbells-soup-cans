@@ -1407,3 +1407,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1341 | 2026-01-02 10:38:03 | Z.AI: GLM 4.5 Air | ✅ | [warehouse/can_1341_20260102-10h.py](warehouse/can_1341_20260102-10h.py) |
 | 1342 | 2026-01-02 11:29:25 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1342_20260102-11h.py](warehouse/can_1342_20260102-11h.py) |
 | 1343 | 2026-01-02 13:02:35 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1343_20260102-13h.py](warehouse/can_1343_20260102-13h.py) |
+| 1344 | 2026-01-02 13:45:14 | Xiaomi: MiMo-V2-Flash (free) | ❌ (missing print) | [warehouse/can_1344_20260102-13h.py](warehouse/can_1344_20260102-13h.py) |
