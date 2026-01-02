@@ -1415,3 +1415,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1349 | 2026-01-02 18:45:41 | Qwen: Qwen2.5-VL 7B Instruct (free) | ❌ (broken) | [warehouse/can_1349_20260102-18h.py](warehouse/can_1349_20260102-18h.py) |
 | 1350 | 2026-01-02 19:25:03 | Qwen: Qwen2.5-VL 7B Instruct (free) | ✅ | [warehouse/can_1350_20260102-19h.py](warehouse/can_1350_20260102-19h.py) |
 | 1351 | 2026-01-02 20:34:39 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ✅ | [warehouse/can_1351_20260102-20h.py](warehouse/can_1351_20260102-20h.py) |
+| 1352 | 2026-01-02 21:27:41 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1352_20260102-21h.py](warehouse/can_1352_20260102-21h.py) |
