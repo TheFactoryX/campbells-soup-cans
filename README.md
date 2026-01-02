@@ -1399,3 +1399,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1333 | 2026-01-02 02:28:03 | Meta: Llama 3.2 3B Instruct (free) | ✅ | [warehouse/can_1333_20260102-02h.py](warehouse/can_1333_20260102-02h.py) |
 | 1334 | 2026-01-02 04:11:03 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1334_20260102-04h.py](warehouse/can_1334_20260102-04h.py) |
 | 1335 | 2026-01-02 04:54:01 | AllenAI: Olmo 3 32B Think (free) | ✅ | [warehouse/can_1335_20260102-04h.py](warehouse/can_1335_20260102-04h.py) |
+| 1336 | 2026-01-02 05:42:52 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1336_20260102-05h.py](warehouse/can_1336_20260102-05h.py) |
