@@ -1427,3 +1427,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1361 | 2026-01-03 08:42:12 | Venice: Uncensored (free) | ✅ | [warehouse/can_1361_20260103-08h.py](warehouse/can_1361_20260103-08h.py) |
 | 1362 | 2026-01-03 09:33:27 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_1362_20260103-09h.py](warehouse/can_1362_20260103-09h.py) |
 | 1363 | 2026-01-03 10:36:43 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_1363_20260103-10h.py](warehouse/can_1363_20260103-10h.py) |
+| 1364 | 2026-01-03 11:28:19 | Meta: Llama 3.2 3B Instruct (free) | ✅ | [warehouse/can_1364_20260103-11h.py](warehouse/can_1364_20260103-11h.py) |
