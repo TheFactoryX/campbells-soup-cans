@@ -1430,3 +1430,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1364 | 2026-01-03 11:28:19 | Meta: Llama 3.2 3B Instruct (free) | ✅ | [warehouse/can_1364_20260103-11h.py](warehouse/can_1364_20260103-11h.py) |
 | 1365 | 2026-01-03 12:59:49 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1365_20260103-12h.py](warehouse/can_1365_20260103-12h.py) |
 | 1366 | 2026-01-03 13:40:36 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_1366_20260103-13h.py](warehouse/can_1366_20260103-13h.py) |
+| 1367 | 2026-01-03 14:33:58 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1367_20260103-14h.py](warehouse/can_1367_20260103-14h.py) |
