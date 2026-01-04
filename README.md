@@ -1450,3 +1450,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1384 | 2026-01-04 10:36:12 | Qwen: Qwen2.5-VL 7B Instruct (free) | ❌ (broken) | [warehouse/can_1384_20260104-10h.py](warehouse/can_1384_20260104-10h.py) |
 | 1385 | 2026-01-04 11:28:43 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_1385_20260104-11h.py](warehouse/can_1385_20260104-11h.py) |
 | 1386 | 2026-01-04 13:00:28 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1386_20260104-13h.py](warehouse/can_1386_20260104-13h.py) |
+| 1387 | 2026-01-04 13:41:13 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1387_20260104-13h.py](warehouse/can_1387_20260104-13h.py) |
