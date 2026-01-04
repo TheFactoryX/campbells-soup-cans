@@ -1447,3 +1447,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1381 | 2026-01-04 07:32:51 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_1381_20260104-07h.py](warehouse/can_1381_20260104-07h.py) |
 | 1382 | 2026-01-04 08:43:05 | Nous: Hermes 3 405B Instruct (free) | ❌ (missing print) | [warehouse/can_1382_20260104-08h.py](warehouse/can_1382_20260104-08h.py) |
 | 1383 | 2026-01-04 09:32:03 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_1383_20260104-09h.py](warehouse/can_1383_20260104-09h.py) |
+| 1384 | 2026-01-04 10:36:12 | Qwen: Qwen2.5-VL 7B Instruct (free) | ❌ (broken) | [warehouse/can_1384_20260104-10h.py](warehouse/can_1384_20260104-10h.py) |
