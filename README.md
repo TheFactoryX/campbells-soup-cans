@@ -1459,3 +1459,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1393 | 2026-01-04 19:27:35 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1393_20260104-19h.py](warehouse/can_1393_20260104-19h.py) |
 | 1394 | 2026-01-04 20:35:17 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1394_20260104-20h.py](warehouse/can_1394_20260104-20h.py) |
 | 1395 | 2026-01-04 21:30:29 | Meta: Llama 3.2 3B Instruct (free) | ✅ | [warehouse/can_1395_20260104-21h.py](warehouse/can_1395_20260104-21h.py) |
+| 1396 | 2026-01-04 22:35:34 | Meta: Llama 3.1 405B Instruct (free) | ✅ | [warehouse/can_1396_20260104-22h.py](warehouse/can_1396_20260104-22h.py) |
