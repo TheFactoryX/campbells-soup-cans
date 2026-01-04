@@ -1453,3 +1453,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1387 | 2026-01-04 13:41:13 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1387_20260104-13h.py](warehouse/can_1387_20260104-13h.py) |
 | 1388 | 2026-01-04 14:33:21 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_1388_20260104-14h.py](warehouse/can_1388_20260104-14h.py) |
 | 1389 | 2026-01-04 15:32:07 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ✅ | [warehouse/can_1389_20260104-15h.py](warehouse/can_1389_20260104-15h.py) |
+| 1390 | 2026-01-04 16:40:34 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1390_20260104-16h.py](warehouse/can_1390_20260104-16h.py) |
