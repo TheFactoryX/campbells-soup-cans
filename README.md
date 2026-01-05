@@ -1464,3 +1464,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1398 | 2026-01-05 02:39:26 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ✅ | [warehouse/can_1398_20260105-02h.py](warehouse/can_1398_20260105-02h.py) |
 | 1399 | 2026-01-05 04:34:09 | Meta: Llama 3.2 3B Instruct (free) | ✅ | [warehouse/can_1399_20260105-04h.py](warehouse/can_1399_20260105-04h.py) |
 | 1400 | 2026-01-05 05:50:27 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_1400_20260105-05h.py](warehouse/can_1400_20260105-05h.py) |
+| 1401 | 2026-01-05 06:57:13 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1401_20260105-06h.py](warehouse/can_1401_20260105-06h.py) |
