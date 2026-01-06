@@ -1494,3 +1494,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1428 | 2026-01-06 11:31:12 | Mistral: Mistral 7B Instruct (free) | ❌ (empty, broken, missing print) | [warehouse/can_1428_20260106-11h.py](warehouse/can_1428_20260106-11h.py) |
 | 1429 | 2026-01-06 13:06:15 | Qwen: Qwen2.5-VL 7B Instruct (free) | ❌ (broken) | [warehouse/can_1429_20260106-13h.py](warehouse/can_1429_20260106-13h.py) |
 | 1430 | 2026-01-06 13:49:42 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1430_20260106-13h.py](warehouse/can_1430_20260106-13h.py) |
+| 1431 | 2026-01-06 14:41:56 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_1431_20260106-14h.py](warehouse/can_1431_20260106-14h.py) |
