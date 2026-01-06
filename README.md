@@ -1503,3 +1503,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1437 | 2026-01-06 20:38:07 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1437_20260106-20h.py](warehouse/can_1437_20260106-20h.py) |
 | 1438 | 2026-01-06 21:33:36 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1438_20260106-21h.py](warehouse/can_1438_20260106-21h.py) |
 | 1439 | 2026-01-06 22:38:39 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1439_20260106-22h.py](warehouse/can_1439_20260106-22h.py) |
+| 1440 | 2026-01-06 23:33:18 | ByteDance Seed: Seed 1.6 Flash | ✅ | [warehouse/can_1440_20260106-23h.py](warehouse/can_1440_20260106-23h.py) |
