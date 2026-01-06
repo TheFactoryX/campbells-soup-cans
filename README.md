@@ -1495,3 +1495,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1429 | 2026-01-06 13:06:15 | Qwen: Qwen2.5-VL 7B Instruct (free) | ❌ (broken) | [warehouse/can_1429_20260106-13h.py](warehouse/can_1429_20260106-13h.py) |
 | 1430 | 2026-01-06 13:49:42 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1430_20260106-13h.py](warehouse/can_1430_20260106-13h.py) |
 | 1431 | 2026-01-06 14:41:56 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_1431_20260106-14h.py](warehouse/can_1431_20260106-14h.py) |
+| 1432 | 2026-01-06 15:38:16 | TNG: DeepSeek R1T2 Chimera (free) | ❌ (broken) | [warehouse/can_1432_20260106-15h.py](warehouse/can_1432_20260106-15h.py) |
