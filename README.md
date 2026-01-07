@@ -1506,3 +1506,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1440 | 2026-01-06 23:33:18 | ByteDance Seed: Seed 1.6 Flash | ✅ | [warehouse/can_1440_20260106-23h.py](warehouse/can_1440_20260106-23h.py) |
 | 1441 | 2026-01-07 02:27:37 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_1441_20260107-02h.py](warehouse/can_1441_20260107-02h.py) |
 | 1442 | 2026-01-07 04:10:09 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1442_20260107-04h.py](warehouse/can_1442_20260107-04h.py) |
+| 1443 | 2026-01-07 04:54:03 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_1443_20260107-04h.py](warehouse/can_1443_20260107-04h.py) |
