@@ -1544,3 +1544,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1478 | 2026-01-08 17:43:40 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1478_20260108-17h.py](warehouse/can_1478_20260108-17h.py) |
 | 1479 | 2026-01-08 18:47:02 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_1479_20260108-18h.py](warehouse/can_1479_20260108-18h.py) |
 | 1480 | 2026-01-08 19:31:45 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_1480_20260108-19h.py](warehouse/can_1480_20260108-19h.py) |
+| 1481 | 2026-01-08 20:39:33 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1481_20260108-20h.py](warehouse/can_1481_20260108-20h.py) |
