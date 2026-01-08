@@ -1541,3 +1541,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1475 | 2026-01-08 14:45:17 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_1475_20260108-14h.py](warehouse/can_1475_20260108-14h.py) |
 | 1476 | 2026-01-08 15:42:49 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ✅ | [warehouse/can_1476_20260108-15h.py](warehouse/can_1476_20260108-15h.py) |
 | 1477 | 2026-01-08 16:48:52 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1477_20260108-16h.py](warehouse/can_1477_20260108-16h.py) |
+| 1478 | 2026-01-08 17:43:40 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1478_20260108-17h.py](warehouse/can_1478_20260108-17h.py) |
