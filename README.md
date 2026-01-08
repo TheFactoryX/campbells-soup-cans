@@ -1545,3 +1545,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1479 | 2026-01-08 18:47:02 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_1479_20260108-18h.py](warehouse/can_1479_20260108-18h.py) |
 | 1480 | 2026-01-08 19:31:45 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_1480_20260108-19h.py](warehouse/can_1480_20260108-19h.py) |
 | 1481 | 2026-01-08 20:39:33 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1481_20260108-20h.py](warehouse/can_1481_20260108-20h.py) |
+| 1482 | 2026-01-08 21:34:31 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1482_20260108-21h.py](warehouse/can_1482_20260108-21h.py) |
