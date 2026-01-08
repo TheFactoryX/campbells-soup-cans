@@ -1539,3 +1539,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1473 | 2026-01-08 13:08:17 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1473_20260108-13h.py](warehouse/can_1473_20260108-13h.py) |
 | 1474 | 2026-01-08 13:52:11 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1474_20260108-13h.py](warehouse/can_1474_20260108-13h.py) |
 | 1475 | 2026-01-08 14:45:17 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_1475_20260108-14h.py](warehouse/can_1475_20260108-14h.py) |
+| 1476 | 2026-01-08 15:42:49 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ✅ | [warehouse/can_1476_20260108-15h.py](warehouse/can_1476_20260108-15h.py) |
