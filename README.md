@@ -1536,3 +1536,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1470 | 2026-01-08 09:42:35 | Venice: Uncensored (free) | ✅ | [warehouse/can_1470_20260108-09h.py](warehouse/can_1470_20260108-09h.py) |
 | 1471 | 2026-01-08 10:44:07 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_1471_20260108-10h.py](warehouse/can_1471_20260108-10h.py) |
 | 1472 | 2026-01-08 11:33:18 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1472_20260108-11h.py](warehouse/can_1472_20260108-11h.py) |
+| 1473 | 2026-01-08 13:08:17 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1473_20260108-13h.py](warehouse/can_1473_20260108-13h.py) |
