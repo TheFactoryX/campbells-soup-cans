@@ -1552,3 +1552,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1486 | 2026-01-09 04:10:10 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_1486_20260109-04h.py](warehouse/can_1486_20260109-04h.py) |
 | 1487 | 2026-01-09 04:53:13 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1487_20260109-04h.py](warehouse/can_1487_20260109-04h.py) |
 | 1488 | 2026-01-09 05:42:48 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_1488_20260109-05h.py](warehouse/can_1488_20260109-05h.py) |
+| 1489 | 2026-01-09 06:51:27 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1489_20260109-06h.py](warehouse/can_1489_20260109-06h.py) |
