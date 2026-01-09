@@ -1558,3 +1558,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1492 | 2026-01-09 09:42:52 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ✅ | [warehouse/can_1492_20260109-09h.py](warehouse/can_1492_20260109-09h.py) |
 | 1493 | 2026-01-09 10:43:03 | Mistral: Mistral Small 3.1 24B (free) | ❌ (broken, missing print) | [warehouse/can_1493_20260109-10h.py](warehouse/can_1493_20260109-10h.py) |
 | 1494 | 2026-01-09 11:31:57 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_1494_20260109-11h.py](warehouse/can_1494_20260109-11h.py) |
+| 1495 | 2026-01-09 13:07:05 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1495_20260109-13h.py](warehouse/can_1495_20260109-13h.py) |
