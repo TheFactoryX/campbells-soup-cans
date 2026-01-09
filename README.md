@@ -1556,3 +1556,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1490 | 2026-01-09 07:38:20 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1490_20260109-07h.py](warehouse/can_1490_20260109-07h.py) |
 | 1491 | 2026-01-09 08:47:06 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_1491_20260109-08h.py](warehouse/can_1491_20260109-08h.py) |
 | 1492 | 2026-01-09 09:42:52 | Nex AGI: DeepSeek V3.1 Nex N1 (free) | ✅ | [warehouse/can_1492_20260109-09h.py](warehouse/can_1492_20260109-09h.py) |
+| 1493 | 2026-01-09 10:43:03 | Mistral: Mistral Small 3.1 24B (free) | ❌ (broken, missing print) | [warehouse/can_1493_20260109-10h.py](warehouse/can_1493_20260109-10h.py) |
