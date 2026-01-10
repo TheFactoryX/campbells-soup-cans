@@ -1588,3 +1588,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1522 | 2026-01-10 17:32:01 | Mistral: Mistral 7B Instruct (free) | ❌ (empty, broken, missing print) | [warehouse/can_1522_20260110-17h.py](warehouse/can_1522_20260110-17h.py) |
 | 1523 | 2026-01-10 18:45:00 | DeepSeek: R1 0528 (free) | ❌ (broken) | [warehouse/can_1523_20260110-18h.py](warehouse/can_1523_20260110-18h.py) |
 | 1524 | 2026-01-10 19:27:28 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1524_20260110-19h.py](warehouse/can_1524_20260110-19h.py) |
+| 1525 | 2026-01-10 20:34:51 | DeepSeek: R1 0528 (free) | ❌ (broken) | [warehouse/can_1525_20260110-20h.py](warehouse/can_1525_20260110-20h.py) |
