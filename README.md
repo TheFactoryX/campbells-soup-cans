@@ -1570,3 +1570,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1504 | 2026-01-09 21:33:07 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_1504_20260109-21h.py](warehouse/can_1504_20260109-21h.py) |
 | 1505 | 2026-01-09 22:37:37 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_1505_20260109-22h.py](warehouse/can_1505_20260109-22h.py) |
 | 1506 | 2026-01-09 23:32:25 | Meta: Llama 3.2 3B Instruct (free) | ✅ | [warehouse/can_1506_20260109-23h.py](warehouse/can_1506_20260109-23h.py) |
+| 1507 | 2026-01-10 02:24:01 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1507_20260110-02h.py](warehouse/can_1507_20260110-02h.py) |
