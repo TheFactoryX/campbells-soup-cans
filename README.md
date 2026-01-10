@@ -1584,3 +1584,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1518 | 2026-01-10 13:41:21 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1518_20260110-13h.py](warehouse/can_1518_20260110-13h.py) |
 | 1519 | 2026-01-10 14:33:52 | Kwaipilot: KAT-Coder-Pro V1 (free) | ✅ | [warehouse/can_1519_20260110-14h.py](warehouse/can_1519_20260110-14h.py) |
 | 1520 | 2026-01-10 15:32:34 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1520_20260110-15h.py](warehouse/can_1520_20260110-15h.py) |
+| 1521 | 2026-01-10 16:40:38 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1521_20260110-16h.py](warehouse/can_1521_20260110-16h.py) |
