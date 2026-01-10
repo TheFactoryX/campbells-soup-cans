@@ -1576,3 +1576,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1510 | 2026-01-10 05:36:25 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_1510_20260110-05h.py](warehouse/can_1510_20260110-05h.py) |
 | 1511 | 2026-01-10 06:46:56 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_1511_20260110-06h.py](warehouse/can_1511_20260110-06h.py) |
 | 1512 | 2026-01-10 07:30:49 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_1512_20260110-07h.py](warehouse/can_1512_20260110-07h.py) |
+| 1513 | 2026-01-10 08:42:03 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1513_20260110-08h.py](warehouse/can_1513_20260110-08h.py) |
