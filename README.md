@@ -1609,3 +1609,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1543 | 2026-01-11 17:32:02 | AllenAI: Molmo2 8B (free) | ❌ (broken) | [warehouse/can_1543_20260111-17h.py](warehouse/can_1543_20260111-17h.py) |
 | 1544 | 2026-01-11 18:45:01 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1544_20260111-18h.py](warehouse/can_1544_20260111-18h.py) |
 | 1545 | 2026-01-11 19:27:29 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1545_20260111-19h.py](warehouse/can_1545_20260111-19h.py) |
+| 1546 | 2026-01-11 20:35:42 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1546_20260111-20h.py](warehouse/can_1546_20260111-20h.py) |
