@@ -1600,3 +1600,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1534 | 2026-01-11 08:42:10 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_1534_20260111-08h.py](warehouse/can_1534_20260111-08h.py) |
 | 1535 | 2026-01-11 09:33:40 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1535_20260111-09h.py](warehouse/can_1535_20260111-09h.py) |
 | 1536 | 2026-01-11 10:37:42 | Mistral: Mistral Small 3.1 24B (free) | ❌ (broken, missing print) | [warehouse/can_1536_20260111-10h.py](warehouse/can_1536_20260111-10h.py) |
+| 1537 | 2026-01-11 11:29:13 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_1537_20260111-11h.py](warehouse/can_1537_20260111-11h.py) |
