@@ -1592,3 +1592,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1526 | 2026-01-10 21:30:59 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1526_20260110-21h.py](warehouse/can_1526_20260110-21h.py) |
 | 1527 | 2026-01-10 22:34:51 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1527_20260110-22h.py](warehouse/can_1527_20260110-22h.py) |
 | 1528 | 2026-01-10 23:31:27 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1528_20260110-23h.py](warehouse/can_1528_20260110-23h.py) |
+| 1529 | 2026-01-11 02:39:26 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1529_20260111-02h.py](warehouse/can_1529_20260111-02h.py) |
