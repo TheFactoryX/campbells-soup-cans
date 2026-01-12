@@ -1625,3 +1625,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1559 | 2026-01-12 13:09:49 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_1559_20260112-13h.py](warehouse/can_1559_20260112-13h.py) |
 | 1560 | 2026-01-12 13:53:20 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_1560_20260112-13h.py](warehouse/can_1560_20260112-13h.py) |
 | 1561 | 2026-01-12 14:46:49 | Z.AI: GLM 4.5 Air (free) | ❌ (empty, missing print) | [warehouse/can_1561_20260112-14h.py](warehouse/can_1561_20260112-14h.py) |
+| 1562 | 2026-01-12 15:42:46 | AllenAI: Molmo2 8B (free) | ❌ (broken) | [warehouse/can_1562_20260112-15h.py](warehouse/can_1562_20260112-15h.py) |
