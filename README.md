@@ -1628,3 +1628,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1562 | 2026-01-12 15:42:46 | AllenAI: Molmo2 8B (free) | ❌ (broken) | [warehouse/can_1562_20260112-15h.py](warehouse/can_1562_20260112-15h.py) |
 | 1563 | 2026-01-12 16:45:32 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_1563_20260112-16h.py](warehouse/can_1563_20260112-16h.py) |
 | 1564 | 2026-01-12 17:38:30 | Venice: Uncensored (free) | ✅ | [warehouse/can_1564_20260112-17h.py](warehouse/can_1564_20260112-17h.py) |
+| 1565 | 2026-01-12 18:49:47 | AllenAI: Molmo2 8B (free) | ✅ | [warehouse/can_1565_20260112-18h.py](warehouse/can_1565_20260112-18h.py) |
