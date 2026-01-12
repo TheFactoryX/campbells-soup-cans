@@ -1630,3 +1630,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1564 | 2026-01-12 17:38:30 | Venice: Uncensored (free) | ✅ | [warehouse/can_1564_20260112-17h.py](warehouse/can_1564_20260112-17h.py) |
 | 1565 | 2026-01-12 18:49:47 | AllenAI: Molmo2 8B (free) | ✅ | [warehouse/can_1565_20260112-18h.py](warehouse/can_1565_20260112-18h.py) |
 | 1566 | 2026-01-12 19:32:00 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1566_20260112-19h.py](warehouse/can_1566_20260112-19h.py) |
+| 1567 | 2026-01-12 20:39:17 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_1567_20260112-20h.py](warehouse/can_1567_20260112-20h.py) |
