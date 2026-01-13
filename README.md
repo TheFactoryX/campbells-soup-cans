@@ -1640,3 +1640,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1574 | 2026-01-13 05:42:28 | Z.AI: GLM 4.5 Air (free) | ❌ (empty, missing print) | [warehouse/can_1574_20260113-05h.py](warehouse/can_1574_20260113-05h.py) |
 | 1575 | 2026-01-13 06:51:29 | Mistral: Mistral 7B Instruct (free) | ✅ | [warehouse/can_1575_20260113-06h.py](warehouse/can_1575_20260113-06h.py) |
 | 1576 | 2026-01-13 07:37:06 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1576_20260113-07h.py](warehouse/can_1576_20260113-07h.py) |
+| 1577 | 2026-01-13 08:48:11 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1577_20260113-08h.py](warehouse/can_1577_20260113-08h.py) |
