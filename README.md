@@ -1643,3 +1643,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1577 | 2026-01-13 08:48:11 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1577_20260113-08h.py](warehouse/can_1577_20260113-08h.py) |
 | 1578 | 2026-01-13 09:42:29 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_1578_20260113-09h.py](warehouse/can_1578_20260113-09h.py) |
 | 1579 | 2026-01-13 10:44:12 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_1579_20260113-10h.py](warehouse/can_1579_20260113-10h.py) |
+| 1580 | 2026-01-13 11:33:33 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1580_20260113-11h.py](warehouse/can_1580_20260113-11h.py) |
