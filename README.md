@@ -1656,3 +1656,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1590 | 2026-01-13 21:34:31 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_1590_20260113-21h.py](warehouse/can_1590_20260113-21h.py) |
 | 1591 | 2026-01-13 22:40:04 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1591_20260113-22h.py](warehouse/can_1591_20260113-22h.py) |
 | 1592 | 2026-01-13 23:30:32 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1592_20260113-23h.py](warehouse/can_1592_20260113-23h.py) |
+| 1593 | 2026-01-14 02:33:47 | OpenAI: GPT-3.5 Turbo (older v0613) | ✅ | [warehouse/can_1593_20260114-02h.py](warehouse/can_1593_20260114-02h.py) |
