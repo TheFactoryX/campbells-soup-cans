@@ -1670,3 +1670,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1604 | 2026-01-14 14:44:58 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_1604_20260114-14h.py](warehouse/can_1604_20260114-14h.py) |
 | 1605 | 2026-01-14 15:38:31 | Qwen: Qwen2.5-VL 7B Instruct (free) | ✅ | [warehouse/can_1605_20260114-15h.py](warehouse/can_1605_20260114-15h.py) |
 | 1606 | 2026-01-14 16:49:48 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1606_20260114-16h.py](warehouse/can_1606_20260114-16h.py) |
+| 1607 | 2026-01-14 17:43:37 | Mistral: Mixtral 8x7B Instruct | ✅ | [warehouse/can_1607_20260114-17h.py](warehouse/can_1607_20260114-17h.py) |
