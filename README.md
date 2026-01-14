@@ -1665,3 +1665,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1599 | 2026-01-14 09:43:55 | Mistral: Mistral 7B Instruct v0.3 | ✅ | [warehouse/can_1599_20260114-09h.py](warehouse/can_1599_20260114-09h.py) |
 | 1600 | 2026-01-14 10:45:06 | Qwen: Qwen2.5-VL 7B Instruct (free) | ✅ | [warehouse/can_1600_20260114-10h.py](warehouse/can_1600_20260114-10h.py) |
 | 1601 | 2026-01-14 11:34:30 | OpenAI: GPT-4.1 | ✅ | [warehouse/can_1601_20260114-11h.py](warehouse/can_1601_20260114-11h.py) |
+| 1602 | 2026-01-14 13:09:08 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1602_20260114-13h.py](warehouse/can_1602_20260114-13h.py) |
