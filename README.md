@@ -1668,3 +1668,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1602 | 2026-01-14 13:09:08 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1602_20260114-13h.py](warehouse/can_1602_20260114-13h.py) |
 | 1603 | 2026-01-14 13:52:06 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1603_20260114-13h.py](warehouse/can_1603_20260114-13h.py) |
 | 1604 | 2026-01-14 14:44:58 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_1604_20260114-14h.py](warehouse/can_1604_20260114-14h.py) |
+| 1605 | 2026-01-14 15:38:31 | Qwen: Qwen2.5-VL 7B Instruct (free) | ✅ | [warehouse/can_1605_20260114-15h.py](warehouse/can_1605_20260114-15h.py) |
