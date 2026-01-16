@@ -1712,3 +1712,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1646 | 2026-01-16 13:50:24 | Google: Gemini 2.0 Flash Lite | ✅ | [warehouse/can_1646_20260116-13h.py](warehouse/can_1646_20260116-13h.py) |
 | 1647 | 2026-01-16 14:42:22 | Qwen: Qwen2.5-VL 7B Instruct (free) | ✅ | [warehouse/can_1647_20260116-14h.py](warehouse/can_1647_20260116-14h.py) |
 | 1648 | 2026-01-16 15:39:12 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1648_20260116-15h.py](warehouse/can_1648_20260116-15h.py) |
+| 1649 | 2026-01-16 16:47:44 | DeepSeek: R1 0528 (free) | ✅ | [warehouse/can_1649_20260116-16h.py](warehouse/can_1649_20260116-16h.py) |
