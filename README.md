@@ -1710,3 +1710,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1644 | 2026-01-16 11:32:25 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1644_20260116-11h.py](warehouse/can_1644_20260116-11h.py) |
 | 1645 | 2026-01-16 13:06:53 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1645_20260116-13h.py](warehouse/can_1645_20260116-13h.py) |
 | 1646 | 2026-01-16 13:50:24 | Google: Gemini 2.0 Flash Lite | ✅ | [warehouse/can_1646_20260116-13h.py](warehouse/can_1646_20260116-13h.py) |
+| 1647 | 2026-01-16 14:42:22 | Qwen: Qwen2.5-VL 7B Instruct (free) | ✅ | [warehouse/can_1647_20260116-14h.py](warehouse/can_1647_20260116-14h.py) |
