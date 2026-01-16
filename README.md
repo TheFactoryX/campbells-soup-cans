@@ -1716,3 +1716,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1650 | 2026-01-16 17:39:45 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1650_20260116-17h.py](warehouse/can_1650_20260116-17h.py) |
 | 1651 | 2026-01-16 18:49:44 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1651_20260116-18h.py](warehouse/can_1651_20260116-18h.py) |
 | 1652 | 2026-01-16 19:29:23 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1652_20260116-19h.py](warehouse/can_1652_20260116-19h.py) |
+| 1653 | 2026-01-16 20:36:19 | AllenAI: Molmo2 8B (free) | ❌ (broken) | [warehouse/can_1653_20260116-20h.py](warehouse/can_1653_20260116-20h.py) |
