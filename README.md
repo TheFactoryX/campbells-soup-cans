@@ -1719,3 +1719,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1653 | 2026-01-16 20:36:19 | AllenAI: Molmo2 8B (free) | ❌ (broken) | [warehouse/can_1653_20260116-20h.py](warehouse/can_1653_20260116-20h.py) |
 | 1654 | 2026-01-16 21:33:25 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1654_20260116-21h.py](warehouse/can_1654_20260116-21h.py) |
 | 1655 | 2026-01-16 22:37:46 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_1655_20260116-22h.py](warehouse/can_1655_20260116-22h.py) |
+| 1656 | 2026-01-16 23:32:21 | xAI: Grok Code Fast 1 | ✅ | [warehouse/can_1656_20260116-23h.py](warehouse/can_1656_20260116-23h.py) |
