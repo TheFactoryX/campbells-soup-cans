@@ -1717,3 +1717,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1651 | 2026-01-16 18:49:44 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1651_20260116-18h.py](warehouse/can_1651_20260116-18h.py) |
 | 1652 | 2026-01-16 19:29:23 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1652_20260116-19h.py](warehouse/can_1652_20260116-19h.py) |
 | 1653 | 2026-01-16 20:36:19 | AllenAI: Molmo2 8B (free) | ❌ (broken) | [warehouse/can_1653_20260116-20h.py](warehouse/can_1653_20260116-20h.py) |
+| 1654 | 2026-01-16 21:33:25 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1654_20260116-21h.py](warehouse/can_1654_20260116-21h.py) |
