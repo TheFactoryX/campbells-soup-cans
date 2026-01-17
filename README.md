@@ -1723,3 +1723,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1657 | 2026-01-17 02:22:09 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_1657_20260117-02h.py](warehouse/can_1657_20260117-02h.py) |
 | 1658 | 2026-01-17 04:03:16 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1658_20260117-04h.py](warehouse/can_1658_20260117-04h.py) |
 | 1659 | 2026-01-17 04:45:30 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_1659_20260117-04h.py](warehouse/can_1659_20260117-04h.py) |
+| 1660 | 2026-01-17 05:35:37 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1660_20260117-05h.py](warehouse/can_1660_20260117-05h.py) |
