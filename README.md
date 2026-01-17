@@ -1741,3 +1741,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1675 | 2026-01-17 20:34:22 | DeepSeek: R1 0528 (free) | ✅ | [warehouse/can_1675_20260117-20h.py](warehouse/can_1675_20260117-20h.py) |
 | 1676 | 2026-01-17 21:30:12 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_1676_20260117-21h.py](warehouse/can_1676_20260117-21h.py) |
 | 1677 | 2026-01-17 22:44:06 | OpenAI: o3 Mini | ✅ | [warehouse/can_1677_20260117-22h.py](warehouse/can_1677_20260117-22h.py) |
+| 1678 | 2026-01-17 23:31:21 | Inception: Mercury Coder | ✅ | [warehouse/can_1678_20260117-23h.py](warehouse/can_1678_20260117-23h.py) |
