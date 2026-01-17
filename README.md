@@ -1733,3 +1733,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1667 | 2026-01-17 13:00:10 | Cogito V2 Preview Llama 109B | ✅ | [warehouse/can_1667_20260117-13h.py](warehouse/can_1667_20260117-13h.py) |
 | 1668 | 2026-01-17 13:40:40 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_1668_20260117-13h.py](warehouse/can_1668_20260117-13h.py) |
 | 1669 | 2026-01-17 14:33:45 | Qwen: Qwen2.5-VL 7B Instruct (free) | ❌ (empty, missing print) | [warehouse/can_1669_20260117-14h.py](warehouse/can_1669_20260117-14h.py) |
+| 1670 | 2026-01-17 15:32:18 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1670_20260117-15h.py](warehouse/can_1670_20260117-15h.py) |
