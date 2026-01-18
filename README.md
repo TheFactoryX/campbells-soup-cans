@@ -1752,3 +1752,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1686 | 2026-01-18 09:33:50 | Deep Cogito: Cogito v2.1 671B | ✅ | [warehouse/can_1686_20260118-09h.py](warehouse/can_1686_20260118-09h.py) |
 | 1687 | 2026-01-18 10:37:24 | Nous: Hermes 3 405B Instruct (free) | ❌ (broken) | [warehouse/can_1687_20260118-10h.py](warehouse/can_1687_20260118-10h.py) |
 | 1688 | 2026-01-18 11:28:33 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_1688_20260118-11h.py](warehouse/can_1688_20260118-11h.py) |
+| 1689 | 2026-01-18 12:59:50 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_1689_20260118-12h.py](warehouse/can_1689_20260118-12h.py) |
