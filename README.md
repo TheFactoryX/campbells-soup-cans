@@ -1744,3 +1744,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1678 | 2026-01-17 23:31:21 | Inception: Mercury Coder | ✅ | [warehouse/can_1678_20260117-23h.py](warehouse/can_1678_20260117-23h.py) |
 | 1679 | 2026-01-18 02:38:09 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_1679_20260118-02h.py](warehouse/can_1679_20260118-02h.py) |
 | 1680 | 2026-01-18 04:13:43 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1680_20260118-04h.py](warehouse/can_1680_20260118-04h.py) |
+| 1681 | 2026-01-18 04:53:33 | DeepSeek: R1 0528 (free) | ✅ | [warehouse/can_1681_20260118-04h.py](warehouse/can_1681_20260118-04h.py) |
