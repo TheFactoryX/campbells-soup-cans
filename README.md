@@ -1750,3 +1750,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1684 | 2026-01-18 07:32:09 | AllenAI: Molmo2 8B (free) | ❌ (broken, missing print) | [warehouse/can_1684_20260118-07h.py](warehouse/can_1684_20260118-07h.py) |
 | 1685 | 2026-01-18 08:41:54 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1685_20260118-08h.py](warehouse/can_1685_20260118-08h.py) |
 | 1686 | 2026-01-18 09:33:50 | Deep Cogito: Cogito v2.1 671B | ✅ | [warehouse/can_1686_20260118-09h.py](warehouse/can_1686_20260118-09h.py) |
+| 1687 | 2026-01-18 10:37:24 | Nous: Hermes 3 405B Instruct (free) | ❌ (broken) | [warehouse/can_1687_20260118-10h.py](warehouse/can_1687_20260118-10h.py) |
