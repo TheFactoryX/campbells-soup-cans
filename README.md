@@ -1764,3 +1764,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1698 | 2026-01-18 21:30:22 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1698_20260118-21h.py](warehouse/can_1698_20260118-21h.py) |
 | 1699 | 2026-01-18 22:35:04 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1699_20260118-22h.py](warehouse/can_1699_20260118-22h.py) |
 | 1700 | 2026-01-18 23:31:37 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1700_20260118-23h.py](warehouse/can_1700_20260118-23h.py) |
+| 1701 | 2026-01-19 02:35:05 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_1701_20260119-02h.py](warehouse/can_1701_20260119-02h.py) |
