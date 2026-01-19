@@ -1775,3 +1775,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1709 | 2026-01-19 11:34:50 | DeepSeek: R1 0528 (free) | ✅ | [warehouse/can_1709_20260119-11h.py](warehouse/can_1709_20260119-11h.py) |
 | 1710 | 2026-01-19 13:12:16 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1710_20260119-13h.py](warehouse/can_1710_20260119-13h.py) |
 | 1711 | 2026-01-19 13:55:08 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1711_20260119-13h.py](warehouse/can_1711_20260119-13h.py) |
+| 1712 | 2026-01-19 14:46:57 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_1712_20260119-14h.py](warehouse/can_1712_20260119-14h.py) |
