@@ -1780,3 +1780,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1714 | 2026-01-19 16:48:25 | Qwen: Qwen2.5-VL 7B Instruct (free) | ✅ | [warehouse/can_1714_20260119-16h.py](warehouse/can_1714_20260119-16h.py) |
 | 1715 | 2026-01-19 17:39:03 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1715_20260119-17h.py](warehouse/can_1715_20260119-17h.py) |
 | 1716 | 2026-01-19 18:49:28 | Qwen: Qwen-Max  | ✅ | [warehouse/can_1716_20260119-18h.py](warehouse/can_1716_20260119-18h.py) |
+| 1717 | 2026-01-19 19:30:34 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1717_20260119-19h.py](warehouse/can_1717_20260119-19h.py) |
