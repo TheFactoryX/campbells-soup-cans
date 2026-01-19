@@ -1784,3 +1784,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1718 | 2026-01-19 20:37:58 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1718_20260119-20h.py](warehouse/can_1718_20260119-20h.py) |
 | 1719 | 2026-01-19 21:33:15 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1719_20260119-21h.py](warehouse/can_1719_20260119-21h.py) |
 | 1720 | 2026-01-19 22:37:59 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1720_20260119-22h.py](warehouse/can_1720_20260119-22h.py) |
+| 1721 | 2026-01-19 23:33:21 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1721_20260119-23h.py](warehouse/can_1721_20260119-23h.py) |
