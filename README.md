@@ -1770,3 +1770,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1704 | 2026-01-19 06:57:55 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1704_20260119-06h.py](warehouse/can_1704_20260119-06h.py) |
 | 1705 | 2026-01-19 07:43:32 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1705_20260119-07h.py](warehouse/can_1705_20260119-07h.py) |
 | 1706 | 2026-01-19 08:50:36 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_1706_20260119-08h.py](warehouse/can_1706_20260119-08h.py) |
+| 1707 | 2026-01-19 09:49:55 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_1707_20260119-09h.py](warehouse/can_1707_20260119-09h.py) |
