@@ -1821,3 +1821,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1755 | 2026-01-21 14:51:30 | Qwen: Qwen2.5-VL 7B Instruct (free) | ✅ | [warehouse/can_1755_20260121-14h.py](warehouse/can_1755_20260121-14h.py) |
 | 1756 | 2026-01-21 15:49:10 | Z.AI: GLM 4 32B  | ✅ | [warehouse/can_1756_20260121-15h.py](warehouse/can_1756_20260121-15h.py) |
 | 1757 | 2026-01-21 17:17:21 | OpenAI: GPT-5.2 Chat | ✅ | [warehouse/can_1757_20260121-17h.py](warehouse/can_1757_20260121-17h.py) |
+| 1758 | 2026-01-21 19:00:04 | AllenAI: Molmo2 8B (free) | ❌ (broken) | [warehouse/can_1758_20260121-19h.py](warehouse/can_1758_20260121-19h.py) |
