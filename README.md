@@ -1814,3 +1814,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1748 | 2026-01-21 07:44:13 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_1748_20260121-07h.py](warehouse/can_1748_20260121-07h.py) |
 | 1749 | 2026-01-21 08:49:00 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_1749_20260121-08h.py](warehouse/can_1749_20260121-08h.py) |
 | 1750 | 2026-01-21 09:47:10 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_1750_20260121-09h.py](warehouse/can_1750_20260121-09h.py) |
+| 1751 | 2026-01-21 10:49:15 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1751_20260121-10h.py](warehouse/can_1751_20260121-10h.py) |
