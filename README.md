@@ -1819,3 +1819,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1753 | 2026-01-21 13:12:29 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1753_20260121-13h.py](warehouse/can_1753_20260121-13h.py) |
 | 1754 | 2026-01-21 13:56:39 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1754_20260121-13h.py](warehouse/can_1754_20260121-13h.py) |
 | 1755 | 2026-01-21 14:51:30 | Qwen: Qwen2.5-VL 7B Instruct (free) | ✅ | [warehouse/can_1755_20260121-14h.py](warehouse/can_1755_20260121-14h.py) |
+| 1756 | 2026-01-21 15:49:10 | Z.AI: GLM 4 32B  | ✅ | [warehouse/can_1756_20260121-15h.py](warehouse/can_1756_20260121-15h.py) |
