@@ -1806,3 +1806,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1740 | 2026-01-20 21:35:23 | Mistral: Mistral Medium 3.1 | ❌ (broken) | [warehouse/can_1740_20260120-21h.py](warehouse/can_1740_20260120-21h.py) |
 | 1741 | 2026-01-20 22:36:47 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1741_20260120-22h.py](warehouse/can_1741_20260120-22h.py) |
 | 1742 | 2026-01-20 23:35:05 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1742_20260120-23h.py](warehouse/can_1742_20260120-23h.py) |
+| 1743 | 2026-01-21 02:32:00 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_1743_20260121-02h.py](warehouse/can_1743_20260121-02h.py) |
