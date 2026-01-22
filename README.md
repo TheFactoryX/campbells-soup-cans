@@ -1845,3 +1845,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1779 | 2026-01-22 18:52:54 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1779_20260122-18h.py](warehouse/can_1779_20260122-18h.py) |
 | 1780 | 2026-01-22 19:35:47 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1780_20260122-19h.py](warehouse/can_1780_20260122-19h.py) |
 | 1781 | 2026-01-22 20:44:18 | Google: Gemma 2 27B | ✅ | [warehouse/can_1781_20260122-20h.py](warehouse/can_1781_20260122-20h.py) |
+| 1782 | 2026-01-22 21:37:51 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1782_20260122-21h.py](warehouse/can_1782_20260122-21h.py) |
