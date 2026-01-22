@@ -1839,3 +1839,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1773 | 2026-01-22 13:13:24 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_1773_20260122-13h.py](warehouse/can_1773_20260122-13h.py) |
 | 1774 | 2026-01-22 13:56:56 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_1774_20260122-13h.py](warehouse/can_1774_20260122-13h.py) |
 | 1775 | 2026-01-22 14:50:19 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_1775_20260122-14h.py](warehouse/can_1775_20260122-14h.py) |
+| 1776 | 2026-01-22 15:47:23 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1776_20260122-15h.py](warehouse/can_1776_20260122-15h.py) |
