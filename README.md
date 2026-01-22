@@ -1829,3 +1829,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1763 | 2026-01-21 23:40:01 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1763_20260121-23h.py](warehouse/can_1763_20260121-23h.py) |
 | 1764 | 2026-01-22 02:34:24 | Z.AI: GLM 4.5 Air (free) | ❌ (missing print) | [warehouse/can_1764_20260122-02h.py](warehouse/can_1764_20260122-02h.py) |
 | 1765 | 2026-01-22 04:17:51 | Venice: Uncensored (free) | ✅ | [warehouse/can_1765_20260122-04h.py](warehouse/can_1765_20260122-04h.py) |
+| 1766 | 2026-01-22 05:47:06 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_1766_20260122-05h.py](warehouse/can_1766_20260122-05h.py) |
