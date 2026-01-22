@@ -1832,3 +1832,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1766 | 2026-01-22 05:47:06 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_1766_20260122-05h.py](warehouse/can_1766_20260122-05h.py) |
 | 1767 | 2026-01-22 06:53:52 | Meta: Llama 3.2 3B Instruct (free) | ✅ | [warehouse/can_1767_20260122-06h.py](warehouse/can_1767_20260122-06h.py) |
 | 1768 | 2026-01-22 07:42:09 | Mistral: Mistral Small 3.1 24B (free) | ✅ | [warehouse/can_1768_20260122-07h.py](warehouse/can_1768_20260122-07h.py) |
+| 1769 | 2026-01-22 08:50:26 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1769_20260122-08h.py](warehouse/can_1769_20260122-08h.py) |
