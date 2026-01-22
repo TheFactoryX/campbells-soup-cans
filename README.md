@@ -1841,3 +1841,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1775 | 2026-01-22 14:50:19 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_1775_20260122-14h.py](warehouse/can_1775_20260122-14h.py) |
 | 1776 | 2026-01-22 15:47:23 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1776_20260122-15h.py](warehouse/can_1776_20260122-15h.py) |
 | 1777 | 2026-01-22 16:52:07 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_1777_20260122-16h.py](warehouse/can_1777_20260122-16h.py) |
+| 1778 | 2026-01-22 17:46:16 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1778_20260122-17h.py](warehouse/can_1778_20260122-17h.py) |
