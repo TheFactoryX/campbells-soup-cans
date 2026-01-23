@@ -1854,3 +1854,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1788 | 2026-01-23 05:45:00 | Venice: Uncensored (free) | ✅ | [warehouse/can_1788_20260123-05h.py](warehouse/can_1788_20260123-05h.py) |
 | 1789 | 2026-01-23 06:53:08 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1789_20260123-06h.py](warehouse/can_1789_20260123-06h.py) |
 | 1790 | 2026-01-23 07:38:45 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_1790_20260123-07h.py](warehouse/can_1790_20260123-07h.py) |
+| 1791 | 2026-01-23 08:47:07 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1791_20260123-08h.py](warehouse/can_1791_20260123-08h.py) |
