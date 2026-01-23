@@ -1848,3 +1848,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1782 | 2026-01-22 21:37:51 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1782_20260122-21h.py](warehouse/can_1782_20260122-21h.py) |
 | 1783 | 2026-01-22 22:41:07 | TNG: DeepSeek R1T Chimera (free) | ❌ (broken) | [warehouse/can_1783_20260122-22h.py](warehouse/can_1783_20260122-22h.py) |
 | 1784 | 2026-01-22 23:34:18 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1784_20260122-23h.py](warehouse/can_1784_20260122-23h.py) |
+| 1785 | 2026-01-23 02:29:46 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_1785_20260123-02h.py](warehouse/can_1785_20260123-02h.py) |
