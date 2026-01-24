@@ -1877,3 +1877,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1811 | 2026-01-24 06:48:14 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1811_20260124-06h.py](warehouse/can_1811_20260124-06h.py) |
 | 1812 | 2026-01-24 07:32:00 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_1812_20260124-07h.py](warehouse/can_1812_20260124-07h.py) |
 | 1813 | 2026-01-24 08:42:45 | Auto Router | ✅ | [warehouse/can_1813_20260124-08h.py](warehouse/can_1813_20260124-08h.py) |
+| 1814 | 2026-01-24 09:33:52 | Qwen: Qwen2.5-VL 7B Instruct (free) | ❌ (empty, missing print) | [warehouse/can_1814_20260124-09h.py](warehouse/can_1814_20260124-09h.py) |
