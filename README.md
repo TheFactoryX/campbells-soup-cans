@@ -1889,3 +1889,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1823 | 2026-01-24 18:46:27 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1823_20260124-18h.py](warehouse/can_1823_20260124-18h.py) |
 | 1824 | 2026-01-24 19:28:14 | Amazon: Nova 2 Lite | ✅ | [warehouse/can_1824_20260124-19h.py](warehouse/can_1824_20260124-19h.py) |
 | 1825 | 2026-01-24 20:34:30 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1825_20260124-20h.py](warehouse/can_1825_20260124-20h.py) |
+| 1826 | 2026-01-24 21:30:26 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_1826_20260124-21h.py](warehouse/can_1826_20260124-21h.py) |
