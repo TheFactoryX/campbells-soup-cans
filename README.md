@@ -1902,3 +1902,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1836 | 2026-01-25 10:38:36 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_1836_20260125-10h.py](warehouse/can_1836_20260125-10h.py) |
 | 1837 | 2026-01-25 11:29:44 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_1837_20260125-11h.py](warehouse/can_1837_20260125-11h.py) |
 | 1838 | 2026-01-25 13:03:43 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1838_20260125-13h.py](warehouse/can_1838_20260125-13h.py) |
+| 1839 | 2026-01-25 13:44:59 | Cohere: Command R+ (08-2024) | ✅ | [warehouse/can_1839_20260125-13h.py](warehouse/can_1839_20260125-13h.py) |
