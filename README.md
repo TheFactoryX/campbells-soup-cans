@@ -1906,3 +1906,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1840 | 2026-01-25 14:35:01 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_1840_20260125-14h.py](warehouse/can_1840_20260125-14h.py) |
 | 1841 | 2026-01-25 15:33:16 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_1841_20260125-15h.py](warehouse/can_1841_20260125-15h.py) |
 | 1842 | 2026-01-25 16:42:45 | Qwen: Qwen VL Plus | ✅ | [warehouse/can_1842_20260125-16h.py](warehouse/can_1842_20260125-16h.py) |
+| 1843 | 2026-01-25 17:33:17 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_1843_20260125-17h.py](warehouse/can_1843_20260125-17h.py) |
