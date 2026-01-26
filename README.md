@@ -1916,3 +1916,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1850 | 2026-01-26 02:41:11 | Xiaomi: MiMo-V2-Flash (free) | ✅ | [warehouse/can_1850_20260126-02h.py](warehouse/can_1850_20260126-02h.py) |
 | 1851 | 2026-01-26 04:33:53 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1851_20260126-04h.py](warehouse/can_1851_20260126-04h.py) |
 | 1852 | 2026-01-26 05:48:38 | Noromaid 20B | ✅ | [warehouse/can_1852_20260126-05h.py](warehouse/can_1852_20260126-05h.py) |
+| 1853 | 2026-01-26 06:56:21 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_1853_20260126-06h.py](warehouse/can_1853_20260126-06h.py) |
