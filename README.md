@@ -1919,3 +1919,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1853 | 2026-01-26 06:56:21 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_1853_20260126-06h.py](warehouse/can_1853_20260126-06h.py) |
 | 1854 | 2026-01-26 07:41:55 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1854_20260126-07h.py](warehouse/can_1854_20260126-07h.py) |
 | 1855 | 2026-01-26 08:50:39 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1855_20260126-08h.py](warehouse/can_1855_20260126-08h.py) |
+| 1856 | 2026-01-26 09:49:14 | OpenAI: GPT-5 | ✅ | [warehouse/can_1856_20260126-09h.py](warehouse/can_1856_20260126-09h.py) |
