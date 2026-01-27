@@ -1955,3 +1955,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1889 | 2026-01-27 20:38:03 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1889_20260127-20h.py](warehouse/can_1889_20260127-20h.py) |
 | 1890 | 2026-01-27 21:32:30 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1890_20260127-21h.py](warehouse/can_1890_20260127-21h.py) |
 | 1891 | 2026-01-27 22:38:01 | Google: Gemma 2 9B | ❌ (broken) | [warehouse/can_1891_20260127-22h.py](warehouse/can_1891_20260127-22h.py) |
+| 1892 | 2026-01-27 23:34:51 | OpenAI: GPT-4.1 Nano | ✅ | [warehouse/can_1892_20260127-23h.py](warehouse/can_1892_20260127-23h.py) |
