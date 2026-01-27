@@ -1936,3 +1936,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1870 | 2026-01-26 23:35:46 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_1870_20260126-23h.py](warehouse/can_1870_20260126-23h.py) |
 | 1871 | 2026-01-27 02:35:59 | Mistral: Devstral 2 2512 (free) | ✅ | [warehouse/can_1871_20260127-02h.py](warehouse/can_1871_20260127-02h.py) |
 | 1872 | 2026-01-27 04:16:03 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1872_20260127-04h.py](warehouse/can_1872_20260127-04h.py) |
+| 1873 | 2026-01-27 04:59:04 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1873_20260127-04h.py](warehouse/can_1873_20260127-04h.py) |
