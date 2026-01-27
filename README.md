@@ -1944,3 +1944,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1878 | 2026-01-27 09:48:15 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_1878_20260127-09h.py](warehouse/can_1878_20260127-09h.py) |
 | 1879 | 2026-01-27 10:48:56 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_1879_20260127-10h.py](warehouse/can_1879_20260127-10h.py) |
 | 1880 | 2026-01-27 11:35:45 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_1880_20260127-11h.py](warehouse/can_1880_20260127-11h.py) |
+| 1881 | 2026-01-27 13:13:42 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_1881_20260127-13h.py](warehouse/can_1881_20260127-13h.py) |
