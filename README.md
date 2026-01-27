@@ -1938,3 +1938,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1872 | 2026-01-27 04:16:03 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1872_20260127-04h.py](warehouse/can_1872_20260127-04h.py) |
 | 1873 | 2026-01-27 04:59:04 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1873_20260127-04h.py](warehouse/can_1873_20260127-04h.py) |
 | 1874 | 2026-01-27 05:44:54 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_1874_20260127-05h.py](warehouse/can_1874_20260127-05h.py) |
+| 1875 | 2026-01-27 06:54:38 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1875_20260127-06h.py](warehouse/can_1875_20260127-06h.py) |
