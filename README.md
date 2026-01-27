@@ -1949,3 +1949,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1883 | 2026-01-27 14:51:56 | AllenAI: Molmo2 8B (free) | ✅ | [warehouse/can_1883_20260127-14h.py](warehouse/can_1883_20260127-14h.py) |
 | 1884 | 2026-01-27 15:44:44 | AllenAI: Molmo2 8B (free) | ❌ (broken) | [warehouse/can_1884_20260127-15h.py](warehouse/can_1884_20260127-15h.py) |
 | 1885 | 2026-01-27 16:49:18 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_1885_20260127-16h.py](warehouse/can_1885_20260127-16h.py) |
+| 1886 | 2026-01-27 17:45:19 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1886_20260127-17h.py](warehouse/can_1886_20260127-17h.py) |
