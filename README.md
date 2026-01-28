@@ -1977,3 +1977,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1911 | 2026-01-28 20:49:33 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1911_20260128-20h.py](warehouse/can_1911_20260128-20h.py) |
 | 1912 | 2026-01-28 21:45:16 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_1912_20260128-21h.py](warehouse/can_1912_20260128-21h.py) |
 | 1913 | 2026-01-28 22:46:58 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken) | [warehouse/can_1913_20260128-22h.py](warehouse/can_1913_20260128-22h.py) |
+| 1914 | 2026-01-28 23:41:06 | Qwen: Qwen2.5-VL 7B Instruct (free) | ✅ | [warehouse/can_1914_20260128-23h.py](warehouse/can_1914_20260128-23h.py) |
