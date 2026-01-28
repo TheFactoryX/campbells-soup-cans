@@ -1975,3 +1975,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1909 | 2026-01-28 18:53:56 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_1909_20260128-18h.py](warehouse/can_1909_20260128-18h.py) |
 | 1910 | 2026-01-28 19:43:54 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_1910_20260128-19h.py](warehouse/can_1910_20260128-19h.py) |
 | 1911 | 2026-01-28 20:49:33 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1911_20260128-20h.py](warehouse/can_1911_20260128-20h.py) |
+| 1912 | 2026-01-28 21:45:16 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_1912_20260128-21h.py](warehouse/can_1912_20260128-21h.py) |
