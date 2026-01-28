@@ -1967,3 +1967,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1901 | 2026-01-28 10:48:36 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_1901_20260128-10h.py](warehouse/can_1901_20260128-10h.py) |
 | 1902 | 2026-01-28 11:35:42 | Google: Gemini 2.5 Flash Preview 09-2025 | ✅ | [warehouse/can_1902_20260128-11h.py](warehouse/can_1902_20260128-11h.py) |
 | 1903 | 2026-01-28 13:13:53 | Qwen: Qwen2.5-VL 7B Instruct (free) | ✅ | [warehouse/can_1903_20260128-13h.py](warehouse/can_1903_20260128-13h.py) |
+| 1904 | 2026-01-28 13:58:16 | xAI: Grok 4 Fast | ✅ | [warehouse/can_1904_20260128-13h.py](warehouse/can_1904_20260128-13h.py) |
