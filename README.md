@@ -1960,3 +1960,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1894 | 2026-01-28 04:14:38 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1894_20260128-04h.py](warehouse/can_1894_20260128-04h.py) |
 | 1895 | 2026-01-28 04:56:56 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1895_20260128-04h.py](warehouse/can_1895_20260128-04h.py) |
 | 1896 | 2026-01-28 05:45:41 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1896_20260128-05h.py](warehouse/can_1896_20260128-05h.py) |
+| 1897 | 2026-01-28 06:54:50 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_1897_20260128-06h.py](warehouse/can_1897_20260128-06h.py) |
