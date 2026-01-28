@@ -1972,3 +1972,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1906 | 2026-01-28 15:50:32 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1906_20260128-15h.py](warehouse/can_1906_20260128-15h.py) |
 | 1907 | 2026-01-28 16:57:31 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1907_20260128-16h.py](warehouse/can_1907_20260128-16h.py) |
 | 1908 | 2026-01-28 17:49:14 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1908_20260128-17h.py](warehouse/can_1908_20260128-17h.py) |
+| 1909 | 2026-01-28 18:53:56 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_1909_20260128-18h.py](warehouse/can_1909_20260128-18h.py) |
