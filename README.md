@@ -1971,3 +1971,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1905 | 2026-01-28 14:51:11 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_1905_20260128-14h.py](warehouse/can_1905_20260128-14h.py) |
 | 1906 | 2026-01-28 15:50:32 | Google: Gemma 3 27B (free) | ✅ | [warehouse/can_1906_20260128-15h.py](warehouse/can_1906_20260128-15h.py) |
 | 1907 | 2026-01-28 16:57:31 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1907_20260128-16h.py](warehouse/can_1907_20260128-16h.py) |
+| 1908 | 2026-01-28 17:49:14 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1908_20260128-17h.py](warehouse/can_1908_20260128-17h.py) |
