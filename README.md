@@ -1996,3 +1996,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1930 | 2026-01-29 19:44:47 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1930_20260129-19h.py](warehouse/can_1930_20260129-19h.py) |
 | 1931 | 2026-01-29 20:47:52 | OpenAI: GPT-3.5 Turbo | ✅ | [warehouse/can_1931_20260129-20h.py](warehouse/can_1931_20260129-20h.py) |
 | 1932 | 2026-01-29 21:44:03 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_1932_20260129-21h.py](warehouse/can_1932_20260129-21h.py) |
+| 1933 | 2026-01-29 22:47:32 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_1933_20260129-22h.py](warehouse/can_1933_20260129-22h.py) |
