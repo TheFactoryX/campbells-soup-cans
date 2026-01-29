@@ -1991,3 +1991,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1925 | 2026-01-29 14:59:01 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1925_20260129-14h.py](warehouse/can_1925_20260129-14h.py) |
 | 1926 | 2026-01-29 15:53:35 | Google: Gemini 2.0 Flash Experimental (free) | ✅ | [warehouse/can_1926_20260129-15h.py](warehouse/can_1926_20260129-15h.py) |
 | 1927 | 2026-01-29 16:59:26 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_1927_20260129-16h.py](warehouse/can_1927_20260129-16h.py) |
+| 1928 | 2026-01-29 17:54:47 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1928_20260129-17h.py](warehouse/can_1928_20260129-17h.py) |
