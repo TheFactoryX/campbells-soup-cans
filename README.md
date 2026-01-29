@@ -1986,3 +1986,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1920 | 2026-01-29 08:58:45 | Qwen: Qwen2.5-VL 7B Instruct (free) | ✅ | [warehouse/can_1920_20260129-08h.py](warehouse/can_1920_20260129-08h.py) |
 | 1921 | 2026-01-29 09:59:34 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_1921_20260129-09h.py](warehouse/can_1921_20260129-09h.py) |
 | 1922 | 2026-01-29 10:58:46 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_1922_20260129-10h.py](warehouse/can_1922_20260129-10h.py) |
+| 1923 | 2026-01-29 11:46:22 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_1923_20260129-11h.py](warehouse/can_1923_20260129-11h.py) |
