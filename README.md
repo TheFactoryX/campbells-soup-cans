@@ -1994,3 +1994,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1928 | 2026-01-29 17:54:47 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1928_20260129-17h.py](warehouse/can_1928_20260129-17h.py) |
 | 1929 | 2026-01-29 19:04:17 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1929_20260129-19h.py](warehouse/can_1929_20260129-19h.py) |
 | 1930 | 2026-01-29 19:44:47 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1930_20260129-19h.py](warehouse/can_1930_20260129-19h.py) |
+| 1931 | 2026-01-29 20:47:52 | OpenAI: GPT-3.5 Turbo | ✅ | [warehouse/can_1931_20260129-20h.py](warehouse/can_1931_20260129-20h.py) |
