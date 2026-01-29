@@ -1985,3 +1985,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1919 | 2026-01-29 07:55:04 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_1919_20260129-07h.py](warehouse/can_1919_20260129-07h.py) |
 | 1920 | 2026-01-29 08:58:45 | Qwen: Qwen2.5-VL 7B Instruct (free) | ✅ | [warehouse/can_1920_20260129-08h.py](warehouse/can_1920_20260129-08h.py) |
 | 1921 | 2026-01-29 09:59:34 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_1921_20260129-09h.py](warehouse/can_1921_20260129-09h.py) |
+| 1922 | 2026-01-29 10:58:46 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_1922_20260129-10h.py](warehouse/can_1922_20260129-10h.py) |
