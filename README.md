@@ -1983,3 +1983,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1917 | 2026-01-29 05:59:19 | Meta: Llama 3.3 70B Instruct (free) | ❌ (empty, missing print) | [warehouse/can_1917_20260129-05h.py](warehouse/can_1917_20260129-05h.py) |
 | 1918 | 2026-01-29 07:07:10 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1918_20260129-07h.py](warehouse/can_1918_20260129-07h.py) |
 | 1919 | 2026-01-29 07:55:04 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_1919_20260129-07h.py](warehouse/can_1919_20260129-07h.py) |
+| 1920 | 2026-01-29 08:58:45 | Qwen: Qwen2.5-VL 7B Instruct (free) | ✅ | [warehouse/can_1920_20260129-08h.py](warehouse/can_1920_20260129-08h.py) |
