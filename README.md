@@ -1993,3 +1993,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1927 | 2026-01-29 16:59:26 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_1927_20260129-16h.py](warehouse/can_1927_20260129-16h.py) |
 | 1928 | 2026-01-29 17:54:47 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1928_20260129-17h.py](warehouse/can_1928_20260129-17h.py) |
 | 1929 | 2026-01-29 19:04:17 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1929_20260129-19h.py](warehouse/can_1929_20260129-19h.py) |
+| 1930 | 2026-01-29 19:44:47 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1930_20260129-19h.py](warehouse/can_1930_20260129-19h.py) |
