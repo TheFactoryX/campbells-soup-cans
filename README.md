@@ -2012,3 +2012,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1946 | 2026-01-30 15:51:26 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1946_20260130-15h.py](warehouse/can_1946_20260130-15h.py) |
 | 1947 | 2026-01-30 16:59:14 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_1947_20260130-16h.py](warehouse/can_1947_20260130-16h.py) |
 | 1948 | 2026-01-30 17:52:00 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_1948_20260130-17h.py](warehouse/can_1948_20260130-17h.py) |
+| 1949 | 2026-01-30 19:02:38 | DeepSeek: R1 0528 (free) | ❌ (broken) | [warehouse/can_1949_20260130-19h.py](warehouse/can_1949_20260130-19h.py) |
