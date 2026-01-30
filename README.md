@@ -1998,3 +1998,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1932 | 2026-01-29 21:44:03 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_1932_20260129-21h.py](warehouse/can_1932_20260129-21h.py) |
 | 1933 | 2026-01-29 22:47:32 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_1933_20260129-22h.py](warehouse/can_1933_20260129-22h.py) |
 | 1934 | 2026-01-29 23:41:52 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_1934_20260129-23h.py](warehouse/can_1934_20260129-23h.py) |
+| 1935 | 2026-01-30 03:06:28 | Meta: Llama 3.3 70B Instruct (free) | ✅ | [warehouse/can_1935_20260130-03h.py](warehouse/can_1935_20260130-03h.py) |
