@@ -2006,3 +2006,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1940 | 2026-01-30 08:57:29 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1940_20260130-08h.py](warehouse/can_1940_20260130-08h.py) |
 | 1941 | 2026-01-30 09:55:29 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1941_20260130-09h.py](warehouse/can_1941_20260130-09h.py) |
 | 1942 | 2026-01-30 10:55:26 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_1942_20260130-10h.py](warehouse/can_1942_20260130-10h.py) |
+| 1943 | 2026-01-30 11:43:05 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_1943_20260130-11h.py](warehouse/can_1943_20260130-11h.py) |
