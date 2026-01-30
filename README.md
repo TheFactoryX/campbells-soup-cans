@@ -2014,3 +2014,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1948 | 2026-01-30 17:52:00 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_1948_20260130-17h.py](warehouse/can_1948_20260130-17h.py) |
 | 1949 | 2026-01-30 19:02:38 | DeepSeek: R1 0528 (free) | ❌ (broken) | [warehouse/can_1949_20260130-19h.py](warehouse/can_1949_20260130-19h.py) |
 | 1950 | 2026-01-30 19:46:56 | xAI: Grok 3 Mini | ✅ | [warehouse/can_1950_20260130-19h.py](warehouse/can_1950_20260130-19h.py) |
+| 1951 | 2026-01-30 20:47:22 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1951_20260130-20h.py](warehouse/can_1951_20260130-20h.py) |
