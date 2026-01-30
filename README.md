@@ -2016,3 +2016,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1950 | 2026-01-30 19:46:56 | xAI: Grok 3 Mini | ✅ | [warehouse/can_1950_20260130-19h.py](warehouse/can_1950_20260130-19h.py) |
 | 1951 | 2026-01-30 20:47:22 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1951_20260130-20h.py](warehouse/can_1951_20260130-20h.py) |
 | 1952 | 2026-01-30 21:41:48 | Nous: Hermes 3 405B Instruct (free) | ❌ (empty, missing print) | [warehouse/can_1952_20260130-21h.py](warehouse/can_1952_20260130-21h.py) |
+| 1953 | 2026-01-30 22:46:33 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_1953_20260130-22h.py](warehouse/can_1953_20260130-22h.py) |
