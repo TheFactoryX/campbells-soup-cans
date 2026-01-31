@@ -2035,3 +2035,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1969 | 2026-01-31 17:41:14 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_1969_20260131-17h.py](warehouse/can_1969_20260131-17h.py) |
 | 1970 | 2026-01-31 18:50:16 | AllenAI: Olmo 3 7B Instruct | ✅ | [warehouse/can_1970_20260131-18h.py](warehouse/can_1970_20260131-18h.py) |
 | 1971 | 2026-01-31 19:33:00 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1971_20260131-19h.py](warehouse/can_1971_20260131-19h.py) |
+| 1972 | 2026-01-31 20:41:51 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_1972_20260131-20h.py](warehouse/can_1972_20260131-20h.py) |
