@@ -2032,3 +2032,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1966 | 2026-01-31 14:43:27 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_1966_20260131-14h.py](warehouse/can_1966_20260131-14h.py) |
 | 1967 | 2026-01-31 15:39:14 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1967_20260131-15h.py](warehouse/can_1967_20260131-15h.py) |
 | 1968 | 2026-01-31 16:47:26 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1968_20260131-16h.py](warehouse/can_1968_20260131-16h.py) |
+| 1969 | 2026-01-31 17:41:14 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_1969_20260131-17h.py](warehouse/can_1969_20260131-17h.py) |
