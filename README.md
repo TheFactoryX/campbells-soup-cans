@@ -2029,3 +2029,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1963 | 2026-01-31 11:33:39 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1963_20260131-11h.py](warehouse/can_1963_20260131-11h.py) |
 | 1964 | 2026-01-31 13:10:21 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_1964_20260131-13h.py](warehouse/can_1964_20260131-13h.py) |
 | 1965 | 2026-01-31 13:51:46 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1965_20260131-13h.py](warehouse/can_1965_20260131-13h.py) |
+| 1966 | 2026-01-31 14:43:27 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_1966_20260131-14h.py](warehouse/can_1966_20260131-14h.py) |
