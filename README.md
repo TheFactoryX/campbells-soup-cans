@@ -2018,3 +2018,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1952 | 2026-01-30 21:41:48 | Nous: Hermes 3 405B Instruct (free) | ❌ (empty, missing print) | [warehouse/can_1952_20260130-21h.py](warehouse/can_1952_20260130-21h.py) |
 | 1953 | 2026-01-30 22:46:33 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_1953_20260130-22h.py](warehouse/can_1953_20260130-22h.py) |
 | 1954 | 2026-01-30 23:40:52 | Qwen: Qwen2.5 7B Instruct | ✅ | [warehouse/can_1954_20260130-23h.py](warehouse/can_1954_20260130-23h.py) |
+| 1955 | 2026-01-31 02:46:44 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_1955_20260131-02h.py](warehouse/can_1955_20260131-02h.py) |
