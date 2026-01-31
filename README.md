@@ -2033,3 +2033,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1967 | 2026-01-31 15:39:14 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_1967_20260131-15h.py](warehouse/can_1967_20260131-15h.py) |
 | 1968 | 2026-01-31 16:47:26 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1968_20260131-16h.py](warehouse/can_1968_20260131-16h.py) |
 | 1969 | 2026-01-31 17:41:14 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_1969_20260131-17h.py](warehouse/can_1969_20260131-17h.py) |
+| 1970 | 2026-01-31 18:50:16 | AllenAI: Olmo 3 7B Instruct | ✅ | [warehouse/can_1970_20260131-18h.py](warehouse/can_1970_20260131-18h.py) |
