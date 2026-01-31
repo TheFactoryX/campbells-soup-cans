@@ -2022,3 +2022,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1956 | 2026-01-31 04:44:01 | Qwen: Qwen3 Coder 480B A35B (free) | ✅ | [warehouse/can_1956_20260131-04h.py](warehouse/can_1956_20260131-04h.py) |
 | 1957 | 2026-01-31 05:54:30 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_1957_20260131-05h.py](warehouse/can_1957_20260131-05h.py) |
 | 1958 | 2026-01-31 06:58:08 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_1958_20260131-06h.py](warehouse/can_1958_20260131-06h.py) |
+| 1959 | 2026-01-31 07:42:38 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1959_20260131-07h.py](warehouse/can_1959_20260131-07h.py) |
