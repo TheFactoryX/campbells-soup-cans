@@ -2038,3 +2038,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1972 | 2026-01-31 20:41:51 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_1972_20260131-20h.py](warehouse/can_1972_20260131-20h.py) |
 | 1973 | 2026-01-31 21:35:51 | NeverSleep: Lumimaid v0.2 8B | ✅ | [warehouse/can_1973_20260131-21h.py](warehouse/can_1973_20260131-21h.py) |
 | 1974 | 2026-01-31 22:41:42 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1974_20260131-22h.py](warehouse/can_1974_20260131-22h.py) |
+| 1975 | 2026-01-31 23:36:45 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_1975_20260131-23h.py](warehouse/can_1975_20260131-23h.py) |
