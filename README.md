@@ -2037,3 +2037,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1971 | 2026-01-31 19:33:00 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1971_20260131-19h.py](warehouse/can_1971_20260131-19h.py) |
 | 1972 | 2026-01-31 20:41:51 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_1972_20260131-20h.py](warehouse/can_1972_20260131-20h.py) |
 | 1973 | 2026-01-31 21:35:51 | NeverSleep: Lumimaid v0.2 8B | ✅ | [warehouse/can_1973_20260131-21h.py](warehouse/can_1973_20260131-21h.py) |
+| 1974 | 2026-01-31 22:41:42 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1974_20260131-22h.py](warehouse/can_1974_20260131-22h.py) |
