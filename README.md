@@ -2024,3 +2024,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1958 | 2026-01-31 06:58:08 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_1958_20260131-06h.py](warehouse/can_1958_20260131-06h.py) |
 | 1959 | 2026-01-31 07:42:38 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1959_20260131-07h.py](warehouse/can_1959_20260131-07h.py) |
 | 1960 | 2026-01-31 08:47:36 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_1960_20260131-08h.py](warehouse/can_1960_20260131-08h.py) |
+| 1961 | 2026-01-31 09:43:23 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_1961_20260131-09h.py](warehouse/can_1961_20260131-09h.py) |
