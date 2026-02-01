@@ -1,5 +1,11 @@
 # 🏭 Campbell's Soup Cans
 
+[![ANTI-LICENSE](https://img.shields.io/badge/ANTI--LICENSE-STEAL_THIS-000000?style=for-the-badge&labelColor=dc143c)](LICENSE)
+[![Machine Status](https://img.shields.io/github/actions/workflow/status/TheFactoryX/campbells-soup-cans/machine0-switch.yml?style=flat-square&label=machine)](https://github.com/TheFactoryX/campbells-soup-cans/actions)
+[![GitHub Stars](https://img.shields.io/github/stars/TheFactoryX/campbells-soup-cans?style=flat-square&logo=github)](https://github.com/TheFactoryX/campbells-soup-cans/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/TheFactoryX/campbells-soup-cans?style=flat-square)](https://github.com/TheFactoryX/campbells-soup-cans/commits)
+[![TheFactoryX](https://img.shields.io/badge/TheFactoryX-black?style=flat-square&logo=github)](https://github.com/TheFactoryX)
+
 **Production Line 0**
 Est. 2025 · Hourly Output · Open Warehouse
 
@@ -55,6 +61,12 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 ---
 
 > _"I want to be a machine."_ — Andy Warhol 🎨
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TheFactoryX/campbells-soup-cans&type=Date)](https://star-history.com/#TheFactoryX/campbells-soup-cans&Date)
 
 ---
 
