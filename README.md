@@ -2040,3 +2040,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1974 | 2026-01-31 22:41:42 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1974_20260131-22h.py](warehouse/can_1974_20260131-22h.py) |
 | 1975 | 2026-01-31 23:36:45 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_1975_20260131-23h.py](warehouse/can_1975_20260131-23h.py) |
 | 1976 | 2026-02-01 03:29:25 | MythoMax 13B | ✅ | [warehouse/can_1976_20260201-03h.py](warehouse/can_1976_20260201-03h.py) |
+| 1977 | 2026-02-01 05:38:22 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_1977_20260201-05h.py](warehouse/can_1977_20260201-05h.py) |
