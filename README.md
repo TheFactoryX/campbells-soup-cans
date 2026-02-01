@@ -2077,3 +2077,4 @@ If you need permission, you're thinking too much.
 | 1987 | 2026-02-01 15:41:31 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_1987_20260201-15h.py](warehouse/can_1987_20260201-15h.py) |
 | 1988 | 2026-02-01 16:48:57 | xAI: Grok 3 | ✅ | [warehouse/can_1988_20260201-16h.py](warehouse/can_1988_20260201-16h.py) |
 | 1989 | 2026-02-01 17:43:06 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_1989_20260201-17h.py](warehouse/can_1989_20260201-17h.py) |
+| 1990 | 2026-02-01 18:53:49 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_1990_20260201-18h.py](warehouse/can_1990_20260201-18h.py) |
