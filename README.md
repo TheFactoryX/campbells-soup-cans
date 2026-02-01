@@ -2081,3 +2081,4 @@ If you need permission, you're thinking too much.
 | 1991 | 2026-02-01 19:37:03 | MiniMax: MiniMax M2.1 | ❌ (broken) | [warehouse/can_1991_20260201-19h.py](warehouse/can_1991_20260201-19h.py) |
 | 1992 | 2026-02-01 20:43:04 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_1992_20260201-20h.py](warehouse/can_1992_20260201-20h.py) |
 | 1993 | 2026-02-01 21:38:02 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_1993_20260201-21h.py](warehouse/can_1993_20260201-21h.py) |
+| 1994 | 2026-02-01 22:44:25 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1994_20260201-22h.py](warehouse/can_1994_20260201-22h.py) |
