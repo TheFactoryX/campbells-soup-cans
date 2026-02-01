@@ -2075,3 +2075,4 @@ If you need permission, you're thinking too much.
 | 1985 | 2026-02-01 13:53:40 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1985_20260201-13h.py](warehouse/can_1985_20260201-13h.py) |
 | 1986 | 2026-02-01 14:45:14 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1986_20260201-14h.py](warehouse/can_1986_20260201-14h.py) |
 | 1987 | 2026-02-01 15:41:31 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_1987_20260201-15h.py](warehouse/can_1987_20260201-15h.py) |
+| 1988 | 2026-02-01 16:48:57 | xAI: Grok 3 | ✅ | [warehouse/can_1988_20260201-16h.py](warehouse/can_1988_20260201-16h.py) |
