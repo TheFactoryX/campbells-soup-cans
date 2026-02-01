@@ -2056,3 +2056,4 @@ If you need permission, you're thinking too much.
 | 1978 | 2026-02-01 07:06:04 | Z.AI: GLM 4.5 Air (free) | ❌ (empty, missing print) | [warehouse/can_1978_20260201-07h.py](warehouse/can_1978_20260201-07h.py) |
 | 1979 | 2026-02-01 07:49:34 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1979_20260201-07h.py](warehouse/can_1979_20260201-07h.py) |
 | 1980 | 2026-02-01 08:49:17 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_1980_20260201-08h.py](warehouse/can_1980_20260201-08h.py) |
+| 1981 | 2026-02-01 09:45:16 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_1981_20260201-09h.py](warehouse/can_1981_20260201-09h.py) |
