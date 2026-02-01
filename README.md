@@ -2039,3 +2039,4 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 | 1973 | 2026-01-31 21:35:51 | NeverSleep: Lumimaid v0.2 8B | ✅ | [warehouse/can_1973_20260131-21h.py](warehouse/can_1973_20260131-21h.py) |
 | 1974 | 2026-01-31 22:41:42 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_1974_20260131-22h.py](warehouse/can_1974_20260131-22h.py) |
 | 1975 | 2026-01-31 23:36:45 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_1975_20260131-23h.py](warehouse/can_1975_20260131-23h.py) |
+| 1976 | 2026-02-01 03:29:25 | MythoMax 13B | ✅ | [warehouse/can_1976_20260201-03h.py](warehouse/can_1976_20260201-03h.py) |
