@@ -2079,3 +2079,4 @@ If you need permission, you're thinking too much.
 | 1989 | 2026-02-01 17:43:06 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_1989_20260201-17h.py](warehouse/can_1989_20260201-17h.py) |
 | 1990 | 2026-02-01 18:53:49 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_1990_20260201-18h.py](warehouse/can_1990_20260201-18h.py) |
 | 1991 | 2026-02-01 19:37:03 | MiniMax: MiniMax M2.1 | ❌ (broken) | [warehouse/can_1991_20260201-19h.py](warehouse/can_1991_20260201-19h.py) |
+| 1992 | 2026-02-01 20:43:04 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_1992_20260201-20h.py](warehouse/can_1992_20260201-20h.py) |
