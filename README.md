@@ -56,6 +56,18 @@ Set `OPENROUTER_API_KEY` in GitHub Secrets for auto-run.
 
 > _"I want to be a machine."_ — Andy Warhol 🎨
 
+---
+
+## Anti-License
+
+[ANTI-LICENSE](LICENSE) — This is not a license. This is an invitation.
+
+Take it. Use it. Break it. Fix it. Sell it. Give it away.
+
+If you need permission, you're thinking too much.
+
+---
+
 **[TheFactoryX](https://github.com/TheFactoryX)** — Strange people. Strange things.
 
 
