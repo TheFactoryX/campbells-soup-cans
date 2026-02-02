@@ -2089,3 +2089,4 @@ If you need permission, you're thinking too much.
 | 1999 | 2026-02-02 09:03:54 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_1999_20260202-09h.py](warehouse/can_1999_20260202-09h.py) |
 | 2000 | 2026-02-02 10:07:22 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_2000_20260202-10h.py](warehouse/can_2000_20260202-10h.py) |
 | 2001 | 2026-02-02 11:07:08 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2001_20260202-11h.py](warehouse/can_2001_20260202-11h.py) |
+| 2002 | 2026-02-02 11:50:52 | OpenAI: GPT-4o (2024-05-13) | ✅ | [warehouse/can_2002_20260202-11h.py](warehouse/can_2002_20260202-11h.py) |
