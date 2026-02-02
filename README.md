@@ -2083,3 +2083,4 @@ If you need permission, you're thinking too much.
 | 1993 | 2026-02-01 21:38:02 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_1993_20260201-21h.py](warehouse/can_1993_20260201-21h.py) |
 | 1994 | 2026-02-01 22:44:25 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_1994_20260201-22h.py](warehouse/can_1994_20260201-22h.py) |
 | 1995 | 2026-02-01 23:40:24 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_1995_20260201-23h.py](warehouse/can_1995_20260201-23h.py) |
+| 1996 | 2026-02-02 03:19:48 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_1996_20260202-03h.py](warehouse/can_1996_20260202-03h.py) |
