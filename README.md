@@ -2092,3 +2092,4 @@ If you need permission, you're thinking too much.
 | 2002 | 2026-02-02 11:50:52 | OpenAI: GPT-4o (2024-05-13) | ✅ | [warehouse/can_2002_20260202-11h.py](warehouse/can_2002_20260202-11h.py) |
 | 2003 | 2026-02-02 13:35:32 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_2003_20260202-13h.py](warehouse/can_2003_20260202-13h.py) |
 | 2004 | 2026-02-02 15:01:22 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_2004_20260202-15h.py](warehouse/can_2004_20260202-15h.py) |
+| 2005 | 2026-02-02 15:51:47 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_2005_20260202-15h.py](warehouse/can_2005_20260202-15h.py) |
