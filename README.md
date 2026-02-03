@@ -2102,3 +2102,4 @@ If you need permission, you're thinking too much.
 | 2012 | 2026-02-03 07:10:38 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2012_20260203-07h.py](warehouse/can_2012_20260203-07h.py) |
 | 2013 | 2026-02-03 07:55:06 | Free Models Router | ✅ | [warehouse/can_2013_20260203-07h.py](warehouse/can_2013_20260203-07h.py) |
 | 2014 | 2026-02-03 08:57:28 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2014_20260203-08h.py](warehouse/can_2014_20260203-08h.py) |
+| 2015 | 2026-02-03 09:59:33 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_2015_20260203-09h.py](warehouse/can_2015_20260203-09h.py) |
