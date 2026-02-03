@@ -2099,3 +2099,4 @@ If you need permission, you're thinking too much.
 | 2009 | 2026-02-03 03:13:05 | Venice: Uncensored (free) | ✅ | [warehouse/can_2009_20260203-03h.py](warehouse/can_2009_20260203-03h.py) |
 | 2010 | 2026-02-03 04:58:42 | Venice: Uncensored (free) | ✅ | [warehouse/can_2010_20260203-04h.py](warehouse/can_2010_20260203-04h.py) |
 | 2011 | 2026-02-03 06:06:24 | Free Models Router | ✅ | [warehouse/can_2011_20260203-06h.py](warehouse/can_2011_20260203-06h.py) |
+| 2012 | 2026-02-03 07:10:38 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2012_20260203-07h.py](warehouse/can_2012_20260203-07h.py) |
