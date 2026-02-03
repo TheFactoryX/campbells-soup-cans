@@ -2098,3 +2098,4 @@ If you need permission, you're thinking too much.
 | 2008 | 2026-02-02 23:44:35 | Venice: Uncensored (free) | ❌ (empty, missing print) | [warehouse/can_2008_20260202-23h.py](warehouse/can_2008_20260202-23h.py) |
 | 2009 | 2026-02-03 03:13:05 | Venice: Uncensored (free) | ✅ | [warehouse/can_2009_20260203-03h.py](warehouse/can_2009_20260203-03h.py) |
 | 2010 | 2026-02-03 04:58:42 | Venice: Uncensored (free) | ✅ | [warehouse/can_2010_20260203-04h.py](warehouse/can_2010_20260203-04h.py) |
+| 2011 | 2026-02-03 06:06:24 | Free Models Router | ✅ | [warehouse/can_2011_20260203-06h.py](warehouse/can_2011_20260203-06h.py) |
