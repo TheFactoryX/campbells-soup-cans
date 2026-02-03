@@ -2105,3 +2105,4 @@ If you need permission, you're thinking too much.
 | 2015 | 2026-02-03 09:59:33 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_2015_20260203-09h.py](warehouse/can_2015_20260203-09h.py) |
 | 2016 | 2026-02-03 11:01:13 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2016_20260203-11h.py](warehouse/can_2016_20260203-11h.py) |
 | 2017 | 2026-02-03 11:50:44 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2017_20260203-11h.py](warehouse/can_2017_20260203-11h.py) |
+| 2018 | 2026-02-03 13:35:15 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2018_20260203-13h.py](warehouse/can_2018_20260203-13h.py) |
