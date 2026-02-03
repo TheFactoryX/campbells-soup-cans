@@ -2113,3 +2113,4 @@ If you need permission, you're thinking too much.
 | 2023 | 2026-02-03 19:13:39 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2023_20260203-19h.py](warehouse/can_2023_20260203-19h.py) |
 | 2024 | 2026-02-03 19:53:39 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_2024_20260203-19h.py](warehouse/can_2024_20260203-19h.py) |
 | 2025 | 2026-02-03 20:55:03 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2025_20260203-20h.py](warehouse/can_2025_20260203-20h.py) |
+| 2026 | 2026-02-03 21:50:18 | Google: Gemini 2.5 Flash Lite Preview 09-2025 | ✅ | [warehouse/can_2026_20260203-21h.py](warehouse/can_2026_20260203-21h.py) |
