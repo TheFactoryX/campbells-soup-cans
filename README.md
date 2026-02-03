@@ -2108,3 +2108,4 @@ If you need permission, you're thinking too much.
 | 2018 | 2026-02-03 13:35:15 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2018_20260203-13h.py](warehouse/can_2018_20260203-13h.py) |
 | 2019 | 2026-02-03 15:03:36 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2019_20260203-15h.py](warehouse/can_2019_20260203-15h.py) |
 | 2020 | 2026-02-03 16:05:48 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2020_20260203-16h.py](warehouse/can_2020_20260203-16h.py) |
+| 2021 | 2026-02-03 17:12:44 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2021_20260203-17h.py](warehouse/can_2021_20260203-17h.py) |
