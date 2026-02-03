@@ -2107,3 +2107,4 @@ If you need permission, you're thinking too much.
 | 2017 | 2026-02-03 11:50:44 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2017_20260203-11h.py](warehouse/can_2017_20260203-11h.py) |
 | 2018 | 2026-02-03 13:35:15 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2018_20260203-13h.py](warehouse/can_2018_20260203-13h.py) |
 | 2019 | 2026-02-03 15:03:36 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2019_20260203-15h.py](warehouse/can_2019_20260203-15h.py) |
+| 2020 | 2026-02-03 16:05:48 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2020_20260203-16h.py](warehouse/can_2020_20260203-16h.py) |
