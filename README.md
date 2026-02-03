@@ -2115,3 +2115,4 @@ If you need permission, you're thinking too much.
 | 2025 | 2026-02-03 20:55:03 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2025_20260203-20h.py](warehouse/can_2025_20260203-20h.py) |
 | 2026 | 2026-02-03 21:50:18 | Google: Gemini 2.5 Flash Lite Preview 09-2025 | ✅ | [warehouse/can_2026_20260203-21h.py](warehouse/can_2026_20260203-21h.py) |
 | 2027 | 2026-02-03 22:50:52 | Qwen: Qwen3 Coder 30B A3B Instruct | ✅ | [warehouse/can_2027_20260203-22h.py](warehouse/can_2027_20260203-22h.py) |
+| 2028 | 2026-02-03 23:43:24 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2028_20260203-23h.py](warehouse/can_2028_20260203-23h.py) |
