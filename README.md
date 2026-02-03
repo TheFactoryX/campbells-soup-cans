@@ -2112,3 +2112,4 @@ If you need permission, you're thinking too much.
 | 2022 | 2026-02-03 18:07:33 | Z.AI: GLM 4.7 | ❌ (broken) | [warehouse/can_2022_20260203-18h.py](warehouse/can_2022_20260203-18h.py) |
 | 2023 | 2026-02-03 19:13:39 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2023_20260203-19h.py](warehouse/can_2023_20260203-19h.py) |
 | 2024 | 2026-02-03 19:53:39 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_2024_20260203-19h.py](warehouse/can_2024_20260203-19h.py) |
+| 2025 | 2026-02-03 20:55:03 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2025_20260203-20h.py](warehouse/can_2025_20260203-20h.py) |
