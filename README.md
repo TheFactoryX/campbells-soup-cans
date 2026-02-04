@@ -2121,3 +2121,4 @@ If you need permission, you're thinking too much.
 | 2031 | 2026-02-04 06:03:53 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2031_20260204-06h.py](warehouse/can_2031_20260204-06h.py) |
 | 2032 | 2026-02-04 07:10:57 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_2032_20260204-07h.py](warehouse/can_2032_20260204-07h.py) |
 | 2033 | 2026-02-04 07:56:50 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2033_20260204-07h.py](warehouse/can_2033_20260204-07h.py) |
+| 2034 | 2026-02-04 09:00:40 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2034_20260204-09h.py](warehouse/can_2034_20260204-09h.py) |
