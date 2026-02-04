@@ -2135,3 +2135,4 @@ If you need permission, you're thinking too much.
 | 2045 | 2026-02-04 20:52:18 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_2045_20260204-20h.py](warehouse/can_2045_20260204-20h.py) |
 | 2046 | 2026-02-04 21:47:25 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_2046_20260204-21h.py](warehouse/can_2046_20260204-21h.py) |
 | 2047 | 2026-02-04 22:46:41 | OpenAI: GPT-4o (extended) | ✅ | [warehouse/can_2047_20260204-22h.py](warehouse/can_2047_20260204-22h.py) |
+| 2048 | 2026-02-04 23:43:30 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2048_20260204-23h.py](warehouse/can_2048_20260204-23h.py) |
