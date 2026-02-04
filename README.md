@@ -2119,3 +2119,4 @@ If you need permission, you're thinking too much.
 | 2029 | 2026-02-04 03:08:51 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2029_20260204-03h.py](warehouse/can_2029_20260204-03h.py) |
 | 2030 | 2026-02-04 04:50:55 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_2030_20260204-04h.py](warehouse/can_2030_20260204-04h.py) |
 | 2031 | 2026-02-04 06:03:53 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2031_20260204-06h.py](warehouse/can_2031_20260204-06h.py) |
+| 2032 | 2026-02-04 07:10:57 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_2032_20260204-07h.py](warehouse/can_2032_20260204-07h.py) |
