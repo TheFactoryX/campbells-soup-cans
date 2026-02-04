@@ -2128,3 +2128,4 @@ If you need permission, you're thinking too much.
 | 2038 | 2026-02-04 13:35:53 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2038_20260204-13h.py](warehouse/can_2038_20260204-13h.py) |
 | 2039 | 2026-02-04 15:01:07 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2039_20260204-15h.py](warehouse/can_2039_20260204-15h.py) |
 | 2040 | 2026-02-04 16:00:38 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2040_20260204-16h.py](warehouse/can_2040_20260204-16h.py) |
+| 2041 | 2026-02-04 17:07:32 | Free Models Router | ✅ | [warehouse/can_2041_20260204-17h.py](warehouse/can_2041_20260204-17h.py) |
