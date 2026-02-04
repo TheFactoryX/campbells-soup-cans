@@ -2131,3 +2131,4 @@ If you need permission, you're thinking too much.
 | 2041 | 2026-02-04 17:07:32 | Free Models Router | ✅ | [warehouse/can_2041_20260204-17h.py](warehouse/can_2041_20260204-17h.py) |
 | 2042 | 2026-02-04 18:03:10 | Free Models Router | ✅ | [warehouse/can_2042_20260204-18h.py](warehouse/can_2042_20260204-18h.py) |
 | 2043 | 2026-02-04 19:08:50 | DeepSeek: DeepSeek V3 0324 | ✅ | [warehouse/can_2043_20260204-19h.py](warehouse/can_2043_20260204-19h.py) |
+| 2044 | 2026-02-04 19:51:45 | DeepSeek: DeepSeek V3.2 Exp | ✅ | [warehouse/can_2044_20260204-19h.py](warehouse/can_2044_20260204-19h.py) |
