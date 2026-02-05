@@ -2148,3 +2148,4 @@ If you need permission, you're thinking too much.
 | 2058 | 2026-02-05 15:04:17 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2058_20260205-15h.py](warehouse/can_2058_20260205-15h.py) |
 | 2059 | 2026-02-05 15:58:00 | StepFun: Step 3.5 Flash (free) | ❌ (broken, missing print) | [warehouse/can_2059_20260205-15h.py](warehouse/can_2059_20260205-15h.py) |
 | 2060 | 2026-02-05 17:09:19 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2060_20260205-17h.py](warehouse/can_2060_20260205-17h.py) |
+| 2061 | 2026-02-05 18:04:03 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2061_20260205-18h.py](warehouse/can_2061_20260205-18h.py) |
