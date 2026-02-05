@@ -2145,3 +2145,4 @@ If you need permission, you're thinking too much.
 | 2055 | 2026-02-05 11:02:43 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2055_20260205-11h.py](warehouse/can_2055_20260205-11h.py) |
 | 2056 | 2026-02-05 11:50:39 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_2056_20260205-11h.py](warehouse/can_2056_20260205-11h.py) |
 | 2057 | 2026-02-05 13:39:01 | Free Models Router | ❌ (broken, missing print) | [warehouse/can_2057_20260205-13h.py](warehouse/can_2057_20260205-13h.py) |
+| 2058 | 2026-02-05 15:04:17 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2058_20260205-15h.py](warehouse/can_2058_20260205-15h.py) |
