@@ -2140,3 +2140,4 @@ If you need permission, you're thinking too much.
 | 2050 | 2026-02-05 04:59:34 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_2050_20260205-04h.py](warehouse/can_2050_20260205-04h.py) |
 | 2051 | 2026-02-05 06:10:39 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_2051_20260205-06h.py](warehouse/can_2051_20260205-06h.py) |
 | 2052 | 2026-02-05 07:16:35 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2052_20260205-07h.py](warehouse/can_2052_20260205-07h.py) |
+| 2053 | 2026-02-05 09:02:40 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2053_20260205-09h.py](warehouse/can_2053_20260205-09h.py) |
