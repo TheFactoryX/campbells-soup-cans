@@ -2152,3 +2152,4 @@ If you need permission, you're thinking too much.
 | 2062 | 2026-02-05 19:07:02 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_2062_20260205-19h.py](warehouse/can_2062_20260205-19h.py) |
 | 2063 | 2026-02-05 19:50:22 | Free Models Router | ✅ | [warehouse/can_2063_20260205-19h.py](warehouse/can_2063_20260205-19h.py) |
 | 2064 | 2026-02-05 20:51:00 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2064_20260205-20h.py](warehouse/can_2064_20260205-20h.py) |
+| 2065 | 2026-02-05 21:45:29 | Arcee AI: Trinity Large Preview (free) | ❌ (broken) | [warehouse/can_2065_20260205-21h.py](warehouse/can_2065_20260205-21h.py) |
