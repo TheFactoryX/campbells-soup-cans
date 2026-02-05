@@ -2149,3 +2149,4 @@ If you need permission, you're thinking too much.
 | 2059 | 2026-02-05 15:58:00 | StepFun: Step 3.5 Flash (free) | ❌ (broken, missing print) | [warehouse/can_2059_20260205-15h.py](warehouse/can_2059_20260205-15h.py) |
 | 2060 | 2026-02-05 17:09:19 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2060_20260205-17h.py](warehouse/can_2060_20260205-17h.py) |
 | 2061 | 2026-02-05 18:04:03 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2061_20260205-18h.py](warehouse/can_2061_20260205-18h.py) |
+| 2062 | 2026-02-05 19:07:02 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_2062_20260205-19h.py](warehouse/can_2062_20260205-19h.py) |
