@@ -2137,3 +2137,4 @@ If you need permission, you're thinking too much.
 | 2047 | 2026-02-04 22:46:41 | OpenAI: GPT-4o (extended) | ✅ | [warehouse/can_2047_20260204-22h.py](warehouse/can_2047_20260204-22h.py) |
 | 2048 | 2026-02-04 23:43:30 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2048_20260204-23h.py](warehouse/can_2048_20260204-23h.py) |
 | 2049 | 2026-02-05 03:10:50 | NVIDIA: Nemotron Nano 12B 2 VL | ✅ | [warehouse/can_2049_20260205-03h.py](warehouse/can_2049_20260205-03h.py) |
+| 2050 | 2026-02-05 04:59:34 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_2050_20260205-04h.py](warehouse/can_2050_20260205-04h.py) |
