@@ -2163,3 +2163,4 @@ If you need permission, you're thinking too much.
 | 2073 | 2026-02-06 09:02:29 | TheDrummer: Cydonia 24B V4.1 | ✅ | [warehouse/can_2073_20260206-09h.py](warehouse/can_2073_20260206-09h.py) |
 | 2074 | 2026-02-06 10:01:44 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2074_20260206-10h.py](warehouse/can_2074_20260206-10h.py) |
 | 2075 | 2026-02-06 11:01:50 | Free Models Router | ✅ | [warehouse/can_2075_20260206-11h.py](warehouse/can_2075_20260206-11h.py) |
+| 2076 | 2026-02-06 11:48:27 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2076_20260206-11h.py](warehouse/can_2076_20260206-11h.py) |
