@@ -2164,3 +2164,4 @@ If you need permission, you're thinking too much.
 | 2074 | 2026-02-06 10:01:44 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2074_20260206-10h.py](warehouse/can_2074_20260206-10h.py) |
 | 2075 | 2026-02-06 11:01:50 | Free Models Router | ✅ | [warehouse/can_2075_20260206-11h.py](warehouse/can_2075_20260206-11h.py) |
 | 2076 | 2026-02-06 11:48:27 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2076_20260206-11h.py](warehouse/can_2076_20260206-11h.py) |
+| 2077 | 2026-02-06 13:34:43 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2077_20260206-13h.py](warehouse/can_2077_20260206-13h.py) |
