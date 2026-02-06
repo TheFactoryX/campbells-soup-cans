@@ -2166,3 +2166,4 @@ If you need permission, you're thinking too much.
 | 2076 | 2026-02-06 11:48:27 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2076_20260206-11h.py](warehouse/can_2076_20260206-11h.py) |
 | 2077 | 2026-02-06 13:34:43 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2077_20260206-13h.py](warehouse/can_2077_20260206-13h.py) |
 | 2078 | 2026-02-06 15:00:42 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_2078_20260206-15h.py](warehouse/can_2078_20260206-15h.py) |
+| 2079 | 2026-02-06 15:57:36 | Google: Gemini 2.0 Flash Lite | ✅ | [warehouse/can_2079_20260206-15h.py](warehouse/can_2079_20260206-15h.py) |
