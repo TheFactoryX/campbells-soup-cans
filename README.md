@@ -2159,3 +2159,4 @@ If you need permission, you're thinking too much.
 | 2069 | 2026-02-06 04:57:40 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2069_20260206-04h.py](warehouse/can_2069_20260206-04h.py) |
 | 2070 | 2026-02-06 06:08:09 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2070_20260206-06h.py](warehouse/can_2070_20260206-06h.py) |
 | 2071 | 2026-02-06 07:13:45 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2071_20260206-07h.py](warehouse/can_2071_20260206-07h.py) |
+| 2072 | 2026-02-06 07:58:01 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2072_20260206-07h.py](warehouse/can_2072_20260206-07h.py) |
