@@ -2170,3 +2170,4 @@ If you need permission, you're thinking too much.
 | 2080 | 2026-02-06 17:04:24 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2080_20260206-17h.py](warehouse/can_2080_20260206-17h.py) |
 | 2081 | 2026-02-06 17:59:37 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_2081_20260206-17h.py](warehouse/can_2081_20260206-17h.py) |
 | 2082 | 2026-02-06 19:08:06 | Pony Alpha | ✅ | [warehouse/can_2082_20260206-19h.py](warehouse/can_2082_20260206-19h.py) |
+| 2083 | 2026-02-06 19:49:58 | Prime Intellect: INTELLECT-3 | ✅ | [warehouse/can_2083_20260206-19h.py](warehouse/can_2083_20260206-19h.py) |
