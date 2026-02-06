@@ -2156,3 +2156,4 @@ If you need permission, you're thinking too much.
 | 2066 | 2026-02-05 22:48:55 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken) | [warehouse/can_2066_20260205-22h.py](warehouse/can_2066_20260205-22h.py) |
 | 2067 | 2026-02-05 23:40:39 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_2067_20260205-23h.py](warehouse/can_2067_20260205-23h.py) |
 | 2068 | 2026-02-06 03:10:29 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_2068_20260206-03h.py](warehouse/can_2068_20260206-03h.py) |
+| 2069 | 2026-02-06 04:57:40 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2069_20260206-04h.py](warehouse/can_2069_20260206-04h.py) |
