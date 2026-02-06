@@ -2168,3 +2168,4 @@ If you need permission, you're thinking too much.
 | 2078 | 2026-02-06 15:00:42 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_2078_20260206-15h.py](warehouse/can_2078_20260206-15h.py) |
 | 2079 | 2026-02-06 15:57:36 | Google: Gemini 2.0 Flash Lite | ✅ | [warehouse/can_2079_20260206-15h.py](warehouse/can_2079_20260206-15h.py) |
 | 2080 | 2026-02-06 17:04:24 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2080_20260206-17h.py](warehouse/can_2080_20260206-17h.py) |
+| 2081 | 2026-02-06 17:59:37 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_2081_20260206-17h.py](warehouse/can_2081_20260206-17h.py) |
