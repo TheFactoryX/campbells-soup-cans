@@ -2192,3 +2192,4 @@ If you need permission, you're thinking too much.
 | 2102 | 2026-02-07 17:43:37 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2102_20260207-17h.py](warehouse/can_2102_20260207-17h.py) |
 | 2103 | 2026-02-07 18:53:50 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2103_20260207-18h.py](warehouse/can_2103_20260207-18h.py) |
 | 2104 | 2026-02-07 19:36:38 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_2104_20260207-19h.py](warehouse/can_2104_20260207-19h.py) |
+| 2105 | 2026-02-07 20:44:22 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_2105_20260207-20h.py](warehouse/can_2105_20260207-20h.py) |
