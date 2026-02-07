@@ -2182,3 +2182,4 @@ If you need permission, you're thinking too much.
 | 2092 | 2026-02-07 07:45:47 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_2092_20260207-07h.py](warehouse/can_2092_20260207-07h.py) |
 | 2093 | 2026-02-07 08:49:57 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2093_20260207-08h.py](warehouse/can_2093_20260207-08h.py) |
 | 2094 | 2026-02-07 09:45:42 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_2094_20260207-09h.py](warehouse/can_2094_20260207-09h.py) |
+| 2095 | 2026-02-07 10:46:21 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_2095_20260207-10h.py](warehouse/can_2095_20260207-10h.py) |
