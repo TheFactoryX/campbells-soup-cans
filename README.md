@@ -2186,3 +2186,4 @@ If you need permission, you're thinking too much.
 | 2096 | 2026-02-07 11:34:32 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2096_20260207-11h.py](warehouse/can_2096_20260207-11h.py) |
 | 2097 | 2026-02-07 13:12:20 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_2097_20260207-13h.py](warehouse/can_2097_20260207-13h.py) |
 | 2098 | 2026-02-07 13:54:07 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_2098_20260207-13h.py](warehouse/can_2098_20260207-13h.py) |
+| 2099 | 2026-02-07 14:45:33 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2099_20260207-14h.py](warehouse/can_2099_20260207-14h.py) |
