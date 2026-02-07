@@ -2181,3 +2181,4 @@ If you need permission, you're thinking too much.
 | 2091 | 2026-02-07 07:02:26 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2091_20260207-07h.py](warehouse/can_2091_20260207-07h.py) |
 | 2092 | 2026-02-07 07:45:47 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_2092_20260207-07h.py](warehouse/can_2092_20260207-07h.py) |
 | 2093 | 2026-02-07 08:49:57 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2093_20260207-08h.py](warehouse/can_2093_20260207-08h.py) |
+| 2094 | 2026-02-07 09:45:42 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_2094_20260207-09h.py](warehouse/can_2094_20260207-09h.py) |
