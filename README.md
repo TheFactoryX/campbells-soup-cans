@@ -2179,3 +2179,4 @@ If you need permission, you're thinking too much.
 | 2089 | 2026-02-07 04:48:04 | Free Models Router | ✅ | [warehouse/can_2089_20260207-04h.py](warehouse/can_2089_20260207-04h.py) |
 | 2090 | 2026-02-07 05:56:57 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_2090_20260207-05h.py](warehouse/can_2090_20260207-05h.py) |
 | 2091 | 2026-02-07 07:02:26 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2091_20260207-07h.py](warehouse/can_2091_20260207-07h.py) |
+| 2092 | 2026-02-07 07:45:47 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_2092_20260207-07h.py](warehouse/can_2092_20260207-07h.py) |
