@@ -2189,3 +2189,4 @@ If you need permission, you're thinking too much.
 | 2099 | 2026-02-07 14:45:33 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2099_20260207-14h.py](warehouse/can_2099_20260207-14h.py) |
 | 2100 | 2026-02-07 15:41:25 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2100_20260207-15h.py](warehouse/can_2100_20260207-15h.py) |
 | 2101 | 2026-02-07 16:49:53 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2101_20260207-16h.py](warehouse/can_2101_20260207-16h.py) |
+| 2102 | 2026-02-07 17:43:37 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2102_20260207-17h.py](warehouse/can_2102_20260207-17h.py) |
