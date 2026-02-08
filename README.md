@@ -2204,3 +2204,4 @@ If you need permission, you're thinking too much.
 | 2114 | 2026-02-08 09:44:59 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2114_20260208-09h.py](warehouse/can_2114_20260208-09h.py) |
 | 2115 | 2026-02-08 10:47:54 | DeepSeek: R1 0528 (free) | ❌ (broken) | [warehouse/can_2115_20260208-10h.py](warehouse/can_2115_20260208-10h.py) |
 | 2116 | 2026-02-08 11:36:17 | Z.AI: GLM 4.7 | ✅ | [warehouse/can_2116_20260208-11h.py](warehouse/can_2116_20260208-11h.py) |
+| 2117 | 2026-02-08 13:13:17 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2117_20260208-13h.py](warehouse/can_2117_20260208-13h.py) |
