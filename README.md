@@ -2199,3 +2199,4 @@ If you need permission, you're thinking too much.
 | 2109 | 2026-02-08 03:34:50 | Free Models Router | ✅ | [warehouse/can_2109_20260208-03h.py](warehouse/can_2109_20260208-03h.py) |
 | 2110 | 2026-02-08 05:41:04 | MoonshotAI: Kimi K2 0905 (exacto) | ✅ | [warehouse/can_2110_20260208-05h.py](warehouse/can_2110_20260208-05h.py) |
 | 2111 | 2026-02-08 07:07:41 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2111_20260208-07h.py](warehouse/can_2111_20260208-07h.py) |
+| 2112 | 2026-02-08 07:50:17 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2112_20260208-07h.py](warehouse/can_2112_20260208-07h.py) |
