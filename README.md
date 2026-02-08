@@ -2205,3 +2205,4 @@ If you need permission, you're thinking too much.
 | 2115 | 2026-02-08 10:47:54 | DeepSeek: R1 0528 (free) | ❌ (broken) | [warehouse/can_2115_20260208-10h.py](warehouse/can_2115_20260208-10h.py) |
 | 2116 | 2026-02-08 11:36:17 | Z.AI: GLM 4.7 | ✅ | [warehouse/can_2116_20260208-11h.py](warehouse/can_2116_20260208-11h.py) |
 | 2117 | 2026-02-08 13:13:17 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2117_20260208-13h.py](warehouse/can_2117_20260208-13h.py) |
+| 2118 | 2026-02-08 13:56:03 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2118_20260208-13h.py](warehouse/can_2118_20260208-13h.py) |
