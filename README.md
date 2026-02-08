@@ -2209,3 +2209,4 @@ If you need permission, you're thinking too much.
 | 2119 | 2026-02-08 14:47:18 | DeepSeek: R1 0528 (free) | ✅ | [warehouse/can_2119_20260208-14h.py](warehouse/can_2119_20260208-14h.py) |
 | 2120 | 2026-02-08 15:42:31 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2120_20260208-15h.py](warehouse/can_2120_20260208-15h.py) |
 | 2121 | 2026-02-08 16:50:00 | TNG: DeepSeek R1T2 Chimera (free) | ✅ | [warehouse/can_2121_20260208-16h.py](warehouse/can_2121_20260208-16h.py) |
+| 2122 | 2026-02-08 17:45:12 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2122_20260208-17h.py](warehouse/can_2122_20260208-17h.py) |
