@@ -2197,3 +2197,4 @@ If you need permission, you're thinking too much.
 | 2107 | 2026-02-07 22:47:21 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2107_20260207-22h.py](warehouse/can_2107_20260207-22h.py) |
 | 2108 | 2026-02-07 23:47:10 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2108_20260207-23h.py](warehouse/can_2108_20260207-23h.py) |
 | 2109 | 2026-02-08 03:34:50 | Free Models Router | ✅ | [warehouse/can_2109_20260208-03h.py](warehouse/can_2109_20260208-03h.py) |
+| 2110 | 2026-02-08 05:41:04 | MoonshotAI: Kimi K2 0905 (exacto) | ✅ | [warehouse/can_2110_20260208-05h.py](warehouse/can_2110_20260208-05h.py) |
