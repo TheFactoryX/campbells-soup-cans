@@ -2225,3 +2225,4 @@ If you need permission, you're thinking too much.
 | 2135 | 2026-02-09 13:48:39 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2135_20260209-13h.py](warehouse/can_2135_20260209-13h.py) |
 | 2136 | 2026-02-09 15:11:16 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2136_20260209-15h.py](warehouse/can_2136_20260209-15h.py) |
 | 2137 | 2026-02-09 16:13:12 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2137_20260209-16h.py](warehouse/can_2137_20260209-16h.py) |
+| 2138 | 2026-02-09 17:13:31 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_2138_20260209-17h.py](warehouse/can_2138_20260209-17h.py) |
