@@ -2223,3 +2223,4 @@ If you need permission, you're thinking too much.
 | 2133 | 2026-02-09 10:16:40 | Qwen: Qwen2.5-VL 7B Instruct | ✅ | [warehouse/can_2133_20260209-10h.py](warehouse/can_2133_20260209-10h.py) |
 | 2134 | 2026-02-09 11:56:35 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2134_20260209-11h.py](warehouse/can_2134_20260209-11h.py) |
 | 2135 | 2026-02-09 13:48:39 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2135_20260209-13h.py](warehouse/can_2135_20260209-13h.py) |
+| 2136 | 2026-02-09 15:11:16 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2136_20260209-15h.py](warehouse/can_2136_20260209-15h.py) |
