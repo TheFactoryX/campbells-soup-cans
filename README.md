@@ -2230,3 +2230,4 @@ If you need permission, you're thinking too much.
 | 2140 | 2026-02-09 19:40:57 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2140_20260209-19h.py](warehouse/can_2140_20260209-19h.py) |
 | 2141 | 2026-02-09 20:58:28 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2141_20260209-20h.py](warehouse/can_2141_20260209-20h.py) |
 | 2142 | 2026-02-09 21:56:34 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2142_20260209-21h.py](warehouse/can_2142_20260209-21h.py) |
+| 2143 | 2026-02-09 22:58:24 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2143_20260209-22h.py](warehouse/can_2143_20260209-22h.py) |
