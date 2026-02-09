@@ -2216,3 +2216,4 @@ If you need permission, you're thinking too much.
 | 2126 | 2026-02-08 21:42:58 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2126_20260208-21h.py](warehouse/can_2126_20260208-21h.py) |
 | 2127 | 2026-02-08 22:48:32 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2127_20260208-22h.py](warehouse/can_2127_20260208-22h.py) |
 | 2128 | 2026-02-08 23:46:34 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_2128_20260208-23h.py](warehouse/can_2128_20260208-23h.py) |
+| 2129 | 2026-02-09 03:21:28 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2129_20260209-03h.py](warehouse/can_2129_20260209-03h.py) |
