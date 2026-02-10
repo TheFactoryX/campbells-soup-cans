@@ -2232,3 +2232,4 @@ If you need permission, you're thinking too much.
 | 2142 | 2026-02-09 21:56:34 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2142_20260209-21h.py](warehouse/can_2142_20260209-21h.py) |
 | 2143 | 2026-02-09 22:58:24 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2143_20260209-22h.py](warehouse/can_2143_20260209-22h.py) |
 | 2144 | 2026-02-09 23:53:43 | Free Models Router | ✅ | [warehouse/can_2144_20260209-23h.py](warehouse/can_2144_20260209-23h.py) |
+| 2145 | 2026-02-10 03:29:45 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2145_20260210-03h.py](warehouse/can_2145_20260210-03h.py) |
