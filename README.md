@@ -2242,3 +2242,4 @@ If you need permission, you're thinking too much.
 | 2152 | 2026-02-10 13:53:54 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_2152_20260210-13h.py](warehouse/can_2152_20260210-13h.py) |
 | 2153 | 2026-02-10 15:34:49 | Writer: Palmyra X5 | ✅ | [warehouse/can_2153_20260210-15h.py](warehouse/can_2153_20260210-15h.py) |
 | 2154 | 2026-02-10 17:23:52 | Meta: Llama 3.1 70B Instruct | ✅ | [warehouse/can_2154_20260210-17h.py](warehouse/can_2154_20260210-17h.py) |
+| 2155 | 2026-02-10 19:32:10 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_2155_20260210-19h.py](warehouse/can_2155_20260210-19h.py) |
