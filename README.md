@@ -2244,3 +2244,4 @@ If you need permission, you're thinking too much.
 | 2154 | 2026-02-10 17:23:52 | Meta: Llama 3.1 70B Instruct | ✅ | [warehouse/can_2154_20260210-17h.py](warehouse/can_2154_20260210-17h.py) |
 | 2155 | 2026-02-10 19:32:10 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_2155_20260210-19h.py](warehouse/can_2155_20260210-19h.py) |
 | 2156 | 2026-02-10 21:00:39 | OpenAI: gpt-oss-20b | ✅ | [warehouse/can_2156_20260210-21h.py](warehouse/can_2156_20260210-21h.py) |
+| 2157 | 2026-02-10 22:01:13 | DeepSeek: R1 0528 (free) | ❌ (broken) | [warehouse/can_2157_20260210-22h.py](warehouse/can_2157_20260210-22h.py) |
