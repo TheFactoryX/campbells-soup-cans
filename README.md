@@ -2241,3 +2241,4 @@ If you need permission, you're thinking too much.
 | 2151 | 2026-02-10 12:00:25 | Pony Alpha | ✅ | [warehouse/can_2151_20260210-12h.py](warehouse/can_2151_20260210-12h.py) |
 | 2152 | 2026-02-10 13:53:54 | TNG: R1T Chimera (free) | ✅ | [warehouse/can_2152_20260210-13h.py](warehouse/can_2152_20260210-13h.py) |
 | 2153 | 2026-02-10 15:34:49 | Writer: Palmyra X5 | ✅ | [warehouse/can_2153_20260210-15h.py](warehouse/can_2153_20260210-15h.py) |
+| 2154 | 2026-02-10 17:23:52 | Meta: Llama 3.1 70B Instruct | ✅ | [warehouse/can_2154_20260210-17h.py](warehouse/can_2154_20260210-17h.py) |
