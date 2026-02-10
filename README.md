@@ -2234,3 +2234,4 @@ If you need permission, you're thinking too much.
 | 2144 | 2026-02-09 23:53:43 | Free Models Router | ✅ | [warehouse/can_2144_20260209-23h.py](warehouse/can_2144_20260209-23h.py) |
 | 2145 | 2026-02-10 03:29:45 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2145_20260210-03h.py](warehouse/can_2145_20260210-03h.py) |
 | 2146 | 2026-02-10 05:48:02 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken) | [warehouse/can_2146_20260210-05h.py](warehouse/can_2146_20260210-05h.py) |
+| 2147 | 2026-02-10 07:32:09 | Aurora Alpha | ✅ | [warehouse/can_2147_20260210-07h.py](warehouse/can_2147_20260210-07h.py) |
