@@ -2246,3 +2246,4 @@ If you need permission, you're thinking too much.
 | 2156 | 2026-02-10 21:00:39 | OpenAI: gpt-oss-20b | ✅ | [warehouse/can_2156_20260210-21h.py](warehouse/can_2156_20260210-21h.py) |
 | 2157 | 2026-02-10 22:01:13 | DeepSeek: R1 0528 (free) | ❌ (broken) | [warehouse/can_2157_20260210-22h.py](warehouse/can_2157_20260210-22h.py) |
 | 2158 | 2026-02-10 23:01:03 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2158_20260210-23h.py](warehouse/can_2158_20260210-23h.py) |
+| 2159 | 2026-02-10 23:54:24 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_2159_20260210-23h.py](warehouse/can_2159_20260210-23h.py) |
