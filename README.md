@@ -2236,3 +2236,4 @@ If you need permission, you're thinking too much.
 | 2146 | 2026-02-10 05:48:02 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken) | [warehouse/can_2146_20260210-05h.py](warehouse/can_2146_20260210-05h.py) |
 | 2147 | 2026-02-10 07:32:09 | Aurora Alpha | ✅ | [warehouse/can_2147_20260210-07h.py](warehouse/can_2147_20260210-07h.py) |
 | 2148 | 2026-02-10 09:12:23 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2148_20260210-09h.py](warehouse/can_2148_20260210-09h.py) |
+| 2149 | 2026-02-10 10:12:31 | OpenAI: GPT-3.5 Turbo | ✅ | [warehouse/can_2149_20260210-10h.py](warehouse/can_2149_20260210-10h.py) |
