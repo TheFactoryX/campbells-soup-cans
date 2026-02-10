@@ -2237,3 +2237,4 @@ If you need permission, you're thinking too much.
 | 2147 | 2026-02-10 07:32:09 | Aurora Alpha | ✅ | [warehouse/can_2147_20260210-07h.py](warehouse/can_2147_20260210-07h.py) |
 | 2148 | 2026-02-10 09:12:23 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2148_20260210-09h.py](warehouse/can_2148_20260210-09h.py) |
 | 2149 | 2026-02-10 10:12:31 | OpenAI: GPT-3.5 Turbo | ✅ | [warehouse/can_2149_20260210-10h.py](warehouse/can_2149_20260210-10h.py) |
+| 2150 | 2026-02-10 11:13:10 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2150_20260210-11h.py](warehouse/can_2150_20260210-11h.py) |
