@@ -2260,3 +2260,4 @@ If you need permission, you're thinking too much.
 | 2170 | 2026-02-11 18:09:47 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2170_20260211-18h.py](warehouse/can_2170_20260211-18h.py) |
 | 2171 | 2026-02-11 19:19:57 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2171_20260211-19h.py](warehouse/can_2171_20260211-19h.py) |
 | 2172 | 2026-02-11 20:56:08 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2172_20260211-20h.py](warehouse/can_2172_20260211-20h.py) |
+| 2173 | 2026-02-11 21:50:05 | WizardLM-2 8x22B | ✅ | [warehouse/can_2173_20260211-21h.py](warehouse/can_2173_20260211-21h.py) |
