@@ -2254,3 +2254,4 @@ If you need permission, you're thinking too much.
 | 2164 | 2026-02-11 10:10:49 | Z.AI: GLM 4.6V | ❌ (broken) | [warehouse/can_2164_20260211-10h.py](warehouse/can_2164_20260211-10h.py) |
 | 2165 | 2026-02-11 11:10:01 | Arcee AI: Trinity Mini (free) | ❌ (empty, missing print) | [warehouse/can_2165_20260211-11h.py](warehouse/can_2165_20260211-11h.py) |
 | 2166 | 2026-02-11 11:58:28 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2166_20260211-11h.py](warehouse/can_2166_20260211-11h.py) |
+| 2167 | 2026-02-11 13:49:47 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_2167_20260211-13h.py](warehouse/can_2167_20260211-13h.py) |
