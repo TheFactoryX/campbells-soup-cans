@@ -2257,3 +2257,4 @@ If you need permission, you're thinking too much.
 | 2167 | 2026-02-11 13:49:47 | Z.AI: GLM 4.5 Air (free) | ✅ | [warehouse/can_2167_20260211-13h.py](warehouse/can_2167_20260211-13h.py) |
 | 2168 | 2026-02-11 15:14:02 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2168_20260211-15h.py](warehouse/can_2168_20260211-15h.py) |
 | 2169 | 2026-02-11 16:17:03 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_2169_20260211-16h.py](warehouse/can_2169_20260211-16h.py) |
+| 2170 | 2026-02-11 18:09:47 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2170_20260211-18h.py](warehouse/can_2170_20260211-18h.py) |
