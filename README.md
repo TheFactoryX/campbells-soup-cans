@@ -2258,3 +2258,4 @@ If you need permission, you're thinking too much.
 | 2168 | 2026-02-11 15:14:02 | TNG: DeepSeek R1T Chimera (free) | ✅ | [warehouse/can_2168_20260211-15h.py](warehouse/can_2168_20260211-15h.py) |
 | 2169 | 2026-02-11 16:17:03 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_2169_20260211-16h.py](warehouse/can_2169_20260211-16h.py) |
 | 2170 | 2026-02-11 18:09:47 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2170_20260211-18h.py](warehouse/can_2170_20260211-18h.py) |
+| 2171 | 2026-02-11 19:19:57 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2171_20260211-19h.py](warehouse/can_2171_20260211-19h.py) |
