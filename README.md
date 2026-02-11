@@ -2250,3 +2250,4 @@ If you need permission, you're thinking too much.
 | 2160 | 2026-02-11 03:25:58 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2160_20260211-03h.py](warehouse/can_2160_20260211-03h.py) |
 | 2161 | 2026-02-11 05:45:55 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2161_20260211-05h.py](warehouse/can_2161_20260211-05h.py) |
 | 2162 | 2026-02-11 07:18:52 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_2162_20260211-07h.py](warehouse/can_2162_20260211-07h.py) |
+| 2163 | 2026-02-11 09:08:03 | ByteDance Seed: Seed 1.6 Flash | ✅ | [warehouse/can_2163_20260211-09h.py](warehouse/can_2163_20260211-09h.py) |
