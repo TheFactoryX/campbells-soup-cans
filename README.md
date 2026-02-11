@@ -2253,3 +2253,4 @@ If you need permission, you're thinking too much.
 | 2163 | 2026-02-11 09:08:03 | ByteDance Seed: Seed 1.6 Flash | ✅ | [warehouse/can_2163_20260211-09h.py](warehouse/can_2163_20260211-09h.py) |
 | 2164 | 2026-02-11 10:10:49 | Z.AI: GLM 4.6V | ❌ (broken) | [warehouse/can_2164_20260211-10h.py](warehouse/can_2164_20260211-10h.py) |
 | 2165 | 2026-02-11 11:10:01 | Arcee AI: Trinity Mini (free) | ❌ (empty, missing print) | [warehouse/can_2165_20260211-11h.py](warehouse/can_2165_20260211-11h.py) |
+| 2166 | 2026-02-11 11:58:28 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2166_20260211-11h.py](warehouse/can_2166_20260211-11h.py) |
