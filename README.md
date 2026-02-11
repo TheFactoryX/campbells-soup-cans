@@ -2252,3 +2252,4 @@ If you need permission, you're thinking too much.
 | 2162 | 2026-02-11 07:18:52 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_2162_20260211-07h.py](warehouse/can_2162_20260211-07h.py) |
 | 2163 | 2026-02-11 09:08:03 | ByteDance Seed: Seed 1.6 Flash | ✅ | [warehouse/can_2163_20260211-09h.py](warehouse/can_2163_20260211-09h.py) |
 | 2164 | 2026-02-11 10:10:49 | Z.AI: GLM 4.6V | ❌ (broken) | [warehouse/can_2164_20260211-10h.py](warehouse/can_2164_20260211-10h.py) |
+| 2165 | 2026-02-11 11:10:01 | Arcee AI: Trinity Mini (free) | ❌ (empty, missing print) | [warehouse/can_2165_20260211-11h.py](warehouse/can_2165_20260211-11h.py) |
