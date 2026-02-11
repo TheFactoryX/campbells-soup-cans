@@ -2262,3 +2262,4 @@ If you need permission, you're thinking too much.
 | 2172 | 2026-02-11 20:56:08 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2172_20260211-20h.py](warehouse/can_2172_20260211-20h.py) |
 | 2173 | 2026-02-11 21:50:05 | WizardLM-2 8x22B | ✅ | [warehouse/can_2173_20260211-21h.py](warehouse/can_2173_20260211-21h.py) |
 | 2174 | 2026-02-11 22:49:44 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2174_20260211-22h.py](warehouse/can_2174_20260211-22h.py) |
+| 2175 | 2026-02-11 23:47:07 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2175_20260211-23h.py](warehouse/can_2175_20260211-23h.py) |
