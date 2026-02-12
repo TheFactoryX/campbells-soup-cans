@@ -2268,3 +2268,4 @@ If you need permission, you're thinking too much.
 | 2178 | 2026-02-12 07:17:27 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2178_20260212-07h.py](warehouse/can_2178_20260212-07h.py) |
 | 2179 | 2026-02-12 09:06:27 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2179_20260212-09h.py](warehouse/can_2179_20260212-09h.py) |
 | 2180 | 2026-02-12 10:07:55 | Meta: Llama 3.2 1B Instruct | ❌ (broken) | [warehouse/can_2180_20260212-10h.py](warehouse/can_2180_20260212-10h.py) |
+| 2181 | 2026-02-12 11:08:00 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2181_20260212-11h.py](warehouse/can_2181_20260212-11h.py) |
