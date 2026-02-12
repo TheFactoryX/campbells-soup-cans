@@ -2271,3 +2271,4 @@ If you need permission, you're thinking too much.
 | 2181 | 2026-02-12 11:08:00 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2181_20260212-11h.py](warehouse/can_2181_20260212-11h.py) |
 | 2182 | 2026-02-12 11:56:26 | Aurora Alpha | ✅ | [warehouse/can_2182_20260212-11h.py](warehouse/can_2182_20260212-11h.py) |
 | 2183 | 2026-02-12 13:44:50 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2183_20260212-13h.py](warehouse/can_2183_20260212-13h.py) |
+| 2184 | 2026-02-12 15:07:30 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2184_20260212-15h.py](warehouse/can_2184_20260212-15h.py) |
