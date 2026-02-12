@@ -2276,3 +2276,4 @@ If you need permission, you're thinking too much.
 | 2186 | 2026-02-12 17:17:19 | DeepSeek: R1 | ✅ | [warehouse/can_2186_20260212-17h.py](warehouse/can_2186_20260212-17h.py) |
 | 2187 | 2026-02-12 19:20:29 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2187_20260212-19h.py](warehouse/can_2187_20260212-19h.py) |
 | 2188 | 2026-02-12 20:51:37 | Google: Gemini 3 Pro Preview | ✅ | [warehouse/can_2188_20260212-20h.py](warehouse/can_2188_20260212-20h.py) |
+| 2189 | 2026-02-12 21:50:08 | Free Models Router | ✅ | [warehouse/can_2189_20260212-21h.py](warehouse/can_2189_20260212-21h.py) |
