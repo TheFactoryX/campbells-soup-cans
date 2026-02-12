@@ -2273,3 +2273,4 @@ If you need permission, you're thinking too much.
 | 2183 | 2026-02-12 13:44:50 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2183_20260212-13h.py](warehouse/can_2183_20260212-13h.py) |
 | 2184 | 2026-02-12 15:07:30 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2184_20260212-15h.py](warehouse/can_2184_20260212-15h.py) |
 | 2185 | 2026-02-12 16:09:44 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2185_20260212-16h.py](warehouse/can_2185_20260212-16h.py) |
+| 2186 | 2026-02-12 17:17:19 | DeepSeek: R1 | ✅ | [warehouse/can_2186_20260212-17h.py](warehouse/can_2186_20260212-17h.py) |
