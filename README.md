@@ -2275,3 +2275,4 @@ If you need permission, you're thinking too much.
 | 2185 | 2026-02-12 16:09:44 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2185_20260212-16h.py](warehouse/can_2185_20260212-16h.py) |
 | 2186 | 2026-02-12 17:17:19 | DeepSeek: R1 | ✅ | [warehouse/can_2186_20260212-17h.py](warehouse/can_2186_20260212-17h.py) |
 | 2187 | 2026-02-12 19:20:29 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2187_20260212-19h.py](warehouse/can_2187_20260212-19h.py) |
+| 2188 | 2026-02-12 20:51:37 | Google: Gemini 3 Pro Preview | ✅ | [warehouse/can_2188_20260212-20h.py](warehouse/can_2188_20260212-20h.py) |
