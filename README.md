@@ -2270,3 +2270,4 @@ If you need permission, you're thinking too much.
 | 2180 | 2026-02-12 10:07:55 | Meta: Llama 3.2 1B Instruct | ❌ (broken) | [warehouse/can_2180_20260212-10h.py](warehouse/can_2180_20260212-10h.py) |
 | 2181 | 2026-02-12 11:08:00 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2181_20260212-11h.py](warehouse/can_2181_20260212-11h.py) |
 | 2182 | 2026-02-12 11:56:26 | Aurora Alpha | ✅ | [warehouse/can_2182_20260212-11h.py](warehouse/can_2182_20260212-11h.py) |
+| 2183 | 2026-02-12 13:44:50 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2183_20260212-13h.py](warehouse/can_2183_20260212-13h.py) |
