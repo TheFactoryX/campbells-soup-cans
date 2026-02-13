@@ -2284,3 +2284,4 @@ If you need permission, you're thinking too much.
 | 2194 | 2026-02-13 07:14:54 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2194_20260213-07h.py](warehouse/can_2194_20260213-07h.py) |
 | 2195 | 2026-02-13 07:59:17 | DeepSeek: R1 0528 (free) | ❌ (broken) | [warehouse/can_2195_20260213-07h.py](warehouse/can_2195_20260213-07h.py) |
 | 2196 | 2026-02-13 09:02:44 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2196_20260213-09h.py](warehouse/can_2196_20260213-09h.py) |
+| 2197 | 2026-02-13 10:02:05 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2197_20260213-10h.py](warehouse/can_2197_20260213-10h.py) |
