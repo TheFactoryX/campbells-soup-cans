@@ -2285,3 +2285,4 @@ If you need permission, you're thinking too much.
 | 2195 | 2026-02-13 07:59:17 | DeepSeek: R1 0528 (free) | ❌ (broken) | [warehouse/can_2195_20260213-07h.py](warehouse/can_2195_20260213-07h.py) |
 | 2196 | 2026-02-13 09:02:44 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2196_20260213-09h.py](warehouse/can_2196_20260213-09h.py) |
 | 2197 | 2026-02-13 10:02:05 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2197_20260213-10h.py](warehouse/can_2197_20260213-10h.py) |
+| 2198 | 2026-02-13 11:02:23 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2198_20260213-11h.py](warehouse/can_2198_20260213-11h.py) |
