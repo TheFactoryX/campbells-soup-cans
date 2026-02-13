@@ -2294,3 +2294,4 @@ If you need permission, you're thinking too much.
 | 2204 | 2026-02-13 17:56:44 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2204_20260213-17h.py](warehouse/can_2204_20260213-17h.py) |
 | 2205 | 2026-02-13 19:09:33 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_2205_20260213-19h.py](warehouse/can_2205_20260213-19h.py) |
 | 2206 | 2026-02-13 19:52:47 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2206_20260213-19h.py](warehouse/can_2206_20260213-19h.py) |
+| 2207 | 2026-02-13 20:56:44 | Mistral: Ministral 3 8B 2512 | ✅ | [warehouse/can_2207_20260213-20h.py](warehouse/can_2207_20260213-20h.py) |
