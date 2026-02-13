@@ -2290,3 +2290,4 @@ If you need permission, you're thinking too much.
 | 2200 | 2026-02-13 13:36:38 | Aurora Alpha | ✅ | [warehouse/can_2200_20260213-13h.py](warehouse/can_2200_20260213-13h.py) |
 | 2201 | 2026-02-13 15:01:20 | Qwen: Qwen3 VL 235B A22B Thinking | ❌ (broken) | [warehouse/can_2201_20260213-15h.py](warehouse/can_2201_20260213-15h.py) |
 | 2202 | 2026-02-13 16:00:08 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2202_20260213-16h.py](warehouse/can_2202_20260213-16h.py) |
+| 2203 | 2026-02-13 17:06:51 | OpenAI: GPT-3.5 Turbo 16k | ✅ | [warehouse/can_2203_20260213-17h.py](warehouse/can_2203_20260213-17h.py) |
