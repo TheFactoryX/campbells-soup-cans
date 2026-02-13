@@ -2280,3 +2280,4 @@ If you need permission, you're thinking too much.
 | 2190 | 2026-02-12 22:49:27 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2190_20260212-22h.py](warehouse/can_2190_20260212-22h.py) |
 | 2191 | 2026-02-12 23:45:39 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2191_20260212-23h.py](warehouse/can_2191_20260212-23h.py) |
 | 2192 | 2026-02-13 03:22:29 | Free Models Router | ✅ | [warehouse/can_2192_20260213-03h.py](warehouse/can_2192_20260213-03h.py) |
+| 2193 | 2026-02-13 05:38:24 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2193_20260213-05h.py](warehouse/can_2193_20260213-05h.py) |
