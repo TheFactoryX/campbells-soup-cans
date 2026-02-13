@@ -2287,3 +2287,4 @@ If you need permission, you're thinking too much.
 | 2197 | 2026-02-13 10:02:05 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2197_20260213-10h.py](warehouse/can_2197_20260213-10h.py) |
 | 2198 | 2026-02-13 11:02:23 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2198_20260213-11h.py](warehouse/can_2198_20260213-11h.py) |
 | 2199 | 2026-02-13 11:47:16 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2199_20260213-11h.py](warehouse/can_2199_20260213-11h.py) |
+| 2200 | 2026-02-13 13:36:38 | Aurora Alpha | ✅ | [warehouse/can_2200_20260213-13h.py](warehouse/can_2200_20260213-13h.py) |
