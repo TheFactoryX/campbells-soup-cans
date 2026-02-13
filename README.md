@@ -2296,3 +2296,4 @@ If you need permission, you're thinking too much.
 | 2206 | 2026-02-13 19:52:47 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2206_20260213-19h.py](warehouse/can_2206_20260213-19h.py) |
 | 2207 | 2026-02-13 20:56:44 | Mistral: Ministral 3 8B 2512 | ✅ | [warehouse/can_2207_20260213-20h.py](warehouse/can_2207_20260213-20h.py) |
 | 2208 | 2026-02-13 21:52:02 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2208_20260213-21h.py](warehouse/can_2208_20260213-21h.py) |
+| 2209 | 2026-02-13 22:52:57 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2209_20260213-22h.py](warehouse/can_2209_20260213-22h.py) |
