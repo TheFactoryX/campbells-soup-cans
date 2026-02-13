@@ -2292,3 +2292,4 @@ If you need permission, you're thinking too much.
 | 2202 | 2026-02-13 16:00:08 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2202_20260213-16h.py](warehouse/can_2202_20260213-16h.py) |
 | 2203 | 2026-02-13 17:06:51 | OpenAI: GPT-3.5 Turbo 16k | ✅ | [warehouse/can_2203_20260213-17h.py](warehouse/can_2203_20260213-17h.py) |
 | 2204 | 2026-02-13 17:56:44 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2204_20260213-17h.py](warehouse/can_2204_20260213-17h.py) |
+| 2205 | 2026-02-13 19:09:33 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_2205_20260213-19h.py](warehouse/can_2205_20260213-19h.py) |
