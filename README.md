@@ -2281,3 +2281,4 @@ If you need permission, you're thinking too much.
 | 2191 | 2026-02-12 23:45:39 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2191_20260212-23h.py](warehouse/can_2191_20260212-23h.py) |
 | 2192 | 2026-02-13 03:22:29 | Free Models Router | ✅ | [warehouse/can_2192_20260213-03h.py](warehouse/can_2192_20260213-03h.py) |
 | 2193 | 2026-02-13 05:38:24 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2193_20260213-05h.py](warehouse/can_2193_20260213-05h.py) |
+| 2194 | 2026-02-13 07:14:54 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2194_20260213-07h.py](warehouse/can_2194_20260213-07h.py) |
