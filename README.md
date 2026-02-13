@@ -2282,3 +2282,4 @@ If you need permission, you're thinking too much.
 | 2192 | 2026-02-13 03:22:29 | Free Models Router | ✅ | [warehouse/can_2192_20260213-03h.py](warehouse/can_2192_20260213-03h.py) |
 | 2193 | 2026-02-13 05:38:24 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2193_20260213-05h.py](warehouse/can_2193_20260213-05h.py) |
 | 2194 | 2026-02-13 07:14:54 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2194_20260213-07h.py](warehouse/can_2194_20260213-07h.py) |
+| 2195 | 2026-02-13 07:59:17 | DeepSeek: R1 0528 (free) | ❌ (broken) | [warehouse/can_2195_20260213-07h.py](warehouse/can_2195_20260213-07h.py) |
