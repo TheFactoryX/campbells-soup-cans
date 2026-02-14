@@ -2312,3 +2312,4 @@ If you need permission, you're thinking too much.
 | 2222 | 2026-02-14 14:46:05 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_2222_20260214-14h.py](warehouse/can_2222_20260214-14h.py) |
 | 2223 | 2026-02-14 15:42:05 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2223_20260214-15h.py](warehouse/can_2223_20260214-15h.py) |
 | 2224 | 2026-02-14 16:48:44 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2224_20260214-16h.py](warehouse/can_2224_20260214-16h.py) |
+| 2225 | 2026-02-14 17:43:14 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2225_20260214-17h.py](warehouse/can_2225_20260214-17h.py) |
