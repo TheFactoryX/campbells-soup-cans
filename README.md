@@ -2315,3 +2315,4 @@ If you need permission, you're thinking too much.
 | 2225 | 2026-02-14 17:43:14 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2225_20260214-17h.py](warehouse/can_2225_20260214-17h.py) |
 | 2226 | 2026-02-14 18:53:47 | Z.ai: GLM 4.5 Air (free) | ❌ (empty, missing print) | [warehouse/can_2226_20260214-18h.py](warehouse/can_2226_20260214-18h.py) |
 | 2227 | 2026-02-14 19:35:59 | Aurora Alpha | ✅ | [warehouse/can_2227_20260214-19h.py](warehouse/can_2227_20260214-19h.py) |
+| 2228 | 2026-02-14 20:43:13 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2228_20260214-20h.py](warehouse/can_2228_20260214-20h.py) |
