@@ -2303,3 +2303,4 @@ If you need permission, you're thinking too much.
 | 2213 | 2026-02-14 05:59:19 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2213_20260214-05h.py](warehouse/can_2213_20260214-05h.py) |
 | 2214 | 2026-02-14 07:04:25 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2214_20260214-07h.py](warehouse/can_2214_20260214-07h.py) |
 | 2215 | 2026-02-14 07:48:04 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2215_20260214-07h.py](warehouse/can_2215_20260214-07h.py) |
+| 2216 | 2026-02-14 08:50:02 | OpenAI: GPT-5.2 Chat | ✅ | [warehouse/can_2216_20260214-08h.py](warehouse/can_2216_20260214-08h.py) |
