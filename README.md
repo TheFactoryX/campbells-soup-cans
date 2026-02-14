@@ -2306,3 +2306,4 @@ If you need permission, you're thinking too much.
 | 2216 | 2026-02-14 08:50:02 | OpenAI: GPT-5.2 Chat | ✅ | [warehouse/can_2216_20260214-08h.py](warehouse/can_2216_20260214-08h.py) |
 | 2217 | 2026-02-14 09:46:32 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_2217_20260214-09h.py](warehouse/can_2217_20260214-09h.py) |
 | 2218 | 2026-02-14 10:46:47 | OpenAI: GPT-4o (2024-05-13) | ✅ | [warehouse/can_2218_20260214-10h.py](warehouse/can_2218_20260214-10h.py) |
+| 2219 | 2026-02-14 11:35:23 | OpenAI: GPT-4o Search Preview | ✅ | [warehouse/can_2219_20260214-11h.py](warehouse/can_2219_20260214-11h.py) |
