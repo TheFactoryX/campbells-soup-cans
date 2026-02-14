@@ -2300,3 +2300,4 @@ If you need permission, you're thinking too much.
 | 2210 | 2026-02-13 23:44:51 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_2210_20260213-23h.py](warehouse/can_2210_20260213-23h.py) |
 | 2211 | 2026-02-14 03:07:42 | Upstage: Solar Pro 3 (free) | ❌ (empty, missing print) | [warehouse/can_2211_20260214-03h.py](warehouse/can_2211_20260214-03h.py) |
 | 2212 | 2026-02-14 04:51:55 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2212_20260214-04h.py](warehouse/can_2212_20260214-04h.py) |
+| 2213 | 2026-02-14 05:59:19 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2213_20260214-05h.py](warehouse/can_2213_20260214-05h.py) |
