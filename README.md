@@ -2316,3 +2316,4 @@ If you need permission, you're thinking too much.
 | 2226 | 2026-02-14 18:53:47 | Z.ai: GLM 4.5 Air (free) | ❌ (empty, missing print) | [warehouse/can_2226_20260214-18h.py](warehouse/can_2226_20260214-18h.py) |
 | 2227 | 2026-02-14 19:35:59 | Aurora Alpha | ✅ | [warehouse/can_2227_20260214-19h.py](warehouse/can_2227_20260214-19h.py) |
 | 2228 | 2026-02-14 20:43:13 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2228_20260214-20h.py](warehouse/can_2228_20260214-20h.py) |
+| 2229 | 2026-02-14 21:39:59 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2229_20260214-21h.py](warehouse/can_2229_20260214-21h.py) |
