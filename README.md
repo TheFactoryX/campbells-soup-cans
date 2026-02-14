@@ -2298,3 +2298,4 @@ If you need permission, you're thinking too much.
 | 2208 | 2026-02-13 21:52:02 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2208_20260213-21h.py](warehouse/can_2208_20260213-21h.py) |
 | 2209 | 2026-02-13 22:52:57 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2209_20260213-22h.py](warehouse/can_2209_20260213-22h.py) |
 | 2210 | 2026-02-13 23:44:51 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_2210_20260213-23h.py](warehouse/can_2210_20260213-23h.py) |
+| 2211 | 2026-02-14 03:07:42 | Upstage: Solar Pro 3 (free) | ❌ (empty, missing print) | [warehouse/can_2211_20260214-03h.py](warehouse/can_2211_20260214-03h.py) |
