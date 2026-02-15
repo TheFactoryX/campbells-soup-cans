@@ -2329,3 +2329,4 @@ If you need permission, you're thinking too much.
 | 2239 | 2026-02-15 11:36:24 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2239_20260215-11h.py](warehouse/can_2239_20260215-11h.py) |
 | 2240 | 2026-02-15 13:14:28 | Mistral: Devstral Small 1.1 | ✅ | [warehouse/can_2240_20260215-13h.py](warehouse/can_2240_20260215-13h.py) |
 | 2241 | 2026-02-15 13:55:14 | Free Models Router | ✅ | [warehouse/can_2241_20260215-13h.py](warehouse/can_2241_20260215-13h.py) |
+| 2242 | 2026-02-15 14:47:00 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2242_20260215-14h.py](warehouse/can_2242_20260215-14h.py) |
