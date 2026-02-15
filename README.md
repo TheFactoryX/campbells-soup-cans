@@ -2328,3 +2328,4 @@ If you need permission, you're thinking too much.
 | 2238 | 2026-02-15 10:47:31 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2238_20260215-10h.py](warehouse/can_2238_20260215-10h.py) |
 | 2239 | 2026-02-15 11:36:24 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2239_20260215-11h.py](warehouse/can_2239_20260215-11h.py) |
 | 2240 | 2026-02-15 13:14:28 | Mistral: Devstral Small 1.1 | ✅ | [warehouse/can_2240_20260215-13h.py](warehouse/can_2240_20260215-13h.py) |
+| 2241 | 2026-02-15 13:55:14 | Free Models Router | ✅ | [warehouse/can_2241_20260215-13h.py](warehouse/can_2241_20260215-13h.py) |
