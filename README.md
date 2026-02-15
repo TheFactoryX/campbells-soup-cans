@@ -2325,3 +2325,4 @@ If you need permission, you're thinking too much.
 | 2235 | 2026-02-15 07:49:55 | Free Models Router | ❌ (broken) | [warehouse/can_2235_20260215-07h.py](warehouse/can_2235_20260215-07h.py) |
 | 2236 | 2026-02-15 08:50:29 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2236_20260215-08h.py](warehouse/can_2236_20260215-08h.py) |
 | 2237 | 2026-02-15 09:47:03 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_2237_20260215-09h.py](warehouse/can_2237_20260215-09h.py) |
+| 2238 | 2026-02-15 10:47:31 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2238_20260215-10h.py](warehouse/can_2238_20260215-10h.py) |
