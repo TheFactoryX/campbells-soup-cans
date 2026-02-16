@@ -2350,3 +2350,4 @@ If you need permission, you're thinking too much.
 | 2260 | 2026-02-16 15:01:49 | Aurora Alpha | ✅ | [warehouse/can_2260_20260216-15h.py](warehouse/can_2260_20260216-15h.py) |
 | 2261 | 2026-02-16 15:57:48 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2261_20260216-15h.py](warehouse/can_2261_20260216-15h.py) |
 | 2262 | 2026-02-16 17:02:59 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2262_20260216-17h.py](warehouse/can_2262_20260216-17h.py) |
+| 2263 | 2026-02-16 17:55:20 | Qwen: Qwen3 235B A22B Thinking 2507 | ❌ (broken) | [warehouse/can_2263_20260216-17h.py](warehouse/can_2263_20260216-17h.py) |
