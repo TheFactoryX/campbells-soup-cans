@@ -2343,3 +2343,4 @@ If you need permission, you're thinking too much.
 | 2253 | 2026-02-16 05:45:13 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2253_20260216-05h.py](warehouse/can_2253_20260216-05h.py) |
 | 2254 | 2026-02-16 07:20:01 | Aurora Alpha | ✅ | [warehouse/can_2254_20260216-07h.py](warehouse/can_2254_20260216-07h.py) |
 | 2255 | 2026-02-16 09:07:23 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2255_20260216-09h.py](warehouse/can_2255_20260216-09h.py) |
+| 2256 | 2026-02-16 10:11:57 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2256_20260216-10h.py](warehouse/can_2256_20260216-10h.py) |
