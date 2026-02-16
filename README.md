@@ -2352,3 +2352,4 @@ If you need permission, you're thinking too much.
 | 2262 | 2026-02-16 17:02:59 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2262_20260216-17h.py](warehouse/can_2262_20260216-17h.py) |
 | 2263 | 2026-02-16 17:55:20 | Qwen: Qwen3 235B A22B Thinking 2507 | ❌ (broken) | [warehouse/can_2263_20260216-17h.py](warehouse/can_2263_20260216-17h.py) |
 | 2264 | 2026-02-16 19:03:20 | DeepSeek: R1 0528 (free) | ❌ (empty, missing print) | [warehouse/can_2264_20260216-19h.py](warehouse/can_2264_20260216-19h.py) |
+| 2265 | 2026-02-16 19:46:30 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_2265_20260216-19h.py](warehouse/can_2265_20260216-19h.py) |
