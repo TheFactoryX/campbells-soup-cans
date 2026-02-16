@@ -2348,3 +2348,4 @@ If you need permission, you're thinking too much.
 | 2258 | 2026-02-16 11:54:49 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2258_20260216-11h.py](warehouse/can_2258_20260216-11h.py) |
 | 2259 | 2026-02-16 13:39:05 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2259_20260216-13h.py](warehouse/can_2259_20260216-13h.py) |
 | 2260 | 2026-02-16 15:01:49 | Aurora Alpha | ✅ | [warehouse/can_2260_20260216-15h.py](warehouse/can_2260_20260216-15h.py) |
+| 2261 | 2026-02-16 15:57:48 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2261_20260216-15h.py](warehouse/can_2261_20260216-15h.py) |
