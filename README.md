@@ -2361,3 +2361,4 @@ If you need permission, you're thinking too much.
 | 2271 | 2026-02-17 05:04:11 | Qwen: Qwen3 VL 30B A3B Thinking | ❌ (empty, missing print) | [warehouse/can_2271_20260217-05h.py](warehouse/can_2271_20260217-05h.py) |
 | 2272 | 2026-02-17 06:10:38 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2272_20260217-06h.py](warehouse/can_2272_20260217-06h.py) |
 | 2273 | 2026-02-17 07:15:49 | Qwen: Qwen3 VL 30B A3B Thinking | ❌ (broken) | [warehouse/can_2273_20260217-07h.py](warehouse/can_2273_20260217-07h.py) |
+| 2274 | 2026-02-17 08:01:33 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2274_20260217-08h.py](warehouse/can_2274_20260217-08h.py) |
