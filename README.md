@@ -2375,3 +2375,4 @@ If you need permission, you're thinking too much.
 | 2285 | 2026-02-17 20:56:35 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2285_20260217-20h.py](warehouse/can_2285_20260217-20h.py) |
 | 2286 | 2026-02-17 21:48:29 | Free Models Router | ❌ (broken) | [warehouse/can_2286_20260217-21h.py](warehouse/can_2286_20260217-21h.py) |
 | 2287 | 2026-02-17 22:51:10 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2287_20260217-22h.py](warehouse/can_2287_20260217-22h.py) |
+| 2288 | 2026-02-17 23:45:27 | Aurora Alpha | ✅ | [warehouse/can_2288_20260217-23h.py](warehouse/can_2288_20260217-23h.py) |
