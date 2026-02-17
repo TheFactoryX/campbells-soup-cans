@@ -2373,3 +2373,4 @@ If you need permission, you're thinking too much.
 | 2283 | 2026-02-17 19:15:22 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2283_20260217-19h.py](warehouse/can_2283_20260217-19h.py) |
 | 2284 | 2026-02-17 19:54:35 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2284_20260217-19h.py](warehouse/can_2284_20260217-19h.py) |
 | 2285 | 2026-02-17 20:56:35 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2285_20260217-20h.py](warehouse/can_2285_20260217-20h.py) |
+| 2286 | 2026-02-17 21:48:29 | Free Models Router | ❌ (broken) | [warehouse/can_2286_20260217-21h.py](warehouse/can_2286_20260217-21h.py) |
