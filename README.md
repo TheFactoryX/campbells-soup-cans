@@ -2367,3 +2367,4 @@ If you need permission, you're thinking too much.
 | 2277 | 2026-02-17 11:07:06 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2277_20260217-11h.py](warehouse/can_2277_20260217-11h.py) |
 | 2278 | 2026-02-17 11:54:38 | Free Models Router | ❌ (broken) | [warehouse/can_2278_20260217-11h.py](warehouse/can_2278_20260217-11h.py) |
 | 2279 | 2026-02-17 13:39:29 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2279_20260217-13h.py](warehouse/can_2279_20260217-13h.py) |
+| 2280 | 2026-02-17 15:06:05 | Qwen: Qwen3 235B A22B | ✅ | [warehouse/can_2280_20260217-15h.py](warehouse/can_2280_20260217-15h.py) |
