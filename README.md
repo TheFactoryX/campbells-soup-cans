@@ -2366,3 +2366,4 @@ If you need permission, you're thinking too much.
 | 2276 | 2026-02-17 10:06:41 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2276_20260217-10h.py](warehouse/can_2276_20260217-10h.py) |
 | 2277 | 2026-02-17 11:07:06 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2277_20260217-11h.py](warehouse/can_2277_20260217-11h.py) |
 | 2278 | 2026-02-17 11:54:38 | Free Models Router | ❌ (broken) | [warehouse/can_2278_20260217-11h.py](warehouse/can_2278_20260217-11h.py) |
+| 2279 | 2026-02-17 13:39:29 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2279_20260217-13h.py](warehouse/can_2279_20260217-13h.py) |
