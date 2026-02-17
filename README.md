@@ -2359,3 +2359,4 @@ If you need permission, you're thinking too much.
 | 2269 | 2026-02-16 23:44:58 | Upstage: Solar Pro 3 (free) | ❌ (broken) | [warehouse/can_2269_20260216-23h.py](warehouse/can_2269_20260216-23h.py) |
 | 2270 | 2026-02-17 03:14:10 | Aurora Alpha | ✅ | [warehouse/can_2270_20260217-03h.py](warehouse/can_2270_20260217-03h.py) |
 | 2271 | 2026-02-17 05:04:11 | Qwen: Qwen3 VL 30B A3B Thinking | ❌ (empty, missing print) | [warehouse/can_2271_20260217-05h.py](warehouse/can_2271_20260217-05h.py) |
+| 2272 | 2026-02-17 06:10:38 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2272_20260217-06h.py](warehouse/can_2272_20260217-06h.py) |
