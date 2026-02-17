@@ -2369,3 +2369,4 @@ If you need permission, you're thinking too much.
 | 2279 | 2026-02-17 13:39:29 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2279_20260217-13h.py](warehouse/can_2279_20260217-13h.py) |
 | 2280 | 2026-02-17 15:06:05 | Qwen: Qwen3 235B A22B | ✅ | [warehouse/can_2280_20260217-15h.py](warehouse/can_2280_20260217-15h.py) |
 | 2281 | 2026-02-17 16:09:09 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2281_20260217-16h.py](warehouse/can_2281_20260217-16h.py) |
+| 2282 | 2026-02-17 17:16:24 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2282_20260217-17h.py](warehouse/can_2282_20260217-17h.py) |
