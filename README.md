@@ -2386,3 +2386,4 @@ If you need permission, you're thinking too much.
 | 2296 | 2026-02-18 13:41:40 | DeepSeek: R1 0528 (free) | ✅ | [warehouse/can_2296_20260218-13h.py](warehouse/can_2296_20260218-13h.py) |
 | 2297 | 2026-02-18 15:05:15 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken, missing print) | [warehouse/can_2297_20260218-15h.py](warehouse/can_2297_20260218-15h.py) |
 | 2298 | 2026-02-18 16:09:08 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2298_20260218-16h.py](warehouse/can_2298_20260218-16h.py) |
+| 2299 | 2026-02-18 17:21:40 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2299_20260218-17h.py](warehouse/can_2299_20260218-17h.py) |
