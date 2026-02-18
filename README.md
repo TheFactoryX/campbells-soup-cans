@@ -2377,3 +2377,4 @@ If you need permission, you're thinking too much.
 | 2287 | 2026-02-17 22:51:10 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2287_20260217-22h.py](warehouse/can_2287_20260217-22h.py) |
 | 2288 | 2026-02-17 23:45:27 | Aurora Alpha | ✅ | [warehouse/can_2288_20260217-23h.py](warehouse/can_2288_20260217-23h.py) |
 | 2289 | 2026-02-18 03:17:47 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2289_20260218-03h.py](warehouse/can_2289_20260218-03h.py) |
+| 2290 | 2026-02-18 05:39:01 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2290_20260218-05h.py](warehouse/can_2290_20260218-05h.py) |
