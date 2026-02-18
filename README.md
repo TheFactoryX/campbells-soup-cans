@@ -2376,3 +2376,4 @@ If you need permission, you're thinking too much.
 | 2286 | 2026-02-17 21:48:29 | Free Models Router | ❌ (broken) | [warehouse/can_2286_20260217-21h.py](warehouse/can_2286_20260217-21h.py) |
 | 2287 | 2026-02-17 22:51:10 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2287_20260217-22h.py](warehouse/can_2287_20260217-22h.py) |
 | 2288 | 2026-02-17 23:45:27 | Aurora Alpha | ✅ | [warehouse/can_2288_20260217-23h.py](warehouse/can_2288_20260217-23h.py) |
+| 2289 | 2026-02-18 03:17:47 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2289_20260218-03h.py](warehouse/can_2289_20260218-03h.py) |
