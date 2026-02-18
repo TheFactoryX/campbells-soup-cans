@@ -2381,3 +2381,4 @@ If you need permission, you're thinking too much.
 | 2291 | 2026-02-18 07:16:49 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2291_20260218-07h.py](warehouse/can_2291_20260218-07h.py) |
 | 2292 | 2026-02-18 09:04:38 | Qwen: Qwen3 235B A22B Thinking 2507 | ❌ (missing print) | [warehouse/can_2292_20260218-09h.py](warehouse/can_2292_20260218-09h.py) |
 | 2293 | 2026-02-18 10:05:55 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2293_20260218-10h.py](warehouse/can_2293_20260218-10h.py) |
+| 2294 | 2026-02-18 11:07:03 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2294_20260218-11h.py](warehouse/can_2294_20260218-11h.py) |
