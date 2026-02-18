@@ -2388,3 +2388,4 @@ If you need permission, you're thinking too much.
 | 2298 | 2026-02-18 16:09:08 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2298_20260218-16h.py](warehouse/can_2298_20260218-16h.py) |
 | 2299 | 2026-02-18 17:21:40 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2299_20260218-17h.py](warehouse/can_2299_20260218-17h.py) |
 | 2300 | 2026-02-18 19:15:19 | DeepSeek: R1 0528 (free) | ❌ (broken) | [warehouse/can_2300_20260218-19h.py](warehouse/can_2300_20260218-19h.py) |
+| 2301 | 2026-02-18 19:58:01 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2301_20260218-19h.py](warehouse/can_2301_20260218-19h.py) |
