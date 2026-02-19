@@ -2405,3 +2405,4 @@ If you need permission, you're thinking too much.
 | 2315 | 2026-02-19 15:07:18 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2315_20260219-15h.py](warehouse/can_2315_20260219-15h.py) |
 | 2316 | 2026-02-19 16:04:37 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (empty, missing print) | [warehouse/can_2316_20260219-16h.py](warehouse/can_2316_20260219-16h.py) |
 | 2317 | 2026-02-19 17:14:23 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken) | [warehouse/can_2317_20260219-17h.py](warehouse/can_2317_20260219-17h.py) |
+| 2318 | 2026-02-19 18:06:59 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2318_20260219-18h.py](warehouse/can_2318_20260219-18h.py) |
