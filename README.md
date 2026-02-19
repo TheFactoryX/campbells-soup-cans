@@ -2409,3 +2409,4 @@ If you need permission, you're thinking too much.
 | 2319 | 2026-02-19 19:09:53 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2319_20260219-19h.py](warehouse/can_2319_20260219-19h.py) |
 | 2320 | 2026-02-19 19:50:14 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_2320_20260219-19h.py](warehouse/can_2320_20260219-19h.py) |
 | 2321 | 2026-02-19 20:49:48 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2321_20260219-20h.py](warehouse/can_2321_20260219-20h.py) |
+| 2322 | 2026-02-19 21:49:55 | Qwen: Qwen3 VL 30B A3B Thinking | ❌ (empty, missing print) | [warehouse/can_2322_20260219-21h.py](warehouse/can_2322_20260219-21h.py) |
