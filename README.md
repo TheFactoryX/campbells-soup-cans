@@ -2403,3 +2403,4 @@ If you need permission, you're thinking too much.
 | 2313 | 2026-02-19 11:55:10 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2313_20260219-11h.py](warehouse/can_2313_20260219-11h.py) |
 | 2314 | 2026-02-19 13:42:35 | Free Models Router | ❌ (broken) | [warehouse/can_2314_20260219-13h.py](warehouse/can_2314_20260219-13h.py) |
 | 2315 | 2026-02-19 15:07:18 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2315_20260219-15h.py](warehouse/can_2315_20260219-15h.py) |
+| 2316 | 2026-02-19 16:04:37 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (empty, missing print) | [warehouse/can_2316_20260219-16h.py](warehouse/can_2316_20260219-16h.py) |
