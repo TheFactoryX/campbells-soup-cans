@@ -2411,3 +2411,4 @@ If you need permission, you're thinking too much.
 | 2321 | 2026-02-19 20:49:48 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2321_20260219-20h.py](warehouse/can_2321_20260219-20h.py) |
 | 2322 | 2026-02-19 21:49:55 | Qwen: Qwen3 VL 30B A3B Thinking | ❌ (empty, missing print) | [warehouse/can_2322_20260219-21h.py](warehouse/can_2322_20260219-21h.py) |
 | 2323 | 2026-02-19 22:51:15 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2323_20260219-22h.py](warehouse/can_2323_20260219-22h.py) |
+| 2324 | 2026-02-19 23:45:53 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2324_20260219-23h.py](warehouse/can_2324_20260219-23h.py) |
