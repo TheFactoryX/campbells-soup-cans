@@ -2408,3 +2408,4 @@ If you need permission, you're thinking too much.
 | 2318 | 2026-02-19 18:06:59 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2318_20260219-18h.py](warehouse/can_2318_20260219-18h.py) |
 | 2319 | 2026-02-19 19:09:53 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2319_20260219-19h.py](warehouse/can_2319_20260219-19h.py) |
 | 2320 | 2026-02-19 19:50:14 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_2320_20260219-19h.py](warehouse/can_2320_20260219-19h.py) |
+| 2321 | 2026-02-19 20:49:48 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2321_20260219-20h.py](warehouse/can_2321_20260219-20h.py) |
