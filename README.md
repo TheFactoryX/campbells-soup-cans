@@ -2401,3 +2401,4 @@ If you need permission, you're thinking too much.
 | 2311 | 2026-02-19 10:05:42 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2311_20260219-10h.py](warehouse/can_2311_20260219-10h.py) |
 | 2312 | 2026-02-19 11:07:36 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken) | [warehouse/can_2312_20260219-11h.py](warehouse/can_2312_20260219-11h.py) |
 | 2313 | 2026-02-19 11:55:10 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2313_20260219-11h.py](warehouse/can_2313_20260219-11h.py) |
+| 2314 | 2026-02-19 13:42:35 | Free Models Router | ❌ (broken) | [warehouse/can_2314_20260219-13h.py](warehouse/can_2314_20260219-13h.py) |
