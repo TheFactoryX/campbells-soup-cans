@@ -2399,3 +2399,4 @@ If you need permission, you're thinking too much.
 | 2309 | 2026-02-19 07:18:17 | OpenAI: GPT-4o-mini Search Preview | ✅ | [warehouse/can_2309_20260219-07h.py](warehouse/can_2309_20260219-07h.py) |
 | 2310 | 2026-02-19 09:04:46 | Qwen: Qwen3 VL 30B A3B Thinking | ❌ (empty, missing print) | [warehouse/can_2310_20260219-09h.py](warehouse/can_2310_20260219-09h.py) |
 | 2311 | 2026-02-19 10:05:42 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2311_20260219-10h.py](warehouse/can_2311_20260219-10h.py) |
+| 2312 | 2026-02-19 11:07:36 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken) | [warehouse/can_2312_20260219-11h.py](warehouse/can_2312_20260219-11h.py) |
