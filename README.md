@@ -2418,3 +2418,4 @@ If you need permission, you're thinking too much.
 | 2328 | 2026-02-20 07:14:44 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2328_20260220-07h.py](warehouse/can_2328_20260220-07h.py) |
 | 2329 | 2026-02-20 07:58:19 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2329_20260220-07h.py](warehouse/can_2329_20260220-07h.py) |
 | 2330 | 2026-02-20 08:59:04 | Mistral: Voxtral Small 24B 2507 | ✅ | [warehouse/can_2330_20260220-08h.py](warehouse/can_2330_20260220-08h.py) |
+| 2331 | 2026-02-20 09:58:18 | Z.ai: GLM 4.5 Air (free) | ❌ (empty, missing print) | [warehouse/can_2331_20260220-09h.py](warehouse/can_2331_20260220-09h.py) |
