@@ -2423,3 +2423,4 @@ If you need permission, you're thinking too much.
 | 2333 | 2026-02-20 11:46:26 | Qwen: Qwen3 14B | ❌ (empty, missing print) | [warehouse/can_2333_20260220-11h.py](warehouse/can_2333_20260220-11h.py) |
 | 2334 | 2026-02-20 13:33:33 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2334_20260220-13h.py](warehouse/can_2334_20260220-13h.py) |
 | 2335 | 2026-02-20 15:00:45 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2335_20260220-15h.py](warehouse/can_2335_20260220-15h.py) |
+| 2336 | 2026-02-20 15:53:37 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2336_20260220-15h.py](warehouse/can_2336_20260220-15h.py) |
