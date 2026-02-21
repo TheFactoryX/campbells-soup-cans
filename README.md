@@ -2437,3 +2437,4 @@ If you need permission, you're thinking too much.
 | 2347 | 2026-02-21 05:56:06 | Qwen: Qwen3 VL 30B A3B Thinking | ❌ (empty, missing print) | [warehouse/can_2347_20260221-05h.py](warehouse/can_2347_20260221-05h.py) |
 | 2348 | 2026-02-21 07:01:46 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2348_20260221-07h.py](warehouse/can_2348_20260221-07h.py) |
 | 2349 | 2026-02-21 07:45:28 | Baidu: ERNIE 4.5 VL 28B A3B | ✅ | [warehouse/can_2349_20260221-07h.py](warehouse/can_2349_20260221-07h.py) |
+| 2350 | 2026-02-21 08:48:40 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2350_20260221-08h.py](warehouse/can_2350_20260221-08h.py) |
