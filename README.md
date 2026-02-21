@@ -2446,3 +2446,4 @@ If you need permission, you're thinking too much.
 | 2356 | 2026-02-21 14:44:58 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2356_20260221-14h.py](warehouse/can_2356_20260221-14h.py) |
 | 2357 | 2026-02-21 15:41:21 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2357_20260221-15h.py](warehouse/can_2357_20260221-15h.py) |
 | 2358 | 2026-02-21 16:47:44 | Free Models Router | ✅ | [warehouse/can_2358_20260221-16h.py](warehouse/can_2358_20260221-16h.py) |
+| 2359 | 2026-02-21 17:42:35 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2359_20260221-17h.py](warehouse/can_2359_20260221-17h.py) |
