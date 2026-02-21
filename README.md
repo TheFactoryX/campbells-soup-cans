@@ -2451,3 +2451,4 @@ If you need permission, you're thinking too much.
 | 2361 | 2026-02-21 19:36:14 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2361_20260221-19h.py](warehouse/can_2361_20260221-19h.py) |
 | 2362 | 2026-02-21 20:42:01 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2362_20260221-20h.py](warehouse/can_2362_20260221-20h.py) |
 | 2363 | 2026-02-21 21:38:11 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2363_20260221-21h.py](warehouse/can_2363_20260221-21h.py) |
+| 2364 | 2026-02-21 22:43:42 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2364_20260221-22h.py](warehouse/can_2364_20260221-22h.py) |
