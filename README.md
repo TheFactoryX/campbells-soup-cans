@@ -2442,3 +2442,4 @@ If you need permission, you're thinking too much.
 | 2352 | 2026-02-21 10:46:01 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_2352_20260221-10h.py](warehouse/can_2352_20260221-10h.py) |
 | 2353 | 2026-02-21 11:34:53 | Mistral: Ministral 3 8B 2512 | ❌ (broken) | [warehouse/can_2353_20260221-11h.py](warehouse/can_2353_20260221-11h.py) |
 | 2354 | 2026-02-21 13:11:21 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2354_20260221-13h.py](warehouse/can_2354_20260221-13h.py) |
+| 2355 | 2026-02-21 13:52:41 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2355_20260221-13h.py](warehouse/can_2355_20260221-13h.py) |
