@@ -2444,3 +2444,4 @@ If you need permission, you're thinking too much.
 | 2354 | 2026-02-21 13:11:21 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2354_20260221-13h.py](warehouse/can_2354_20260221-13h.py) |
 | 2355 | 2026-02-21 13:52:41 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2355_20260221-13h.py](warehouse/can_2355_20260221-13h.py) |
 | 2356 | 2026-02-21 14:44:58 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2356_20260221-14h.py](warehouse/can_2356_20260221-14h.py) |
+| 2357 | 2026-02-21 15:41:21 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2357_20260221-15h.py](warehouse/can_2357_20260221-15h.py) |
