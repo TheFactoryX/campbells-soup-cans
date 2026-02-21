@@ -2449,3 +2449,4 @@ If you need permission, you're thinking too much.
 | 2359 | 2026-02-21 17:42:35 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2359_20260221-17h.py](warehouse/can_2359_20260221-17h.py) |
 | 2360 | 2026-02-21 18:54:09 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2360_20260221-18h.py](warehouse/can_2360_20260221-18h.py) |
 | 2361 | 2026-02-21 19:36:14 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2361_20260221-19h.py](warehouse/can_2361_20260221-19h.py) |
+| 2362 | 2026-02-21 20:42:01 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2362_20260221-20h.py](warehouse/can_2362_20260221-20h.py) |
