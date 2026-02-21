@@ -2439,3 +2439,4 @@ If you need permission, you're thinking too much.
 | 2349 | 2026-02-21 07:45:28 | Baidu: ERNIE 4.5 VL 28B A3B | ✅ | [warehouse/can_2349_20260221-07h.py](warehouse/can_2349_20260221-07h.py) |
 | 2350 | 2026-02-21 08:48:40 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2350_20260221-08h.py](warehouse/can_2350_20260221-08h.py) |
 | 2351 | 2026-02-21 09:45:00 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_2351_20260221-09h.py](warehouse/can_2351_20260221-09h.py) |
+| 2352 | 2026-02-21 10:46:01 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_2352_20260221-10h.py](warehouse/can_2352_20260221-10h.py) |
