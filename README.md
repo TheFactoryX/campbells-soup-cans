@@ -2448,3 +2448,4 @@ If you need permission, you're thinking too much.
 | 2358 | 2026-02-21 16:47:44 | Free Models Router | ✅ | [warehouse/can_2358_20260221-16h.py](warehouse/can_2358_20260221-16h.py) |
 | 2359 | 2026-02-21 17:42:35 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2359_20260221-17h.py](warehouse/can_2359_20260221-17h.py) |
 | 2360 | 2026-02-21 18:54:09 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2360_20260221-18h.py](warehouse/can_2360_20260221-18h.py) |
+| 2361 | 2026-02-21 19:36:14 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2361_20260221-19h.py](warehouse/can_2361_20260221-19h.py) |
