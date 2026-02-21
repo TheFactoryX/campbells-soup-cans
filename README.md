@@ -2440,3 +2440,4 @@ If you need permission, you're thinking too much.
 | 2350 | 2026-02-21 08:48:40 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2350_20260221-08h.py](warehouse/can_2350_20260221-08h.py) |
 | 2351 | 2026-02-21 09:45:00 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_2351_20260221-09h.py](warehouse/can_2351_20260221-09h.py) |
 | 2352 | 2026-02-21 10:46:01 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_2352_20260221-10h.py](warehouse/can_2352_20260221-10h.py) |
+| 2353 | 2026-02-21 11:34:53 | Mistral: Ministral 3 8B 2512 | ❌ (broken) | [warehouse/can_2353_20260221-11h.py](warehouse/can_2353_20260221-11h.py) |
