@@ -2434,3 +2434,4 @@ If you need permission, you're thinking too much.
 | 2344 | 2026-02-20 23:43:43 | Free Models Router | ✅ | [warehouse/can_2344_20260220-23h.py](warehouse/can_2344_20260220-23h.py) |
 | 2345 | 2026-02-21 02:48:21 | Qwen: Qwen3 14B | ✅ | [warehouse/can_2345_20260221-02h.py](warehouse/can_2345_20260221-02h.py) |
 | 2346 | 2026-02-21 04:47:02 | DeepSeek: R1 0528 (free) | ❌ (broken) | [warehouse/can_2346_20260221-04h.py](warehouse/can_2346_20260221-04h.py) |
+| 2347 | 2026-02-21 05:56:06 | Qwen: Qwen3 VL 30B A3B Thinking | ❌ (empty, missing print) | [warehouse/can_2347_20260221-05h.py](warehouse/can_2347_20260221-05h.py) |
