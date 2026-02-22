@@ -2472,3 +2472,4 @@ If you need permission, you're thinking too much.
 | 2382 | 2026-02-22 20:43:42 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2382_20260222-20h.py](warehouse/can_2382_20260222-20h.py) |
 | 2383 | 2026-02-22 21:39:46 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2383_20260222-21h.py](warehouse/can_2383_20260222-21h.py) |
 | 2384 | 2026-02-22 22:44:36 | OpenAI: GPT-4o (2024-11-20) | ✅ | [warehouse/can_2384_20260222-22h.py](warehouse/can_2384_20260222-22h.py) |
+| 2385 | 2026-02-22 23:41:49 | Free Models Router | ✅ | [warehouse/can_2385_20260222-23h.py](warehouse/can_2385_20260222-23h.py) |
