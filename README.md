@@ -2463,3 +2463,4 @@ If you need permission, you're thinking too much.
 | 2373 | 2026-02-22 11:34:49 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2373_20260222-11h.py](warehouse/can_2373_20260222-11h.py) |
 | 2374 | 2026-02-22 13:12:59 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2374_20260222-13h.py](warehouse/can_2374_20260222-13h.py) |
 | 2375 | 2026-02-22 13:53:36 | Z.ai: GLM 4.5 Air (free) | ❌ (empty, missing print) | [warehouse/can_2375_20260222-13h.py](warehouse/can_2375_20260222-13h.py) |
+| 2376 | 2026-02-22 14:45:45 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2376_20260222-14h.py](warehouse/can_2376_20260222-14h.py) |
