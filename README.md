@@ -2459,3 +2459,4 @@ If you need permission, you're thinking too much.
 | 2369 | 2026-02-22 07:49:34 | Free Models Router | ✅ | [warehouse/can_2369_20260222-07h.py](warehouse/can_2369_20260222-07h.py) |
 | 2370 | 2026-02-22 08:49:38 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2370_20260222-08h.py](warehouse/can_2370_20260222-08h.py) |
 | 2371 | 2026-02-22 09:46:16 | Free Models Router | ❌ (empty, missing print) | [warehouse/can_2371_20260222-09h.py](warehouse/can_2371_20260222-09h.py) |
+| 2372 | 2026-02-22 10:45:07 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2372_20260222-10h.py](warehouse/can_2372_20260222-10h.py) |
