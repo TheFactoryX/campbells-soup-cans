@@ -2454,3 +2454,4 @@ If you need permission, you're thinking too much.
 | 2364 | 2026-02-21 22:43:42 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2364_20260221-22h.py](warehouse/can_2364_20260221-22h.py) |
 | 2365 | 2026-02-21 23:38:39 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2365_20260221-23h.py](warehouse/can_2365_20260221-23h.py) |
 | 2366 | 2026-02-22 03:16:31 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2366_20260222-03h.py](warehouse/can_2366_20260222-03h.py) |
+| 2367 | 2026-02-22 05:30:26 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2367_20260222-05h.py](warehouse/can_2367_20260222-05h.py) |
