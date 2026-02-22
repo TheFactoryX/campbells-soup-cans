@@ -2469,3 +2469,4 @@ If you need permission, you're thinking too much.
 | 2379 | 2026-02-22 17:43:06 | DeepSeek: R1 0528 (free) | ❌ (broken) | [warehouse/can_2379_20260222-17h.py](warehouse/can_2379_20260222-17h.py) |
 | 2380 | 2026-02-22 18:55:07 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2380_20260222-18h.py](warehouse/can_2380_20260222-18h.py) |
 | 2381 | 2026-02-22 19:37:16 | Qwen: Qwen3 VL 235B A22B Thinking | ❌ (broken) | [warehouse/can_2381_20260222-19h.py](warehouse/can_2381_20260222-19h.py) |
+| 2382 | 2026-02-22 20:43:42 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2382_20260222-20h.py](warehouse/can_2382_20260222-20h.py) |
