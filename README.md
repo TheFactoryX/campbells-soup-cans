@@ -2465,3 +2465,4 @@ If you need permission, you're thinking too much.
 | 2375 | 2026-02-22 13:53:36 | Z.ai: GLM 4.5 Air (free) | ❌ (empty, missing print) | [warehouse/can_2375_20260222-13h.py](warehouse/can_2375_20260222-13h.py) |
 | 2376 | 2026-02-22 14:45:45 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2376_20260222-14h.py](warehouse/can_2376_20260222-14h.py) |
 | 2377 | 2026-02-22 15:41:48 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2377_20260222-15h.py](warehouse/can_2377_20260222-15h.py) |
+| 2378 | 2026-02-22 16:49:27 | Qwen: Qwen3 235B A22B Thinking 2507 | ❌ (missing print) | [warehouse/can_2378_20260222-16h.py](warehouse/can_2378_20260222-16h.py) |
