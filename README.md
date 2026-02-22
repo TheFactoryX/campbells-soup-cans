@@ -2457,3 +2457,4 @@ If you need permission, you're thinking too much.
 | 2367 | 2026-02-22 05:30:26 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2367_20260222-05h.py](warehouse/can_2367_20260222-05h.py) |
 | 2368 | 2026-02-22 07:06:55 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_2368_20260222-07h.py](warehouse/can_2368_20260222-07h.py) |
 | 2369 | 2026-02-22 07:49:34 | Free Models Router | ✅ | [warehouse/can_2369_20260222-07h.py](warehouse/can_2369_20260222-07h.py) |
+| 2370 | 2026-02-22 08:49:38 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2370_20260222-08h.py](warehouse/can_2370_20260222-08h.py) |
