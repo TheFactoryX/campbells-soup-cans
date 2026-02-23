@@ -2477,3 +2477,4 @@ If you need permission, you're thinking too much.
 | 2387 | 2026-02-23 05:43:41 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2387_20260223-05h.py](warehouse/can_2387_20260223-05h.py) |
 | 2388 | 2026-02-23 07:31:42 | Perplexity: Sonar Pro Search | ❌ (broken) | [warehouse/can_2388_20260223-07h.py](warehouse/can_2388_20260223-07h.py) |
 | 2389 | 2026-02-23 09:07:23 | DeepSeek: R1 0528 (free) | ✅ | [warehouse/can_2389_20260223-09h.py](warehouse/can_2389_20260223-09h.py) |
+| 2390 | 2026-02-23 10:12:29 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2390_20260223-10h.py](warehouse/can_2390_20260223-10h.py) |
