@@ -2485,3 +2485,4 @@ If you need permission, you're thinking too much.
 | 2395 | 2026-02-23 16:04:19 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2395_20260223-16h.py](warehouse/can_2395_20260223-16h.py) |
 | 2396 | 2026-02-23 17:19:45 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2396_20260223-17h.py](warehouse/can_2396_20260223-17h.py) |
 | 2397 | 2026-02-23 19:31:39 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2397_20260223-19h.py](warehouse/can_2397_20260223-19h.py) |
+| 2398 | 2026-02-23 21:02:20 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_2398_20260223-21h.py](warehouse/can_2398_20260223-21h.py) |
