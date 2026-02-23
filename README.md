@@ -2481,3 +2481,4 @@ If you need permission, you're thinking too much.
 | 2391 | 2026-02-23 11:08:53 | Free Models Router | ✅ | [warehouse/can_2391_20260223-11h.py](warehouse/can_2391_20260223-11h.py) |
 | 2392 | 2026-02-23 11:54:30 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2392_20260223-11h.py](warehouse/can_2392_20260223-11h.py) |
 | 2393 | 2026-02-23 13:41:27 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2393_20260223-13h.py](warehouse/can_2393_20260223-13h.py) |
+| 2394 | 2026-02-23 15:07:00 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_2394_20260223-15h.py](warehouse/can_2394_20260223-15h.py) |
