@@ -2479,3 +2479,4 @@ If you need permission, you're thinking too much.
 | 2389 | 2026-02-23 09:07:23 | DeepSeek: R1 0528 (free) | ✅ | [warehouse/can_2389_20260223-09h.py](warehouse/can_2389_20260223-09h.py) |
 | 2390 | 2026-02-23 10:12:29 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2390_20260223-10h.py](warehouse/can_2390_20260223-10h.py) |
 | 2391 | 2026-02-23 11:08:53 | Free Models Router | ✅ | [warehouse/can_2391_20260223-11h.py](warehouse/can_2391_20260223-11h.py) |
+| 2392 | 2026-02-23 11:54:30 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2392_20260223-11h.py](warehouse/can_2392_20260223-11h.py) |
