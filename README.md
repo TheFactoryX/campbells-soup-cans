@@ -2473,3 +2473,4 @@ If you need permission, you're thinking too much.
 | 2383 | 2026-02-22 21:39:46 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2383_20260222-21h.py](warehouse/can_2383_20260222-21h.py) |
 | 2384 | 2026-02-22 22:44:36 | OpenAI: GPT-4o (2024-11-20) | ✅ | [warehouse/can_2384_20260222-22h.py](warehouse/can_2384_20260222-22h.py) |
 | 2385 | 2026-02-22 23:41:49 | Free Models Router | ✅ | [warehouse/can_2385_20260222-23h.py](warehouse/can_2385_20260222-23h.py) |
+| 2386 | 2026-02-23 03:19:25 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2386_20260223-03h.py](warehouse/can_2386_20260223-03h.py) |
