@@ -2483,3 +2483,4 @@ If you need permission, you're thinking too much.
 | 2393 | 2026-02-23 13:41:27 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2393_20260223-13h.py](warehouse/can_2393_20260223-13h.py) |
 | 2394 | 2026-02-23 15:07:00 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_2394_20260223-15h.py](warehouse/can_2394_20260223-15h.py) |
 | 2395 | 2026-02-23 16:04:19 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2395_20260223-16h.py](warehouse/can_2395_20260223-16h.py) |
+| 2396 | 2026-02-23 17:19:45 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2396_20260223-17h.py](warehouse/can_2396_20260223-17h.py) |
