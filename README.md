@@ -2504,3 +2504,4 @@ If you need permission, you're thinking too much.
 | 2414 | 2026-02-24 19:18:37 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2414_20260224-19h.py](warehouse/can_2414_20260224-19h.py) |
 | 2415 | 2026-02-24 20:56:27 | Free Models Router | ✅ | [warehouse/can_2415_20260224-20h.py](warehouse/can_2415_20260224-20h.py) |
 | 2416 | 2026-02-24 21:50:47 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2416_20260224-21h.py](warehouse/can_2416_20260224-21h.py) |
+| 2417 | 2026-02-24 22:53:20 | Magnum v4 72B | ❌ (broken) | [warehouse/can_2417_20260224-22h.py](warehouse/can_2417_20260224-22h.py) |
