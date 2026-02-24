@@ -2501,3 +2501,4 @@ If you need permission, you're thinking too much.
 | 2411 | 2026-02-24 15:10:02 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2411_20260224-15h.py](warehouse/can_2411_20260224-15h.py) |
 | 2412 | 2026-02-24 16:14:01 | Qwen: Qwen Plus 0728 | ✅ | [warehouse/can_2412_20260224-16h.py](warehouse/can_2412_20260224-16h.py) |
 | 2413 | 2026-02-24 17:29:37 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2413_20260224-17h.py](warehouse/can_2413_20260224-17h.py) |
+| 2414 | 2026-02-24 19:18:37 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2414_20260224-19h.py](warehouse/can_2414_20260224-19h.py) |
