@@ -2503,3 +2503,4 @@ If you need permission, you're thinking too much.
 | 2413 | 2026-02-24 17:29:37 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2413_20260224-17h.py](warehouse/can_2413_20260224-17h.py) |
 | 2414 | 2026-02-24 19:18:37 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2414_20260224-19h.py](warehouse/can_2414_20260224-19h.py) |
 | 2415 | 2026-02-24 20:56:27 | Free Models Router | ✅ | [warehouse/can_2415_20260224-20h.py](warehouse/can_2415_20260224-20h.py) |
+| 2416 | 2026-02-24 21:50:47 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2416_20260224-21h.py](warehouse/can_2416_20260224-21h.py) |
