@@ -2492,3 +2492,4 @@ If you need permission, you're thinking too much.
 | 2402 | 2026-02-24 03:14:47 | DeepSeek: R1 0528 (free) | ❌ (broken) | [warehouse/can_2402_20260224-03h.py](warehouse/can_2402_20260224-03h.py) |
 | 2403 | 2026-02-24 05:03:25 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_2403_20260224-05h.py](warehouse/can_2403_20260224-05h.py) |
 | 2404 | 2026-02-24 06:13:40 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_2404_20260224-06h.py](warehouse/can_2404_20260224-06h.py) |
+| 2405 | 2026-02-24 07:17:46 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2405_20260224-07h.py](warehouse/can_2405_20260224-07h.py) |
