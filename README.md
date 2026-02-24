@@ -2489,3 +2489,4 @@ If you need permission, you're thinking too much.
 | 2399 | 2026-02-23 22:02:46 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_2399_20260223-22h.py](warehouse/can_2399_20260223-22h.py) |
 | 2400 | 2026-02-23 23:01:36 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2400_20260223-23h.py](warehouse/can_2400_20260223-23h.py) |
 | 2401 | 2026-02-23 23:47:01 | DeepSeek: R1 0528 (free) | ✅ | [warehouse/can_2401_20260223-23h.py](warehouse/can_2401_20260223-23h.py) |
+| 2402 | 2026-02-24 03:14:47 | DeepSeek: R1 0528 (free) | ❌ (broken) | [warehouse/can_2402_20260224-03h.py](warehouse/can_2402_20260224-03h.py) |
