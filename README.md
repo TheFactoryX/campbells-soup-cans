@@ -2519,3 +2519,4 @@ If you need permission, you're thinking too much.
 | 2429 | 2026-02-25 16:20:46 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2429_20260225-16h.py](warehouse/can_2429_20260225-16h.py) |
 | 2430 | 2026-02-25 18:13:50 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2430_20260225-18h.py](warehouse/can_2430_20260225-18h.py) |
 | 2431 | 2026-02-25 19:29:04 | Free Models Router | ✅ | [warehouse/can_2431_20260225-19h.py](warehouse/can_2431_20260225-19h.py) |
+| 2432 | 2026-02-25 20:54:55 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2432_20260225-20h.py](warehouse/can_2432_20260225-20h.py) |
