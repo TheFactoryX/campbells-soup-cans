@@ -2507,3 +2507,4 @@ If you need permission, you're thinking too much.
 | 2417 | 2026-02-24 22:53:20 | Magnum v4 72B | ❌ (broken) | [warehouse/can_2417_20260224-22h.py](warehouse/can_2417_20260224-22h.py) |
 | 2418 | 2026-02-24 23:47:12 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2418_20260224-23h.py](warehouse/can_2418_20260224-23h.py) |
 | 2419 | 2026-02-25 03:15:30 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_2419_20260225-03h.py](warehouse/can_2419_20260225-03h.py) |
+| 2420 | 2026-02-25 05:05:53 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2420_20260225-05h.py](warehouse/can_2420_20260225-05h.py) |
