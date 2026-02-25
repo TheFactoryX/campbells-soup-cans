@@ -2509,3 +2509,4 @@ If you need permission, you're thinking too much.
 | 2419 | 2026-02-25 03:15:30 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_2419_20260225-03h.py](warehouse/can_2419_20260225-03h.py) |
 | 2420 | 2026-02-25 05:05:53 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2420_20260225-05h.py](warehouse/can_2420_20260225-05h.py) |
 | 2421 | 2026-02-25 06:17:20 | Meta: Llama 3 8B Instruct | ✅ | [warehouse/can_2421_20260225-06h.py](warehouse/can_2421_20260225-06h.py) |
+| 2422 | 2026-02-25 08:00:51 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken) | [warehouse/can_2422_20260225-08h.py](warehouse/can_2422_20260225-08h.py) |
