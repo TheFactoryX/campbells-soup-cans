@@ -2513,3 +2513,4 @@ If you need permission, you're thinking too much.
 | 2423 | 2026-02-25 09:08:01 | StepFun: Step 3.5 Flash (free) | ❌ (broken) | [warehouse/can_2423_20260225-09h.py](warehouse/can_2423_20260225-09h.py) |
 | 2424 | 2026-02-25 10:11:57 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2424_20260225-10h.py](warehouse/can_2424_20260225-10h.py) |
 | 2425 | 2026-02-25 11:09:49 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2425_20260225-11h.py](warehouse/can_2425_20260225-11h.py) |
+| 2426 | 2026-02-25 11:53:24 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2426_20260225-11h.py](warehouse/can_2426_20260225-11h.py) |
