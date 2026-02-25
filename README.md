@@ -2516,3 +2516,4 @@ If you need permission, you're thinking too much.
 | 2426 | 2026-02-25 11:53:24 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2426_20260225-11h.py](warehouse/can_2426_20260225-11h.py) |
 | 2427 | 2026-02-25 13:43:44 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2427_20260225-13h.py](warehouse/can_2427_20260225-13h.py) |
 | 2428 | 2026-02-25 15:10:21 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2428_20260225-15h.py](warehouse/can_2428_20260225-15h.py) |
+| 2429 | 2026-02-25 16:20:46 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2429_20260225-16h.py](warehouse/can_2429_20260225-16h.py) |
