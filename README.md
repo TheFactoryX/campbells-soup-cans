@@ -2521,3 +2521,4 @@ If you need permission, you're thinking too much.
 | 2431 | 2026-02-25 19:29:04 | Free Models Router | ✅ | [warehouse/can_2431_20260225-19h.py](warehouse/can_2431_20260225-19h.py) |
 | 2432 | 2026-02-25 20:54:55 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2432_20260225-20h.py](warehouse/can_2432_20260225-20h.py) |
 | 2433 | 2026-02-25 21:49:08 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2433_20260225-21h.py](warehouse/can_2433_20260225-21h.py) |
+| 2434 | 2026-02-25 22:52:23 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken, missing print) | [warehouse/can_2434_20260225-22h.py](warehouse/can_2434_20260225-22h.py) |
