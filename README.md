@@ -2533,3 +2533,4 @@ If you need permission, you're thinking too much.
 | 2443 | 2026-02-26 11:55:16 | Free Models Router | ❌ (broken) | [warehouse/can_2443_20260226-11h.py](warehouse/can_2443_20260226-11h.py) |
 | 2444 | 2026-02-26 13:43:38 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_2444_20260226-13h.py](warehouse/can_2444_20260226-13h.py) |
 | 2445 | 2026-02-26 15:06:16 | Kwaipilot: KAT-Coder-Pro V1 | ✅ | [warehouse/can_2445_20260226-15h.py](warehouse/can_2445_20260226-15h.py) |
+| 2446 | 2026-02-26 16:07:59 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2446_20260226-16h.py](warehouse/can_2446_20260226-16h.py) |
