@@ -2527,3 +2527,4 @@ If you need permission, you're thinking too much.
 | 2437 | 2026-02-26 05:01:40 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2437_20260226-05h.py](warehouse/can_2437_20260226-05h.py) |
 | 2438 | 2026-02-26 06:32:21 | Mistral Large | ✅ | [warehouse/can_2438_20260226-06h.py](warehouse/can_2438_20260226-06h.py) |
 | 2439 | 2026-02-26 07:16:31 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2439_20260226-07h.py](warehouse/can_2439_20260226-07h.py) |
+| 2440 | 2026-02-26 09:05:39 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2440_20260226-09h.py](warehouse/can_2440_20260226-09h.py) |
