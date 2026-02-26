@@ -2530,3 +2530,4 @@ If you need permission, you're thinking too much.
 | 2440 | 2026-02-26 09:05:39 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2440_20260226-09h.py](warehouse/can_2440_20260226-09h.py) |
 | 2441 | 2026-02-26 10:07:01 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2441_20260226-10h.py](warehouse/can_2441_20260226-10h.py) |
 | 2442 | 2026-02-26 11:07:03 | Arcee AI: Trinity Large Preview (free) | ❌ (broken) | [warehouse/can_2442_20260226-11h.py](warehouse/can_2442_20260226-11h.py) |
+| 2443 | 2026-02-26 11:55:16 | Free Models Router | ❌ (broken) | [warehouse/can_2443_20260226-11h.py](warehouse/can_2443_20260226-11h.py) |
