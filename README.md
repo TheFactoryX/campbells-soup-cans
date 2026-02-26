@@ -2528,3 +2528,4 @@ If you need permission, you're thinking too much.
 | 2438 | 2026-02-26 06:32:21 | Mistral Large | ✅ | [warehouse/can_2438_20260226-06h.py](warehouse/can_2438_20260226-06h.py) |
 | 2439 | 2026-02-26 07:16:31 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2439_20260226-07h.py](warehouse/can_2439_20260226-07h.py) |
 | 2440 | 2026-02-26 09:05:39 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2440_20260226-09h.py](warehouse/can_2440_20260226-09h.py) |
+| 2441 | 2026-02-26 10:07:01 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2441_20260226-10h.py](warehouse/can_2441_20260226-10h.py) |
