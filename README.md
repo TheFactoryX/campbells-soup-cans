@@ -2524,3 +2524,4 @@ If you need permission, you're thinking too much.
 | 2434 | 2026-02-25 22:52:23 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken, missing print) | [warehouse/can_2434_20260225-22h.py](warehouse/can_2434_20260225-22h.py) |
 | 2435 | 2026-02-25 23:44:27 | Free Models Router | ✅ | [warehouse/can_2435_20260225-23h.py](warehouse/can_2435_20260225-23h.py) |
 | 2436 | 2026-02-26 03:11:16 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2436_20260226-03h.py](warehouse/can_2436_20260226-03h.py) |
+| 2437 | 2026-02-26 05:01:40 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2437_20260226-05h.py](warehouse/can_2437_20260226-05h.py) |
