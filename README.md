@@ -2536,3 +2536,4 @@ If you need permission, you're thinking too much.
 | 2446 | 2026-02-26 16:07:59 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2446_20260226-16h.py](warehouse/can_2446_20260226-16h.py) |
 | 2447 | 2026-02-26 17:18:32 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_2447_20260226-17h.py](warehouse/can_2447_20260226-17h.py) |
 | 2448 | 2026-02-26 19:10:13 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2448_20260226-19h.py](warehouse/can_2448_20260226-19h.py) |
+| 2449 | 2026-02-26 19:54:56 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2449_20260226-19h.py](warehouse/can_2449_20260226-19h.py) |
