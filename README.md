@@ -2552,3 +2552,4 @@ If you need permission, you're thinking too much.
 | 2462 | 2026-02-27 11:47:04 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2462_20260227-11h.py](warehouse/can_2462_20260227-11h.py) |
 | 2463 | 2026-02-27 13:32:33 | OpenAI: GPT-4o (2024-08-06) | ✅ | [warehouse/can_2463_20260227-13h.py](warehouse/can_2463_20260227-13h.py) |
 | 2464 | 2026-02-27 14:58:42 | Qwen: Qwen3 Coder Next | ✅ | [warehouse/can_2464_20260227-14h.py](warehouse/can_2464_20260227-14h.py) |
+| 2465 | 2026-02-27 15:52:47 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2465_20260227-15h.py](warehouse/can_2465_20260227-15h.py) |
