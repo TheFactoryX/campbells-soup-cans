@@ -2551,3 +2551,4 @@ If you need permission, you're thinking too much.
 | 2461 | 2026-02-27 10:58:47 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2461_20260227-10h.py](warehouse/can_2461_20260227-10h.py) |
 | 2462 | 2026-02-27 11:47:04 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2462_20260227-11h.py](warehouse/can_2462_20260227-11h.py) |
 | 2463 | 2026-02-27 13:32:33 | OpenAI: GPT-4o (2024-08-06) | ✅ | [warehouse/can_2463_20260227-13h.py](warehouse/can_2463_20260227-13h.py) |
+| 2464 | 2026-02-27 14:58:42 | Qwen: Qwen3 Coder Next | ✅ | [warehouse/can_2464_20260227-14h.py](warehouse/can_2464_20260227-14h.py) |
