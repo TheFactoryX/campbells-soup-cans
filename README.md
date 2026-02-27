@@ -2549,3 +2549,4 @@ If you need permission, you're thinking too much.
 | 2459 | 2026-02-27 09:00:19 | Cohere: Command A | ✅ | [warehouse/can_2459_20260227-09h.py](warehouse/can_2459_20260227-09h.py) |
 | 2460 | 2026-02-27 09:59:35 | Qwen: Qwen3 VL 30B A3B Thinking | ❌ (broken) | [warehouse/can_2460_20260227-09h.py](warehouse/can_2460_20260227-09h.py) |
 | 2461 | 2026-02-27 10:58:47 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2461_20260227-10h.py](warehouse/can_2461_20260227-10h.py) |
+| 2462 | 2026-02-27 11:47:04 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2462_20260227-11h.py](warehouse/can_2462_20260227-11h.py) |
