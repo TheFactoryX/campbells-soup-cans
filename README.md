@@ -2541,3 +2541,4 @@ If you need permission, you're thinking too much.
 | 2451 | 2026-02-26 21:47:13 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2451_20260226-21h.py](warehouse/can_2451_20260226-21h.py) |
 | 2452 | 2026-02-26 22:53:25 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2452_20260226-22h.py](warehouse/can_2452_20260226-22h.py) |
 | 2453 | 2026-02-26 23:45:55 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_2453_20260226-23h.py](warehouse/can_2453_20260226-23h.py) |
+| 2454 | 2026-02-27 03:08:49 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2454_20260227-03h.py](warehouse/can_2454_20260227-03h.py) |
