@@ -2555,3 +2555,4 @@ If you need permission, you're thinking too much.
 | 2465 | 2026-02-27 15:52:47 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2465_20260227-15h.py](warehouse/can_2465_20260227-15h.py) |
 | 2466 | 2026-02-27 16:56:21 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2466_20260227-16h.py](warehouse/can_2466_20260227-16h.py) |
 | 2467 | 2026-02-27 17:53:50 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2467_20260227-17h.py](warehouse/can_2467_20260227-17h.py) |
+| 2468 | 2026-02-27 19:03:13 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2468_20260227-19h.py](warehouse/can_2468_20260227-19h.py) |
