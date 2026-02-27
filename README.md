@@ -2547,3 +2547,4 @@ If you need permission, you're thinking too much.
 | 2457 | 2026-02-27 07:13:10 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2457_20260227-07h.py](warehouse/can_2457_20260227-07h.py) |
 | 2458 | 2026-02-27 07:57:04 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_2458_20260227-07h.py](warehouse/can_2458_20260227-07h.py) |
 | 2459 | 2026-02-27 09:00:19 | Cohere: Command A | ✅ | [warehouse/can_2459_20260227-09h.py](warehouse/can_2459_20260227-09h.py) |
+| 2460 | 2026-02-27 09:59:35 | Qwen: Qwen3 VL 30B A3B Thinking | ❌ (broken) | [warehouse/can_2460_20260227-09h.py](warehouse/can_2460_20260227-09h.py) |
