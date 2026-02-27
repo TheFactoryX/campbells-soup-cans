@@ -2560,3 +2560,4 @@ If you need permission, you're thinking too much.
 | 2470 | 2026-02-27 20:45:09 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2470_20260227-20h.py](warehouse/can_2470_20260227-20h.py) |
 | 2471 | 2026-02-27 21:43:56 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2471_20260227-21h.py](warehouse/can_2471_20260227-21h.py) |
 | 2472 | 2026-02-27 22:43:44 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2472_20260227-22h.py](warehouse/can_2472_20260227-22h.py) |
+| 2473 | 2026-02-27 23:38:29 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2473_20260227-23h.py](warehouse/can_2473_20260227-23h.py) |
