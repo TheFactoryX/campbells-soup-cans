@@ -2575,3 +2575,4 @@ If you need permission, you're thinking too much.
 | 2485 | 2026-02-28 14:39:51 | AionLabs: Aion-1.0-Mini | ✅ | [warehouse/can_2485_20260228-14h.py](warehouse/can_2485_20260228-14h.py) |
 | 2486 | 2026-02-28 15:35:24 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2486_20260228-15h.py](warehouse/can_2486_20260228-15h.py) |
 | 2487 | 2026-02-28 16:42:52 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2487_20260228-16h.py](warehouse/can_2487_20260228-16h.py) |
+| 2488 | 2026-02-28 17:34:55 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2488_20260228-17h.py](warehouse/can_2488_20260228-17h.py) |
