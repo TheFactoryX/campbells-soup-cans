@@ -2572,3 +2572,4 @@ If you need permission, you're thinking too much.
 | 2482 | 2026-02-28 11:31:31 | Goliath 120B | ❌ (broken) | [warehouse/can_2482_20260228-11h.py](warehouse/can_2482_20260228-11h.py) |
 | 2483 | 2026-02-28 13:06:34 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2483_20260228-13h.py](warehouse/can_2483_20260228-13h.py) |
 | 2484 | 2026-02-28 13:47:58 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2484_20260228-13h.py](warehouse/can_2484_20260228-13h.py) |
+| 2485 | 2026-02-28 14:39:51 | AionLabs: Aion-1.0-Mini | ✅ | [warehouse/can_2485_20260228-14h.py](warehouse/can_2485_20260228-14h.py) |
