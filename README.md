@@ -2573,3 +2573,4 @@ If you need permission, you're thinking too much.
 | 2483 | 2026-02-28 13:06:34 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2483_20260228-13h.py](warehouse/can_2483_20260228-13h.py) |
 | 2484 | 2026-02-28 13:47:58 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2484_20260228-13h.py](warehouse/can_2484_20260228-13h.py) |
 | 2485 | 2026-02-28 14:39:51 | AionLabs: Aion-1.0-Mini | ✅ | [warehouse/can_2485_20260228-14h.py](warehouse/can_2485_20260228-14h.py) |
+| 2486 | 2026-02-28 15:35:24 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2486_20260228-15h.py](warehouse/can_2486_20260228-15h.py) |
