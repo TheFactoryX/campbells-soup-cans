@@ -2580,3 +2580,4 @@ If you need permission, you're thinking too much.
 | 2490 | 2026-02-28 19:32:13 | Free Models Router | ✅ | [warehouse/can_2490_20260228-19h.py](warehouse/can_2490_20260228-19h.py) |
 | 2491 | 2026-02-28 20:40:21 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2491_20260228-20h.py](warehouse/can_2491_20260228-20h.py) |
 | 2492 | 2026-02-28 21:34:09 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2492_20260228-21h.py](warehouse/can_2492_20260228-21h.py) |
+| 2493 | 2026-02-28 22:40:16 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_2493_20260228-22h.py](warehouse/can_2493_20260228-22h.py) |
