@@ -2578,3 +2578,4 @@ If you need permission, you're thinking too much.
 | 2488 | 2026-02-28 17:34:55 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2488_20260228-17h.py](warehouse/can_2488_20260228-17h.py) |
 | 2489 | 2026-02-28 18:49:49 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_2489_20260228-18h.py](warehouse/can_2489_20260228-18h.py) |
 | 2490 | 2026-02-28 19:32:13 | Free Models Router | ✅ | [warehouse/can_2490_20260228-19h.py](warehouse/can_2490_20260228-19h.py) |
+| 2491 | 2026-02-28 20:40:21 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2491_20260228-20h.py](warehouse/can_2491_20260228-20h.py) |
