@@ -2564,3 +2564,4 @@ If you need permission, you're thinking too much.
 | 2474 | 2026-02-28 02:39:35 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2474_20260228-02h.py](warehouse/can_2474_20260228-02h.py) |
 | 2475 | 2026-02-28 04:33:41 | Mistral: Voxtral Small 24B 2507 | ❌ (broken, missing print) | [warehouse/can_2475_20260228-04h.py](warehouse/can_2475_20260228-04h.py) |
 | 2476 | 2026-02-28 05:49:16 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2476_20260228-05h.py](warehouse/can_2476_20260228-05h.py) |
+| 2477 | 2026-02-28 06:56:43 | Free Models Router | ✅ | [warehouse/can_2477_20260228-06h.py](warehouse/can_2477_20260228-06h.py) |
