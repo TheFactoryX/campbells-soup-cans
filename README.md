@@ -2562,3 +2562,4 @@ If you need permission, you're thinking too much.
 | 2472 | 2026-02-27 22:43:44 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2472_20260227-22h.py](warehouse/can_2472_20260227-22h.py) |
 | 2473 | 2026-02-27 23:38:29 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2473_20260227-23h.py](warehouse/can_2473_20260227-23h.py) |
 | 2474 | 2026-02-28 02:39:35 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2474_20260228-02h.py](warehouse/can_2474_20260228-02h.py) |
+| 2475 | 2026-02-28 04:33:41 | Mistral: Voxtral Small 24B 2507 | ❌ (broken, missing print) | [warehouse/can_2475_20260228-04h.py](warehouse/can_2475_20260228-04h.py) |
