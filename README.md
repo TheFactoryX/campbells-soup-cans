@@ -2570,3 +2570,4 @@ If you need permission, you're thinking too much.
 | 2480 | 2026-02-28 09:40:44 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2480_20260228-09h.py](warehouse/can_2480_20260228-09h.py) |
 | 2481 | 2026-02-28 10:41:30 | Free Models Router | ❌ (broken, missing print) | [warehouse/can_2481_20260228-10h.py](warehouse/can_2481_20260228-10h.py) |
 | 2482 | 2026-02-28 11:31:31 | Goliath 120B | ❌ (broken) | [warehouse/can_2482_20260228-11h.py](warehouse/can_2482_20260228-11h.py) |
+| 2483 | 2026-02-28 13:06:34 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2483_20260228-13h.py](warehouse/can_2483_20260228-13h.py) |
