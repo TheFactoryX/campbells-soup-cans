@@ -2591,3 +2591,4 @@ If you need permission, you're thinking too much.
 | 2501 | 2026-03-01 10:43:51 | Upstage: Solar Pro 3 (free) | ❌ (empty, missing print) | [warehouse/can_2501_20260301-10h.py](warehouse/can_2501_20260301-10h.py) |
 | 2502 | 2026-03-01 11:33:48 | TheDrummer: Skyfall 36B V2 | ❌ (broken) | [warehouse/can_2502_20260301-11h.py](warehouse/can_2502_20260301-11h.py) |
 | 2503 | 2026-03-01 13:09:58 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2503_20260301-13h.py](warehouse/can_2503_20260301-13h.py) |
+| 2504 | 2026-03-01 13:49:25 | Baidu: ERNIE 4.5 VL 28B A3B | ✅ | [warehouse/can_2504_20260301-13h.py](warehouse/can_2504_20260301-13h.py) |
