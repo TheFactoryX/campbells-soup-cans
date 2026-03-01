@@ -2600,3 +2600,4 @@ If you need permission, you're thinking too much.
 | 2510 | 2026-03-01 19:33:58 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_2510_20260301-19h.py](warehouse/can_2510_20260301-19h.py) |
 | 2511 | 2026-03-01 20:42:19 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2511_20260301-20h.py](warehouse/can_2511_20260301-20h.py) |
 | 2512 | 2026-03-01 21:36:12 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_2512_20260301-21h.py](warehouse/can_2512_20260301-21h.py) |
+| 2513 | 2026-03-01 22:42:12 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_2513_20260301-22h.py](warehouse/can_2513_20260301-22h.py) |
