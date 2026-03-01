@@ -2595,3 +2595,4 @@ If you need permission, you're thinking too much.
 | 2505 | 2026-03-01 14:42:23 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2505_20260301-14h.py](warehouse/can_2505_20260301-14h.py) |
 | 2506 | 2026-03-01 15:37:46 | DeepSeek: DeepSeek V3.2 Speciale | ✅ | [warehouse/can_2506_20260301-15h.py](warehouse/can_2506_20260301-15h.py) |
 | 2507 | 2026-03-01 16:45:06 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2507_20260301-16h.py](warehouse/can_2507_20260301-16h.py) |
+| 2508 | 2026-03-01 17:37:39 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2508_20260301-17h.py](warehouse/can_2508_20260301-17h.py) |
