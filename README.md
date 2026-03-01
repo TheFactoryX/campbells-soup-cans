@@ -2593,3 +2593,4 @@ If you need permission, you're thinking too much.
 | 2503 | 2026-03-01 13:09:58 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2503_20260301-13h.py](warehouse/can_2503_20260301-13h.py) |
 | 2504 | 2026-03-01 13:49:25 | Baidu: ERNIE 4.5 VL 28B A3B | ✅ | [warehouse/can_2504_20260301-13h.py](warehouse/can_2504_20260301-13h.py) |
 | 2505 | 2026-03-01 14:42:23 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2505_20260301-14h.py](warehouse/can_2505_20260301-14h.py) |
+| 2506 | 2026-03-01 15:37:46 | DeepSeek: DeepSeek V3.2 Speciale | ✅ | [warehouse/can_2506_20260301-15h.py](warehouse/can_2506_20260301-15h.py) |
