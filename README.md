@@ -2583,3 +2583,4 @@ If you need permission, you're thinking too much.
 | 2493 | 2026-02-28 22:40:16 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_2493_20260228-22h.py](warehouse/can_2493_20260228-22h.py) |
 | 2494 | 2026-02-28 23:34:32 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2494_20260228-23h.py](warehouse/can_2494_20260228-23h.py) |
 | 2495 | 2026-03-01 03:23:48 | AionLabs: Aion-RP 1.0 (8B) | ❌ (broken) | [warehouse/can_2495_20260301-03h.py](warehouse/can_2495_20260301-03h.py) |
+| 2496 | 2026-03-01 05:31:48 | Arcee AI: Trinity Mini (free) | ❌ (empty, missing print) | [warehouse/can_2496_20260301-05h.py](warehouse/can_2496_20260301-05h.py) |
