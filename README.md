@@ -2592,3 +2592,4 @@ If you need permission, you're thinking too much.
 | 2502 | 2026-03-01 11:33:48 | TheDrummer: Skyfall 36B V2 | ❌ (broken) | [warehouse/can_2502_20260301-11h.py](warehouse/can_2502_20260301-11h.py) |
 | 2503 | 2026-03-01 13:09:58 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2503_20260301-13h.py](warehouse/can_2503_20260301-13h.py) |
 | 2504 | 2026-03-01 13:49:25 | Baidu: ERNIE 4.5 VL 28B A3B | ✅ | [warehouse/can_2504_20260301-13h.py](warehouse/can_2504_20260301-13h.py) |
+| 2505 | 2026-03-01 14:42:23 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2505_20260301-14h.py](warehouse/can_2505_20260301-14h.py) |
