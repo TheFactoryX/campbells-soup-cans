@@ -2597,3 +2597,4 @@ If you need permission, you're thinking too much.
 | 2507 | 2026-03-01 16:45:06 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2507_20260301-16h.py](warehouse/can_2507_20260301-16h.py) |
 | 2508 | 2026-03-01 17:37:39 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2508_20260301-17h.py](warehouse/can_2508_20260301-17h.py) |
 | 2509 | 2026-03-01 18:50:48 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2509_20260301-18h.py](warehouse/can_2509_20260301-18h.py) |
+| 2510 | 2026-03-01 19:33:58 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_2510_20260301-19h.py](warehouse/can_2510_20260301-19h.py) |
