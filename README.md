@@ -2614,3 +2614,4 @@ If you need permission, you're thinking too much.
 | 2524 | 2026-03-02 13:35:02 | Free Models Router | ✅ | [warehouse/can_2524_20260302-13h.py](warehouse/can_2524_20260302-13h.py) |
 | 2525 | 2026-03-02 15:00:42 | LiquidAI: LFM2-2.6B | ❌ (broken) | [warehouse/can_2525_20260302-15h.py](warehouse/can_2525_20260302-15h.py) |
 | 2526 | 2026-03-02 15:56:23 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2526_20260302-15h.py](warehouse/can_2526_20260302-15h.py) |
+| 2527 | 2026-03-02 17:06:26 | AllenAI: Olmo 3.1 32B Think | ✅ | [warehouse/can_2527_20260302-17h.py](warehouse/can_2527_20260302-17h.py) |
