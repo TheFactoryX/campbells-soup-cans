@@ -2609,3 +2609,4 @@ If you need permission, you're thinking too much.
 | 2519 | 2026-03-02 07:59:07 | Upstage: Solar Pro 3 (free) | ❌ (empty, missing print) | [warehouse/can_2519_20260302-07h.py](warehouse/can_2519_20260302-07h.py) |
 | 2520 | 2026-03-02 09:01:53 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2520_20260302-09h.py](warehouse/can_2520_20260302-09h.py) |
 | 2521 | 2026-03-02 10:06:33 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2521_20260302-10h.py](warehouse/can_2521_20260302-10h.py) |
+| 2522 | 2026-03-02 11:03:05 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2522_20260302-11h.py](warehouse/can_2522_20260302-11h.py) |
