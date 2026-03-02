@@ -2605,3 +2605,4 @@ If you need permission, you're thinking too much.
 | 2515 | 2026-03-02 03:11:12 | Upstage: Solar Pro 3 (free) | ✅ | [warehouse/can_2515_20260302-03h.py](warehouse/can_2515_20260302-03h.py) |
 | 2516 | 2026-03-02 04:58:11 | Free Models Router | ✅ | [warehouse/can_2516_20260302-04h.py](warehouse/can_2516_20260302-04h.py) |
 | 2517 | 2026-03-02 06:06:26 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2517_20260302-06h.py](warehouse/can_2517_20260302-06h.py) |
+| 2518 | 2026-03-02 07:16:14 | Qwen: Qwen2.5-VL 7B Instruct | ✅ | [warehouse/can_2518_20260302-07h.py](warehouse/can_2518_20260302-07h.py) |
