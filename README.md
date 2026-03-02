@@ -2621,3 +2621,4 @@ If you need permission, you're thinking too much.
 | 2531 | 2026-03-02 20:51:37 | Qwen: Qwen3 Next 80B A3B Instruct (free) | ❌ (empty, missing print) | [warehouse/can_2531_20260302-20h.py](warehouse/can_2531_20260302-20h.py) |
 | 2532 | 2026-03-02 21:49:54 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2532_20260302-21h.py](warehouse/can_2532_20260302-21h.py) |
 | 2533 | 2026-03-02 22:47:36 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_2533_20260302-22h.py](warehouse/can_2533_20260302-22h.py) |
+| 2534 | 2026-03-02 23:43:39 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_2534_20260302-23h.py](warehouse/can_2534_20260302-23h.py) |
