@@ -2633,3 +2633,4 @@ If you need permission, you're thinking too much.
 | 2543 | 2026-03-03 11:46:56 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2543_20260303-11h.py](warehouse/can_2543_20260303-11h.py) |
 | 2544 | 2026-03-03 13:32:56 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2544_20260303-13h.py](warehouse/can_2544_20260303-13h.py) |
 | 2545 | 2026-03-03 15:06:17 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2545_20260303-15h.py](warehouse/can_2545_20260303-15h.py) |
+| 2546 | 2026-03-03 16:01:32 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2546_20260303-16h.py](warehouse/can_2546_20260303-16h.py) |
