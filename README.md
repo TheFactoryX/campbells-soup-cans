@@ -2628,3 +2628,4 @@ If you need permission, you're thinking too much.
 | 2538 | 2026-03-03 07:10:49 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2538_20260303-07h.py](warehouse/can_2538_20260303-07h.py) |
 | 2539 | 2026-03-03 07:54:59 | Anthropic: Claude Opus 4.1 | ✅ | [warehouse/can_2539_20260303-07h.py](warehouse/can_2539_20260303-07h.py) |
 | 2540 | 2026-03-03 09:00:10 | StepFun: Step 3.5 Flash (free) | ❌ (broken) | [warehouse/can_2540_20260303-09h.py](warehouse/can_2540_20260303-09h.py) |
+| 2541 | 2026-03-03 10:00:31 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2541_20260303-10h.py](warehouse/can_2541_20260303-10h.py) |
