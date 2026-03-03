@@ -2638,3 +2638,4 @@ If you need permission, you're thinking too much.
 | 2548 | 2026-03-03 17:59:42 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2548_20260303-17h.py](warehouse/can_2548_20260303-17h.py) |
 | 2549 | 2026-03-03 19:11:06 | Sao10K: Llama 3.1 Euryale 70B v2.2 | ✅ | [warehouse/can_2549_20260303-19h.py](warehouse/can_2549_20260303-19h.py) |
 | 2550 | 2026-03-03 19:50:56 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken, missing print) | [warehouse/can_2550_20260303-19h.py](warehouse/can_2550_20260303-19h.py) |
+| 2551 | 2026-03-03 20:48:37 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2551_20260303-20h.py](warehouse/can_2551_20260303-20h.py) |
