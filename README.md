@@ -2640,3 +2640,4 @@ If you need permission, you're thinking too much.
 | 2550 | 2026-03-03 19:50:56 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken, missing print) | [warehouse/can_2550_20260303-19h.py](warehouse/can_2550_20260303-19h.py) |
 | 2551 | 2026-03-03 20:48:37 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2551_20260303-20h.py](warehouse/can_2551_20260303-20h.py) |
 | 2552 | 2026-03-03 21:48:00 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2552_20260303-21h.py](warehouse/can_2552_20260303-21h.py) |
+| 2553 | 2026-03-03 22:47:45 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2553_20260303-22h.py](warehouse/can_2553_20260303-22h.py) |
