@@ -2629,3 +2629,4 @@ If you need permission, you're thinking too much.
 | 2539 | 2026-03-03 07:54:59 | Anthropic: Claude Opus 4.1 | ✅ | [warehouse/can_2539_20260303-07h.py](warehouse/can_2539_20260303-07h.py) |
 | 2540 | 2026-03-03 09:00:10 | StepFun: Step 3.5 Flash (free) | ❌ (broken) | [warehouse/can_2540_20260303-09h.py](warehouse/can_2540_20260303-09h.py) |
 | 2541 | 2026-03-03 10:00:31 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2541_20260303-10h.py](warehouse/can_2541_20260303-10h.py) |
+| 2542 | 2026-03-03 10:59:59 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2542_20260303-10h.py](warehouse/can_2542_20260303-10h.py) |
