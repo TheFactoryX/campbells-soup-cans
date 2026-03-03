@@ -2636,3 +2636,4 @@ If you need permission, you're thinking too much.
 | 2546 | 2026-03-03 16:01:32 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2546_20260303-16h.py](warehouse/can_2546_20260303-16h.py) |
 | 2547 | 2026-03-03 17:06:35 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2547_20260303-17h.py](warehouse/can_2547_20260303-17h.py) |
 | 2548 | 2026-03-03 17:59:42 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2548_20260303-17h.py](warehouse/can_2548_20260303-17h.py) |
+| 2549 | 2026-03-03 19:11:06 | Sao10K: Llama 3.1 Euryale 70B v2.2 | ✅ | [warehouse/can_2549_20260303-19h.py](warehouse/can_2549_20260303-19h.py) |
