@@ -2648,3 +2648,4 @@ If you need permission, you're thinking too much.
 | 2558 | 2026-03-04 07:07:07 | Free Models Router | ✅ | [warehouse/can_2558_20260304-07h.py](warehouse/can_2558_20260304-07h.py) |
 | 2559 | 2026-03-04 07:52:42 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2559_20260304-07h.py](warehouse/can_2559_20260304-07h.py) |
 | 2560 | 2026-03-04 08:56:46 | Free Models Router | ✅ | [warehouse/can_2560_20260304-08h.py](warehouse/can_2560_20260304-08h.py) |
+| 2561 | 2026-03-04 09:57:48 | Z.ai: GLM 4.5 Air (free) | ❌ (empty, missing print) | [warehouse/can_2561_20260304-09h.py](warehouse/can_2561_20260304-09h.py) |
