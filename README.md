@@ -2645,3 +2645,4 @@ If you need permission, you're thinking too much.
 | 2555 | 2026-03-04 02:50:00 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2555_20260304-02h.py](warehouse/can_2555_20260304-02h.py) |
 | 2556 | 2026-03-04 04:50:38 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2556_20260304-04h.py](warehouse/can_2556_20260304-04h.py) |
 | 2557 | 2026-03-04 05:59:26 | Free Models Router | ❌ (broken) | [warehouse/can_2557_20260304-05h.py](warehouse/can_2557_20260304-05h.py) |
+| 2558 | 2026-03-04 07:07:07 | Free Models Router | ✅ | [warehouse/can_2558_20260304-07h.py](warehouse/can_2558_20260304-07h.py) |
