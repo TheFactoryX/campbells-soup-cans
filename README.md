@@ -2646,3 +2646,4 @@ If you need permission, you're thinking too much.
 | 2556 | 2026-03-04 04:50:38 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2556_20260304-04h.py](warehouse/can_2556_20260304-04h.py) |
 | 2557 | 2026-03-04 05:59:26 | Free Models Router | ❌ (broken) | [warehouse/can_2557_20260304-05h.py](warehouse/can_2557_20260304-05h.py) |
 | 2558 | 2026-03-04 07:07:07 | Free Models Router | ✅ | [warehouse/can_2558_20260304-07h.py](warehouse/can_2558_20260304-07h.py) |
+| 2559 | 2026-03-04 07:52:42 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2559_20260304-07h.py](warehouse/can_2559_20260304-07h.py) |
