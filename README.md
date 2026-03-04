@@ -2643,3 +2643,4 @@ If you need permission, you're thinking too much.
 | 2553 | 2026-03-03 22:47:45 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2553_20260303-22h.py](warehouse/can_2553_20260303-22h.py) |
 | 2554 | 2026-03-03 23:42:02 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2554_20260303-23h.py](warehouse/can_2554_20260303-23h.py) |
 | 2555 | 2026-03-04 02:50:00 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2555_20260304-02h.py](warehouse/can_2555_20260304-02h.py) |
+| 2556 | 2026-03-04 04:50:38 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2556_20260304-04h.py](warehouse/can_2556_20260304-04h.py) |
