@@ -2644,3 +2644,4 @@ If you need permission, you're thinking too much.
 | 2554 | 2026-03-03 23:42:02 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2554_20260303-23h.py](warehouse/can_2554_20260303-23h.py) |
 | 2555 | 2026-03-04 02:50:00 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2555_20260304-02h.py](warehouse/can_2555_20260304-02h.py) |
 | 2556 | 2026-03-04 04:50:38 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2556_20260304-04h.py](warehouse/can_2556_20260304-04h.py) |
+| 2557 | 2026-03-04 05:59:26 | Free Models Router | ❌ (broken) | [warehouse/can_2557_20260304-05h.py](warehouse/can_2557_20260304-05h.py) |
