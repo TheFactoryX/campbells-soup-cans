@@ -2651,3 +2651,4 @@ If you need permission, you're thinking too much.
 | 2561 | 2026-03-04 09:57:48 | Z.ai: GLM 4.5 Air (free) | ❌ (empty, missing print) | [warehouse/can_2561_20260304-09h.py](warehouse/can_2561_20260304-09h.py) |
 | 2562 | 2026-03-04 10:57:02 | AlfredPros: CodeLLaMa 7B Instruct Solidity | ❌ (broken, missing print) | [warehouse/can_2562_20260304-10h.py](warehouse/can_2562_20260304-10h.py) |
 | 2563 | 2026-03-04 11:45:30 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2563_20260304-11h.py](warehouse/can_2563_20260304-11h.py) |
+| 2564 | 2026-03-04 13:31:45 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2564_20260304-13h.py](warehouse/can_2564_20260304-13h.py) |
