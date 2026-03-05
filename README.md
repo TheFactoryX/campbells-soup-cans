@@ -2670,3 +2670,4 @@ If you need permission, you're thinking too much.
 | 2580 | 2026-03-05 09:00:30 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2580_20260305-09h.py](warehouse/can_2580_20260305-09h.py) |
 | 2581 | 2026-03-05 10:01:51 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2581_20260305-10h.py](warehouse/can_2581_20260305-10h.py) |
 | 2582 | 2026-03-05 11:01:15 | Free Models Router | ✅ | [warehouse/can_2582_20260305-11h.py](warehouse/can_2582_20260305-11h.py) |
+| 2583 | 2026-03-05 11:48:36 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2583_20260305-11h.py](warehouse/can_2583_20260305-11h.py) |
