@@ -2668,3 +2668,4 @@ If you need permission, you're thinking too much.
 | 2578 | 2026-03-05 07:10:52 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2578_20260305-07h.py](warehouse/can_2578_20260305-07h.py) |
 | 2579 | 2026-03-05 07:54:58 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2579_20260305-07h.py](warehouse/can_2579_20260305-07h.py) |
 | 2580 | 2026-03-05 09:00:30 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2580_20260305-09h.py](warehouse/can_2580_20260305-09h.py) |
+| 2581 | 2026-03-05 10:01:51 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2581_20260305-10h.py](warehouse/can_2581_20260305-10h.py) |
