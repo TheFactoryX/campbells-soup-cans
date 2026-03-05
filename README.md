@@ -2674,3 +2674,4 @@ If you need permission, you're thinking too much.
 | 2584 | 2026-03-05 13:36:46 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2584_20260305-13h.py](warehouse/can_2584_20260305-13h.py) |
 | 2585 | 2026-03-05 15:06:18 | NVIDIA: Llama 3.3 Nemotron Super 49B V1.5 | ✅ | [warehouse/can_2585_20260305-15h.py](warehouse/can_2585_20260305-15h.py) |
 | 2586 | 2026-03-05 16:04:11 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2586_20260305-16h.py](warehouse/can_2586_20260305-16h.py) |
+| 2587 | 2026-03-05 18:21:45 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2587_20260305-18h.py](warehouse/can_2587_20260305-18h.py) |
