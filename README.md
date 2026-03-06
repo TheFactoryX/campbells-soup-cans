@@ -2692,3 +2692,4 @@ If you need permission, you're thinking too much.
 | 2602 | 2026-03-06 14:57:23 | Google: Gemini 2.0 Flash Lite | ✅ | [warehouse/can_2602_20260306-14h.py](warehouse/can_2602_20260306-14h.py) |
 | 2603 | 2026-03-06 15:53:45 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2603_20260306-15h.py](warehouse/can_2603_20260306-15h.py) |
 | 2604 | 2026-03-06 16:59:36 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2604_20260306-16h.py](warehouse/can_2604_20260306-16h.py) |
+| 2605 | 2026-03-06 17:52:59 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2605_20260306-17h.py](warehouse/can_2605_20260306-17h.py) |
