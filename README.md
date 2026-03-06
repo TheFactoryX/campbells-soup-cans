@@ -2686,3 +2686,4 @@ If you need permission, you're thinking too much.
 | 2596 | 2026-03-06 07:52:16 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2596_20260306-07h.py](warehouse/can_2596_20260306-07h.py) |
 | 2597 | 2026-03-06 08:56:03 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2597_20260306-08h.py](warehouse/can_2597_20260306-08h.py) |
 | 2598 | 2026-03-06 09:56:22 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2598_20260306-09h.py](warehouse/can_2598_20260306-09h.py) |
+| 2599 | 2026-03-06 10:55:56 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2599_20260306-10h.py](warehouse/can_2599_20260306-10h.py) |
