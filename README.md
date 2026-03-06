@@ -2694,3 +2694,4 @@ If you need permission, you're thinking too much.
 | 2604 | 2026-03-06 16:59:36 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2604_20260306-16h.py](warehouse/can_2604_20260306-16h.py) |
 | 2605 | 2026-03-06 17:52:59 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2605_20260306-17h.py](warehouse/can_2605_20260306-17h.py) |
 | 2606 | 2026-03-06 19:03:41 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2606_20260306-19h.py](warehouse/can_2606_20260306-19h.py) |
+| 2607 | 2026-03-06 19:48:11 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2607_20260306-19h.py](warehouse/can_2607_20260306-19h.py) |
