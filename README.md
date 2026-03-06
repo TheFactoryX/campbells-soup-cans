@@ -2693,3 +2693,4 @@ If you need permission, you're thinking too much.
 | 2603 | 2026-03-06 15:53:45 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2603_20260306-15h.py](warehouse/can_2603_20260306-15h.py) |
 | 2604 | 2026-03-06 16:59:36 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2604_20260306-16h.py](warehouse/can_2604_20260306-16h.py) |
 | 2605 | 2026-03-06 17:52:59 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2605_20260306-17h.py](warehouse/can_2605_20260306-17h.py) |
+| 2606 | 2026-03-06 19:03:41 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2606_20260306-19h.py](warehouse/can_2606_20260306-19h.py) |
