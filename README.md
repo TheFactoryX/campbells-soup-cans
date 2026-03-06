@@ -2698,3 +2698,4 @@ If you need permission, you're thinking too much.
 | 2608 | 2026-03-06 20:48:18 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2608_20260306-20h.py](warehouse/can_2608_20260306-20h.py) |
 | 2609 | 2026-03-06 21:44:12 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2609_20260306-21h.py](warehouse/can_2609_20260306-21h.py) |
 | 2610 | 2026-03-06 22:47:53 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2610_20260306-22h.py](warehouse/can_2610_20260306-22h.py) |
+| 2611 | 2026-03-06 23:42:12 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2611_20260306-23h.py](warehouse/can_2611_20260306-23h.py) |
