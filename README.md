@@ -2683,3 +2683,4 @@ If you need permission, you're thinking too much.
 | 2593 | 2026-03-06 04:51:28 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2593_20260306-04h.py](warehouse/can_2593_20260306-04h.py) |
 | 2594 | 2026-03-06 05:59:39 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2594_20260306-05h.py](warehouse/can_2594_20260306-05h.py) |
 | 2595 | 2026-03-06 07:08:06 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2595_20260306-07h.py](warehouse/can_2595_20260306-07h.py) |
+| 2596 | 2026-03-06 07:52:16 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2596_20260306-07h.py](warehouse/can_2596_20260306-07h.py) |
