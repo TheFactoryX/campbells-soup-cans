@@ -2718,3 +2718,4 @@ If you need permission, you're thinking too much.
 | 2628 | 2026-03-07 19:33:55 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2628_20260307-19h.py](warehouse/can_2628_20260307-19h.py) |
 | 2629 | 2026-03-07 20:40:41 | AllenAI: Olmo 3 32B Think | ✅ | [warehouse/can_2629_20260307-20h.py](warehouse/can_2629_20260307-20h.py) |
 | 2630 | 2026-03-07 21:34:07 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2630_20260307-21h.py](warehouse/can_2630_20260307-21h.py) |
+| 2631 | 2026-03-07 22:41:16 | Free Models Router | ✅ | [warehouse/can_2631_20260307-22h.py](warehouse/can_2631_20260307-22h.py) |
