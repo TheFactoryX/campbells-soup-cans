@@ -2701,3 +2701,4 @@ If you need permission, you're thinking too much.
 | 2611 | 2026-03-06 23:42:12 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2611_20260306-23h.py](warehouse/can_2611_20260306-23h.py) |
 | 2612 | 2026-03-07 02:44:12 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2612_20260307-02h.py](warehouse/can_2612_20260307-02h.py) |
 | 2613 | 2026-03-07 04:40:04 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2613_20260307-04h.py](warehouse/can_2613_20260307-04h.py) |
+| 2614 | 2026-03-07 05:52:23 | OpenAI: GPT-5.2-Codex | ✅ | [warehouse/can_2614_20260307-05h.py](warehouse/can_2614_20260307-05h.py) |
