@@ -2715,3 +2715,4 @@ If you need permission, you're thinking too much.
 | 2625 | 2026-03-07 16:44:28 | Qwen: Qwen2.5-VL 7B Instruct | ✅ | [warehouse/can_2625_20260307-16h.py](warehouse/can_2625_20260307-16h.py) |
 | 2626 | 2026-03-07 17:36:53 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2626_20260307-17h.py](warehouse/can_2626_20260307-17h.py) |
 | 2627 | 2026-03-07 18:50:18 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2627_20260307-18h.py](warehouse/can_2627_20260307-18h.py) |
+| 2628 | 2026-03-07 19:33:55 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2628_20260307-19h.py](warehouse/can_2628_20260307-19h.py) |
