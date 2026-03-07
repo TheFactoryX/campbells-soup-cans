@@ -2708,3 +2708,4 @@ If you need permission, you're thinking too much.
 | 2618 | 2026-03-07 09:43:46 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2618_20260307-09h.py](warehouse/can_2618_20260307-09h.py) |
 | 2619 | 2026-03-07 10:42:20 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2619_20260307-10h.py](warehouse/can_2619_20260307-10h.py) |
 | 2620 | 2026-03-07 11:33:07 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2620_20260307-11h.py](warehouse/can_2620_20260307-11h.py) |
+| 2621 | 2026-03-07 13:08:40 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2621_20260307-13h.py](warehouse/can_2621_20260307-13h.py) |
