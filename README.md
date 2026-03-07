@@ -2711,3 +2711,4 @@ If you need permission, you're thinking too much.
 | 2621 | 2026-03-07 13:08:40 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2621_20260307-13h.py](warehouse/can_2621_20260307-13h.py) |
 | 2622 | 2026-03-07 13:49:22 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2622_20260307-13h.py](warehouse/can_2622_20260307-13h.py) |
 | 2623 | 2026-03-07 14:42:03 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2623_20260307-14h.py](warehouse/can_2623_20260307-14h.py) |
+| 2624 | 2026-03-07 15:37:18 | Free Models Router | ✅ | [warehouse/can_2624_20260307-15h.py](warehouse/can_2624_20260307-15h.py) |
