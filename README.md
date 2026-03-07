@@ -2704,3 +2704,4 @@ If you need permission, you're thinking too much.
 | 2614 | 2026-03-07 05:52:23 | OpenAI: GPT-5.2-Codex | ✅ | [warehouse/can_2614_20260307-05h.py](warehouse/can_2614_20260307-05h.py) |
 | 2615 | 2026-03-07 06:58:53 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2615_20260307-06h.py](warehouse/can_2615_20260307-06h.py) |
 | 2616 | 2026-03-07 07:42:48 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2616_20260307-07h.py](warehouse/can_2616_20260307-07h.py) |
+| 2617 | 2026-03-07 08:50:31 | Mistral: Mistral Large 3 2512 | ✅ | [warehouse/can_2617_20260307-08h.py](warehouse/can_2617_20260307-08h.py) |
