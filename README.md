@@ -2702,3 +2702,4 @@ If you need permission, you're thinking too much.
 | 2612 | 2026-03-07 02:44:12 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2612_20260307-02h.py](warehouse/can_2612_20260307-02h.py) |
 | 2613 | 2026-03-07 04:40:04 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2613_20260307-04h.py](warehouse/can_2613_20260307-04h.py) |
 | 2614 | 2026-03-07 05:52:23 | OpenAI: GPT-5.2-Codex | ✅ | [warehouse/can_2614_20260307-05h.py](warehouse/can_2614_20260307-05h.py) |
+| 2615 | 2026-03-07 06:58:53 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2615_20260307-06h.py](warehouse/can_2615_20260307-06h.py) |
