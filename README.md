@@ -2727,3 +2727,4 @@ If you need permission, you're thinking too much.
 | 2637 | 2026-03-08 07:44:52 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2637_20260308-07h.py](warehouse/can_2637_20260308-07h.py) |
 | 2638 | 2026-03-08 08:48:24 | TheDrummer: Cydonia 24B V4.1 | ❌ (broken) | [warehouse/can_2638_20260308-08h.py](warehouse/can_2638_20260308-08h.py) |
 | 2639 | 2026-03-08 09:44:49 | Z.ai: GLM 4.5 Air (free) | ❌ (missing print) | [warehouse/can_2639_20260308-09h.py](warehouse/can_2639_20260308-09h.py) |
+| 2640 | 2026-03-08 10:44:14 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2640_20260308-10h.py](warehouse/can_2640_20260308-10h.py) |
