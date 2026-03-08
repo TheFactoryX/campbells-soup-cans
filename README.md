@@ -2737,3 +2737,4 @@ If you need permission, you're thinking too much.
 | 2647 | 2026-03-08 17:39:39 | StepFun: Step 3.5 Flash (free) | ❌ (broken) | [warehouse/can_2647_20260308-17h.py](warehouse/can_2647_20260308-17h.py) |
 | 2648 | 2026-03-08 18:51:59 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2648_20260308-18h.py](warehouse/can_2648_20260308-18h.py) |
 | 2649 | 2026-03-08 19:35:18 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2649_20260308-19h.py](warehouse/can_2649_20260308-19h.py) |
+| 2650 | 2026-03-08 20:42:44 | OpenAI: o4 Mini High | ❌ (missing print) | [warehouse/can_2650_20260308-20h.py](warehouse/can_2650_20260308-20h.py) |
