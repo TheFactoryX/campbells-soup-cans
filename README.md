@@ -2726,3 +2726,4 @@ If you need permission, you're thinking too much.
 | 2636 | 2026-03-08 07:01:24 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2636_20260308-07h.py](warehouse/can_2636_20260308-07h.py) |
 | 2637 | 2026-03-08 07:44:52 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2637_20260308-07h.py](warehouse/can_2637_20260308-07h.py) |
 | 2638 | 2026-03-08 08:48:24 | TheDrummer: Cydonia 24B V4.1 | ❌ (broken) | [warehouse/can_2638_20260308-08h.py](warehouse/can_2638_20260308-08h.py) |
+| 2639 | 2026-03-08 09:44:49 | Z.ai: GLM 4.5 Air (free) | ❌ (missing print) | [warehouse/can_2639_20260308-09h.py](warehouse/can_2639_20260308-09h.py) |
