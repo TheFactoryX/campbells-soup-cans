@@ -2739,3 +2739,4 @@ If you need permission, you're thinking too much.
 | 2649 | 2026-03-08 19:35:18 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2649_20260308-19h.py](warehouse/can_2649_20260308-19h.py) |
 | 2650 | 2026-03-08 20:42:44 | OpenAI: o4 Mini High | ❌ (missing print) | [warehouse/can_2650_20260308-20h.py](warehouse/can_2650_20260308-20h.py) |
 | 2651 | 2026-03-08 21:36:59 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_2651_20260308-21h.py](warehouse/can_2651_20260308-21h.py) |
+| 2652 | 2026-03-08 22:42:22 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2652_20260308-22h.py](warehouse/can_2652_20260308-22h.py) |
