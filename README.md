@@ -2725,3 +2725,4 @@ If you need permission, you're thinking too much.
 | 2635 | 2026-03-08 05:57:31 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_2635_20260308-05h.py](warehouse/can_2635_20260308-05h.py) |
 | 2636 | 2026-03-08 07:01:24 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2636_20260308-07h.py](warehouse/can_2636_20260308-07h.py) |
 | 2637 | 2026-03-08 07:44:52 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2637_20260308-07h.py](warehouse/can_2637_20260308-07h.py) |
+| 2638 | 2026-03-08 08:48:24 | TheDrummer: Cydonia 24B V4.1 | ❌ (broken) | [warehouse/can_2638_20260308-08h.py](warehouse/can_2638_20260308-08h.py) |
