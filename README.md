@@ -2730,3 +2730,4 @@ If you need permission, you're thinking too much.
 | 2640 | 2026-03-08 10:44:14 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2640_20260308-10h.py](warehouse/can_2640_20260308-10h.py) |
 | 2641 | 2026-03-08 11:34:05 | AllenAI: Olmo 3 32B Think | ✅ | [warehouse/can_2641_20260308-11h.py](warehouse/can_2641_20260308-11h.py) |
 | 2642 | 2026-03-08 13:10:31 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2642_20260308-13h.py](warehouse/can_2642_20260308-13h.py) |
+| 2643 | 2026-03-08 13:50:09 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2643_20260308-13h.py](warehouse/can_2643_20260308-13h.py) |
