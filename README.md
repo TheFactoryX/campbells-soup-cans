@@ -2734,3 +2734,4 @@ If you need permission, you're thinking too much.
 | 2644 | 2026-03-08 14:43:12 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_2644_20260308-14h.py](warehouse/can_2644_20260308-14h.py) |
 | 2645 | 2026-03-08 15:38:48 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2645_20260308-15h.py](warehouse/can_2645_20260308-15h.py) |
 | 2646 | 2026-03-08 16:45:55 | Z.ai: GLM 4 32B  | ✅ | [warehouse/can_2646_20260308-16h.py](warehouse/can_2646_20260308-16h.py) |
+| 2647 | 2026-03-08 17:39:39 | StepFun: Step 3.5 Flash (free) | ❌ (broken) | [warehouse/can_2647_20260308-17h.py](warehouse/can_2647_20260308-17h.py) |
