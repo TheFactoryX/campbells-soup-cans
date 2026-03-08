@@ -2728,3 +2728,4 @@ If you need permission, you're thinking too much.
 | 2638 | 2026-03-08 08:48:24 | TheDrummer: Cydonia 24B V4.1 | ❌ (broken) | [warehouse/can_2638_20260308-08h.py](warehouse/can_2638_20260308-08h.py) |
 | 2639 | 2026-03-08 09:44:49 | Z.ai: GLM 4.5 Air (free) | ❌ (missing print) | [warehouse/can_2639_20260308-09h.py](warehouse/can_2639_20260308-09h.py) |
 | 2640 | 2026-03-08 10:44:14 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2640_20260308-10h.py](warehouse/can_2640_20260308-10h.py) |
+| 2641 | 2026-03-08 11:34:05 | AllenAI: Olmo 3 32B Think | ✅ | [warehouse/can_2641_20260308-11h.py](warehouse/can_2641_20260308-11h.py) |
