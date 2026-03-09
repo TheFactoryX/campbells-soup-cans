@@ -2748,3 +2748,4 @@ If you need permission, you're thinking too much.
 | 2658 | 2026-03-09 09:02:25 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2658_20260309-09h.py](warehouse/can_2658_20260309-09h.py) |
 | 2659 | 2026-03-09 10:07:25 | AionLabs: Aion-1.0-Mini | ❌ (empty, missing print) | [warehouse/can_2659_20260309-10h.py](warehouse/can_2659_20260309-10h.py) |
 | 2660 | 2026-03-09 11:04:34 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2660_20260309-11h.py](warehouse/can_2660_20260309-11h.py) |
+| 2661 | 2026-03-09 11:49:36 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2661_20260309-11h.py](warehouse/can_2661_20260309-11h.py) |
