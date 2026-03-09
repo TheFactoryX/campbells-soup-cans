@@ -2750,3 +2750,4 @@ If you need permission, you're thinking too much.
 | 2660 | 2026-03-09 11:04:34 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2660_20260309-11h.py](warehouse/can_2660_20260309-11h.py) |
 | 2661 | 2026-03-09 11:49:36 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2661_20260309-11h.py](warehouse/can_2661_20260309-11h.py) |
 | 2662 | 2026-03-09 13:40:06 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_2662_20260309-13h.py](warehouse/can_2662_20260309-13h.py) |
+| 2663 | 2026-03-09 15:10:50 | Free Models Router | ❌ (broken) | [warehouse/can_2663_20260309-15h.py](warehouse/can_2663_20260309-15h.py) |
