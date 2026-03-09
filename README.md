@@ -2758,3 +2758,4 @@ If you need permission, you're thinking too much.
 | 2668 | 2026-03-09 19:52:27 | StepFun: Step 3.5 Flash | ✅ | [warehouse/can_2668_20260309-19h.py](warehouse/can_2668_20260309-19h.py) |
 | 2669 | 2026-03-09 20:51:15 | OpenAI: GPT-4o (extended) | ✅ | [warehouse/can_2669_20260309-20h.py](warehouse/can_2669_20260309-20h.py) |
 | 2670 | 2026-03-09 21:47:10 | Qwen: Qwen3 VL 30B A3B Thinking | ✅ | [warehouse/can_2670_20260309-21h.py](warehouse/can_2670_20260309-21h.py) |
+| 2671 | 2026-03-09 22:47:09 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2671_20260309-22h.py](warehouse/can_2671_20260309-22h.py) |
