@@ -2756,3 +2756,4 @@ If you need permission, you're thinking too much.
 | 2666 | 2026-03-09 18:00:17 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2666_20260309-18h.py](warehouse/can_2666_20260309-18h.py) |
 | 2667 | 2026-03-09 19:10:42 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_2667_20260309-19h.py](warehouse/can_2667_20260309-19h.py) |
 | 2668 | 2026-03-09 19:52:27 | StepFun: Step 3.5 Flash | ✅ | [warehouse/can_2668_20260309-19h.py](warehouse/can_2668_20260309-19h.py) |
+| 2669 | 2026-03-09 20:51:15 | OpenAI: GPT-4o (extended) | ✅ | [warehouse/can_2669_20260309-20h.py](warehouse/can_2669_20260309-20h.py) |
