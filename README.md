@@ -2753,3 +2753,4 @@ If you need permission, you're thinking too much.
 | 2663 | 2026-03-09 15:10:50 | Free Models Router | ❌ (broken) | [warehouse/can_2663_20260309-15h.py](warehouse/can_2663_20260309-15h.py) |
 | 2664 | 2026-03-09 16:13:01 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2664_20260309-16h.py](warehouse/can_2664_20260309-16h.py) |
 | 2665 | 2026-03-09 17:10:48 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2665_20260309-17h.py](warehouse/can_2665_20260309-17h.py) |
+| 2666 | 2026-03-09 18:00:17 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2666_20260309-18h.py](warehouse/can_2666_20260309-18h.py) |
