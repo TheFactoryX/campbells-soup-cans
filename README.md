@@ -2775,3 +2775,4 @@ If you need permission, you're thinking too much.
 | 2685 | 2026-03-10 17:09:49 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2685_20260310-17h.py](warehouse/can_2685_20260310-17h.py) |
 | 2686 | 2026-03-10 18:00:54 | Mancer: Weaver (alpha) | ❌ (broken, missing print) | [warehouse/can_2686_20260310-18h.py](warehouse/can_2686_20260310-18h.py) |
 | 2687 | 2026-03-10 19:08:53 | Perplexity: Sonar | ❌ (broken) | [warehouse/can_2687_20260310-19h.py](warehouse/can_2687_20260310-19h.py) |
+| 2688 | 2026-03-10 19:52:17 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2688_20260310-19h.py](warehouse/can_2688_20260310-19h.py) |
