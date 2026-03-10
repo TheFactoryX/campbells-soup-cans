@@ -2777,3 +2777,4 @@ If you need permission, you're thinking too much.
 | 2687 | 2026-03-10 19:08:53 | Perplexity: Sonar | ❌ (broken) | [warehouse/can_2687_20260310-19h.py](warehouse/can_2687_20260310-19h.py) |
 | 2688 | 2026-03-10 19:52:17 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2688_20260310-19h.py](warehouse/can_2688_20260310-19h.py) |
 | 2689 | 2026-03-10 20:49:36 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2689_20260310-20h.py](warehouse/can_2689_20260310-20h.py) |
+| 2690 | 2026-03-10 21:42:32 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2690_20260310-21h.py](warehouse/can_2690_20260310-21h.py) |
