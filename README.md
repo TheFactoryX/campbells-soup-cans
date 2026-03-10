@@ -2765,3 +2765,4 @@ If you need permission, you're thinking too much.
 | 2675 | 2026-03-10 06:00:12 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2675_20260310-06h.py](warehouse/can_2675_20260310-06h.py) |
 | 2676 | 2026-03-10 07:08:43 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2676_20260310-07h.py](warehouse/can_2676_20260310-07h.py) |
 | 2677 | 2026-03-10 07:55:47 | OpenAI: GPT-4 | ✅ | [warehouse/can_2677_20260310-07h.py](warehouse/can_2677_20260310-07h.py) |
+| 2678 | 2026-03-10 09:00:43 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken) | [warehouse/can_2678_20260310-09h.py](warehouse/can_2678_20260310-09h.py) |
