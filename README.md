@@ -2773,3 +2773,4 @@ If you need permission, you're thinking too much.
 | 2683 | 2026-03-10 15:10:37 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2683_20260310-15h.py](warehouse/can_2683_20260310-15h.py) |
 | 2684 | 2026-03-10 16:14:44 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2684_20260310-16h.py](warehouse/can_2684_20260310-16h.py) |
 | 2685 | 2026-03-10 17:09:49 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2685_20260310-17h.py](warehouse/can_2685_20260310-17h.py) |
+| 2686 | 2026-03-10 18:00:54 | Mancer: Weaver (alpha) | ❌ (broken, missing print) | [warehouse/can_2686_20260310-18h.py](warehouse/can_2686_20260310-18h.py) |
