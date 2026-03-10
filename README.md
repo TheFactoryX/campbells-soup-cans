@@ -2762,3 +2762,4 @@ If you need permission, you're thinking too much.
 | 2672 | 2026-03-09 23:43:09 | Free Models Router | ✅ | [warehouse/can_2672_20260309-23h.py](warehouse/can_2672_20260309-23h.py) |
 | 2673 | 2026-03-10 02:49:34 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2673_20260310-02h.py](warehouse/can_2673_20260310-02h.py) |
 | 2674 | 2026-03-10 04:51:45 | Qwen: Qwen3 VL 30B A3B Thinking | ❌ (empty, missing print) | [warehouse/can_2674_20260310-04h.py](warehouse/can_2674_20260310-04h.py) |
+| 2675 | 2026-03-10 06:00:12 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2675_20260310-06h.py](warehouse/can_2675_20260310-06h.py) |
