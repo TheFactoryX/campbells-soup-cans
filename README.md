@@ -2770,3 +2770,4 @@ If you need permission, you're thinking too much.
 | 2680 | 2026-03-10 11:01:46 | xAI: Grok 3 Mini | ✅ | [warehouse/can_2680_20260310-11h.py](warehouse/can_2680_20260310-11h.py) |
 | 2681 | 2026-03-10 11:47:41 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2681_20260310-11h.py](warehouse/can_2681_20260310-11h.py) |
 | 2682 | 2026-03-10 13:38:17 | Google: Gemini 2.0 Flash Lite | ✅ | [warehouse/can_2682_20260310-13h.py](warehouse/can_2682_20260310-13h.py) |
+| 2683 | 2026-03-10 15:10:37 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2683_20260310-15h.py](warehouse/can_2683_20260310-15h.py) |
