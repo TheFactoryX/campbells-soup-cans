@@ -2788,3 +2788,4 @@ If you need permission, you're thinking too much.
 | 2698 | 2026-03-11 09:00:42 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2698_20260311-09h.py](warehouse/can_2698_20260311-09h.py) |
 | 2699 | 2026-03-11 10:01:00 | NVIDIA: Nemotron Nano 9B V2 | ✅ | [warehouse/can_2699_20260311-10h.py](warehouse/can_2699_20260311-10h.py) |
 | 2700 | 2026-03-11 11:00:52 | Sao10K: Llama 3.3 Euryale 70B | ✅ | [warehouse/can_2700_20260311-11h.py](warehouse/can_2700_20260311-11h.py) |
+| 2701 | 2026-03-11 11:47:45 | EssentialAI: Rnj 1 Instruct | ✅ | [warehouse/can_2701_20260311-11h.py](warehouse/can_2701_20260311-11h.py) |
