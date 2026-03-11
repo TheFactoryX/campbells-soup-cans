@@ -2793,3 +2793,4 @@ If you need permission, you're thinking too much.
 | 2703 | 2026-03-11 15:05:20 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2703_20260311-15h.py](warehouse/can_2703_20260311-15h.py) |
 | 2704 | 2026-03-11 16:03:29 | AllenAI: Molmo2 8B | ❌ (broken) | [warehouse/can_2704_20260311-16h.py](warehouse/can_2704_20260311-16h.py) |
 | 2705 | 2026-03-11 17:11:05 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2705_20260311-17h.py](warehouse/can_2705_20260311-17h.py) |
+| 2706 | 2026-03-11 18:05:58 | DeepSeek: R1 0528 | ✅ | [warehouse/can_2706_20260311-18h.py](warehouse/can_2706_20260311-18h.py) |
