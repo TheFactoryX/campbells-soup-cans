@@ -2784,3 +2784,4 @@ If you need permission, you're thinking too much.
 | 2694 | 2026-03-11 04:52:54 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2694_20260311-04h.py](warehouse/can_2694_20260311-04h.py) |
 | 2695 | 2026-03-11 06:03:45 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_2695_20260311-06h.py](warehouse/can_2695_20260311-06h.py) |
 | 2696 | 2026-03-11 07:12:01 | Qwen: Qwen Plus 0728 (thinking) | ✅ | [warehouse/can_2696_20260311-07h.py](warehouse/can_2696_20260311-07h.py) |
+| 2697 | 2026-03-11 07:55:12 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2697_20260311-07h.py](warehouse/can_2697_20260311-07h.py) |
