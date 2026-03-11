@@ -2780,3 +2780,4 @@ If you need permission, you're thinking too much.
 | 2690 | 2026-03-10 21:42:32 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2690_20260310-21h.py](warehouse/can_2690_20260310-21h.py) |
 | 2691 | 2026-03-10 22:47:22 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2691_20260310-22h.py](warehouse/can_2691_20260310-22h.py) |
 | 2692 | 2026-03-10 23:42:28 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2692_20260310-23h.py](warehouse/can_2692_20260310-23h.py) |
+| 2693 | 2026-03-11 02:49:18 | OpenAI: GPT-5.2 | ✅ | [warehouse/can_2693_20260311-02h.py](warehouse/can_2693_20260311-02h.py) |
