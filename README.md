@@ -2799,3 +2799,4 @@ If you need permission, you're thinking too much.
 | 2709 | 2026-03-11 20:49:35 | Arcee AI: Trinity Mini (free) | ❌ (empty, missing print) | [warehouse/can_2709_20260311-20h.py](warehouse/can_2709_20260311-20h.py) |
 | 2710 | 2026-03-11 21:47:32 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2710_20260311-21h.py](warehouse/can_2710_20260311-21h.py) |
 | 2711 | 2026-03-11 22:42:31 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2711_20260311-22h.py](warehouse/can_2711_20260311-22h.py) |
+| 2712 | 2026-03-11 23:42:04 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2712_20260311-23h.py](warehouse/can_2712_20260311-23h.py) |
