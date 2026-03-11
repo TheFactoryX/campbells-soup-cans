@@ -2791,3 +2791,4 @@ If you need permission, you're thinking too much.
 | 2701 | 2026-03-11 11:47:45 | EssentialAI: Rnj 1 Instruct | ✅ | [warehouse/can_2701_20260311-11h.py](warehouse/can_2701_20260311-11h.py) |
 | 2702 | 2026-03-11 13:38:24 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2702_20260311-13h.py](warehouse/can_2702_20260311-13h.py) |
 | 2703 | 2026-03-11 15:05:20 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2703_20260311-15h.py](warehouse/can_2703_20260311-15h.py) |
+| 2704 | 2026-03-11 16:03:29 | AllenAI: Molmo2 8B | ❌ (broken) | [warehouse/can_2704_20260311-16h.py](warehouse/can_2704_20260311-16h.py) |
