@@ -2787,3 +2787,4 @@ If you need permission, you're thinking too much.
 | 2697 | 2026-03-11 07:55:12 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2697_20260311-07h.py](warehouse/can_2697_20260311-07h.py) |
 | 2698 | 2026-03-11 09:00:42 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2698_20260311-09h.py](warehouse/can_2698_20260311-09h.py) |
 | 2699 | 2026-03-11 10:01:00 | NVIDIA: Nemotron Nano 9B V2 | ✅ | [warehouse/can_2699_20260311-10h.py](warehouse/can_2699_20260311-10h.py) |
+| 2700 | 2026-03-11 11:00:52 | Sao10K: Llama 3.3 Euryale 70B | ✅ | [warehouse/can_2700_20260311-11h.py](warehouse/can_2700_20260311-11h.py) |
