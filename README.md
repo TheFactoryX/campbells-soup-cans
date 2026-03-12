@@ -2819,3 +2819,4 @@ If you need permission, you're thinking too much.
 | 2729 | 2026-03-12 20:52:11 | Hunter Alpha | ✅ | [warehouse/can_2729_20260312-20h.py](warehouse/can_2729_20260312-20h.py) |
 | 2730 | 2026-03-12 21:48:31 | Healer Alpha | ✅ | [warehouse/can_2730_20260312-21h.py](warehouse/can_2730_20260312-21h.py) |
 | 2731 | 2026-03-12 22:45:37 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_2731_20260312-22h.py](warehouse/can_2731_20260312-22h.py) |
+| 2732 | 2026-03-12 23:42:46 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2732_20260312-23h.py](warehouse/can_2732_20260312-23h.py) |
