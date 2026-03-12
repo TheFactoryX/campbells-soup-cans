@@ -2805,3 +2805,4 @@ If you need permission, you're thinking too much.
 | 2715 | 2026-03-12 06:05:57 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2715_20260312-06h.py](warehouse/can_2715_20260312-06h.py) |
 | 2716 | 2026-03-12 07:13:28 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2716_20260312-07h.py](warehouse/can_2716_20260312-07h.py) |
 | 2717 | 2026-03-12 07:57:07 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2717_20260312-07h.py](warehouse/can_2717_20260312-07h.py) |
+| 2718 | 2026-03-12 09:02:25 | Hunter Alpha | ✅ | [warehouse/can_2718_20260312-09h.py](warehouse/can_2718_20260312-09h.py) |
