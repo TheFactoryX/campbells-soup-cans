@@ -2813,3 +2813,4 @@ If you need permission, you're thinking too much.
 | 2723 | 2026-03-12 15:09:02 | Healer Alpha | ❌ (broken) | [warehouse/can_2723_20260312-15h.py](warehouse/can_2723_20260312-15h.py) |
 | 2724 | 2026-03-12 16:15:46 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2724_20260312-16h.py](warehouse/can_2724_20260312-16h.py) |
 | 2725 | 2026-03-12 17:13:16 | AionLabs: Aion-1.0 | ❌ (broken) | [warehouse/can_2725_20260312-17h.py](warehouse/can_2725_20260312-17h.py) |
+| 2726 | 2026-03-12 18:04:01 | Free Models Router | ✅ | [warehouse/can_2726_20260312-18h.py](warehouse/can_2726_20260312-18h.py) |
