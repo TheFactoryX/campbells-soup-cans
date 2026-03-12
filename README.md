@@ -2809,3 +2809,4 @@ If you need permission, you're thinking too much.
 | 2719 | 2026-03-12 10:00:46 | Free Models Router | ✅ | [warehouse/can_2719_20260312-10h.py](warehouse/can_2719_20260312-10h.py) |
 | 2720 | 2026-03-12 11:00:26 | Tongyi DeepResearch 30B A3B | ✅ | [warehouse/can_2720_20260312-11h.py](warehouse/can_2720_20260312-11h.py) |
 | 2721 | 2026-03-12 11:43:46 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2721_20260312-11h.py](warehouse/can_2721_20260312-11h.py) |
+| 2722 | 2026-03-12 13:36:36 | DeepSeek: DeepSeek V3 | ✅ | [warehouse/can_2722_20260312-13h.py](warehouse/can_2722_20260312-13h.py) |
