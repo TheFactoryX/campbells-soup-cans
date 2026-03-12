@@ -2817,3 +2817,4 @@ If you need permission, you're thinking too much.
 | 2727 | 2026-03-12 19:11:58 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_2727_20260312-19h.py](warehouse/can_2727_20260312-19h.py) |
 | 2728 | 2026-03-12 19:53:38 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2728_20260312-19h.py](warehouse/can_2728_20260312-19h.py) |
 | 2729 | 2026-03-12 20:52:11 | Hunter Alpha | ✅ | [warehouse/can_2729_20260312-20h.py](warehouse/can_2729_20260312-20h.py) |
+| 2730 | 2026-03-12 21:48:31 | Healer Alpha | ✅ | [warehouse/can_2730_20260312-21h.py](warehouse/can_2730_20260312-21h.py) |
