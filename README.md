@@ -2815,3 +2815,4 @@ If you need permission, you're thinking too much.
 | 2725 | 2026-03-12 17:13:16 | AionLabs: Aion-1.0 | ❌ (broken) | [warehouse/can_2725_20260312-17h.py](warehouse/can_2725_20260312-17h.py) |
 | 2726 | 2026-03-12 18:04:01 | Free Models Router | ✅ | [warehouse/can_2726_20260312-18h.py](warehouse/can_2726_20260312-18h.py) |
 | 2727 | 2026-03-12 19:11:58 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_2727_20260312-19h.py](warehouse/can_2727_20260312-19h.py) |
+| 2728 | 2026-03-12 19:53:38 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2728_20260312-19h.py](warehouse/can_2728_20260312-19h.py) |
