@@ -2835,3 +2835,4 @@ If you need permission, you're thinking too much.
 | 2745 | 2026-03-13 16:58:24 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2745_20260313-16h.py](warehouse/can_2745_20260313-16h.py) |
 | 2746 | 2026-03-13 18:14:13 | DeepSeek: DeepSeek V3.2 Speciale | ✅ | [warehouse/can_2746_20260313-18h.py](warehouse/can_2746_20260313-18h.py) |
 | 2747 | 2026-03-13 19:01:41 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_2747_20260313-19h.py](warehouse/can_2747_20260313-19h.py) |
+| 2748 | 2026-03-13 19:48:27 | Anthropic: Claude Opus 4 | ✅ | [warehouse/can_2748_20260313-19h.py](warehouse/can_2748_20260313-19h.py) |
