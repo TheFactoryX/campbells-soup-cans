@@ -2832,3 +2832,4 @@ If you need permission, you're thinking too much.
 | 2742 | 2026-03-13 13:33:58 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2742_20260313-13h.py](warehouse/can_2742_20260313-13h.py) |
 | 2743 | 2026-03-13 15:02:34 | Free Models Router | ✅ | [warehouse/can_2743_20260313-15h.py](warehouse/can_2743_20260313-15h.py) |
 | 2744 | 2026-03-13 15:57:54 | Sao10K: Llama 3.1 70B Hanami x1 | ✅ | [warehouse/can_2744_20260313-15h.py](warehouse/can_2744_20260313-15h.py) |
+| 2745 | 2026-03-13 16:58:24 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2745_20260313-16h.py](warehouse/can_2745_20260313-16h.py) |
