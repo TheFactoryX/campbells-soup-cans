@@ -2839,3 +2839,4 @@ If you need permission, you're thinking too much.
 | 2749 | 2026-03-13 20:52:44 | Healer Alpha | ✅ | [warehouse/can_2749_20260313-20h.py](warehouse/can_2749_20260313-20h.py) |
 | 2750 | 2026-03-13 21:48:29 | Sao10K: Llama 3.3 Euryale 70B | ✅ | [warehouse/can_2750_20260313-21h.py](warehouse/can_2750_20260313-21h.py) |
 | 2751 | 2026-03-13 22:44:41 | Free Models Router | ❌ (empty, missing print) | [warehouse/can_2751_20260313-22h.py](warehouse/can_2751_20260313-22h.py) |
+| 2752 | 2026-03-13 23:43:29 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2752_20260313-23h.py](warehouse/can_2752_20260313-23h.py) |
