@@ -2822,3 +2822,4 @@ If you need permission, you're thinking too much.
 | 2732 | 2026-03-12 23:42:46 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2732_20260312-23h.py](warehouse/can_2732_20260312-23h.py) |
 | 2733 | 2026-03-13 03:08:30 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_2733_20260313-03h.py](warehouse/can_2733_20260313-03h.py) |
 | 2734 | 2026-03-13 04:55:13 | NVIDIA: Nemotron 3 Super (free) | ❌ (broken) | [warehouse/can_2734_20260313-04h.py](warehouse/can_2734_20260313-04h.py) |
+| 2735 | 2026-03-13 06:04:16 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2735_20260313-06h.py](warehouse/can_2735_20260313-06h.py) |
