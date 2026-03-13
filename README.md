@@ -2828,3 +2828,4 @@ If you need permission, you're thinking too much.
 | 2738 | 2026-03-13 08:59:15 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2738_20260313-08h.py](warehouse/can_2738_20260313-08h.py) |
 | 2739 | 2026-03-13 09:56:19 | MiniMax: MiniMax M2 | ✅ | [warehouse/can_2739_20260313-09h.py](warehouse/can_2739_20260313-09h.py) |
 | 2740 | 2026-03-13 10:56:56 | Baidu: ERNIE 4.5 300B A47B  | ✅ | [warehouse/can_2740_20260313-10h.py](warehouse/can_2740_20260313-10h.py) |
+| 2741 | 2026-03-13 11:45:46 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2741_20260313-11h.py](warehouse/can_2741_20260313-11h.py) |
