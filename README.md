@@ -2831,3 +2831,4 @@ If you need permission, you're thinking too much.
 | 2741 | 2026-03-13 11:45:46 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2741_20260313-11h.py](warehouse/can_2741_20260313-11h.py) |
 | 2742 | 2026-03-13 13:33:58 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2742_20260313-13h.py](warehouse/can_2742_20260313-13h.py) |
 | 2743 | 2026-03-13 15:02:34 | Free Models Router | ✅ | [warehouse/can_2743_20260313-15h.py](warehouse/can_2743_20260313-15h.py) |
+| 2744 | 2026-03-13 15:57:54 | Sao10K: Llama 3.1 70B Hanami x1 | ✅ | [warehouse/can_2744_20260313-15h.py](warehouse/can_2744_20260313-15h.py) |
