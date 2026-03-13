@@ -2833,3 +2833,4 @@ If you need permission, you're thinking too much.
 | 2743 | 2026-03-13 15:02:34 | Free Models Router | ✅ | [warehouse/can_2743_20260313-15h.py](warehouse/can_2743_20260313-15h.py) |
 | 2744 | 2026-03-13 15:57:54 | Sao10K: Llama 3.1 70B Hanami x1 | ✅ | [warehouse/can_2744_20260313-15h.py](warehouse/can_2744_20260313-15h.py) |
 | 2745 | 2026-03-13 16:58:24 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2745_20260313-16h.py](warehouse/can_2745_20260313-16h.py) |
+| 2746 | 2026-03-13 18:14:13 | DeepSeek: DeepSeek V3.2 Speciale | ✅ | [warehouse/can_2746_20260313-18h.py](warehouse/can_2746_20260313-18h.py) |
