@@ -2845,3 +2845,4 @@ If you need permission, you're thinking too much.
 | 2755 | 2026-03-14 05:59:58 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_2755_20260314-05h.py](warehouse/can_2755_20260314-05h.py) |
 | 2756 | 2026-03-14 07:05:56 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_2756_20260314-07h.py](warehouse/can_2756_20260314-07h.py) |
 | 2757 | 2026-03-14 07:50:35 | Anthropic: Claude Opus 4.5 | ✅ | [warehouse/can_2757_20260314-07h.py](warehouse/can_2757_20260314-07h.py) |
+| 2758 | 2026-03-14 08:52:09 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2758_20260314-08h.py](warehouse/can_2758_20260314-08h.py) |
