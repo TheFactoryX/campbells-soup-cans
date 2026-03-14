@@ -2856,3 +2856,4 @@ If you need permission, you're thinking too much.
 | 2766 | 2026-03-14 16:49:01 | Healer Alpha | ❌ (broken) | [warehouse/can_2766_20260314-16h.py](warehouse/can_2766_20260314-16h.py) |
 | 2767 | 2026-03-14 17:44:20 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2767_20260314-17h.py](warehouse/can_2767_20260314-17h.py) |
 | 2768 | 2026-03-14 18:57:30 | Free Models Router | ✅ | [warehouse/can_2768_20260314-18h.py](warehouse/can_2768_20260314-18h.py) |
+| 2769 | 2026-03-14 19:41:31 | Z.ai: GLM 4.5 Air (free) | ❌ (broken) | [warehouse/can_2769_20260314-19h.py](warehouse/can_2769_20260314-19h.py) |
