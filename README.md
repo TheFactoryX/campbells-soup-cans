@@ -2854,3 +2854,4 @@ If you need permission, you're thinking too much.
 | 2764 | 2026-03-14 14:47:58 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (empty, missing print) | [warehouse/can_2764_20260314-14h.py](warehouse/can_2764_20260314-14h.py) |
 | 2765 | 2026-03-14 15:43:23 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2765_20260314-15h.py](warehouse/can_2765_20260314-15h.py) |
 | 2766 | 2026-03-14 16:49:01 | Healer Alpha | ❌ (broken) | [warehouse/can_2766_20260314-16h.py](warehouse/can_2766_20260314-16h.py) |
+| 2767 | 2026-03-14 17:44:20 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2767_20260314-17h.py](warehouse/can_2767_20260314-17h.py) |
