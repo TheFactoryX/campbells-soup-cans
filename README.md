@@ -2843,3 +2843,4 @@ If you need permission, you're thinking too much.
 | 2753 | 2026-03-14 03:06:19 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (empty, missing print) | [warehouse/can_2753_20260314-03h.py](warehouse/can_2753_20260314-03h.py) |
 | 2754 | 2026-03-14 04:52:34 | Healer Alpha | ❌ (empty, missing print) | [warehouse/can_2754_20260314-04h.py](warehouse/can_2754_20260314-04h.py) |
 | 2755 | 2026-03-14 05:59:58 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_2755_20260314-05h.py](warehouse/can_2755_20260314-05h.py) |
+| 2756 | 2026-03-14 07:05:56 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_2756_20260314-07h.py](warehouse/can_2756_20260314-07h.py) |
