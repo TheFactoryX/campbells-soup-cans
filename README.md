@@ -2858,3 +2858,4 @@ If you need permission, you're thinking too much.
 | 2768 | 2026-03-14 18:57:30 | Free Models Router | ✅ | [warehouse/can_2768_20260314-18h.py](warehouse/can_2768_20260314-18h.py) |
 | 2769 | 2026-03-14 19:41:31 | Z.ai: GLM 4.5 Air (free) | ❌ (broken) | [warehouse/can_2769_20260314-19h.py](warehouse/can_2769_20260314-19h.py) |
 | 2770 | 2026-03-14 20:45:48 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_2770_20260314-20h.py](warehouse/can_2770_20260314-20h.py) |
+| 2771 | 2026-03-14 21:42:55 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2771_20260314-21h.py](warehouse/can_2771_20260314-21h.py) |
