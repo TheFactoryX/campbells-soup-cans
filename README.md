@@ -2851,3 +2851,4 @@ If you need permission, you're thinking too much.
 | 2761 | 2026-03-14 11:38:29 | Qwen: Qwen3.5-27B | ✅ | [warehouse/can_2761_20260314-11h.py](warehouse/can_2761_20260314-11h.py) |
 | 2762 | 2026-03-14 13:14:35 | Hunter Alpha | ✅ | [warehouse/can_2762_20260314-13h.py](warehouse/can_2762_20260314-13h.py) |
 | 2763 | 2026-03-14 13:55:10 | Healer Alpha | ✅ | [warehouse/can_2763_20260314-13h.py](warehouse/can_2763_20260314-13h.py) |
+| 2764 | 2026-03-14 14:47:58 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (empty, missing print) | [warehouse/can_2764_20260314-14h.py](warehouse/can_2764_20260314-14h.py) |
