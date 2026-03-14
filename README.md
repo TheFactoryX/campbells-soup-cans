@@ -2852,3 +2852,4 @@ If you need permission, you're thinking too much.
 | 2762 | 2026-03-14 13:14:35 | Hunter Alpha | ✅ | [warehouse/can_2762_20260314-13h.py](warehouse/can_2762_20260314-13h.py) |
 | 2763 | 2026-03-14 13:55:10 | Healer Alpha | ✅ | [warehouse/can_2763_20260314-13h.py](warehouse/can_2763_20260314-13h.py) |
 | 2764 | 2026-03-14 14:47:58 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (empty, missing print) | [warehouse/can_2764_20260314-14h.py](warehouse/can_2764_20260314-14h.py) |
+| 2765 | 2026-03-14 15:43:23 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2765_20260314-15h.py](warehouse/can_2765_20260314-15h.py) |
