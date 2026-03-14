@@ -2841,3 +2841,4 @@ If you need permission, you're thinking too much.
 | 2751 | 2026-03-13 22:44:41 | Free Models Router | ❌ (empty, missing print) | [warehouse/can_2751_20260313-22h.py](warehouse/can_2751_20260313-22h.py) |
 | 2752 | 2026-03-13 23:43:29 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2752_20260313-23h.py](warehouse/can_2752_20260313-23h.py) |
 | 2753 | 2026-03-14 03:06:19 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (empty, missing print) | [warehouse/can_2753_20260314-03h.py](warehouse/can_2753_20260314-03h.py) |
+| 2754 | 2026-03-14 04:52:34 | Healer Alpha | ❌ (empty, missing print) | [warehouse/can_2754_20260314-04h.py](warehouse/can_2754_20260314-04h.py) |
