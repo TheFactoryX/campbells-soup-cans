@@ -2877,3 +2877,4 @@ If you need permission, you're thinking too much.
 | 2787 | 2026-03-15 18:58:34 | Healer Alpha | ✅ | [warehouse/can_2787_20260315-18h.py](warehouse/can_2787_20260315-18h.py) |
 | 2788 | 2026-03-15 19:42:49 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2788_20260315-19h.py](warehouse/can_2788_20260315-19h.py) |
 | 2789 | 2026-03-15 20:46:48 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_2789_20260315-20h.py](warehouse/can_2789_20260315-20h.py) |
+| 2790 | 2026-03-15 21:42:49 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (empty, missing print) | [warehouse/can_2790_20260315-21h.py](warehouse/can_2790_20260315-21h.py) |
