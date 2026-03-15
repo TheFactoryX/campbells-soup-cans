@@ -2875,3 +2875,4 @@ If you need permission, you're thinking too much.
 | 2785 | 2026-03-15 16:49:16 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_2785_20260315-16h.py](warehouse/can_2785_20260315-16h.py) |
 | 2786 | 2026-03-15 17:44:53 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_2786_20260315-17h.py](warehouse/can_2786_20260315-17h.py) |
 | 2787 | 2026-03-15 18:58:34 | Healer Alpha | ✅ | [warehouse/can_2787_20260315-18h.py](warehouse/can_2787_20260315-18h.py) |
+| 2788 | 2026-03-15 19:42:49 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2788_20260315-19h.py](warehouse/can_2788_20260315-19h.py) |
