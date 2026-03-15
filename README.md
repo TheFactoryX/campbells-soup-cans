@@ -2873,3 +2873,4 @@ If you need permission, you're thinking too much.
 | 2783 | 2026-03-15 14:49:46 | StepFun: Step 3.5 Flash (free) | ❌ (missing print) | [warehouse/can_2783_20260315-14h.py](warehouse/can_2783_20260315-14h.py) |
 | 2784 | 2026-03-15 15:44:18 | Hunter Alpha | ✅ | [warehouse/can_2784_20260315-15h.py](warehouse/can_2784_20260315-15h.py) |
 | 2785 | 2026-03-15 16:49:16 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_2785_20260315-16h.py](warehouse/can_2785_20260315-16h.py) |
+| 2786 | 2026-03-15 17:44:53 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_2786_20260315-17h.py](warehouse/can_2786_20260315-17h.py) |
