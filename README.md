@@ -2863,3 +2863,4 @@ If you need permission, you're thinking too much.
 | 2773 | 2026-03-14 23:43:03 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2773_20260314-23h.py](warehouse/can_2773_20260314-23h.py) |
 | 2774 | 2026-03-15 03:30:56 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2774_20260315-03h.py](warehouse/can_2774_20260315-03h.py) |
 | 2775 | 2026-03-15 05:45:24 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2775_20260315-05h.py](warehouse/can_2775_20260315-05h.py) |
+| 2776 | 2026-03-15 07:13:30 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_2776_20260315-07h.py](warehouse/can_2776_20260315-07h.py) |
