@@ -2871,3 +2871,4 @@ If you need permission, you're thinking too much.
 | 2781 | 2026-03-15 11:40:06 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_2781_20260315-11h.py](warehouse/can_2781_20260315-11h.py) |
 | 2782 | 2026-03-15 13:16:23 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2782_20260315-13h.py](warehouse/can_2782_20260315-13h.py) |
 | 2783 | 2026-03-15 14:49:46 | StepFun: Step 3.5 Flash (free) | ❌ (missing print) | [warehouse/can_2783_20260315-14h.py](warehouse/can_2783_20260315-14h.py) |
+| 2784 | 2026-03-15 15:44:18 | Hunter Alpha | ✅ | [warehouse/can_2784_20260315-15h.py](warehouse/can_2784_20260315-15h.py) |
