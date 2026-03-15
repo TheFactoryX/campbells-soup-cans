@@ -2869,3 +2869,4 @@ If you need permission, you're thinking too much.
 | 2779 | 2026-03-15 09:49:20 | Mistral: Devstral Small 1.1 | ❌ (broken, missing print) | [warehouse/can_2779_20260315-09h.py](warehouse/can_2779_20260315-09h.py) |
 | 2780 | 2026-03-15 10:49:45 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_2780_20260315-10h.py](warehouse/can_2780_20260315-10h.py) |
 | 2781 | 2026-03-15 11:40:06 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_2781_20260315-11h.py](warehouse/can_2781_20260315-11h.py) |
+| 2782 | 2026-03-15 13:16:23 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2782_20260315-13h.py](warehouse/can_2782_20260315-13h.py) |
