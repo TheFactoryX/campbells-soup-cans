@@ -2868,3 +2868,4 @@ If you need permission, you're thinking too much.
 | 2778 | 2026-03-15 08:55:10 | StepFun: Step 3.5 Flash (free) | ❌ (broken, missing print) | [warehouse/can_2778_20260315-08h.py](warehouse/can_2778_20260315-08h.py) |
 | 2779 | 2026-03-15 09:49:20 | Mistral: Devstral Small 1.1 | ❌ (broken, missing print) | [warehouse/can_2779_20260315-09h.py](warehouse/can_2779_20260315-09h.py) |
 | 2780 | 2026-03-15 10:49:45 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_2780_20260315-10h.py](warehouse/can_2780_20260315-10h.py) |
+| 2781 | 2026-03-15 11:40:06 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_2781_20260315-11h.py](warehouse/can_2781_20260315-11h.py) |
