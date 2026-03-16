@@ -2887,3 +2887,4 @@ If you need permission, you're thinking too much.
 | 2797 | 2026-03-16 10:16:17 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_2797_20260316-10h.py](warehouse/can_2797_20260316-10h.py) |
 | 2798 | 2026-03-16 11:57:19 | NVIDIA: Nemotron 3 Super (free) | ❌ (broken) | [warehouse/can_2798_20260316-11h.py](warehouse/can_2798_20260316-11h.py) |
 | 2799 | 2026-03-16 13:55:16 | Mistral: Mistral 7B Instruct v0.1 | ✅ | [warehouse/can_2799_20260316-13h.py](warehouse/can_2799_20260316-13h.py) |
+| 2800 | 2026-03-16 15:19:31 | Healer Alpha | ✅ | [warehouse/can_2800_20260316-15h.py](warehouse/can_2800_20260316-15h.py) |
