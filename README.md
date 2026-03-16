@@ -2890,3 +2890,4 @@ If you need permission, you're thinking too much.
 | 2800 | 2026-03-16 15:19:31 | Healer Alpha | ✅ | [warehouse/can_2800_20260316-15h.py](warehouse/can_2800_20260316-15h.py) |
 | 2801 | 2026-03-16 17:16:52 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2801_20260316-17h.py](warehouse/can_2801_20260316-17h.py) |
 | 2802 | 2026-03-16 19:20:16 | Hunter Alpha | ✅ | [warehouse/can_2802_20260316-19h.py](warehouse/can_2802_20260316-19h.py) |
+| 2803 | 2026-03-16 20:58:18 | Qwen: Qwen3 8B | ✅ | [warehouse/can_2803_20260316-20h.py](warehouse/can_2803_20260316-20h.py) |
