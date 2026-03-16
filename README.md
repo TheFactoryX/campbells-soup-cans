@@ -2883,3 +2883,4 @@ If you need permission, you're thinking too much.
 | 2793 | 2026-03-16 03:34:15 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_2793_20260316-03h.py](warehouse/can_2793_20260316-03h.py) |
 | 2794 | 2026-03-16 05:57:32 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2794_20260316-05h.py](warehouse/can_2794_20260316-05h.py) |
 | 2795 | 2026-03-16 07:48:30 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2795_20260316-07h.py](warehouse/can_2795_20260316-07h.py) |
+| 2796 | 2026-03-16 09:13:32 | Free Models Router | ✅ | [warehouse/can_2796_20260316-09h.py](warehouse/can_2796_20260316-09h.py) |
