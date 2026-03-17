@@ -2903,3 +2903,4 @@ If you need permission, you're thinking too much.
 | 2813 | 2026-03-17 11:08:47 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2813_20260317-11h.py](warehouse/can_2813_20260317-11h.py) |
 | 2814 | 2026-03-17 11:55:44 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_2814_20260317-11h.py](warehouse/can_2814_20260317-11h.py) |
 | 2815 | 2026-03-17 13:52:06 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2815_20260317-13h.py](warehouse/can_2815_20260317-13h.py) |
+| 2816 | 2026-03-17 15:16:53 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_2816_20260317-15h.py](warehouse/can_2816_20260317-15h.py) |
