@@ -2905,3 +2905,4 @@ If you need permission, you're thinking too much.
 | 2815 | 2026-03-17 13:52:06 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2815_20260317-13h.py](warehouse/can_2815_20260317-13h.py) |
 | 2816 | 2026-03-17 15:16:53 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_2816_20260317-15h.py](warehouse/can_2816_20260317-15h.py) |
 | 2817 | 2026-03-17 17:17:25 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2817_20260317-17h.py](warehouse/can_2817_20260317-17h.py) |
+| 2818 | 2026-03-17 19:21:03 | Relace: Relace Search | ✅ | [warehouse/can_2818_20260317-19h.py](warehouse/can_2818_20260317-19h.py) |
