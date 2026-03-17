@@ -2897,3 +2897,4 @@ If you need permission, you're thinking too much.
 | 2807 | 2026-03-17 03:12:43 | Meta: Llama 3.2 3B Instruct (free) | ❌ (broken) | [warehouse/can_2807_20260317-03h.py](warehouse/can_2807_20260317-03h.py) |
 | 2808 | 2026-03-17 05:03:03 | Anthropic: Claude Sonnet 4 | ✅ | [warehouse/can_2808_20260317-05h.py](warehouse/can_2808_20260317-05h.py) |
 | 2809 | 2026-03-17 06:13:48 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2809_20260317-06h.py](warehouse/can_2809_20260317-06h.py) |
+| 2810 | 2026-03-17 07:31:14 | Perplexity: Sonar Deep Research | ✅ | [warehouse/can_2810_20260317-07h.py](warehouse/can_2810_20260317-07h.py) |
