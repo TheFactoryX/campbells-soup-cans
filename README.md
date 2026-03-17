@@ -2894,3 +2894,4 @@ If you need permission, you're thinking too much.
 | 2804 | 2026-03-16 21:54:29 | Free Models Router | ✅ | [warehouse/can_2804_20260316-21h.py](warehouse/can_2804_20260316-21h.py) |
 | 2805 | 2026-03-16 22:51:48 | Free Models Router | ✅ | [warehouse/can_2805_20260316-22h.py](warehouse/can_2805_20260316-22h.py) |
 | 2806 | 2026-03-16 23:43:51 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2806_20260316-23h.py](warehouse/can_2806_20260316-23h.py) |
+| 2807 | 2026-03-17 03:12:43 | Meta: Llama 3.2 3B Instruct (free) | ❌ (broken) | [warehouse/can_2807_20260317-03h.py](warehouse/can_2807_20260317-03h.py) |
