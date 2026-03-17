@@ -2907,3 +2907,4 @@ If you need permission, you're thinking too much.
 | 2817 | 2026-03-17 17:17:25 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2817_20260317-17h.py](warehouse/can_2817_20260317-17h.py) |
 | 2818 | 2026-03-17 19:21:03 | Relace: Relace Search | ✅ | [warehouse/can_2818_20260317-19h.py](warehouse/can_2818_20260317-19h.py) |
 | 2819 | 2026-03-17 20:57:26 | Healer Alpha | ✅ | [warehouse/can_2819_20260317-20h.py](warehouse/can_2819_20260317-20h.py) |
+| 2820 | 2026-03-17 21:53:55 | Free Models Router | ✅ | [warehouse/can_2820_20260317-21h.py](warehouse/can_2820_20260317-21h.py) |
