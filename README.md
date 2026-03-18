@@ -2919,3 +2919,4 @@ If you need permission, you're thinking too much.
 | 2829 | 2026-03-18 11:59:05 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2829_20260318-11h.py](warehouse/can_2829_20260318-11h.py) |
 | 2830 | 2026-03-18 13:54:13 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2830_20260318-13h.py](warehouse/can_2830_20260318-13h.py) |
 | 2831 | 2026-03-18 15:38:44 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2831_20260318-15h.py](warehouse/can_2831_20260318-15h.py) |
+| 2832 | 2026-03-18 17:17:56 | Body Builder (beta) | ✅ | [warehouse/can_2832_20260318-17h.py](warehouse/can_2832_20260318-17h.py) |
