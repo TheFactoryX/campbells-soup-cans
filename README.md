@@ -2923,3 +2923,4 @@ If you need permission, you're thinking too much.
 | 2833 | 2026-03-18 19:17:36 | Google: Nano Banana (Gemini 2.5 Flash Image) | ✅ | [warehouse/can_2833_20260318-19h.py](warehouse/can_2833_20260318-19h.py) |
 | 2834 | 2026-03-18 20:57:09 | Sao10k: Llama 3 Euryale 70B v2.1 | ✅ | [warehouse/can_2834_20260318-20h.py](warehouse/can_2834_20260318-20h.py) |
 | 2835 | 2026-03-18 21:49:53 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2835_20260318-21h.py](warehouse/can_2835_20260318-21h.py) |
+| 2836 | 2026-03-18 22:51:33 | Free Models Router | ✅ | [warehouse/can_2836_20260318-22h.py](warehouse/can_2836_20260318-22h.py) |
