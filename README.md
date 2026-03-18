@@ -2913,3 +2913,4 @@ If you need permission, you're thinking too much.
 | 2823 | 2026-03-18 03:20:39 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_2823_20260318-03h.py](warehouse/can_2823_20260318-03h.py) |
 | 2824 | 2026-03-18 05:41:44 | Healer Alpha | ✅ | [warehouse/can_2824_20260318-05h.py](warehouse/can_2824_20260318-05h.py) |
 | 2825 | 2026-03-18 07:17:44 | NVIDIA: Nemotron 3 Super (free) | ❌ (broken) | [warehouse/can_2825_20260318-07h.py](warehouse/can_2825_20260318-07h.py) |
+| 2826 | 2026-03-18 09:07:39 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2826_20260318-09h.py](warehouse/can_2826_20260318-09h.py) |
