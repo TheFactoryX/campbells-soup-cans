@@ -2918,3 +2918,4 @@ If you need permission, you're thinking too much.
 | 2828 | 2026-03-18 11:10:23 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_2828_20260318-11h.py](warehouse/can_2828_20260318-11h.py) |
 | 2829 | 2026-03-18 11:59:05 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2829_20260318-11h.py](warehouse/can_2829_20260318-11h.py) |
 | 2830 | 2026-03-18 13:54:13 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2830_20260318-13h.py](warehouse/can_2830_20260318-13h.py) |
+| 2831 | 2026-03-18 15:38:44 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2831_20260318-15h.py](warehouse/can_2831_20260318-15h.py) |
