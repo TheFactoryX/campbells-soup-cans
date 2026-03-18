@@ -2917,3 +2917,4 @@ If you need permission, you're thinking too much.
 | 2827 | 2026-03-18 10:12:20 | Healer Alpha | ✅ | [warehouse/can_2827_20260318-10h.py](warehouse/can_2827_20260318-10h.py) |
 | 2828 | 2026-03-18 11:10:23 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_2828_20260318-11h.py](warehouse/can_2828_20260318-11h.py) |
 | 2829 | 2026-03-18 11:59:05 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2829_20260318-11h.py](warehouse/can_2829_20260318-11h.py) |
+| 2830 | 2026-03-18 13:54:13 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2830_20260318-13h.py](warehouse/can_2830_20260318-13h.py) |
