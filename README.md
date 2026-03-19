@@ -2928,3 +2928,4 @@ If you need permission, you're thinking too much.
 | 2838 | 2026-03-19 03:21:04 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_2838_20260319-03h.py](warehouse/can_2838_20260319-03h.py) |
 | 2839 | 2026-03-19 05:37:22 | Xiaomi: MiMo-V2-Omni | ✅ | [warehouse/can_2839_20260319-05h.py](warehouse/can_2839_20260319-05h.py) |
 | 2840 | 2026-03-19 07:14:37 | Free Models Router | ✅ | [warehouse/can_2840_20260319-07h.py](warehouse/can_2840_20260319-07h.py) |
+| 2841 | 2026-03-19 07:57:23 | Qwen2.5 Coder 32B Instruct | ❌ (broken, missing print) | [warehouse/can_2841_20260319-07h.py](warehouse/can_2841_20260319-07h.py) |
