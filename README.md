@@ -2930,3 +2930,4 @@ If you need permission, you're thinking too much.
 | 2840 | 2026-03-19 07:14:37 | Free Models Router | ✅ | [warehouse/can_2840_20260319-07h.py](warehouse/can_2840_20260319-07h.py) |
 | 2841 | 2026-03-19 07:57:23 | Qwen2.5 Coder 32B Instruct | ❌ (broken, missing print) | [warehouse/can_2841_20260319-07h.py](warehouse/can_2841_20260319-07h.py) |
 | 2842 | 2026-03-19 09:02:01 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_2842_20260319-09h.py](warehouse/can_2842_20260319-09h.py) |
+| 2843 | 2026-03-19 10:01:14 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_2843_20260319-10h.py](warehouse/can_2843_20260319-10h.py) |
