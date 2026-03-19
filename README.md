@@ -2940,3 +2940,4 @@ If you need permission, you're thinking too much.
 | 2850 | 2026-03-19 18:05:13 | NVIDIA: Nemotron 3 Super (free) | ❌ (broken) | [warehouse/can_2850_20260319-18h.py](warehouse/can_2850_20260319-18h.py) |
 | 2851 | 2026-03-19 19:14:55 | Google: Gemma 3n 4B | ✅ | [warehouse/can_2851_20260319-19h.py](warehouse/can_2851_20260319-19h.py) |
 | 2852 | 2026-03-19 19:54:46 | NVIDIA: Nemotron 3 Super (free) | ❌ (broken) | [warehouse/can_2852_20260319-19h.py](warehouse/can_2852_20260319-19h.py) |
+| 2853 | 2026-03-19 20:56:24 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (empty, missing print) | [warehouse/can_2853_20260319-20h.py](warehouse/can_2853_20260319-20h.py) |
