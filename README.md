@@ -2933,3 +2933,4 @@ If you need permission, you're thinking too much.
 | 2843 | 2026-03-19 10:01:14 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_2843_20260319-10h.py](warehouse/can_2843_20260319-10h.py) |
 | 2844 | 2026-03-19 11:02:01 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_2844_20260319-11h.py](warehouse/can_2844_20260319-11h.py) |
 | 2845 | 2026-03-19 11:50:45 | xAI: Grok 4 Fast | ✅ | [warehouse/can_2845_20260319-11h.py](warehouse/can_2845_20260319-11h.py) |
+| 2846 | 2026-03-19 13:42:44 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2846_20260319-13h.py](warehouse/can_2846_20260319-13h.py) |
