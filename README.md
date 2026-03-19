@@ -2938,3 +2938,4 @@ If you need permission, you're thinking too much.
 | 2848 | 2026-03-19 16:09:06 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2848_20260319-16h.py](warehouse/can_2848_20260319-16h.py) |
 | 2849 | 2026-03-19 17:14:56 | Qwen: Qwen3 32B | ❌ (broken) | [warehouse/can_2849_20260319-17h.py](warehouse/can_2849_20260319-17h.py) |
 | 2850 | 2026-03-19 18:05:13 | NVIDIA: Nemotron 3 Super (free) | ❌ (broken) | [warehouse/can_2850_20260319-18h.py](warehouse/can_2850_20260319-18h.py) |
+| 2851 | 2026-03-19 19:14:55 | Google: Gemma 3n 4B | ✅ | [warehouse/can_2851_20260319-19h.py](warehouse/can_2851_20260319-19h.py) |
