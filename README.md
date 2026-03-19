@@ -2942,3 +2942,4 @@ If you need permission, you're thinking too much.
 | 2852 | 2026-03-19 19:54:46 | NVIDIA: Nemotron 3 Super (free) | ❌ (broken) | [warehouse/can_2852_20260319-19h.py](warehouse/can_2852_20260319-19h.py) |
 | 2853 | 2026-03-19 20:56:24 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (empty, missing print) | [warehouse/can_2853_20260319-20h.py](warehouse/can_2853_20260319-20h.py) |
 | 2854 | 2026-03-19 21:48:39 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2854_20260319-21h.py](warehouse/can_2854_20260319-21h.py) |
+| 2855 | 2026-03-19 22:48:37 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2855_20260319-22h.py](warehouse/can_2855_20260319-22h.py) |
