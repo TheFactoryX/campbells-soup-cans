@@ -2925,3 +2925,4 @@ If you need permission, you're thinking too much.
 | 2835 | 2026-03-18 21:49:53 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2835_20260318-21h.py](warehouse/can_2835_20260318-21h.py) |
 | 2836 | 2026-03-18 22:51:33 | Free Models Router | ✅ | [warehouse/can_2836_20260318-22h.py](warehouse/can_2836_20260318-22h.py) |
 | 2837 | 2026-03-18 23:43:09 | Healer Alpha | ✅ | [warehouse/can_2837_20260318-23h.py](warehouse/can_2837_20260318-23h.py) |
+| 2838 | 2026-03-19 03:21:04 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_2838_20260319-03h.py](warehouse/can_2838_20260319-03h.py) |
