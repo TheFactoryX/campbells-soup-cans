@@ -2963,3 +2963,4 @@ If you need permission, you're thinking too much.
 | 2873 | 2026-03-20 20:49:53 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2873_20260320-20h.py](warehouse/can_2873_20260320-20h.py) |
 | 2874 | 2026-03-20 21:45:26 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (empty, missing print) | [warehouse/can_2874_20260320-21h.py](warehouse/can_2874_20260320-21h.py) |
 | 2875 | 2026-03-20 22:48:05 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_2875_20260320-22h.py](warehouse/can_2875_20260320-22h.py) |
+| 2876 | 2026-03-20 23:43:47 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2876_20260320-23h.py](warehouse/can_2876_20260320-23h.py) |
