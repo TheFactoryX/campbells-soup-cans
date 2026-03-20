@@ -2944,3 +2944,4 @@ If you need permission, you're thinking too much.
 | 2854 | 2026-03-19 21:48:39 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2854_20260319-21h.py](warehouse/can_2854_20260319-21h.py) |
 | 2855 | 2026-03-19 22:48:37 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2855_20260319-22h.py](warehouse/can_2855_20260319-22h.py) |
 | 2856 | 2026-03-19 23:44:39 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2856_20260319-23h.py](warehouse/can_2856_20260319-23h.py) |
+| 2857 | 2026-03-20 03:10:41 | Nous: Hermes 4 70B | ✅ | [warehouse/can_2857_20260320-03h.py](warehouse/can_2857_20260320-03h.py) |
