@@ -2955,3 +2955,4 @@ If you need permission, you're thinking too much.
 | 2865 | 2026-03-20 11:46:00 | Free Models Router | ✅ | [warehouse/can_2865_20260320-11h.py](warehouse/can_2865_20260320-11h.py) |
 | 2866 | 2026-03-20 13:34:31 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2866_20260320-13h.py](warehouse/can_2866_20260320-13h.py) |
 | 2867 | 2026-03-20 15:02:37 | Qwen: Qwen3 235B A22B Thinking 2507 | ✅ | [warehouse/can_2867_20260320-15h.py](warehouse/can_2867_20260320-15h.py) |
+| 2868 | 2026-03-20 15:58:19 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_2868_20260320-15h.py](warehouse/can_2868_20260320-15h.py) |
