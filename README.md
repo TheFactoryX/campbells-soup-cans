@@ -2948,3 +2948,4 @@ If you need permission, you're thinking too much.
 | 2858 | 2026-03-20 04:57:50 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2858_20260320-04h.py](warehouse/can_2858_20260320-04h.py) |
 | 2859 | 2026-03-20 06:07:04 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_2859_20260320-06h.py](warehouse/can_2859_20260320-06h.py) |
 | 2860 | 2026-03-20 07:13:59 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2860_20260320-07h.py](warehouse/can_2860_20260320-07h.py) |
+| 2861 | 2026-03-20 07:56:13 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_2861_20260320-07h.py](warehouse/can_2861_20260320-07h.py) |
