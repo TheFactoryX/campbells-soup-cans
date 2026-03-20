@@ -2951,3 +2951,4 @@ If you need permission, you're thinking too much.
 | 2861 | 2026-03-20 07:56:13 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_2861_20260320-07h.py](warehouse/can_2861_20260320-07h.py) |
 | 2862 | 2026-03-20 08:59:20 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_2862_20260320-08h.py](warehouse/can_2862_20260320-08h.py) |
 | 2863 | 2026-03-20 09:58:06 | Free Models Router | ❌ (broken, missing print) | [warehouse/can_2863_20260320-09h.py](warehouse/can_2863_20260320-09h.py) |
+| 2864 | 2026-03-20 10:57:50 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2864_20260320-10h.py](warehouse/can_2864_20260320-10h.py) |
