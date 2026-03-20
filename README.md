@@ -2953,3 +2953,4 @@ If you need permission, you're thinking too much.
 | 2863 | 2026-03-20 09:58:06 | Free Models Router | ❌ (broken, missing print) | [warehouse/can_2863_20260320-09h.py](warehouse/can_2863_20260320-09h.py) |
 | 2864 | 2026-03-20 10:57:50 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2864_20260320-10h.py](warehouse/can_2864_20260320-10h.py) |
 | 2865 | 2026-03-20 11:46:00 | Free Models Router | ✅ | [warehouse/can_2865_20260320-11h.py](warehouse/can_2865_20260320-11h.py) |
+| 2866 | 2026-03-20 13:34:31 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2866_20260320-13h.py](warehouse/can_2866_20260320-13h.py) |
