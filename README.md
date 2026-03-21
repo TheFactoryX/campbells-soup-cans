@@ -2966,3 +2966,4 @@ If you need permission, you're thinking too much.
 | 2876 | 2026-03-20 23:43:47 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2876_20260320-23h.py](warehouse/can_2876_20260320-23h.py) |
 | 2877 | 2026-03-21 02:47:23 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2877_20260321-02h.py](warehouse/can_2877_20260321-02h.py) |
 | 2878 | 2026-03-21 04:47:03 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2878_20260321-04h.py](warehouse/can_2878_20260321-04h.py) |
+| 2879 | 2026-03-21 05:54:36 | Goliath 120B | ❌ (broken) | [warehouse/can_2879_20260321-05h.py](warehouse/can_2879_20260321-05h.py) |
