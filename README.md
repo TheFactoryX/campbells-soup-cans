@@ -2967,3 +2967,4 @@ If you need permission, you're thinking too much.
 | 2877 | 2026-03-21 02:47:23 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2877_20260321-02h.py](warehouse/can_2877_20260321-02h.py) |
 | 2878 | 2026-03-21 04:47:03 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2878_20260321-04h.py](warehouse/can_2878_20260321-04h.py) |
 | 2879 | 2026-03-21 05:54:36 | Goliath 120B | ❌ (broken) | [warehouse/can_2879_20260321-05h.py](warehouse/can_2879_20260321-05h.py) |
+| 2880 | 2026-03-21 07:03:38 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2880_20260321-07h.py](warehouse/can_2880_20260321-07h.py) |
