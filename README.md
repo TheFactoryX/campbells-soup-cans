@@ -2981,3 +2981,4 @@ If you need permission, you're thinking too much.
 | 2891 | 2026-03-21 17:42:21 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (empty, missing print) | [warehouse/can_2891_20260321-17h.py](warehouse/can_2891_20260321-17h.py) |
 | 2892 | 2026-03-21 18:54:06 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_2892_20260321-18h.py](warehouse/can_2892_20260321-18h.py) |
 | 2893 | 2026-03-21 19:36:37 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_2893_20260321-19h.py](warehouse/can_2893_20260321-19h.py) |
+| 2894 | 2026-03-21 20:43:21 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (empty, missing print) | [warehouse/can_2894_20260321-20h.py](warehouse/can_2894_20260321-20h.py) |
