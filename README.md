@@ -2975,3 +2975,4 @@ If you need permission, you're thinking too much.
 | 2885 | 2026-03-21 11:35:44 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2885_20260321-11h.py](warehouse/can_2885_20260321-11h.py) |
 | 2886 | 2026-03-21 13:12:03 | Xiaomi: MiMo-V2-Omni | ✅ | [warehouse/can_2886_20260321-13h.py](warehouse/can_2886_20260321-13h.py) |
 | 2887 | 2026-03-21 13:52:56 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2887_20260321-13h.py](warehouse/can_2887_20260321-13h.py) |
+| 2888 | 2026-03-21 14:45:22 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2888_20260321-14h.py](warehouse/can_2888_20260321-14h.py) |
