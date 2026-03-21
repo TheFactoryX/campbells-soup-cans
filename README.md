@@ -2972,3 +2972,4 @@ If you need permission, you're thinking too much.
 | 2882 | 2026-03-21 08:50:16 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2882_20260321-08h.py](warehouse/can_2882_20260321-08h.py) |
 | 2883 | 2026-03-21 09:46:15 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2883_20260321-09h.py](warehouse/can_2883_20260321-09h.py) |
 | 2884 | 2026-03-21 10:46:31 | DeepSeek: R1 Distill Qwen 32B | ✅ | [warehouse/can_2884_20260321-10h.py](warehouse/can_2884_20260321-10h.py) |
+| 2885 | 2026-03-21 11:35:44 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2885_20260321-11h.py](warehouse/can_2885_20260321-11h.py) |
