@@ -2977,3 +2977,4 @@ If you need permission, you're thinking too much.
 | 2887 | 2026-03-21 13:52:56 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2887_20260321-13h.py](warehouse/can_2887_20260321-13h.py) |
 | 2888 | 2026-03-21 14:45:22 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2888_20260321-14h.py](warehouse/can_2888_20260321-14h.py) |
 | 2889 | 2026-03-21 15:41:40 | OpenAI: GPT-5.2 Pro | ✅ | [warehouse/can_2889_20260321-15h.py](warehouse/can_2889_20260321-15h.py) |
+| 2890 | 2026-03-21 16:47:28 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_2890_20260321-16h.py](warehouse/can_2890_20260321-16h.py) |
