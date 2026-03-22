@@ -2994,3 +2994,4 @@ If you need permission, you're thinking too much.
 | 2904 | 2026-03-22 10:47:14 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2904_20260322-10h.py](warehouse/can_2904_20260322-10h.py) |
 | 2905 | 2026-03-22 11:36:36 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_2905_20260322-11h.py](warehouse/can_2905_20260322-11h.py) |
 | 2906 | 2026-03-22 13:14:11 | Free Models Router | ✅ | [warehouse/can_2906_20260322-13h.py](warehouse/can_2906_20260322-13h.py) |
+| 2907 | 2026-03-22 13:54:08 | Mistral: Mistral Small 3 | ❌ (broken, missing print) | [warehouse/can_2907_20260322-13h.py](warehouse/can_2907_20260322-13h.py) |
