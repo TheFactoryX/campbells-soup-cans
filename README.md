@@ -3001,3 +3001,4 @@ If you need permission, you're thinking too much.
 | 2911 | 2026-03-22 17:42:39 | NVIDIA: Nemotron 3 Super (free) | ❌ (broken) | [warehouse/can_2911_20260322-17h.py](warehouse/can_2911_20260322-17h.py) |
 | 2912 | 2026-03-22 18:55:53 | Mistral: Pixtral Large 2411 | ✅ | [warehouse/can_2912_20260322-18h.py](warehouse/can_2912_20260322-18h.py) |
 | 2913 | 2026-03-22 19:39:10 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2913_20260322-19h.py](warehouse/can_2913_20260322-19h.py) |
+| 2914 | 2026-03-22 20:45:11 | OpenAI: gpt-oss-20b | ✅ | [warehouse/can_2914_20260322-20h.py](warehouse/can_2914_20260322-20h.py) |
