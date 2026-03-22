@@ -3004,3 +3004,4 @@ If you need permission, you're thinking too much.
 | 2914 | 2026-03-22 20:45:11 | OpenAI: gpt-oss-20b | ✅ | [warehouse/can_2914_20260322-20h.py](warehouse/can_2914_20260322-20h.py) |
 | 2915 | 2026-03-22 21:41:16 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2915_20260322-21h.py](warehouse/can_2915_20260322-21h.py) |
 | 2916 | 2026-03-22 22:45:14 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_2916_20260322-22h.py](warehouse/can_2916_20260322-22h.py) |
+| 2917 | 2026-03-22 23:44:01 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2917_20260322-23h.py](warehouse/can_2917_20260322-23h.py) |
