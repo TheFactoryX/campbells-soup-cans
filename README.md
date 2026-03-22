@@ -2996,3 +2996,4 @@ If you need permission, you're thinking too much.
 | 2906 | 2026-03-22 13:14:11 | Free Models Router | ✅ | [warehouse/can_2906_20260322-13h.py](warehouse/can_2906_20260322-13h.py) |
 | 2907 | 2026-03-22 13:54:08 | Mistral: Mistral Small 3 | ❌ (broken, missing print) | [warehouse/can_2907_20260322-13h.py](warehouse/can_2907_20260322-13h.py) |
 | 2908 | 2026-03-22 14:46:26 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2908_20260322-14h.py](warehouse/can_2908_20260322-14h.py) |
+| 2909 | 2026-03-22 15:42:06 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_2909_20260322-15h.py](warehouse/can_2909_20260322-15h.py) |
