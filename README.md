@@ -2986,3 +2986,4 @@ If you need permission, you're thinking too much.
 | 2896 | 2026-03-21 22:43:35 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2896_20260321-22h.py](warehouse/can_2896_20260321-22h.py) |
 | 2897 | 2026-03-21 23:40:14 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2897_20260321-23h.py](warehouse/can_2897_20260321-23h.py) |
 | 2898 | 2026-03-22 03:21:21 | Nous: Hermes 3 405B Instruct (free) | ✅ | [warehouse/can_2898_20260322-03h.py](warehouse/can_2898_20260322-03h.py) |
+| 2899 | 2026-03-22 05:33:08 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2899_20260322-05h.py](warehouse/can_2899_20260322-05h.py) |
