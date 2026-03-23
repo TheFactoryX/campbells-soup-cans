@@ -3022,3 +3022,4 @@ If you need permission, you're thinking too much.
 | 2932 | 2026-03-23 20:55:22 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2932_20260323-20h.py](warehouse/can_2932_20260323-20h.py) |
 | 2933 | 2026-03-23 21:50:34 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_2933_20260323-21h.py](warehouse/can_2933_20260323-21h.py) |
 | 2934 | 2026-03-23 22:51:46 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2934_20260323-22h.py](warehouse/can_2934_20260323-22h.py) |
+| 2935 | 2026-03-23 23:47:55 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2935_20260323-23h.py](warehouse/can_2935_20260323-23h.py) |
