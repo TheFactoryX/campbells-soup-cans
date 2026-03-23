@@ -3009,3 +3009,4 @@ If you need permission, you're thinking too much.
 | 2919 | 2026-03-23 05:47:13 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2919_20260323-05h.py](warehouse/can_2919_20260323-05h.py) |
 | 2920 | 2026-03-23 07:39:31 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_2920_20260323-07h.py](warehouse/can_2920_20260323-07h.py) |
 | 2921 | 2026-03-23 09:13:18 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2921_20260323-09h.py](warehouse/can_2921_20260323-09h.py) |
+| 2922 | 2026-03-23 10:15:18 | Google: Gemini 2.5 Flash Lite | ✅ | [warehouse/can_2922_20260323-10h.py](warehouse/can_2922_20260323-10h.py) |
