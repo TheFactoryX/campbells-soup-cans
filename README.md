@@ -3019,3 +3019,4 @@ If you need permission, you're thinking too much.
 | 2929 | 2026-03-23 18:04:39 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2929_20260323-18h.py](warehouse/can_2929_20260323-18h.py) |
 | 2930 | 2026-03-23 19:13:54 | Mistral: Mistral Small 4 | ✅ | [warehouse/can_2930_20260323-19h.py](warehouse/can_2930_20260323-19h.py) |
 | 2931 | 2026-03-23 19:56:51 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (empty, missing print) | [warehouse/can_2931_20260323-19h.py](warehouse/can_2931_20260323-19h.py) |
+| 2932 | 2026-03-23 20:55:22 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2932_20260323-20h.py](warehouse/can_2932_20260323-20h.py) |
