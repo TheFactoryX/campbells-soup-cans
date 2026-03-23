@@ -3011,3 +3011,4 @@ If you need permission, you're thinking too much.
 | 2921 | 2026-03-23 09:13:18 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2921_20260323-09h.py](warehouse/can_2921_20260323-09h.py) |
 | 2922 | 2026-03-23 10:15:18 | Google: Gemini 2.5 Flash Lite | ✅ | [warehouse/can_2922_20260323-10h.py](warehouse/can_2922_20260323-10h.py) |
 | 2923 | 2026-03-23 11:10:44 | MoonshotAI: Kimi K2 0905 | ✅ | [warehouse/can_2923_20260323-11h.py](warehouse/can_2923_20260323-11h.py) |
+| 2924 | 2026-03-23 11:55:20 | Mistral Large | ✅ | [warehouse/can_2924_20260323-11h.py](warehouse/can_2924_20260323-11h.py) |
