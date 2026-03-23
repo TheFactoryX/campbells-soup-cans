@@ -3013,3 +3013,4 @@ If you need permission, you're thinking too much.
 | 2923 | 2026-03-23 11:10:44 | MoonshotAI: Kimi K2 0905 | ✅ | [warehouse/can_2923_20260323-11h.py](warehouse/can_2923_20260323-11h.py) |
 | 2924 | 2026-03-23 11:55:20 | Mistral Large | ✅ | [warehouse/can_2924_20260323-11h.py](warehouse/can_2924_20260323-11h.py) |
 | 2925 | 2026-03-23 13:49:22 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2925_20260323-13h.py](warehouse/can_2925_20260323-13h.py) |
+| 2926 | 2026-03-23 15:15:29 | OpenAI: GPT-3.5 Turbo 16k | ✅ | [warehouse/can_2926_20260323-15h.py](warehouse/can_2926_20260323-15h.py) |
