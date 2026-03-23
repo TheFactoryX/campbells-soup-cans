@@ -3017,3 +3017,4 @@ If you need permission, you're thinking too much.
 | 2927 | 2026-03-23 16:13:08 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2927_20260323-16h.py](warehouse/can_2927_20260323-16h.py) |
 | 2928 | 2026-03-23 17:10:15 | OpenAI: GPT-5 Codex | ✅ | [warehouse/can_2928_20260323-17h.py](warehouse/can_2928_20260323-17h.py) |
 | 2929 | 2026-03-23 18:04:39 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2929_20260323-18h.py](warehouse/can_2929_20260323-18h.py) |
+| 2930 | 2026-03-23 19:13:54 | Mistral: Mistral Small 4 | ✅ | [warehouse/can_2930_20260323-19h.py](warehouse/can_2930_20260323-19h.py) |
