@@ -3007,3 +3007,4 @@ If you need permission, you're thinking too much.
 | 2917 | 2026-03-22 23:44:01 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2917_20260322-23h.py](warehouse/can_2917_20260322-23h.py) |
 | 2918 | 2026-03-23 03:24:17 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2918_20260323-03h.py](warehouse/can_2918_20260323-03h.py) |
 | 2919 | 2026-03-23 05:47:13 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2919_20260323-05h.py](warehouse/can_2919_20260323-05h.py) |
+| 2920 | 2026-03-23 07:39:31 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_2920_20260323-07h.py](warehouse/can_2920_20260323-07h.py) |
