@@ -3037,3 +3037,4 @@ If you need permission, you're thinking too much.
 | 2947 | 2026-03-24 18:09:41 | Nous: Hermes 3 405B Instruct | ✅ | [warehouse/can_2947_20260324-18h.py](warehouse/can_2947_20260324-18h.py) |
 | 2948 | 2026-03-24 19:30:04 | Qwen: Qwen3 Next 80B A3B Thinking | ✅ | [warehouse/can_2948_20260324-19h.py](warehouse/can_2948_20260324-19h.py) |
 | 2949 | 2026-03-24 20:58:13 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_2949_20260324-20h.py](warehouse/can_2949_20260324-20h.py) |
+| 2950 | 2026-03-24 21:52:54 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2950_20260324-21h.py](warehouse/can_2950_20260324-21h.py) |
