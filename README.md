@@ -3039,3 +3039,4 @@ If you need permission, you're thinking too much.
 | 2949 | 2026-03-24 20:58:13 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_2949_20260324-20h.py](warehouse/can_2949_20260324-20h.py) |
 | 2950 | 2026-03-24 21:52:54 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2950_20260324-21h.py](warehouse/can_2950_20260324-21h.py) |
 | 2951 | 2026-03-24 22:50:11 | Free Models Router | ✅ | [warehouse/can_2951_20260324-22h.py](warehouse/can_2951_20260324-22h.py) |
+| 2952 | 2026-03-24 23:46:43 | Inception: Mercury Coder | ✅ | [warehouse/can_2952_20260324-23h.py](warehouse/can_2952_20260324-23h.py) |
