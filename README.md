@@ -3024,3 +3024,4 @@ If you need permission, you're thinking too much.
 | 2934 | 2026-03-23 22:51:46 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2934_20260323-22h.py](warehouse/can_2934_20260323-22h.py) |
 | 2935 | 2026-03-23 23:47:55 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2935_20260323-23h.py](warehouse/can_2935_20260323-23h.py) |
 | 2936 | 2026-03-24 03:13:24 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2936_20260324-03h.py](warehouse/can_2936_20260324-03h.py) |
+| 2937 | 2026-03-24 05:05:00 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2937_20260324-05h.py](warehouse/can_2937_20260324-05h.py) |
