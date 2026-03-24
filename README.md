@@ -3035,3 +3035,4 @@ If you need permission, you're thinking too much.
 | 2945 | 2026-03-24 15:20:28 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2945_20260324-15h.py](warehouse/can_2945_20260324-15h.py) |
 | 2946 | 2026-03-24 17:14:16 | ByteDance Seed: Seed 1.6 Flash | ❌ (broken) | [warehouse/can_2946_20260324-17h.py](warehouse/can_2946_20260324-17h.py) |
 | 2947 | 2026-03-24 18:09:41 | Nous: Hermes 3 405B Instruct | ✅ | [warehouse/can_2947_20260324-18h.py](warehouse/can_2947_20260324-18h.py) |
+| 2948 | 2026-03-24 19:30:04 | Qwen: Qwen3 Next 80B A3B Thinking | ✅ | [warehouse/can_2948_20260324-19h.py](warehouse/can_2948_20260324-19h.py) |
