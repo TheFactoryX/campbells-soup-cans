@@ -3031,3 +3031,4 @@ If you need permission, you're thinking too much.
 | 2941 | 2026-03-24 10:09:39 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2941_20260324-10h.py](warehouse/can_2941_20260324-10h.py) |
 | 2942 | 2026-03-24 11:10:05 | NVIDIA: Nemotron 3 Super (free) | ❌ (broken, missing print) | [warehouse/can_2942_20260324-11h.py](warehouse/can_2942_20260324-11h.py) |
 | 2943 | 2026-03-24 11:57:22 | Mistral: Mixtral 8x7B Instruct | ✅ | [warehouse/can_2943_20260324-11h.py](warehouse/can_2943_20260324-11h.py) |
+| 2944 | 2026-03-24 13:51:27 | Mistral: Devstral Small 1.1 | ❌ (broken, missing print) | [warehouse/can_2944_20260324-13h.py](warehouse/can_2944_20260324-13h.py) |
