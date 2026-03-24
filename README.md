@@ -3026,3 +3026,4 @@ If you need permission, you're thinking too much.
 | 2936 | 2026-03-24 03:13:24 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_2936_20260324-03h.py](warehouse/can_2936_20260324-03h.py) |
 | 2937 | 2026-03-24 05:05:00 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2937_20260324-05h.py](warehouse/can_2937_20260324-05h.py) |
 | 2938 | 2026-03-24 06:14:01 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2938_20260324-06h.py](warehouse/can_2938_20260324-06h.py) |
+| 2939 | 2026-03-24 07:31:14 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (empty, missing print) | [warehouse/can_2939_20260324-07h.py](warehouse/can_2939_20260324-07h.py) |
