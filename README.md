@@ -3028,3 +3028,4 @@ If you need permission, you're thinking too much.
 | 2938 | 2026-03-24 06:14:01 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2938_20260324-06h.py](warehouse/can_2938_20260324-06h.py) |
 | 2939 | 2026-03-24 07:31:14 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (empty, missing print) | [warehouse/can_2939_20260324-07h.py](warehouse/can_2939_20260324-07h.py) |
 | 2940 | 2026-03-24 09:09:19 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2940_20260324-09h.py](warehouse/can_2940_20260324-09h.py) |
+| 2941 | 2026-03-24 10:09:39 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2941_20260324-10h.py](warehouse/can_2941_20260324-10h.py) |
