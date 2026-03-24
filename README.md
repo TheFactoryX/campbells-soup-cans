@@ -3033,3 +3033,4 @@ If you need permission, you're thinking too much.
 | 2943 | 2026-03-24 11:57:22 | Mistral: Mixtral 8x7B Instruct | ✅ | [warehouse/can_2943_20260324-11h.py](warehouse/can_2943_20260324-11h.py) |
 | 2944 | 2026-03-24 13:51:27 | Mistral: Devstral Small 1.1 | ❌ (broken, missing print) | [warehouse/can_2944_20260324-13h.py](warehouse/can_2944_20260324-13h.py) |
 | 2945 | 2026-03-24 15:20:28 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2945_20260324-15h.py](warehouse/can_2945_20260324-15h.py) |
+| 2946 | 2026-03-24 17:14:16 | ByteDance Seed: Seed 1.6 Flash | ❌ (broken) | [warehouse/can_2946_20260324-17h.py](warehouse/can_2946_20260324-17h.py) |
