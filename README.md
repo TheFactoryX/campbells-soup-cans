@@ -3045,3 +3045,4 @@ If you need permission, you're thinking too much.
 | 2955 | 2026-03-25 07:18:13 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2955_20260325-07h.py](warehouse/can_2955_20260325-07h.py) |
 | 2956 | 2026-03-25 09:08:54 | NVIDIA: Nemotron 3 Super (free) | ❌ (broken) | [warehouse/can_2956_20260325-09h.py](warehouse/can_2956_20260325-09h.py) |
 | 2957 | 2026-03-25 10:09:25 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_2957_20260325-10h.py](warehouse/can_2957_20260325-10h.py) |
+| 2958 | 2026-03-25 11:08:09 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_2958_20260325-11h.py](warehouse/can_2958_20260325-11h.py) |
