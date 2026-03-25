@@ -3054,3 +3054,4 @@ If you need permission, you're thinking too much.
 | 2964 | 2026-03-25 19:54:30 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2964_20260325-19h.py](warehouse/can_2964_20260325-19h.py) |
 | 2965 | 2026-03-25 20:55:42 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_2965_20260325-20h.py](warehouse/can_2965_20260325-20h.py) |
 | 2966 | 2026-03-25 21:53:44 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_2966_20260325-21h.py](warehouse/can_2966_20260325-21h.py) |
+| 2967 | 2026-03-25 22:56:49 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2967_20260325-22h.py](warehouse/can_2967_20260325-22h.py) |
