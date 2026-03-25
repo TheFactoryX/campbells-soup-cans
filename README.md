@@ -3042,3 +3042,4 @@ If you need permission, you're thinking too much.
 | 2952 | 2026-03-24 23:46:43 | Inception: Mercury Coder | ✅ | [warehouse/can_2952_20260324-23h.py](warehouse/can_2952_20260324-23h.py) |
 | 2953 | 2026-03-25 03:18:55 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_2953_20260325-03h.py](warehouse/can_2953_20260325-03h.py) |
 | 2954 | 2026-03-25 05:38:48 | Sao10K: Llama 3.3 Euryale 70B | ✅ | [warehouse/can_2954_20260325-05h.py](warehouse/can_2954_20260325-05h.py) |
+| 2955 | 2026-03-25 07:18:13 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_2955_20260325-07h.py](warehouse/can_2955_20260325-07h.py) |
