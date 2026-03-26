@@ -3061,3 +3061,4 @@ If you need permission, you're thinking too much.
 | 2971 | 2026-03-26 07:36:11 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2971_20260326-07h.py](warehouse/can_2971_20260326-07h.py) |
 | 2972 | 2026-03-26 09:13:41 | Qwen: Qwen3 VL 235B A22B Instruct | ❌ (broken) | [warehouse/can_2972_20260326-09h.py](warehouse/can_2972_20260326-09h.py) |
 | 2973 | 2026-03-26 10:13:05 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_2973_20260326-10h.py](warehouse/can_2973_20260326-10h.py) |
+| 2974 | 2026-03-26 11:12:39 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2974_20260326-11h.py](warehouse/can_2974_20260326-11h.py) |
