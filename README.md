@@ -3068,3 +3068,4 @@ If you need permission, you're thinking too much.
 | 2978 | 2026-03-26 17:18:38 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_2978_20260326-17h.py](warehouse/can_2978_20260326-17h.py) |
 | 2979 | 2026-03-26 19:32:08 | Free Models Router | ✅ | [warehouse/can_2979_20260326-19h.py](warehouse/can_2979_20260326-19h.py) |
 | 2980 | 2026-03-26 20:55:19 | NVIDIA: Nemotron 3 Nano 30B A3B | ✅ | [warehouse/can_2980_20260326-20h.py](warehouse/can_2980_20260326-20h.py) |
+| 2981 | 2026-03-26 21:45:28 | Free Models Router | ❌ (broken) | [warehouse/can_2981_20260326-21h.py](warehouse/can_2981_20260326-21h.py) |
