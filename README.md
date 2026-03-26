@@ -3059,3 +3059,4 @@ If you need permission, you're thinking too much.
 | 2969 | 2026-03-26 03:27:53 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2969_20260326-03h.py](warehouse/can_2969_20260326-03h.py) |
 | 2970 | 2026-03-26 05:49:45 | OpenAI: GPT-4 (older v0314) | ✅ | [warehouse/can_2970_20260326-05h.py](warehouse/can_2970_20260326-05h.py) |
 | 2971 | 2026-03-26 07:36:11 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_2971_20260326-07h.py](warehouse/can_2971_20260326-07h.py) |
+| 2972 | 2026-03-26 09:13:41 | Qwen: Qwen3 VL 235B A22B Instruct | ❌ (broken) | [warehouse/can_2972_20260326-09h.py](warehouse/can_2972_20260326-09h.py) |
