@@ -3070,3 +3070,4 @@ If you need permission, you're thinking too much.
 | 2980 | 2026-03-26 20:55:19 | NVIDIA: Nemotron 3 Nano 30B A3B | ✅ | [warehouse/can_2980_20260326-20h.py](warehouse/can_2980_20260326-20h.py) |
 | 2981 | 2026-03-26 21:45:28 | Free Models Router | ❌ (broken) | [warehouse/can_2981_20260326-21h.py](warehouse/can_2981_20260326-21h.py) |
 | 2982 | 2026-03-26 22:50:22 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2982_20260326-22h.py](warehouse/can_2982_20260326-22h.py) |
+| 2983 | 2026-03-26 23:48:17 | MythoMax 13B | ❌ (broken, missing print) | [warehouse/can_2983_20260326-23h.py](warehouse/can_2983_20260326-23h.py) |
