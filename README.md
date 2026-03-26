@@ -3057,3 +3057,4 @@ If you need permission, you're thinking too much.
 | 2967 | 2026-03-25 22:56:49 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2967_20260325-22h.py](warehouse/can_2967_20260325-22h.py) |
 | 2968 | 2026-03-25 23:50:50 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2968_20260325-23h.py](warehouse/can_2968_20260325-23h.py) |
 | 2969 | 2026-03-26 03:27:53 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2969_20260326-03h.py](warehouse/can_2969_20260326-03h.py) |
+| 2970 | 2026-03-26 05:49:45 | OpenAI: GPT-4 (older v0314) | ✅ | [warehouse/can_2970_20260326-05h.py](warehouse/can_2970_20260326-05h.py) |
