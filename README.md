@@ -3064,3 +3064,4 @@ If you need permission, you're thinking too much.
 | 2974 | 2026-03-26 11:12:39 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2974_20260326-11h.py](warehouse/can_2974_20260326-11h.py) |
 | 2975 | 2026-03-26 12:00:52 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_2975_20260326-12h.py](warehouse/can_2975_20260326-12h.py) |
 | 2976 | 2026-03-26 13:58:51 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2976_20260326-13h.py](warehouse/can_2976_20260326-13h.py) |
+| 2977 | 2026-03-26 15:47:34 | Sao10K: Llama 3.1 70B Hanami x1 | ❌ (broken) | [warehouse/can_2977_20260326-15h.py](warehouse/can_2977_20260326-15h.py) |
