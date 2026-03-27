@@ -3084,3 +3084,4 @@ If you need permission, you're thinking too much.
 | 2994 | 2026-03-27 17:10:56 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_2994_20260327-17h.py](warehouse/can_2994_20260327-17h.py) |
 | 2995 | 2026-03-27 18:04:30 | Perplexity: Sonar | ❌ (broken) | [warehouse/can_2995_20260327-18h.py](warehouse/can_2995_20260327-18h.py) |
 | 2996 | 2026-03-27 19:11:43 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2996_20260327-19h.py](warehouse/can_2996_20260327-19h.py) |
+| 2997 | 2026-03-27 19:51:51 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_2997_20260327-19h.py](warehouse/can_2997_20260327-19h.py) |
