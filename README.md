@@ -3075,3 +3075,4 @@ If you need permission, you're thinking too much.
 | 2985 | 2026-03-27 05:50:42 | MiniMax: MiniMax M2.7 | ✅ | [warehouse/can_2985_20260327-05h.py](warehouse/can_2985_20260327-05h.py) |
 | 2986 | 2026-03-27 07:35:13 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2986_20260327-07h.py](warehouse/can_2986_20260327-07h.py) |
 | 2987 | 2026-03-27 09:08:14 | Qwen: Qwen Plus 0728 | ✅ | [warehouse/can_2987_20260327-09h.py](warehouse/can_2987_20260327-09h.py) |
+| 2988 | 2026-03-27 10:06:47 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_2988_20260327-10h.py](warehouse/can_2988_20260327-10h.py) |
