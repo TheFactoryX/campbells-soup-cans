@@ -3074,3 +3074,4 @@ If you need permission, you're thinking too much.
 | 2984 | 2026-03-27 03:29:39 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_2984_20260327-03h.py](warehouse/can_2984_20260327-03h.py) |
 | 2985 | 2026-03-27 05:50:42 | MiniMax: MiniMax M2.7 | ✅ | [warehouse/can_2985_20260327-05h.py](warehouse/can_2985_20260327-05h.py) |
 | 2986 | 2026-03-27 07:35:13 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_2986_20260327-07h.py](warehouse/can_2986_20260327-07h.py) |
+| 2987 | 2026-03-27 09:08:14 | Qwen: Qwen Plus 0728 | ✅ | [warehouse/can_2987_20260327-09h.py](warehouse/can_2987_20260327-09h.py) |
