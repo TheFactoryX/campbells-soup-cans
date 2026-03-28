@@ -3107,3 +3107,4 @@ If you need permission, you're thinking too much.
 | 3017 | 2026-03-28 20:48:37 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3017_20260328-20h.py](warehouse/can_3017_20260328-20h.py) |
 | 3018 | 2026-03-28 21:44:59 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_3018_20260328-21h.py](warehouse/can_3018_20260328-21h.py) |
 | 3019 | 2026-03-28 22:48:31 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3019_20260328-22h.py](warehouse/can_3019_20260328-22h.py) |
+| 3020 | 2026-03-28 23:46:31 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (missing print) | [warehouse/can_3020_20260328-23h.py](warehouse/can_3020_20260328-23h.py) |
