@@ -3097,3 +3097,4 @@ If you need permission, you're thinking too much.
 | 3007 | 2026-03-28 09:52:52 | OpenAI: GPT-5 | ✅ | [warehouse/can_3007_20260328-09h.py](warehouse/can_3007_20260328-09h.py) |
 | 3008 | 2026-03-28 10:50:57 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_3008_20260328-10h.py](warehouse/can_3008_20260328-10h.py) |
 | 3009 | 2026-03-28 11:41:45 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3009_20260328-11h.py](warehouse/can_3009_20260328-11h.py) |
+| 3010 | 2026-03-28 13:19:02 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_3010_20260328-13h.py](warehouse/can_3010_20260328-13h.py) |
