@@ -3104,3 +3104,4 @@ If you need permission, you're thinking too much.
 | 3014 | 2026-03-28 17:46:43 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_3014_20260328-17h.py](warehouse/can_3014_20260328-17h.py) |
 | 3015 | 2026-03-28 19:01:55 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_3015_20260328-19h.py](warehouse/can_3015_20260328-19h.py) |
 | 3016 | 2026-03-28 19:45:14 | Anthropic: Claude Opus 4.1 | ❌ (broken) | [warehouse/can_3016_20260328-19h.py](warehouse/can_3016_20260328-19h.py) |
+| 3017 | 2026-03-28 20:48:37 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3017_20260328-20h.py](warehouse/can_3017_20260328-20h.py) |
