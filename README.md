@@ -3094,3 +3094,4 @@ If you need permission, you're thinking too much.
 | 3004 | 2026-03-28 07:14:34 | DeepSeek: R1 Distill Llama 70B | ✅ | [warehouse/can_3004_20260328-07h.py](warehouse/can_3004_20260328-07h.py) |
 | 3005 | 2026-03-28 07:55:01 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_3005_20260328-07h.py](warehouse/can_3005_20260328-07h.py) |
 | 3006 | 2026-03-28 08:58:17 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3006_20260328-08h.py](warehouse/can_3006_20260328-08h.py) |
+| 3007 | 2026-03-28 09:52:52 | OpenAI: GPT-5 | ✅ | [warehouse/can_3007_20260328-09h.py](warehouse/can_3007_20260328-09h.py) |
