@@ -3099,3 +3099,4 @@ If you need permission, you're thinking too much.
 | 3009 | 2026-03-28 11:41:45 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3009_20260328-11h.py](warehouse/can_3009_20260328-11h.py) |
 | 3010 | 2026-03-28 13:19:02 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_3010_20260328-13h.py](warehouse/can_3010_20260328-13h.py) |
 | 3011 | 2026-03-28 14:51:12 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3011_20260328-14h.py](warehouse/can_3011_20260328-14h.py) |
+| 3012 | 2026-03-28 15:46:51 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3012_20260328-15h.py](warehouse/can_3012_20260328-15h.py) |
