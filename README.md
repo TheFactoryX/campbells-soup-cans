@@ -3120,3 +3120,4 @@ If you need permission, you're thinking too much.
 | 3030 | 2026-03-29 15:46:40 | Arcee AI: Trinity Large Preview (free) | ❌ (broken, missing print) | [warehouse/can_3030_20260329-15h.py](warehouse/can_3030_20260329-15h.py) |
 | 3031 | 2026-03-29 16:52:26 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3031_20260329-16h.py](warehouse/can_3031_20260329-16h.py) |
 | 3032 | 2026-03-29 17:48:12 | Free Models Router | ❌ (broken, missing print) | [warehouse/can_3032_20260329-17h.py](warehouse/can_3032_20260329-17h.py) |
+| 3033 | 2026-03-29 19:02:41 | OpenAI: GPT-5.4 | ✅ | [warehouse/can_3033_20260329-19h.py](warehouse/can_3033_20260329-19h.py) |
