@@ -3118,3 +3118,4 @@ If you need permission, you're thinking too much.
 | 3028 | 2026-03-29 13:20:05 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3028_20260329-13h.py](warehouse/can_3028_20260329-13h.py) |
 | 3029 | 2026-03-29 14:53:05 | Free Models Router | ✅ | [warehouse/can_3029_20260329-14h.py](warehouse/can_3029_20260329-14h.py) |
 | 3030 | 2026-03-29 15:46:40 | Arcee AI: Trinity Large Preview (free) | ❌ (broken, missing print) | [warehouse/can_3030_20260329-15h.py](warehouse/can_3030_20260329-15h.py) |
+| 3031 | 2026-03-29 16:52:26 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3031_20260329-16h.py](warehouse/can_3031_20260329-16h.py) |
