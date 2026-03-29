@@ -3124,3 +3124,4 @@ If you need permission, you're thinking too much.
 | 3034 | 2026-03-29 19:47:06 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3034_20260329-19h.py](warehouse/can_3034_20260329-19h.py) |
 | 3035 | 2026-03-29 20:50:07 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3035_20260329-20h.py](warehouse/can_3035_20260329-20h.py) |
 | 3036 | 2026-03-29 21:47:29 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_3036_20260329-21h.py](warehouse/can_3036_20260329-21h.py) |
+| 3037 | 2026-03-29 22:50:53 | NVIDIA: Nemotron 3 Super (free) | ❌ (broken) | [warehouse/can_3037_20260329-22h.py](warehouse/can_3037_20260329-22h.py) |
