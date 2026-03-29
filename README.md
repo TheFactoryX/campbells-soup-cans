@@ -3115,3 +3115,4 @@ If you need permission, you're thinking too much.
 | 3025 | 2026-03-29 09:53:45 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken, missing print) | [warehouse/can_3025_20260329-09h.py](warehouse/can_3025_20260329-09h.py) |
 | 3026 | 2026-03-29 10:53:36 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_3026_20260329-10h.py](warehouse/can_3026_20260329-10h.py) |
 | 3027 | 2026-03-29 11:43:53 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3027_20260329-11h.py](warehouse/can_3027_20260329-11h.py) |
+| 3028 | 2026-03-29 13:20:05 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3028_20260329-13h.py](warehouse/can_3028_20260329-13h.py) |
