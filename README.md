@@ -3139,3 +3139,4 @@ If you need permission, you're thinking too much.
 | 3049 | 2026-03-30 21:02:12 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken) | [warehouse/can_3049_20260330-21h.py](warehouse/can_3049_20260330-21h.py) |
 | 3050 | 2026-03-30 22:00:12 | Meta: Llama 4 Scout | ❌ (broken) | [warehouse/can_3050_20260330-22h.py](warehouse/can_3050_20260330-22h.py) |
 | 3051 | 2026-03-30 22:56:08 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3051_20260330-22h.py](warehouse/can_3051_20260330-22h.py) |
+| 3052 | 2026-03-30 23:51:57 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3052_20260330-23h.py](warehouse/can_3052_20260330-23h.py) |
