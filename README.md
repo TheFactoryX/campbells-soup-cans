@@ -3129,3 +3129,4 @@ If you need permission, you're thinking too much.
 | 3039 | 2026-03-30 03:42:40 | NVIDIA: Nemotron 3 Super (free) | ❌ (broken) | [warehouse/can_3039_20260330-03h.py](warehouse/can_3039_20260330-03h.py) |
 | 3040 | 2026-03-30 06:07:25 | Qwen: Qwen3 VL 235B A22B Thinking | ✅ | [warehouse/can_3040_20260330-06h.py](warehouse/can_3040_20260330-06h.py) |
 | 3041 | 2026-03-30 08:01:19 | Arcee AI: Trinity Large Preview (free) | ❌ (broken) | [warehouse/can_3041_20260330-08h.py](warehouse/can_3041_20260330-08h.py) |
+| 3042 | 2026-03-30 09:47:41 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3042_20260330-09h.py](warehouse/can_3042_20260330-09h.py) |
