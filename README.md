@@ -3133,3 +3133,4 @@ If you need permission, you're thinking too much.
 | 3043 | 2026-03-30 11:18:34 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3043_20260330-11h.py](warehouse/can_3043_20260330-11h.py) |
 | 3044 | 2026-03-30 14:02:42 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_3044_20260330-14h.py](warehouse/can_3044_20260330-14h.py) |
 | 3045 | 2026-03-30 15:41:34 | Free Models Router | ✅ | [warehouse/can_3045_20260330-15h.py](warehouse/can_3045_20260330-15h.py) |
+| 3046 | 2026-03-30 17:13:27 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3046_20260330-17h.py](warehouse/can_3046_20260330-17h.py) |
