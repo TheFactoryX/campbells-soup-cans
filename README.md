@@ -3147,3 +3147,4 @@ If you need permission, you're thinking too much.
 | 3057 | 2026-03-31 11:10:55 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3057_20260331-11h.py](warehouse/can_3057_20260331-11h.py) |
 | 3058 | 2026-03-31 12:00:31 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3058_20260331-12h.py](warehouse/can_3058_20260331-12h.py) |
 | 3059 | 2026-03-31 14:02:05 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3059_20260331-14h.py](warehouse/can_3059_20260331-14h.py) |
+| 3060 | 2026-03-31 15:36:07 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3060_20260331-15h.py](warehouse/can_3060_20260331-15h.py) |
