@@ -3150,3 +3150,4 @@ If you need permission, you're thinking too much.
 | 3060 | 2026-03-31 15:36:07 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3060_20260331-15h.py](warehouse/can_3060_20260331-15h.py) |
 | 3061 | 2026-03-31 17:13:53 | Mistral: Codestral 2508 | ✅ | [warehouse/can_3061_20260331-17h.py](warehouse/can_3061_20260331-17h.py) |
 | 3062 | 2026-03-31 18:08:34 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3062_20260331-18h.py](warehouse/can_3062_20260331-18h.py) |
+| 3063 | 2026-03-31 19:19:32 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_3063_20260331-19h.py](warehouse/can_3063_20260331-19h.py) |
