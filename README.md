@@ -3140,3 +3140,4 @@ If you need permission, you're thinking too much.
 | 3050 | 2026-03-30 22:00:12 | Meta: Llama 4 Scout | ❌ (broken) | [warehouse/can_3050_20260330-22h.py](warehouse/can_3050_20260330-22h.py) |
 | 3051 | 2026-03-30 22:56:08 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3051_20260330-22h.py](warehouse/can_3051_20260330-22h.py) |
 | 3052 | 2026-03-30 23:51:57 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3052_20260330-23h.py](warehouse/can_3052_20260330-23h.py) |
+| 3053 | 2026-03-31 03:29:49 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_3053_20260331-03h.py](warehouse/can_3053_20260331-03h.py) |
