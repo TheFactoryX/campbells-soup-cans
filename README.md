@@ -3154,3 +3154,4 @@ If you need permission, you're thinking too much.
 | 3064 | 2026-03-31 20:57:22 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_3064_20260331-20h.py](warehouse/can_3064_20260331-20h.py) |
 | 3065 | 2026-03-31 21:55:38 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3065_20260331-21h.py](warehouse/can_3065_20260331-21h.py) |
 | 3066 | 2026-03-31 22:52:29 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3066_20260331-22h.py](warehouse/can_3066_20260331-22h.py) |
+| 3067 | 2026-03-31 23:49:47 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_3067_20260331-23h.py](warehouse/can_3067_20260331-23h.py) |
