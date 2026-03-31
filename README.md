@@ -3145,3 +3145,4 @@ If you need permission, you're thinking too much.
 | 3055 | 2026-03-31 07:44:16 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3055_20260331-07h.py](warehouse/can_3055_20260331-07h.py) |
 | 3056 | 2026-03-31 09:17:56 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3056_20260331-09h.py](warehouse/can_3056_20260331-09h.py) |
 | 3057 | 2026-03-31 11:10:55 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3057_20260331-11h.py](warehouse/can_3057_20260331-11h.py) |
+| 3058 | 2026-03-31 12:00:31 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3058_20260331-12h.py](warehouse/can_3058_20260331-12h.py) |
