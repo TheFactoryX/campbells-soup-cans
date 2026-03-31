@@ -3149,3 +3149,4 @@ If you need permission, you're thinking too much.
 | 3059 | 2026-03-31 14:02:05 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3059_20260331-14h.py](warehouse/can_3059_20260331-14h.py) |
 | 3060 | 2026-03-31 15:36:07 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3060_20260331-15h.py](warehouse/can_3060_20260331-15h.py) |
 | 3061 | 2026-03-31 17:13:53 | Mistral: Codestral 2508 | ✅ | [warehouse/can_3061_20260331-17h.py](warehouse/can_3061_20260331-17h.py) |
+| 3062 | 2026-03-31 18:08:34 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3062_20260331-18h.py](warehouse/can_3062_20260331-18h.py) |
