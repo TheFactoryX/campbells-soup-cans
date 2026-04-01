@@ -3162,3 +3162,4 @@ If you need permission, you're thinking too much.
 | 3072 | 2026-04-01 11:13:25 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3072_20260401-11h.py](warehouse/can_3072_20260401-11h.py) |
 | 3073 | 2026-04-01 12:02:22 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3073_20260401-12h.py](warehouse/can_3073_20260401-12h.py) |
 | 3074 | 2026-04-01 14:04:48 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_3074_20260401-14h.py](warehouse/can_3074_20260401-14h.py) |
+| 3075 | 2026-04-01 15:42:00 | Qwen: Qwen3.6 Plus Preview (free) | ✅ | [warehouse/can_3075_20260401-15h.py](warehouse/can_3075_20260401-15h.py) |
