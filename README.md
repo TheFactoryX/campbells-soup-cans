@@ -3160,3 +3160,4 @@ If you need permission, you're thinking too much.
 | 3070 | 2026-04-01 07:54:24 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken) | [warehouse/can_3070_20260401-07h.py](warehouse/can_3070_20260401-07h.py) |
 | 3071 | 2026-04-01 09:35:50 | OpenAI: GPT-3.5 Turbo | ✅ | [warehouse/can_3071_20260401-09h.py](warehouse/can_3071_20260401-09h.py) |
 | 3072 | 2026-04-01 11:13:25 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3072_20260401-11h.py](warehouse/can_3072_20260401-11h.py) |
+| 3073 | 2026-04-01 12:02:22 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3073_20260401-12h.py](warehouse/can_3073_20260401-12h.py) |
