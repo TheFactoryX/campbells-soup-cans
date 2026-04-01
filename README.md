@@ -3165,3 +3165,4 @@ If you need permission, you're thinking too much.
 | 3075 | 2026-04-01 15:42:00 | Qwen: Qwen3.6 Plus Preview (free) | ✅ | [warehouse/can_3075_20260401-15h.py](warehouse/can_3075_20260401-15h.py) |
 | 3076 | 2026-04-01 17:11:18 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_3076_20260401-17h.py](warehouse/can_3076_20260401-17h.py) |
 | 3077 | 2026-04-01 18:03:58 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3077_20260401-18h.py](warehouse/can_3077_20260401-18h.py) |
+| 3078 | 2026-04-01 19:32:02 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_3078_20260401-19h.py](warehouse/can_3078_20260401-19h.py) |
