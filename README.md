@@ -3168,3 +3168,4 @@ If you need permission, you're thinking too much.
 | 3078 | 2026-04-01 19:32:02 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_3078_20260401-19h.py](warehouse/can_3078_20260401-19h.py) |
 | 3079 | 2026-04-01 21:01:29 | OpenAI: GPT-3.5 Turbo 16k | ✅ | [warehouse/can_3079_20260401-21h.py](warehouse/can_3079_20260401-21h.py) |
 | 3080 | 2026-04-01 21:58:41 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3080_20260401-21h.py](warehouse/can_3080_20260401-21h.py) |
+| 3081 | 2026-04-01 22:57:38 | Google: Nano Banana Pro (Gemini 3 Pro Image Preview) | ✅ | [warehouse/can_3081_20260401-22h.py](warehouse/can_3081_20260401-22h.py) |
