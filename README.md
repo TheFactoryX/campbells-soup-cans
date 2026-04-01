@@ -3158,3 +3158,4 @@ If you need permission, you're thinking too much.
 | 3068 | 2026-04-01 03:45:33 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3068_20260401-03h.py](warehouse/can_3068_20260401-03h.py) |
 | 3069 | 2026-04-01 06:03:40 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3069_20260401-06h.py](warehouse/can_3069_20260401-06h.py) |
 | 3070 | 2026-04-01 07:54:24 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken) | [warehouse/can_3070_20260401-07h.py](warehouse/can_3070_20260401-07h.py) |
+| 3071 | 2026-04-01 09:35:50 | OpenAI: GPT-3.5 Turbo | ✅ | [warehouse/can_3071_20260401-09h.py](warehouse/can_3071_20260401-09h.py) |
