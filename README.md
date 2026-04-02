@@ -3182,3 +3182,4 @@ If you need permission, you're thinking too much.
 | 3092 | 2026-04-02 16:13:53 | Free Models Router | ❌ (empty, missing print) | [warehouse/can_3092_20260402-16h.py](warehouse/can_3092_20260402-16h.py) |
 | 3093 | 2026-04-02 17:10:56 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_3093_20260402-17h.py](warehouse/can_3093_20260402-17h.py) |
 | 3094 | 2026-04-02 18:01:29 | Z.ai: GLM 5 | ✅ | [warehouse/can_3094_20260402-18h.py](warehouse/can_3094_20260402-18h.py) |
+| 3095 | 2026-04-02 19:15:39 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3095_20260402-19h.py](warehouse/can_3095_20260402-19h.py) |
