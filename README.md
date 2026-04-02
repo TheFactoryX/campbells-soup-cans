@@ -3177,3 +3177,4 @@ If you need permission, you're thinking too much.
 | 3087 | 2026-04-02 10:13:21 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3087_20260402-10h.py](warehouse/can_3087_20260402-10h.py) |
 | 3088 | 2026-04-02 11:10:42 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3088_20260402-11h.py](warehouse/can_3088_20260402-11h.py) |
 | 3089 | 2026-04-02 11:58:03 | Qwen: Qwen2.5 Coder 7B Instruct | ✅ | [warehouse/can_3089_20260402-11h.py](warehouse/can_3089_20260402-11h.py) |
+| 3090 | 2026-04-02 13:57:14 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3090_20260402-13h.py](warehouse/can_3090_20260402-13h.py) |
