@@ -3180,3 +3180,4 @@ If you need permission, you're thinking too much.
 | 3090 | 2026-04-02 13:57:14 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3090_20260402-13h.py](warehouse/can_3090_20260402-13h.py) |
 | 3091 | 2026-04-02 15:18:12 | Kwaipilot: KAT-Coder-Pro V2 | ✅ | [warehouse/can_3091_20260402-15h.py](warehouse/can_3091_20260402-15h.py) |
 | 3092 | 2026-04-02 16:13:53 | Free Models Router | ❌ (empty, missing print) | [warehouse/can_3092_20260402-16h.py](warehouse/can_3092_20260402-16h.py) |
+| 3093 | 2026-04-02 17:10:56 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_3093_20260402-17h.py](warehouse/can_3093_20260402-17h.py) |
