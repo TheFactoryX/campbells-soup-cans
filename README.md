@@ -3173,3 +3173,4 @@ If you need permission, you're thinking too much.
 | 3083 | 2026-04-02 03:26:39 | Inception: Mercury | ✅ | [warehouse/can_3083_20260402-03h.py](warehouse/can_3083_20260402-03h.py) |
 | 3084 | 2026-04-02 05:49:49 | Free Models Router | ❌ (empty, missing print) | [warehouse/can_3084_20260402-05h.py](warehouse/can_3084_20260402-05h.py) |
 | 3085 | 2026-04-02 07:41:31 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3085_20260402-07h.py](warehouse/can_3085_20260402-07h.py) |
+| 3086 | 2026-04-02 09:15:01 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3086_20260402-09h.py](warehouse/can_3086_20260402-09h.py) |
