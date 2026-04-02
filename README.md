@@ -3186,3 +3186,4 @@ If you need permission, you're thinking too much.
 | 3096 | 2026-04-02 19:58:59 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3096_20260402-19h.py](warehouse/can_3096_20260402-19h.py) |
 | 3097 | 2026-04-02 20:54:52 | Qwen2.5 Coder 32B Instruct | ❌ (broken, missing print) | [warehouse/can_3097_20260402-20h.py](warehouse/can_3097_20260402-20h.py) |
 | 3098 | 2026-04-02 21:52:39 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken, missing print) | [warehouse/can_3098_20260402-21h.py](warehouse/can_3098_20260402-21h.py) |
+| 3099 | 2026-04-02 22:51:45 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3099_20260402-22h.py](warehouse/can_3099_20260402-22h.py) |
