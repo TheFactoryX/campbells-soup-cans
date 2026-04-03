@@ -3202,3 +3202,4 @@ If you need permission, you're thinking too much.
 | 3112 | 2026-04-03 17:52:16 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3112_20260403-17h.py](warehouse/can_3112_20260403-17h.py) |
 | 3113 | 2026-04-03 19:05:37 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3113_20260403-19h.py](warehouse/can_3113_20260403-19h.py) |
 | 3114 | 2026-04-03 19:53:29 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3114_20260403-19h.py](warehouse/can_3114_20260403-19h.py) |
+| 3115 | 2026-04-03 20:53:40 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3115_20260403-20h.py](warehouse/can_3115_20260403-20h.py) |
