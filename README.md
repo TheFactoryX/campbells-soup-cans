@@ -3191,3 +3191,4 @@ If you need permission, you're thinking too much.
 | 3101 | 2026-04-03 03:28:04 | Z.ai: GLM 4.5 Air (free) | ❌ (empty, missing print) | [warehouse/can_3101_20260403-03h.py](warehouse/can_3101_20260403-03h.py) |
 | 3102 | 2026-04-03 05:50:05 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3102_20260403-05h.py](warehouse/can_3102_20260403-05h.py) |
 | 3103 | 2026-04-03 07:37:05 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_3103_20260403-07h.py](warehouse/can_3103_20260403-07h.py) |
+| 3104 | 2026-04-03 09:09:32 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3104_20260403-09h.py](warehouse/can_3104_20260403-09h.py) |
