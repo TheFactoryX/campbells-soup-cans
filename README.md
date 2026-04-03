@@ -3203,3 +3203,4 @@ If you need permission, you're thinking too much.
 | 3113 | 2026-04-03 19:05:37 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3113_20260403-19h.py](warehouse/can_3113_20260403-19h.py) |
 | 3114 | 2026-04-03 19:53:29 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3114_20260403-19h.py](warehouse/can_3114_20260403-19h.py) |
 | 3115 | 2026-04-03 20:53:40 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3115_20260403-20h.py](warehouse/can_3115_20260403-20h.py) |
+| 3116 | 2026-04-03 21:49:23 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3116_20260403-21h.py](warehouse/can_3116_20260403-21h.py) |
