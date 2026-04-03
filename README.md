@@ -3198,3 +3198,4 @@ If you need permission, you're thinking too much.
 | 3108 | 2026-04-03 13:38:32 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3108_20260403-13h.py](warehouse/can_3108_20260403-13h.py) |
 | 3109 | 2026-04-03 15:02:19 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3109_20260403-15h.py](warehouse/can_3109_20260403-15h.py) |
 | 3110 | 2026-04-03 15:53:57 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3110_20260403-15h.py](warehouse/can_3110_20260403-15h.py) |
+| 3111 | 2026-04-03 16:57:15 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_3111_20260403-16h.py](warehouse/can_3111_20260403-16h.py) |
