@@ -3208,3 +3208,4 @@ If you need permission, you're thinking too much.
 | 3118 | 2026-04-03 23:49:06 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3118_20260403-23h.py](warehouse/can_3118_20260403-23h.py) |
 | 3119 | 2026-04-04 03:15:51 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3119_20260404-03h.py](warehouse/can_3119_20260404-03h.py) |
 | 3120 | 2026-04-04 05:04:04 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_3120_20260404-05h.py](warehouse/can_3120_20260404-05h.py) |
+| 3121 | 2026-04-04 06:12:39 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3121_20260404-06h.py](warehouse/can_3121_20260404-06h.py) |
