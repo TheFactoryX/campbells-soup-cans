@@ -3210,3 +3210,4 @@ If you need permission, you're thinking too much.
 | 3120 | 2026-04-04 05:04:04 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_3120_20260404-05h.py](warehouse/can_3120_20260404-05h.py) |
 | 3121 | 2026-04-04 06:12:39 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3121_20260404-06h.py](warehouse/can_3121_20260404-06h.py) |
 | 3122 | 2026-04-04 07:18:25 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_3122_20260404-07h.py](warehouse/can_3122_20260404-07h.py) |
+| 3123 | 2026-04-04 08:59:10 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3123_20260404-08h.py](warehouse/can_3123_20260404-08h.py) |
