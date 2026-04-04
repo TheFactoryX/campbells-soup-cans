@@ -3217,3 +3217,4 @@ If you need permission, you're thinking too much.
 | 3127 | 2026-04-04 13:28:49 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3127_20260404-13h.py](warehouse/can_3127_20260404-13h.py) |
 | 3128 | 2026-04-04 14:54:18 | Google: Gemini 2.5 Flash Lite Preview 09-2025 | ✅ | [warehouse/can_3128_20260404-14h.py](warehouse/can_3128_20260404-14h.py) |
 | 3129 | 2026-04-04 15:47:42 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3129_20260404-15h.py](warehouse/can_3129_20260404-15h.py) |
+| 3130 | 2026-04-04 16:52:49 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_3130_20260404-16h.py](warehouse/can_3130_20260404-16h.py) |
