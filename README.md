@@ -3223,3 +3223,4 @@ If you need permission, you're thinking too much.
 | 3133 | 2026-04-04 19:45:47 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3133_20260404-19h.py](warehouse/can_3133_20260404-19h.py) |
 | 3134 | 2026-04-04 20:51:42 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_3134_20260404-20h.py](warehouse/can_3134_20260404-20h.py) |
 | 3135 | 2026-04-04 21:46:00 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3135_20260404-21h.py](warehouse/can_3135_20260404-21h.py) |
+| 3136 | 2026-04-04 22:49:41 | NVIDIA: Nemotron Nano 9B V2 | ✅ | [warehouse/can_3136_20260404-22h.py](warehouse/can_3136_20260404-22h.py) |
