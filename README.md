@@ -3220,3 +3220,4 @@ If you need permission, you're thinking too much.
 | 3130 | 2026-04-04 16:52:49 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_3130_20260404-16h.py](warehouse/can_3130_20260404-16h.py) |
 | 3131 | 2026-04-04 17:47:55 | Anthropic: Claude Sonnet 4 | ✅ | [warehouse/can_3131_20260404-17h.py](warehouse/can_3131_20260404-17h.py) |
 | 3132 | 2026-04-04 19:02:01 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3132_20260404-19h.py](warehouse/can_3132_20260404-19h.py) |
+| 3133 | 2026-04-04 19:45:47 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3133_20260404-19h.py](warehouse/can_3133_20260404-19h.py) |
