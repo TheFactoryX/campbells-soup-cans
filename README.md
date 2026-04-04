@@ -3215,3 +3215,4 @@ If you need permission, you're thinking too much.
 | 3125 | 2026-04-04 10:53:35 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3125_20260404-10h.py](warehouse/can_3125_20260404-10h.py) |
 | 3126 | 2026-04-04 11:43:34 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_3126_20260404-11h.py](warehouse/can_3126_20260404-11h.py) |
 | 3127 | 2026-04-04 13:28:49 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3127_20260404-13h.py](warehouse/can_3127_20260404-13h.py) |
+| 3128 | 2026-04-04 14:54:18 | Google: Gemini 2.5 Flash Lite Preview 09-2025 | ✅ | [warehouse/can_3128_20260404-14h.py](warehouse/can_3128_20260404-14h.py) |
