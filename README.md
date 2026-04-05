@@ -3228,3 +3228,4 @@ If you need permission, you're thinking too much.
 | 3138 | 2026-04-05 03:37:57 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3138_20260405-03h.py](warehouse/can_3138_20260405-03h.py) |
 | 3139 | 2026-04-05 05:53:51 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3139_20260405-05h.py](warehouse/can_3139_20260405-05h.py) |
 | 3140 | 2026-04-05 07:32:32 | MiniMax: MiniMax M2.5 (free) | ✅ | [warehouse/can_3140_20260405-07h.py](warehouse/can_3140_20260405-07h.py) |
+| 3141 | 2026-04-05 09:00:26 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3141_20260405-09h.py](warehouse/can_3141_20260405-09h.py) |
