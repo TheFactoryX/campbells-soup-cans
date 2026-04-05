@@ -3240,3 +3240,4 @@ If you need permission, you're thinking too much.
 | 3150 | 2026-04-05 19:04:20 | Z.ai: GLM 4.5V | ❌ (broken) | [warehouse/can_3150_20260405-19h.py](warehouse/can_3150_20260405-19h.py) |
 | 3151 | 2026-04-05 19:49:05 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3151_20260405-19h.py](warehouse/can_3151_20260405-19h.py) |
 | 3152 | 2026-04-05 20:49:59 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3152_20260405-20h.py](warehouse/can_3152_20260405-20h.py) |
+| 3153 | 2026-04-05 21:47:15 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_3153_20260405-21h.py](warehouse/can_3153_20260405-21h.py) |
