@@ -3233,3 +3233,4 @@ If you need permission, you're thinking too much.
 | 3143 | 2026-04-05 10:54:47 | Free Models Router | ✅ | [warehouse/can_3143_20260405-10h.py](warehouse/can_3143_20260405-10h.py) |
 | 3144 | 2026-04-05 11:44:57 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3144_20260405-11h.py](warehouse/can_3144_20260405-11h.py) |
 | 3145 | 2026-04-05 13:30:22 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3145_20260405-13h.py](warehouse/can_3145_20260405-13h.py) |
+| 3146 | 2026-04-05 14:54:20 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3146_20260405-14h.py](warehouse/can_3146_20260405-14h.py) |
