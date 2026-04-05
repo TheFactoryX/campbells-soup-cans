@@ -3227,3 +3227,4 @@ If you need permission, you're thinking too much.
 | 3137 | 2026-04-04 23:46:26 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_3137_20260404-23h.py](warehouse/can_3137_20260404-23h.py) |
 | 3138 | 2026-04-05 03:37:57 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3138_20260405-03h.py](warehouse/can_3138_20260405-03h.py) |
 | 3139 | 2026-04-05 05:53:51 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3139_20260405-05h.py](warehouse/can_3139_20260405-05h.py) |
+| 3140 | 2026-04-05 07:32:32 | MiniMax: MiniMax M2.5 (free) | ✅ | [warehouse/can_3140_20260405-07h.py](warehouse/can_3140_20260405-07h.py) |
