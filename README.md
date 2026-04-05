@@ -3231,3 +3231,4 @@ If you need permission, you're thinking too much.
 | 3141 | 2026-04-05 09:00:26 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3141_20260405-09h.py](warehouse/can_3141_20260405-09h.py) |
 | 3142 | 2026-04-05 09:56:32 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3142_20260405-09h.py](warehouse/can_3142_20260405-09h.py) |
 | 3143 | 2026-04-05 10:54:47 | Free Models Router | ✅ | [warehouse/can_3143_20260405-10h.py](warehouse/can_3143_20260405-10h.py) |
+| 3144 | 2026-04-05 11:44:57 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3144_20260405-11h.py](warehouse/can_3144_20260405-11h.py) |
