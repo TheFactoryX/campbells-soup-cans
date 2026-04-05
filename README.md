@@ -3238,3 +3238,4 @@ If you need permission, you're thinking too much.
 | 3148 | 2026-04-05 16:53:58 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3148_20260405-16h.py](warehouse/can_3148_20260405-16h.py) |
 | 3149 | 2026-04-05 17:49:15 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3149_20260405-17h.py](warehouse/can_3149_20260405-17h.py) |
 | 3150 | 2026-04-05 19:04:20 | Z.ai: GLM 4.5V | ❌ (broken) | [warehouse/can_3150_20260405-19h.py](warehouse/can_3150_20260405-19h.py) |
+| 3151 | 2026-04-05 19:49:05 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3151_20260405-19h.py](warehouse/can_3151_20260405-19h.py) |
