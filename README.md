@@ -3250,3 +3250,4 @@ If you need permission, you're thinking too much.
 | 3160 | 2026-04-06 11:13:07 | Qwen: Qwen3.6 Plus (free) | ✅ | [warehouse/can_3160_20260406-11h.py](warehouse/can_3160_20260406-11h.py) |
 | 3161 | 2026-04-06 11:59:52 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3161_20260406-11h.py](warehouse/can_3161_20260406-11h.py) |
 | 3162 | 2026-04-06 13:46:30 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3162_20260406-13h.py](warehouse/can_3162_20260406-13h.py) |
+| 3163 | 2026-04-06 15:06:08 | ByteDance Seed: Seed 1.6 | ✅ | [warehouse/can_3163_20260406-15h.py](warehouse/can_3163_20260406-15h.py) |
