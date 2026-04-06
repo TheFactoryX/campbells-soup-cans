@@ -3247,3 +3247,4 @@ If you need permission, you're thinking too much.
 | 3157 | 2026-04-06 06:07:50 | Free Models Router | ✅ | [warehouse/can_3157_20260406-06h.py](warehouse/can_3157_20260406-06h.py) |
 | 3158 | 2026-04-06 08:02:13 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_3158_20260406-08h.py](warehouse/can_3158_20260406-08h.py) |
 | 3159 | 2026-04-06 09:41:25 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3159_20260406-09h.py](warehouse/can_3159_20260406-09h.py) |
+| 3160 | 2026-04-06 11:13:07 | Qwen: Qwen3.6 Plus (free) | ✅ | [warehouse/can_3160_20260406-11h.py](warehouse/can_3160_20260406-11h.py) |
