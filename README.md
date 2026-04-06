@@ -3254,3 +3254,4 @@ If you need permission, you're thinking too much.
 | 3164 | 2026-04-06 16:01:23 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3164_20260406-16h.py](warehouse/can_3164_20260406-16h.py) |
 | 3165 | 2026-04-06 17:08:37 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3165_20260406-17h.py](warehouse/can_3165_20260406-17h.py) |
 | 3166 | 2026-04-06 18:04:43 | EssentialAI: Rnj 1 Instruct | ✅ | [warehouse/can_3166_20260406-18h.py](warehouse/can_3166_20260406-18h.py) |
+| 3167 | 2026-04-06 19:19:40 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3167_20260406-19h.py](warehouse/can_3167_20260406-19h.py) |
