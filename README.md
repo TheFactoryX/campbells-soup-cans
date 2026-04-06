@@ -3257,3 +3257,4 @@ If you need permission, you're thinking too much.
 | 3167 | 2026-04-06 19:19:40 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3167_20260406-19h.py](warehouse/can_3167_20260406-19h.py) |
 | 3168 | 2026-04-06 20:55:53 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_3168_20260406-20h.py](warehouse/can_3168_20260406-20h.py) |
 | 3169 | 2026-04-06 21:51:23 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3169_20260406-21h.py](warehouse/can_3169_20260406-21h.py) |
+| 3170 | 2026-04-06 22:56:29 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_3170_20260406-22h.py](warehouse/can_3170_20260406-22h.py) |
