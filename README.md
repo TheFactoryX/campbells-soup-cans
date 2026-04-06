@@ -3255,3 +3255,4 @@ If you need permission, you're thinking too much.
 | 3165 | 2026-04-06 17:08:37 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3165_20260406-17h.py](warehouse/can_3165_20260406-17h.py) |
 | 3166 | 2026-04-06 18:04:43 | EssentialAI: Rnj 1 Instruct | ✅ | [warehouse/can_3166_20260406-18h.py](warehouse/can_3166_20260406-18h.py) |
 | 3167 | 2026-04-06 19:19:40 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3167_20260406-19h.py](warehouse/can_3167_20260406-19h.py) |
+| 3168 | 2026-04-06 20:55:53 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_3168_20260406-20h.py](warehouse/can_3168_20260406-20h.py) |
