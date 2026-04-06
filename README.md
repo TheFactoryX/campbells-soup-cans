@@ -3245,3 +3245,4 @@ If you need permission, you're thinking too much.
 | 3155 | 2026-04-05 23:49:27 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3155_20260405-23h.py](warehouse/can_3155_20260405-23h.py) |
 | 3156 | 2026-04-06 03:41:38 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_3156_20260406-03h.py](warehouse/can_3156_20260406-03h.py) |
 | 3157 | 2026-04-06 06:07:50 | Free Models Router | ✅ | [warehouse/can_3157_20260406-06h.py](warehouse/can_3157_20260406-06h.py) |
+| 3158 | 2026-04-06 08:02:13 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_3158_20260406-08h.py](warehouse/can_3158_20260406-08h.py) |
