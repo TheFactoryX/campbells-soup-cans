@@ -3243,3 +3243,4 @@ If you need permission, you're thinking too much.
 | 3153 | 2026-04-05 21:47:15 | Arcee AI: Trinity Mini (free) | ❌ (broken) | [warehouse/can_3153_20260405-21h.py](warehouse/can_3153_20260405-21h.py) |
 | 3154 | 2026-04-05 22:51:33 | Amazon: Nova Lite 1.0 | ✅ | [warehouse/can_3154_20260405-22h.py](warehouse/can_3154_20260405-22h.py) |
 | 3155 | 2026-04-05 23:49:27 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3155_20260405-23h.py](warehouse/can_3155_20260405-23h.py) |
+| 3156 | 2026-04-06 03:41:38 | StepFun: Step 3.5 Flash (free) | ✅ | [warehouse/can_3156_20260406-03h.py](warehouse/can_3156_20260406-03h.py) |
