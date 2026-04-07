@@ -3273,3 +3273,4 @@ If you need permission, you're thinking too much.
 | 3183 | 2026-04-07 21:03:59 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3183_20260407-21h.py](warehouse/can_3183_20260407-21h.py) |
 | 3184 | 2026-04-07 21:58:17 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3184_20260407-21h.py](warehouse/can_3184_20260407-21h.py) |
 | 3185 | 2026-04-07 22:58:22 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3185_20260407-22h.py](warehouse/can_3185_20260407-22h.py) |
+| 3186 | 2026-04-07 23:54:19 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_3186_20260407-23h.py](warehouse/can_3186_20260407-23h.py) |
