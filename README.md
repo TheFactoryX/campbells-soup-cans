@@ -3263,3 +3263,4 @@ If you need permission, you're thinking too much.
 | 3173 | 2026-04-07 05:56:29 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3173_20260407-05h.py](warehouse/can_3173_20260407-05h.py) |
 | 3174 | 2026-04-07 07:49:37 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3174_20260407-07h.py](warehouse/can_3174_20260407-07h.py) |
 | 3175 | 2026-04-07 09:20:18 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3175_20260407-09h.py](warehouse/can_3175_20260407-09h.py) |
+| 3176 | 2026-04-07 11:14:06 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3176_20260407-11h.py](warehouse/can_3176_20260407-11h.py) |
