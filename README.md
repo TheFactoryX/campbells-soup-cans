@@ -3259,3 +3259,4 @@ If you need permission, you're thinking too much.
 | 3169 | 2026-04-06 21:51:23 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3169_20260406-21h.py](warehouse/can_3169_20260406-21h.py) |
 | 3170 | 2026-04-06 22:56:29 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_3170_20260406-22h.py](warehouse/can_3170_20260406-22h.py) |
 | 3171 | 2026-04-06 23:51:19 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3171_20260406-23h.py](warehouse/can_3171_20260406-23h.py) |
+| 3172 | 2026-04-07 03:31:02 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_3172_20260407-03h.py](warehouse/can_3172_20260407-03h.py) |
