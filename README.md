@@ -3267,3 +3267,4 @@ If you need permission, you're thinking too much.
 | 3177 | 2026-04-07 12:04:39 | Arcee AI: Trinity Mini (free) | ✅ | [warehouse/can_3177_20260407-12h.py](warehouse/can_3177_20260407-12h.py) |
 | 3178 | 2026-04-07 14:01:02 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3178_20260407-14h.py](warehouse/can_3178_20260407-14h.py) |
 | 3179 | 2026-04-07 15:43:17 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3179_20260407-15h.py](warehouse/can_3179_20260407-15h.py) |
+| 3180 | 2026-04-07 17:15:59 | MiniMax: MiniMax M2.5 (free) | ✅ | [warehouse/can_3180_20260407-17h.py](warehouse/can_3180_20260407-17h.py) |
