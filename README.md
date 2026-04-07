@@ -3269,3 +3269,4 @@ If you need permission, you're thinking too much.
 | 3179 | 2026-04-07 15:43:17 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3179_20260407-15h.py](warehouse/can_3179_20260407-15h.py) |
 | 3180 | 2026-04-07 17:15:59 | MiniMax: MiniMax M2.5 (free) | ✅ | [warehouse/can_3180_20260407-17h.py](warehouse/can_3180_20260407-17h.py) |
 | 3181 | 2026-04-07 18:11:26 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3181_20260407-18h.py](warehouse/can_3181_20260407-18h.py) |
+| 3182 | 2026-04-07 19:31:57 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3182_20260407-19h.py](warehouse/can_3182_20260407-19h.py) |
