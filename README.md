@@ -3272,3 +3272,4 @@ If you need permission, you're thinking too much.
 | 3182 | 2026-04-07 19:31:57 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3182_20260407-19h.py](warehouse/can_3182_20260407-19h.py) |
 | 3183 | 2026-04-07 21:03:59 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3183_20260407-21h.py](warehouse/can_3183_20260407-21h.py) |
 | 3184 | 2026-04-07 21:58:17 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3184_20260407-21h.py](warehouse/can_3184_20260407-21h.py) |
+| 3185 | 2026-04-07 22:58:22 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3185_20260407-22h.py](warehouse/can_3185_20260407-22h.py) |
