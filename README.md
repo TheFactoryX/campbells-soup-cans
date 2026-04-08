@@ -3283,3 +3283,4 @@ If you need permission, you're thinking too much.
 | 3193 | 2026-04-08 14:02:22 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3193_20260408-14h.py](warehouse/can_3193_20260408-14h.py) |
 | 3194 | 2026-04-08 15:44:53 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3194_20260408-15h.py](warehouse/can_3194_20260408-15h.py) |
 | 3195 | 2026-04-08 17:32:15 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3195_20260408-17h.py](warehouse/can_3195_20260408-17h.py) |
+| 3196 | 2026-04-08 19:40:41 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3196_20260408-19h.py](warehouse/can_3196_20260408-19h.py) |
