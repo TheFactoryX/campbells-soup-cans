@@ -3278,3 +3278,4 @@ If you need permission, you're thinking too much.
 | 3188 | 2026-04-08 05:58:45 | Kwaipilot: KAT-Coder-Pro V2 | ✅ | [warehouse/can_3188_20260408-05h.py](warehouse/can_3188_20260408-05h.py) |
 | 3189 | 2026-04-08 07:52:54 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3189_20260408-07h.py](warehouse/can_3189_20260408-07h.py) |
 | 3190 | 2026-04-08 09:19:16 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3190_20260408-09h.py](warehouse/can_3190_20260408-09h.py) |
+| 3191 | 2026-04-08 11:15:21 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3191_20260408-11h.py](warehouse/can_3191_20260408-11h.py) |
