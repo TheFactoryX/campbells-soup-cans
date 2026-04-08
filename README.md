@@ -3276,3 +3276,4 @@ If you need permission, you're thinking too much.
 | 3186 | 2026-04-07 23:54:19 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_3186_20260407-23h.py](warehouse/can_3186_20260407-23h.py) |
 | 3187 | 2026-04-08 03:32:24 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3187_20260408-03h.py](warehouse/can_3187_20260408-03h.py) |
 | 3188 | 2026-04-08 05:58:45 | Kwaipilot: KAT-Coder-Pro V2 | ✅ | [warehouse/can_3188_20260408-05h.py](warehouse/can_3188_20260408-05h.py) |
+| 3189 | 2026-04-08 07:52:54 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3189_20260408-07h.py](warehouse/can_3189_20260408-07h.py) |
