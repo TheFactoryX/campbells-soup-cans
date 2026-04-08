@@ -3285,3 +3285,4 @@ If you need permission, you're thinking too much.
 | 3195 | 2026-04-08 17:32:15 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3195_20260408-17h.py](warehouse/can_3195_20260408-17h.py) |
 | 3196 | 2026-04-08 19:40:41 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3196_20260408-19h.py](warehouse/can_3196_20260408-19h.py) |
 | 3197 | 2026-04-08 21:01:40 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_3197_20260408-21h.py](warehouse/can_3197_20260408-21h.py) |
+| 3198 | 2026-04-08 22:00:22 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3198_20260408-22h.py](warehouse/can_3198_20260408-22h.py) |
