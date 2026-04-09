@@ -3291,3 +3291,4 @@ If you need permission, you're thinking too much.
 | 3201 | 2026-04-09 03:28:51 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_3201_20260409-03h.py](warehouse/can_3201_20260409-03h.py) |
 | 3202 | 2026-04-09 05:57:58 | Free Models Router | ✅ | [warehouse/can_3202_20260409-05h.py](warehouse/can_3202_20260409-05h.py) |
 | 3203 | 2026-04-09 07:55:03 | Free Models Router | ❌ (broken) | [warehouse/can_3203_20260409-07h.py](warehouse/can_3203_20260409-07h.py) |
+| 3204 | 2026-04-09 10:10:16 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3204_20260409-10h.py](warehouse/can_3204_20260409-10h.py) |
