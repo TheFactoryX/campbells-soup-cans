@@ -3299,3 +3299,4 @@ If you need permission, you're thinking too much.
 | 3209 | 2026-04-09 19:36:52 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3209_20260409-19h.py](warehouse/can_3209_20260409-19h.py) |
 | 3210 | 2026-04-09 21:03:54 | Arcee AI: Trinity Large Preview (free) | ❌ (broken) | [warehouse/can_3210_20260409-21h.py](warehouse/can_3210_20260409-21h.py) |
 | 3211 | 2026-04-09 21:57:36 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3211_20260409-21h.py](warehouse/can_3211_20260409-21h.py) |
+| 3212 | 2026-04-09 23:00:50 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3212_20260409-23h.py](warehouse/can_3212_20260409-23h.py) |
