@@ -3297,3 +3297,4 @@ If you need permission, you're thinking too much.
 | 3207 | 2026-04-09 15:56:18 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3207_20260409-15h.py](warehouse/can_3207_20260409-15h.py) |
 | 3208 | 2026-04-09 17:31:09 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3208_20260409-17h.py](warehouse/can_3208_20260409-17h.py) |
 | 3209 | 2026-04-09 19:36:52 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3209_20260409-19h.py](warehouse/can_3209_20260409-19h.py) |
+| 3210 | 2026-04-09 21:03:54 | Arcee AI: Trinity Large Preview (free) | ❌ (broken) | [warehouse/can_3210_20260409-21h.py](warehouse/can_3210_20260409-21h.py) |
