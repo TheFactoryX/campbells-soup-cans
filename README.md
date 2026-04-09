@@ -3294,3 +3294,4 @@ If you need permission, you're thinking too much.
 | 3204 | 2026-04-09 10:10:16 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3204_20260409-10h.py](warehouse/can_3204_20260409-10h.py) |
 | 3205 | 2026-04-09 11:16:34 | Arcee AI: Trinity Mini (free) | ❌ (broken, missing print) | [warehouse/can_3205_20260409-11h.py](warehouse/can_3205_20260409-11h.py) |
 | 3206 | 2026-04-09 14:14:31 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3206_20260409-14h.py](warehouse/can_3206_20260409-14h.py) |
+| 3207 | 2026-04-09 15:56:18 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3207_20260409-15h.py](warehouse/can_3207_20260409-15h.py) |
