@@ -3316,3 +3316,4 @@ If you need permission, you're thinking too much.
 | 3226 | 2026-04-10 19:54:54 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3226_20260410-19h.py](warehouse/can_3226_20260410-19h.py) |
 | 3227 | 2026-04-10 20:55:54 | Z.ai: GLM 4.6 | ✅ | [warehouse/can_3227_20260410-20h.py](warehouse/can_3227_20260410-20h.py) |
 | 3228 | 2026-04-10 21:54:44 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3228_20260410-21h.py](warehouse/can_3228_20260410-21h.py) |
+| 3229 | 2026-04-10 22:56:47 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_3229_20260410-22h.py](warehouse/can_3229_20260410-22h.py) |
