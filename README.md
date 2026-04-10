@@ -3311,3 +3311,4 @@ If you need permission, you're thinking too much.
 | 3221 | 2026-04-10 15:06:37 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3221_20260410-15h.py](warehouse/can_3221_20260410-15h.py) |
 | 3222 | 2026-04-10 16:08:16 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3222_20260410-16h.py](warehouse/can_3222_20260410-16h.py) |
 | 3223 | 2026-04-10 17:07:05 | MiniMax: MiniMax M2.5 (free) | ✅ | [warehouse/can_3223_20260410-17h.py](warehouse/can_3223_20260410-17h.py) |
+| 3224 | 2026-04-10 18:01:22 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3224_20260410-18h.py](warehouse/can_3224_20260410-18h.py) |
