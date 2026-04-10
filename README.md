@@ -3303,3 +3303,4 @@ If you need permission, you're thinking too much.
 | 3213 | 2026-04-09 23:53:29 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3213_20260409-23h.py](warehouse/can_3213_20260409-23h.py) |
 | 3214 | 2026-04-10 03:41:43 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3214_20260410-03h.py](warehouse/can_3214_20260410-03h.py) |
 | 3215 | 2026-04-10 06:08:12 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3215_20260410-06h.py](warehouse/can_3215_20260410-06h.py) |
+| 3216 | 2026-04-10 07:59:18 | Google: Gemini 2.5 Flash Lite | ✅ | [warehouse/can_3216_20260410-07h.py](warehouse/can_3216_20260410-07h.py) |
