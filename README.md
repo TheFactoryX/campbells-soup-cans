@@ -3301,3 +3301,4 @@ If you need permission, you're thinking too much.
 | 3211 | 2026-04-09 21:57:36 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3211_20260409-21h.py](warehouse/can_3211_20260409-21h.py) |
 | 3212 | 2026-04-09 23:00:50 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3212_20260409-23h.py](warehouse/can_3212_20260409-23h.py) |
 | 3213 | 2026-04-09 23:53:29 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3213_20260409-23h.py](warehouse/can_3213_20260409-23h.py) |
+| 3214 | 2026-04-10 03:41:43 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3214_20260410-03h.py](warehouse/can_3214_20260410-03h.py) |
