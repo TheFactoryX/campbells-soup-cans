@@ -3306,3 +3306,4 @@ If you need permission, you're thinking too much.
 | 3216 | 2026-04-10 07:59:18 | Google: Gemini 2.5 Flash Lite | ✅ | [warehouse/can_3216_20260410-07h.py](warehouse/can_3216_20260410-07h.py) |
 | 3217 | 2026-04-10 09:38:33 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3217_20260410-09h.py](warehouse/can_3217_20260410-09h.py) |
 | 3218 | 2026-04-10 11:12:42 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3218_20260410-11h.py](warehouse/can_3218_20260410-11h.py) |
+| 3219 | 2026-04-10 12:00:52 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3219_20260410-12h.py](warehouse/can_3219_20260410-12h.py) |
