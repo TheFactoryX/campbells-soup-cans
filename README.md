@@ -3315,3 +3315,4 @@ If you need permission, you're thinking too much.
 | 3225 | 2026-04-10 19:11:58 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3225_20260410-19h.py](warehouse/can_3225_20260410-19h.py) |
 | 3226 | 2026-04-10 19:54:54 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3226_20260410-19h.py](warehouse/can_3226_20260410-19h.py) |
 | 3227 | 2026-04-10 20:55:54 | Z.ai: GLM 4.6 | ✅ | [warehouse/can_3227_20260410-20h.py](warehouse/can_3227_20260410-20h.py) |
+| 3228 | 2026-04-10 21:54:44 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3228_20260410-21h.py](warehouse/can_3228_20260410-21h.py) |
