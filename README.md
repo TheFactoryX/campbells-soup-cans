@@ -3323,3 +3323,4 @@ If you need permission, you're thinking too much.
 | 3233 | 2026-04-11 07:17:12 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3233_20260411-07h.py](warehouse/can_3233_20260411-07h.py) |
 | 3234 | 2026-04-11 09:02:46 | xAI: Grok 3 Mini | ✅ | [warehouse/can_3234_20260411-09h.py](warehouse/can_3234_20260411-09h.py) |
 | 3235 | 2026-04-11 09:57:37 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3235_20260411-09h.py](warehouse/can_3235_20260411-09h.py) |
+| 3236 | 2026-04-11 10:55:50 | MoonshotAI: Kimi K2 0905 | ✅ | [warehouse/can_3236_20260411-10h.py](warehouse/can_3236_20260411-10h.py) |
