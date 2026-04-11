@@ -3322,3 +3322,4 @@ If you need permission, you're thinking too much.
 | 3232 | 2026-04-11 05:40:05 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3232_20260411-05h.py](warehouse/can_3232_20260411-05h.py) |
 | 3233 | 2026-04-11 07:17:12 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3233_20260411-07h.py](warehouse/can_3233_20260411-07h.py) |
 | 3234 | 2026-04-11 09:02:46 | xAI: Grok 3 Mini | ✅ | [warehouse/can_3234_20260411-09h.py](warehouse/can_3234_20260411-09h.py) |
+| 3235 | 2026-04-11 09:57:37 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3235_20260411-09h.py](warehouse/can_3235_20260411-09h.py) |
