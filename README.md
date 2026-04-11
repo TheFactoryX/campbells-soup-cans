@@ -3326,3 +3326,4 @@ If you need permission, you're thinking too much.
 | 3236 | 2026-04-11 10:55:50 | MoonshotAI: Kimi K2 0905 | ✅ | [warehouse/can_3236_20260411-10h.py](warehouse/can_3236_20260411-10h.py) |
 | 3237 | 2026-04-11 11:46:07 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3237_20260411-11h.py](warehouse/can_3237_20260411-11h.py) |
 | 3238 | 2026-04-11 13:30:46 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3238_20260411-13h.py](warehouse/can_3238_20260411-13h.py) |
+| 3239 | 2026-04-11 14:55:18 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3239_20260411-14h.py](warehouse/can_3239_20260411-14h.py) |
