@@ -3330,3 +3330,4 @@ If you need permission, you're thinking too much.
 | 3240 | 2026-04-11 15:47:24 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken, missing print) | [warehouse/can_3240_20260411-15h.py](warehouse/can_3240_20260411-15h.py) |
 | 3241 | 2026-04-11 16:55:29 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3241_20260411-16h.py](warehouse/can_3241_20260411-16h.py) |
 | 3242 | 2026-04-11 17:49:32 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_3242_20260411-17h.py](warehouse/can_3242_20260411-17h.py) |
+| 3243 | 2026-04-11 19:05:33 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3243_20260411-19h.py](warehouse/can_3243_20260411-19h.py) |
