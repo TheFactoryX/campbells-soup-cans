@@ -3318,3 +3318,4 @@ If you need permission, you're thinking too much.
 | 3228 | 2026-04-10 21:54:44 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3228_20260410-21h.py](warehouse/can_3228_20260410-21h.py) |
 | 3229 | 2026-04-10 22:56:47 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_3229_20260410-22h.py](warehouse/can_3229_20260410-22h.py) |
 | 3230 | 2026-04-10 23:52:13 | OpenAI: gpt-oss-120b (free) | ❌ (missing print) | [warehouse/can_3230_20260410-23h.py](warehouse/can_3230_20260410-23h.py) |
+| 3231 | 2026-04-11 03:19:35 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3231_20260411-03h.py](warehouse/can_3231_20260411-03h.py) |
