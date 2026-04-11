@@ -3321,3 +3321,4 @@ If you need permission, you're thinking too much.
 | 3231 | 2026-04-11 03:19:35 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3231_20260411-03h.py](warehouse/can_3231_20260411-03h.py) |
 | 3232 | 2026-04-11 05:40:05 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3232_20260411-05h.py](warehouse/can_3232_20260411-05h.py) |
 | 3233 | 2026-04-11 07:17:12 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3233_20260411-07h.py](warehouse/can_3233_20260411-07h.py) |
+| 3234 | 2026-04-11 09:02:46 | xAI: Grok 3 Mini | ✅ | [warehouse/can_3234_20260411-09h.py](warehouse/can_3234_20260411-09h.py) |
