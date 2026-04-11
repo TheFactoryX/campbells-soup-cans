@@ -3328,3 +3328,4 @@ If you need permission, you're thinking too much.
 | 3238 | 2026-04-11 13:30:46 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3238_20260411-13h.py](warehouse/can_3238_20260411-13h.py) |
 | 3239 | 2026-04-11 14:55:18 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3239_20260411-14h.py](warehouse/can_3239_20260411-14h.py) |
 | 3240 | 2026-04-11 15:47:24 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken, missing print) | [warehouse/can_3240_20260411-15h.py](warehouse/can_3240_20260411-15h.py) |
+| 3241 | 2026-04-11 16:55:29 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3241_20260411-16h.py](warehouse/can_3241_20260411-16h.py) |
