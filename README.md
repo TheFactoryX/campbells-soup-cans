@@ -3319,3 +3319,4 @@ If you need permission, you're thinking too much.
 | 3229 | 2026-04-10 22:56:47 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_3229_20260410-22h.py](warehouse/can_3229_20260410-22h.py) |
 | 3230 | 2026-04-10 23:52:13 | OpenAI: gpt-oss-120b (free) | ❌ (missing print) | [warehouse/can_3230_20260410-23h.py](warehouse/can_3230_20260410-23h.py) |
 | 3231 | 2026-04-11 03:19:35 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3231_20260411-03h.py](warehouse/can_3231_20260411-03h.py) |
+| 3232 | 2026-04-11 05:40:05 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3232_20260411-05h.py](warehouse/can_3232_20260411-05h.py) |
