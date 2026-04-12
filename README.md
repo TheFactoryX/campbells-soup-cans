@@ -3353,3 +3353,4 @@ If you need permission, you're thinking too much.
 | 3263 | 2026-04-12 20:52:50 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3263_20260412-20h.py](warehouse/can_3263_20260412-20h.py) |
 | 3264 | 2026-04-12 21:50:48 | Free Models Router | ✅ | [warehouse/can_3264_20260412-21h.py](warehouse/can_3264_20260412-21h.py) |
 | 3265 | 2026-04-12 22:55:02 | MiniMax: MiniMax M2.5 (free) | ✅ | [warehouse/can_3265_20260412-22h.py](warehouse/can_3265_20260412-22h.py) |
+| 3266 | 2026-04-12 23:51:43 | OpenAI: o4 Mini High | ❌ (missing print) | [warehouse/can_3266_20260412-23h.py](warehouse/can_3266_20260412-23h.py) |
