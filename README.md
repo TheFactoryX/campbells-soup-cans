@@ -3340,3 +3340,4 @@ If you need permission, you're thinking too much.
 | 3250 | 2026-04-12 06:02:26 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3250_20260412-06h.py](warehouse/can_3250_20260412-06h.py) |
 | 3251 | 2026-04-12 07:44:35 | Free Models Router | ✅ | [warehouse/can_3251_20260412-07h.py](warehouse/can_3251_20260412-07h.py) |
 | 3252 | 2026-04-12 09:05:49 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3252_20260412-09h.py](warehouse/can_3252_20260412-09h.py) |
+| 3253 | 2026-04-12 10:01:16 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3253_20260412-10h.py](warehouse/can_3253_20260412-10h.py) |
