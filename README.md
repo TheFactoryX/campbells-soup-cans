@@ -3338,3 +3338,4 @@ If you need permission, you're thinking too much.
 | 3248 | 2026-04-11 23:50:44 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3248_20260411-23h.py](warehouse/can_3248_20260411-23h.py) |
 | 3249 | 2026-04-12 03:46:11 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3249_20260412-03h.py](warehouse/can_3249_20260412-03h.py) |
 | 3250 | 2026-04-12 06:02:26 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3250_20260412-06h.py](warehouse/can_3250_20260412-06h.py) |
+| 3251 | 2026-04-12 07:44:35 | Free Models Router | ✅ | [warehouse/can_3251_20260412-07h.py](warehouse/can_3251_20260412-07h.py) |
