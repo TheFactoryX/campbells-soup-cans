@@ -3336,3 +3336,4 @@ If you need permission, you're thinking too much.
 | 3246 | 2026-04-11 21:48:14 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3246_20260411-21h.py](warehouse/can_3246_20260411-21h.py) |
 | 3247 | 2026-04-11 22:52:12 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3247_20260411-22h.py](warehouse/can_3247_20260411-22h.py) |
 | 3248 | 2026-04-11 23:50:44 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3248_20260411-23h.py](warehouse/can_3248_20260411-23h.py) |
+| 3249 | 2026-04-12 03:46:11 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3249_20260412-03h.py](warehouse/can_3249_20260412-03h.py) |
