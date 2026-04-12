@@ -3345,3 +3345,4 @@ If you need permission, you're thinking too much.
 | 3255 | 2026-04-12 11:48:08 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3255_20260412-11h.py](warehouse/can_3255_20260412-11h.py) |
 | 3256 | 2026-04-12 13:35:09 | MiniMax: MiniMax M2.5 (free) | ✅ | [warehouse/can_3256_20260412-13h.py](warehouse/can_3256_20260412-13h.py) |
 | 3257 | 2026-04-12 14:57:48 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3257_20260412-14h.py](warehouse/can_3257_20260412-14h.py) |
+| 3258 | 2026-04-12 15:52:39 | MiniMax: MiniMax M2.5 (free) | ✅ | [warehouse/can_3258_20260412-15h.py](warehouse/can_3258_20260412-15h.py) |
