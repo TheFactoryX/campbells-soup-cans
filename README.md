@@ -3349,3 +3349,4 @@ If you need permission, you're thinking too much.
 | 3259 | 2026-04-12 16:57:09 | NVIDIA: Nemotron 3 Super (free) | ❌ (empty, missing print) | [warehouse/can_3259_20260412-16h.py](warehouse/can_3259_20260412-16h.py) |
 | 3260 | 2026-04-12 17:52:02 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3260_20260412-17h.py](warehouse/can_3260_20260412-17h.py) |
 | 3261 | 2026-04-12 19:08:34 | xAI: Grok 3 | ✅ | [warehouse/can_3261_20260412-19h.py](warehouse/can_3261_20260412-19h.py) |
+| 3262 | 2026-04-12 19:53:02 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3262_20260412-19h.py](warehouse/can_3262_20260412-19h.py) |
