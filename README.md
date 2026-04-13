@@ -3360,3 +3360,4 @@ If you need permission, you're thinking too much.
 | 3270 | 2026-04-13 10:56:07 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3270_20260413-10h.py](warehouse/can_3270_20260413-10h.py) |
 | 3271 | 2026-04-13 12:11:04 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3271_20260413-12h.py](warehouse/can_3271_20260413-12h.py) |
 | 3272 | 2026-04-13 14:07:36 | Google: Gemini 3 Flash Preview | ✅ | [warehouse/can_3272_20260413-14h.py](warehouse/can_3272_20260413-14h.py) |
+| 3273 | 2026-04-13 15:45:54 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3273_20260413-15h.py](warehouse/can_3273_20260413-15h.py) |
