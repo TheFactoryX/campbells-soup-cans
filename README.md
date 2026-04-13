@@ -3362,3 +3362,4 @@ If you need permission, you're thinking too much.
 | 3272 | 2026-04-13 14:07:36 | Google: Gemini 3 Flash Preview | ✅ | [warehouse/can_3272_20260413-14h.py](warehouse/can_3272_20260413-14h.py) |
 | 3273 | 2026-04-13 15:45:54 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3273_20260413-15h.py](warehouse/can_3273_20260413-15h.py) |
 | 3274 | 2026-04-13 17:19:35 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3274_20260413-17h.py](warehouse/can_3274_20260413-17h.py) |
+| 3275 | 2026-04-13 19:38:26 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3275_20260413-19h.py](warehouse/can_3275_20260413-19h.py) |
