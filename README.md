@@ -3356,3 +3356,4 @@ If you need permission, you're thinking too much.
 | 3266 | 2026-04-12 23:51:43 | OpenAI: o4 Mini High | ❌ (missing print) | [warehouse/can_3266_20260412-23h.py](warehouse/can_3266_20260412-23h.py) |
 | 3267 | 2026-04-13 03:52:57 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3267_20260413-03h.py](warehouse/can_3267_20260413-03h.py) |
 | 3268 | 2026-04-13 06:26:20 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_3268_20260413-06h.py](warehouse/can_3268_20260413-06h.py) |
+| 3269 | 2026-04-13 09:12:10 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3269_20260413-09h.py](warehouse/can_3269_20260413-09h.py) |
