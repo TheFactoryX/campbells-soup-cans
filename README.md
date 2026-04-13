@@ -3358,3 +3358,4 @@ If you need permission, you're thinking too much.
 | 3268 | 2026-04-13 06:26:20 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_3268_20260413-06h.py](warehouse/can_3268_20260413-06h.py) |
 | 3269 | 2026-04-13 09:12:10 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3269_20260413-09h.py](warehouse/can_3269_20260413-09h.py) |
 | 3270 | 2026-04-13 10:56:07 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3270_20260413-10h.py](warehouse/can_3270_20260413-10h.py) |
+| 3271 | 2026-04-13 12:11:04 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3271_20260413-12h.py](warehouse/can_3271_20260413-12h.py) |
