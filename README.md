@@ -3368,3 +3368,4 @@ If you need permission, you're thinking too much.
 | 3278 | 2026-04-13 23:03:52 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3278_20260413-23h.py](warehouse/can_3278_20260413-23h.py) |
 | 3279 | 2026-04-14 00:00:21 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_3279_20260414-00h.py](warehouse/can_3279_20260414-00h.py) |
 | 3280 | 2026-04-14 03:42:42 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3280_20260414-03h.py](warehouse/can_3280_20260414-03h.py) |
+| 3281 | 2026-04-14 06:10:57 | Free Models Router | ❌ (broken) | [warehouse/can_3281_20260414-06h.py](warehouse/can_3281_20260414-06h.py) |
