@@ -3372,3 +3372,4 @@ If you need permission, you're thinking too much.
 | 3282 | 2026-04-14 08:03:59 | NVIDIA: Nemotron 3 Super (free) | ❌ (empty, missing print) | [warehouse/can_3282_20260414-08h.py](warehouse/can_3282_20260414-08h.py) |
 | 3283 | 2026-04-14 09:49:59 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3283_20260414-09h.py](warehouse/can_3283_20260414-09h.py) |
 | 3284 | 2026-04-14 11:19:48 | TheDrummer: Cydonia 24B V4.1 | ✅ | [warehouse/can_3284_20260414-11h.py](warehouse/can_3284_20260414-11h.py) |
+| 3285 | 2026-04-14 14:13:09 | Cohere: Command A | ✅ | [warehouse/can_3285_20260414-14h.py](warehouse/can_3285_20260414-14h.py) |
