@@ -3374,3 +3374,4 @@ If you need permission, you're thinking too much.
 | 3284 | 2026-04-14 11:19:48 | TheDrummer: Cydonia 24B V4.1 | ✅ | [warehouse/can_3284_20260414-11h.py](warehouse/can_3284_20260414-11h.py) |
 | 3285 | 2026-04-14 14:13:09 | Cohere: Command A | ✅ | [warehouse/can_3285_20260414-14h.py](warehouse/can_3285_20260414-14h.py) |
 | 3286 | 2026-04-14 15:41:45 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3286_20260414-15h.py](warehouse/can_3286_20260414-15h.py) |
+| 3287 | 2026-04-14 17:34:40 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3287_20260414-17h.py](warehouse/can_3287_20260414-17h.py) |
