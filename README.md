@@ -3389,3 +3389,4 @@ If you need permission, you're thinking too much.
 | 3299 | 2026-04-15 15:37:39 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3299_20260415-15h.py](warehouse/can_3299_20260415-15h.py) |
 | 3300 | 2026-04-15 17:19:04 | Anthropic: Claude Opus 4 | ❌ (broken) | [warehouse/can_3300_20260415-17h.py](warehouse/can_3300_20260415-17h.py) |
 | 3301 | 2026-04-15 19:42:47 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3301_20260415-19h.py](warehouse/can_3301_20260415-19h.py) |
+| 3302 | 2026-04-15 21:06:51 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3302_20260415-21h.py](warehouse/can_3302_20260415-21h.py) |
