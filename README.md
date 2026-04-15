@@ -3383,3 +3383,4 @@ If you need permission, you're thinking too much.
 | 3293 | 2026-04-15 03:41:31 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3293_20260415-03h.py](warehouse/can_3293_20260415-03h.py) |
 | 3294 | 2026-04-15 06:10:54 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3294_20260415-06h.py](warehouse/can_3294_20260415-06h.py) |
 | 3295 | 2026-04-15 08:04:54 | Elephant | ✅ | [warehouse/can_3295_20260415-08h.py](warehouse/can_3295_20260415-08h.py) |
+| 3296 | 2026-04-15 09:50:39 | Free Models Router | ✅ | [warehouse/can_3296_20260415-09h.py](warehouse/can_3296_20260415-09h.py) |
