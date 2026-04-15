@@ -3386,3 +3386,4 @@ If you need permission, you're thinking too much.
 | 3296 | 2026-04-15 09:50:39 | Free Models Router | ✅ | [warehouse/can_3296_20260415-09h.py](warehouse/can_3296_20260415-09h.py) |
 | 3297 | 2026-04-15 11:16:30 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3297_20260415-11h.py](warehouse/can_3297_20260415-11h.py) |
 | 3298 | 2026-04-15 14:05:01 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3298_20260415-14h.py](warehouse/can_3298_20260415-14h.py) |
+| 3299 | 2026-04-15 15:37:39 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3299_20260415-15h.py](warehouse/can_3299_20260415-15h.py) |
