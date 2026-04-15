@@ -3391,3 +3391,4 @@ If you need permission, you're thinking too much.
 | 3301 | 2026-04-15 19:42:47 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3301_20260415-19h.py](warehouse/can_3301_20260415-19h.py) |
 | 3302 | 2026-04-15 21:06:51 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3302_20260415-21h.py](warehouse/can_3302_20260415-21h.py) |
 | 3303 | 2026-04-15 22:05:09 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3303_20260415-22h.py](warehouse/can_3303_20260415-22h.py) |
+| 3304 | 2026-04-15 23:02:42 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3304_20260415-23h.py](warehouse/can_3304_20260415-23h.py) |
