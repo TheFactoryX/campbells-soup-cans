@@ -3385,3 +3385,4 @@ If you need permission, you're thinking too much.
 | 3295 | 2026-04-15 08:04:54 | Elephant | ✅ | [warehouse/can_3295_20260415-08h.py](warehouse/can_3295_20260415-08h.py) |
 | 3296 | 2026-04-15 09:50:39 | Free Models Router | ✅ | [warehouse/can_3296_20260415-09h.py](warehouse/can_3296_20260415-09h.py) |
 | 3297 | 2026-04-15 11:16:30 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3297_20260415-11h.py](warehouse/can_3297_20260415-11h.py) |
+| 3298 | 2026-04-15 14:05:01 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3298_20260415-14h.py](warehouse/can_3298_20260415-14h.py) |
