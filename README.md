@@ -3390,3 +3390,4 @@ If you need permission, you're thinking too much.
 | 3300 | 2026-04-15 17:19:04 | Anthropic: Claude Opus 4 | ❌ (broken) | [warehouse/can_3300_20260415-17h.py](warehouse/can_3300_20260415-17h.py) |
 | 3301 | 2026-04-15 19:42:47 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3301_20260415-19h.py](warehouse/can_3301_20260415-19h.py) |
 | 3302 | 2026-04-15 21:06:51 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3302_20260415-21h.py](warehouse/can_3302_20260415-21h.py) |
+| 3303 | 2026-04-15 22:05:09 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3303_20260415-22h.py](warehouse/can_3303_20260415-22h.py) |
