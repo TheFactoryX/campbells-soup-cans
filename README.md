@@ -3398,3 +3398,4 @@ If you need permission, you're thinking too much.
 | 3308 | 2026-04-16 08:05:15 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3308_20260416-08h.py](warehouse/can_3308_20260416-08h.py) |
 | 3309 | 2026-04-16 09:49:26 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken) | [warehouse/can_3309_20260416-09h.py](warehouse/can_3309_20260416-09h.py) |
 | 3310 | 2026-04-16 11:19:48 | Elephant | ✅ | [warehouse/can_3310_20260416-11h.py](warehouse/can_3310_20260416-11h.py) |
+| 3311 | 2026-04-16 14:14:08 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3311_20260416-14h.py](warehouse/can_3311_20260416-14h.py) |
