@@ -3403,3 +3403,4 @@ If you need permission, you're thinking too much.
 | 3313 | 2026-04-16 17:44:02 | Amazon: Nova Micro 1.0 | ✅ | [warehouse/can_3313_20260416-17h.py](warehouse/can_3313_20260416-17h.py) |
 | 3314 | 2026-04-16 19:37:31 | OpenAI: GPT-5 Image Mini | ✅ | [warehouse/can_3314_20260416-19h.py](warehouse/can_3314_20260416-19h.py) |
 | 3315 | 2026-04-16 21:04:01 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3315_20260416-21h.py](warehouse/can_3315_20260416-21h.py) |
+| 3316 | 2026-04-16 21:59:43 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3316_20260416-21h.py](warehouse/can_3316_20260416-21h.py) |
