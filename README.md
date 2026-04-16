@@ -3393,3 +3393,4 @@ If you need permission, you're thinking too much.
 | 3303 | 2026-04-15 22:05:09 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3303_20260415-22h.py](warehouse/can_3303_20260415-22h.py) |
 | 3304 | 2026-04-15 23:02:42 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3304_20260415-23h.py](warehouse/can_3304_20260415-23h.py) |
 | 3305 | 2026-04-15 23:59:48 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3305_20260415-23h.py](warehouse/can_3305_20260415-23h.py) |
+| 3306 | 2026-04-16 03:47:11 | Qwen: Qwen3 VL 8B Thinking | ✅ | [warehouse/can_3306_20260416-03h.py](warehouse/can_3306_20260416-03h.py) |
