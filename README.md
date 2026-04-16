@@ -3400,3 +3400,4 @@ If you need permission, you're thinking too much.
 | 3310 | 2026-04-16 11:19:48 | Elephant | ✅ | [warehouse/can_3310_20260416-11h.py](warehouse/can_3310_20260416-11h.py) |
 | 3311 | 2026-04-16 14:14:08 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3311_20260416-14h.py](warehouse/can_3311_20260416-14h.py) |
 | 3312 | 2026-04-16 15:57:19 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3312_20260416-15h.py](warehouse/can_3312_20260416-15h.py) |
+| 3313 | 2026-04-16 17:44:02 | Amazon: Nova Micro 1.0 | ✅ | [warehouse/can_3313_20260416-17h.py](warehouse/can_3313_20260416-17h.py) |
