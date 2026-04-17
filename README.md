@@ -3407,3 +3407,4 @@ If you need permission, you're thinking too much.
 | 3317 | 2026-04-16 23:02:52 | Elephant | ❌ (broken) | [warehouse/can_3317_20260416-23h.py](warehouse/can_3317_20260416-23h.py) |
 | 3318 | 2026-04-16 23:58:23 | Qwen: Qwen3 14B | ❌ (broken) | [warehouse/can_3318_20260416-23h.py](warehouse/can_3318_20260416-23h.py) |
 | 3319 | 2026-04-17 03:45:32 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3319_20260417-03h.py](warehouse/can_3319_20260417-03h.py) |
+| 3320 | 2026-04-17 06:13:48 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3320_20260417-06h.py](warehouse/can_3320_20260417-06h.py) |
