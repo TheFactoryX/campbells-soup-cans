@@ -3418,3 +3418,4 @@ If you need permission, you're thinking too much.
 | 3328 | 2026-04-17 18:05:43 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3328_20260417-18h.py](warehouse/can_3328_20260417-18h.py) |
 | 3329 | 2026-04-17 19:31:48 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3329_20260417-19h.py](warehouse/can_3329_20260417-19h.py) |
 | 3330 | 2026-04-17 21:03:59 | Z.ai: GLM 4.5 Air (free) | ❌ (missing print) | [warehouse/can_3330_20260417-21h.py](warehouse/can_3330_20260417-21h.py) |
+| 3331 | 2026-04-17 22:01:01 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3331_20260417-22h.py](warehouse/can_3331_20260417-22h.py) |
