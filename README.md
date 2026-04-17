@@ -3406,3 +3406,4 @@ If you need permission, you're thinking too much.
 | 3316 | 2026-04-16 21:59:43 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3316_20260416-21h.py](warehouse/can_3316_20260416-21h.py) |
 | 3317 | 2026-04-16 23:02:52 | Elephant | ❌ (broken) | [warehouse/can_3317_20260416-23h.py](warehouse/can_3317_20260416-23h.py) |
 | 3318 | 2026-04-16 23:58:23 | Qwen: Qwen3 14B | ❌ (broken) | [warehouse/can_3318_20260416-23h.py](warehouse/can_3318_20260416-23h.py) |
+| 3319 | 2026-04-17 03:45:32 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3319_20260417-03h.py](warehouse/can_3319_20260417-03h.py) |
