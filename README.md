@@ -3410,3 +3410,4 @@ If you need permission, you're thinking too much.
 | 3320 | 2026-04-17 06:13:48 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3320_20260417-06h.py](warehouse/can_3320_20260417-06h.py) |
 | 3321 | 2026-04-17 08:05:18 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3321_20260417-08h.py](warehouse/can_3321_20260417-08h.py) |
 | 3322 | 2026-04-17 09:48:13 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3322_20260417-09h.py](warehouse/can_3322_20260417-09h.py) |
+| 3323 | 2026-04-17 11:13:01 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3323_20260417-11h.py](warehouse/can_3323_20260417-11h.py) |
