@@ -3411,3 +3411,4 @@ If you need permission, you're thinking too much.
 | 3321 | 2026-04-17 08:05:18 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3321_20260417-08h.py](warehouse/can_3321_20260417-08h.py) |
 | 3322 | 2026-04-17 09:48:13 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3322_20260417-09h.py](warehouse/can_3322_20260417-09h.py) |
 | 3323 | 2026-04-17 11:13:01 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3323_20260417-11h.py](warehouse/can_3323_20260417-11h.py) |
+| 3324 | 2026-04-17 12:05:20 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_3324_20260417-12h.py](warehouse/can_3324_20260417-12h.py) |
