@@ -3413,3 +3413,4 @@ If you need permission, you're thinking too much.
 | 3323 | 2026-04-17 11:13:01 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3323_20260417-11h.py](warehouse/can_3323_20260417-11h.py) |
 | 3324 | 2026-04-17 12:05:20 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_3324_20260417-12h.py](warehouse/can_3324_20260417-12h.py) |
 | 3325 | 2026-04-17 13:58:20 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3325_20260417-13h.py](warehouse/can_3325_20260417-13h.py) |
+| 3326 | 2026-04-17 15:16:26 | NVIDIA: Nemotron Nano 9B V2 | ❌ (empty, missing print) | [warehouse/can_3326_20260417-15h.py](warehouse/can_3326_20260417-15h.py) |
