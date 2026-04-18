@@ -3427,3 +3427,4 @@ If you need permission, you're thinking too much.
 | 3337 | 2026-04-18 09:05:13 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3337_20260418-09h.py](warehouse/can_3337_20260418-09h.py) |
 | 3338 | 2026-04-18 10:02:10 | OpenAI: o4 Mini High | ✅ | [warehouse/can_3338_20260418-10h.py](warehouse/can_3338_20260418-10h.py) |
 | 3339 | 2026-04-18 11:01:25 | Elephant | ✅ | [warehouse/can_3339_20260418-11h.py](warehouse/can_3339_20260418-11h.py) |
+| 3340 | 2026-04-18 11:49:34 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3340_20260418-11h.py](warehouse/can_3340_20260418-11h.py) |
