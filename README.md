@@ -3423,3 +3423,4 @@ If you need permission, you're thinking too much.
 | 3333 | 2026-04-17 23:56:04 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3333_20260417-23h.py](warehouse/can_3333_20260417-23h.py) |
 | 3334 | 2026-04-18 03:30:20 | MoonshotAI: Kimi K2.5 | ✅ | [warehouse/can_3334_20260418-03h.py](warehouse/can_3334_20260418-03h.py) |
 | 3335 | 2026-04-18 05:50:30 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3335_20260418-05h.py](warehouse/can_3335_20260418-05h.py) |
+| 3336 | 2026-04-18 07:35:01 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3336_20260418-07h.py](warehouse/can_3336_20260418-07h.py) |
