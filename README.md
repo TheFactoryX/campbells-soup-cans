@@ -3434,3 +3434,4 @@ If you need permission, you're thinking too much.
 | 3344 | 2026-04-18 16:57:45 | Z.ai: GLM 4.5 Air (free) | ❌ (missing print) | [warehouse/can_3344_20260418-16h.py](warehouse/can_3344_20260418-16h.py) |
 | 3345 | 2026-04-18 17:53:20 | Free Models Router | ✅ | [warehouse/can_3345_20260418-17h.py](warehouse/can_3345_20260418-17h.py) |
 | 3346 | 2026-04-18 19:09:42 | Free Models Router | ✅ | [warehouse/can_3346_20260418-19h.py](warehouse/can_3346_20260418-19h.py) |
+| 3347 | 2026-04-18 19:54:00 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3347_20260418-19h.py](warehouse/can_3347_20260418-19h.py) |
