@@ -3422,3 +3422,4 @@ If you need permission, you're thinking too much.
 | 3332 | 2026-04-17 23:01:46 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3332_20260417-23h.py](warehouse/can_3332_20260417-23h.py) |
 | 3333 | 2026-04-17 23:56:04 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3333_20260417-23h.py](warehouse/can_3333_20260417-23h.py) |
 | 3334 | 2026-04-18 03:30:20 | MoonshotAI: Kimi K2.5 | ✅ | [warehouse/can_3334_20260418-03h.py](warehouse/can_3334_20260418-03h.py) |
+| 3335 | 2026-04-18 05:50:30 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3335_20260418-05h.py](warehouse/can_3335_20260418-05h.py) |
