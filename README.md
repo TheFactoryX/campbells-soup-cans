@@ -3424,3 +3424,4 @@ If you need permission, you're thinking too much.
 | 3334 | 2026-04-18 03:30:20 | MoonshotAI: Kimi K2.5 | ✅ | [warehouse/can_3334_20260418-03h.py](warehouse/can_3334_20260418-03h.py) |
 | 3335 | 2026-04-18 05:50:30 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3335_20260418-05h.py](warehouse/can_3335_20260418-05h.py) |
 | 3336 | 2026-04-18 07:35:01 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3336_20260418-07h.py](warehouse/can_3336_20260418-07h.py) |
+| 3337 | 2026-04-18 09:05:13 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3337_20260418-09h.py](warehouse/can_3337_20260418-09h.py) |
