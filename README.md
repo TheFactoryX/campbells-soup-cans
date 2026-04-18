@@ -3431,3 +3431,4 @@ If you need permission, you're thinking too much.
 | 3341 | 2026-04-18 13:36:05 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_3341_20260418-13h.py](warehouse/can_3341_20260418-13h.py) |
 | 3342 | 2026-04-18 14:58:10 | Elephant | ✅ | [warehouse/can_3342_20260418-14h.py](warehouse/can_3342_20260418-14h.py) |
 | 3343 | 2026-04-18 15:54:32 | Elephant | ✅ | [warehouse/can_3343_20260418-15h.py](warehouse/can_3343_20260418-15h.py) |
+| 3344 | 2026-04-18 16:57:45 | Z.ai: GLM 4.5 Air (free) | ❌ (missing print) | [warehouse/can_3344_20260418-16h.py](warehouse/can_3344_20260418-16h.py) |
