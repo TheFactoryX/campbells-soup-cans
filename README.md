@@ -3452,3 +3452,4 @@ If you need permission, you're thinking too much.
 | 3362 | 2026-04-19 16:57:43 | NVIDIA: Nemotron 3 Super (free) | ❌ (missing print) | [warehouse/can_3362_20260419-16h.py](warehouse/can_3362_20260419-16h.py) |
 | 3363 | 2026-04-19 17:53:40 | Free Models Router | ✅ | [warehouse/can_3363_20260419-17h.py](warehouse/can_3363_20260419-17h.py) |
 | 3364 | 2026-04-19 19:09:16 | Free Models Router | ✅ | [warehouse/can_3364_20260419-19h.py](warehouse/can_3364_20260419-19h.py) |
+| 3365 | 2026-04-19 19:53:49 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3365_20260419-19h.py](warehouse/can_3365_20260419-19h.py) |
