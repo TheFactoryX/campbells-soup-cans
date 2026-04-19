@@ -3450,3 +3450,4 @@ If you need permission, you're thinking too much.
 | 3360 | 2026-04-19 14:58:57 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_3360_20260419-14h.py](warehouse/can_3360_20260419-14h.py) |
 | 3361 | 2026-04-19 15:54:24 | Elephant | ✅ | [warehouse/can_3361_20260419-15h.py](warehouse/can_3361_20260419-15h.py) |
 | 3362 | 2026-04-19 16:57:43 | NVIDIA: Nemotron 3 Super (free) | ❌ (missing print) | [warehouse/can_3362_20260419-16h.py](warehouse/can_3362_20260419-16h.py) |
+| 3363 | 2026-04-19 17:53:40 | Free Models Router | ✅ | [warehouse/can_3363_20260419-17h.py](warehouse/can_3363_20260419-17h.py) |
