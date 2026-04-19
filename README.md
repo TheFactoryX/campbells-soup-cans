@@ -3456,3 +3456,4 @@ If you need permission, you're thinking too much.
 | 3366 | 2026-04-19 20:54:25 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3366_20260419-20h.py](warehouse/can_3366_20260419-20h.py) |
 | 3367 | 2026-04-19 21:51:14 | Elephant | ✅ | [warehouse/can_3367_20260419-21h.py](warehouse/can_3367_20260419-21h.py) |
 | 3368 | 2026-04-19 22:56:10 | OpenAI: gpt-oss-20b (free) | ❌ (missing print) | [warehouse/can_3368_20260419-22h.py](warehouse/can_3368_20260419-22h.py) |
+| 3369 | 2026-04-19 23:52:50 | Free Models Router | ❌ (broken) | [warehouse/can_3369_20260419-23h.py](warehouse/can_3369_20260419-23h.py) |
