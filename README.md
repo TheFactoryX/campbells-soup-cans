@@ -3455,3 +3455,4 @@ If you need permission, you're thinking too much.
 | 3365 | 2026-04-19 19:53:49 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3365_20260419-19h.py](warehouse/can_3365_20260419-19h.py) |
 | 3366 | 2026-04-19 20:54:25 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3366_20260419-20h.py](warehouse/can_3366_20260419-20h.py) |
 | 3367 | 2026-04-19 21:51:14 | Elephant | ✅ | [warehouse/can_3367_20260419-21h.py](warehouse/can_3367_20260419-21h.py) |
+| 3368 | 2026-04-19 22:56:10 | OpenAI: gpt-oss-20b (free) | ❌ (missing print) | [warehouse/can_3368_20260419-22h.py](warehouse/can_3368_20260419-22h.py) |
