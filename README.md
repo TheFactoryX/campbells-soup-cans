@@ -3446,3 +3446,4 @@ If you need permission, you're thinking too much.
 | 3356 | 2026-04-19 10:01:45 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3356_20260419-10h.py](warehouse/can_3356_20260419-10h.py) |
 | 3357 | 2026-04-19 11:00:22 | Elephant | ✅ | [warehouse/can_3357_20260419-11h.py](warehouse/can_3357_20260419-11h.py) |
 | 3358 | 2026-04-19 11:50:25 | Free Models Router | ✅ | [warehouse/can_3358_20260419-11h.py](warehouse/can_3358_20260419-11h.py) |
+| 3359 | 2026-04-19 13:34:28 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3359_20260419-13h.py](warehouse/can_3359_20260419-13h.py) |
