@@ -3440,3 +3440,4 @@ If you need permission, you're thinking too much.
 | 3350 | 2026-04-18 22:55:18 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3350_20260418-22h.py](warehouse/can_3350_20260418-22h.py) |
 | 3351 | 2026-04-18 23:51:49 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3351_20260418-23h.py](warehouse/can_3351_20260418-23h.py) |
 | 3352 | 2026-04-19 03:49:58 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3352_20260419-03h.py](warehouse/can_3352_20260419-03h.py) |
+| 3353 | 2026-04-19 06:08:43 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3353_20260419-06h.py](warehouse/can_3353_20260419-06h.py) |
