@@ -3459,3 +3459,4 @@ If you need permission, you're thinking too much.
 | 3369 | 2026-04-19 23:52:50 | Free Models Router | ❌ (broken) | [warehouse/can_3369_20260419-23h.py](warehouse/can_3369_20260419-23h.py) |
 | 3370 | 2026-04-20 03:52:17 | Free Models Router | ✅ | [warehouse/can_3370_20260420-03h.py](warehouse/can_3370_20260420-03h.py) |
 | 3371 | 2026-04-20 06:27:26 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3371_20260420-06h.py](warehouse/can_3371_20260420-06h.py) |
+| 3372 | 2026-04-20 09:18:24 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3372_20260420-09h.py](warehouse/can_3372_20260420-09h.py) |
