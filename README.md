@@ -3465,3 +3465,4 @@ If you need permission, you're thinking too much.
 | 3375 | 2026-04-20 15:45:19 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3375_20260420-15h.py](warehouse/can_3375_20260420-15h.py) |
 | 3376 | 2026-04-20 17:18:45 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_3376_20260420-17h.py](warehouse/can_3376_20260420-17h.py) |
 | 3377 | 2026-04-20 19:33:41 | Elephant | ✅ | [warehouse/can_3377_20260420-19h.py](warehouse/can_3377_20260420-19h.py) |
+| 3378 | 2026-04-20 21:01:28 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3378_20260420-21h.py](warehouse/can_3378_20260420-21h.py) |
