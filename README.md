@@ -3462,3 +3462,4 @@ If you need permission, you're thinking too much.
 | 3372 | 2026-04-20 09:18:24 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3372_20260420-09h.py](warehouse/can_3372_20260420-09h.py) |
 | 3373 | 2026-04-20 11:41:50 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3373_20260420-11h.py](warehouse/can_3373_20260420-11h.py) |
 | 3374 | 2026-04-20 14:12:46 | MiniMax: MiniMax M2.5 (free) | ✅ | [warehouse/can_3374_20260420-14h.py](warehouse/can_3374_20260420-14h.py) |
+| 3375 | 2026-04-20 15:45:19 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3375_20260420-15h.py](warehouse/can_3375_20260420-15h.py) |
