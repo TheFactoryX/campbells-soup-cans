@@ -3468,3 +3468,4 @@ If you need permission, you're thinking too much.
 | 3378 | 2026-04-20 21:01:28 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3378_20260420-21h.py](warehouse/can_3378_20260420-21h.py) |
 | 3379 | 2026-04-20 22:03:46 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3379_20260420-22h.py](warehouse/can_3379_20260420-22h.py) |
 | 3380 | 2026-04-20 23:03:37 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3380_20260420-23h.py](warehouse/can_3380_20260420-23h.py) |
+| 3381 | 2026-04-20 23:59:38 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3381_20260420-23h.py](warehouse/can_3381_20260420-23h.py) |
