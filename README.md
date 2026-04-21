@@ -3475,3 +3475,4 @@ If you need permission, you're thinking too much.
 | 3385 | 2026-04-21 09:52:40 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3385_20260421-09h.py](warehouse/can_3385_20260421-09h.py) |
 | 3386 | 2026-04-21 11:32:52 | Anthropic: Claude Opus 4.5 | ✅ | [warehouse/can_3386_20260421-11h.py](warehouse/can_3386_20260421-11h.py) |
 | 3387 | 2026-04-21 14:08:24 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3387_20260421-14h.py](warehouse/can_3387_20260421-14h.py) |
+| 3388 | 2026-04-21 15:43:03 | MiniMax: MiniMax M2.7 | ✅ | [warehouse/can_3388_20260421-15h.py](warehouse/can_3388_20260421-15h.py) |
