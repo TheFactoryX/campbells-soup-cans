@@ -3473,3 +3473,4 @@ If you need permission, you're thinking too much.
 | 3383 | 2026-04-21 06:13:57 | Free Models Router | ✅ | [warehouse/can_3383_20260421-06h.py](warehouse/can_3383_20260421-06h.py) |
 | 3384 | 2026-04-21 08:10:29 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3384_20260421-08h.py](warehouse/can_3384_20260421-08h.py) |
 | 3385 | 2026-04-21 09:52:40 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3385_20260421-09h.py](warehouse/can_3385_20260421-09h.py) |
+| 3386 | 2026-04-21 11:32:52 | Anthropic: Claude Opus 4.5 | ✅ | [warehouse/can_3386_20260421-11h.py](warehouse/can_3386_20260421-11h.py) |
