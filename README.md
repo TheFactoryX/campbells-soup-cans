@@ -3470,3 +3470,4 @@ If you need permission, you're thinking too much.
 | 3380 | 2026-04-20 23:03:37 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3380_20260420-23h.py](warehouse/can_3380_20260420-23h.py) |
 | 3381 | 2026-04-20 23:59:38 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3381_20260420-23h.py](warehouse/can_3381_20260420-23h.py) |
 | 3382 | 2026-04-21 03:45:50 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3382_20260421-03h.py](warehouse/can_3382_20260421-03h.py) |
+| 3383 | 2026-04-21 06:13:57 | Free Models Router | ✅ | [warehouse/can_3383_20260421-06h.py](warehouse/can_3383_20260421-06h.py) |
