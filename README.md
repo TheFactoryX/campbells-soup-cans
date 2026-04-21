@@ -3477,3 +3477,4 @@ If you need permission, you're thinking too much.
 | 3387 | 2026-04-21 14:08:24 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3387_20260421-14h.py](warehouse/can_3387_20260421-14h.py) |
 | 3388 | 2026-04-21 15:43:03 | MiniMax: MiniMax M2.7 | ✅ | [warehouse/can_3388_20260421-15h.py](warehouse/can_3388_20260421-15h.py) |
 | 3389 | 2026-04-21 17:16:52 | Elephant | ✅ | [warehouse/can_3389_20260421-17h.py](warehouse/can_3389_20260421-17h.py) |
+| 3390 | 2026-04-21 19:37:30 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3390_20260421-19h.py](warehouse/can_3390_20260421-19h.py) |
