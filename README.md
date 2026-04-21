@@ -3474,3 +3474,4 @@ If you need permission, you're thinking too much.
 | 3384 | 2026-04-21 08:10:29 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3384_20260421-08h.py](warehouse/can_3384_20260421-08h.py) |
 | 3385 | 2026-04-21 09:52:40 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3385_20260421-09h.py](warehouse/can_3385_20260421-09h.py) |
 | 3386 | 2026-04-21 11:32:52 | Anthropic: Claude Opus 4.5 | ✅ | [warehouse/can_3386_20260421-11h.py](warehouse/can_3386_20260421-11h.py) |
+| 3387 | 2026-04-21 14:08:24 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3387_20260421-14h.py](warehouse/can_3387_20260421-14h.py) |
