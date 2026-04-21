@@ -3480,3 +3480,4 @@ If you need permission, you're thinking too much.
 | 3390 | 2026-04-21 19:37:30 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3390_20260421-19h.py](warehouse/can_3390_20260421-19h.py) |
 | 3391 | 2026-04-21 21:05:18 | Qwen: Qwen3 Max | ✅ | [warehouse/can_3391_20260421-21h.py](warehouse/can_3391_20260421-21h.py) |
 | 3392 | 2026-04-21 21:59:28 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3392_20260421-21h.py](warehouse/can_3392_20260421-21h.py) |
+| 3393 | 2026-04-21 22:59:00 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3393_20260421-22h.py](warehouse/can_3393_20260421-22h.py) |
