@@ -3484,3 +3484,4 @@ If you need permission, you're thinking too much.
 | 3394 | 2026-04-21 23:51:56 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3394_20260421-23h.py](warehouse/can_3394_20260421-23h.py) |
 | 3395 | 2026-04-22 03:42:23 | MiniMax: MiniMax M2.5 (free) | ✅ | [warehouse/can_3395_20260422-03h.py](warehouse/can_3395_20260422-03h.py) |
 | 3396 | 2026-04-22 06:11:16 | Qwen: Qwen3 Coder Plus | ✅ | [warehouse/can_3396_20260422-06h.py](warehouse/can_3396_20260422-06h.py) |
+| 3397 | 2026-04-22 08:05:25 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken) | [warehouse/can_3397_20260422-08h.py](warehouse/can_3397_20260422-08h.py) |
