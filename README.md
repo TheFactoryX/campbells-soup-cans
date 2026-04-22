@@ -3482,3 +3482,4 @@ If you need permission, you're thinking too much.
 | 3392 | 2026-04-21 21:59:28 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3392_20260421-21h.py](warehouse/can_3392_20260421-21h.py) |
 | 3393 | 2026-04-21 22:59:00 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3393_20260421-22h.py](warehouse/can_3393_20260421-22h.py) |
 | 3394 | 2026-04-21 23:51:56 | Arcee AI: Trinity Large Preview (free) | ✅ | [warehouse/can_3394_20260421-23h.py](warehouse/can_3394_20260421-23h.py) |
+| 3395 | 2026-04-22 03:42:23 | MiniMax: MiniMax M2.5 (free) | ✅ | [warehouse/can_3395_20260422-03h.py](warehouse/can_3395_20260422-03h.py) |
