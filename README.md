@@ -3489,3 +3489,4 @@ If you need permission, you're thinking too much.
 | 3399 | 2026-04-22 11:31:37 | OpenAI: GPT-4 | ✅ | [warehouse/can_3399_20260422-11h.py](warehouse/can_3399_20260422-11h.py) |
 | 3400 | 2026-04-22 14:09:51 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3400_20260422-14h.py](warehouse/can_3400_20260422-14h.py) |
 | 3401 | 2026-04-22 15:40:54 | Free Models Router | ✅ | [warehouse/can_3401_20260422-15h.py](warehouse/can_3401_20260422-15h.py) |
+| 3402 | 2026-04-22 17:14:37 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3402_20260422-17h.py](warehouse/can_3402_20260422-17h.py) |
