@@ -3487,3 +3487,4 @@ If you need permission, you're thinking too much.
 | 3397 | 2026-04-22 08:05:25 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken) | [warehouse/can_3397_20260422-08h.py](warehouse/can_3397_20260422-08h.py) |
 | 3398 | 2026-04-22 09:52:43 | DeepSeek: DeepSeek V3.1 Terminus | ✅ | [warehouse/can_3398_20260422-09h.py](warehouse/can_3398_20260422-09h.py) |
 | 3399 | 2026-04-22 11:31:37 | OpenAI: GPT-4 | ✅ | [warehouse/can_3399_20260422-11h.py](warehouse/can_3399_20260422-11h.py) |
+| 3400 | 2026-04-22 14:09:51 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3400_20260422-14h.py](warehouse/can_3400_20260422-14h.py) |
