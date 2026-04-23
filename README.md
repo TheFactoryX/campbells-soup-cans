@@ -3505,3 +3505,4 @@ If you need permission, you're thinking too much.
 | 3415 | 2026-04-23 16:09:13 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3415_20260423-16h.py](warehouse/can_3415_20260423-16h.py) |
 | 3416 | 2026-04-23 17:46:06 | Google: Gemma 4 31B (free) | ✅ | [warehouse/can_3416_20260423-17h.py](warehouse/can_3416_20260423-17h.py) |
 | 3417 | 2026-04-23 19:41:07 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_3417_20260423-19h.py](warehouse/can_3417_20260423-19h.py) |
+| 3418 | 2026-04-23 21:07:21 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3418_20260423-21h.py](warehouse/can_3418_20260423-21h.py) |
