@@ -3499,3 +3499,4 @@ If you need permission, you're thinking too much.
 | 3409 | 2026-04-23 03:47:12 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3409_20260423-03h.py](warehouse/can_3409_20260423-03h.py) |
 | 3410 | 2026-04-23 06:16:57 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3410_20260423-06h.py](warehouse/can_3410_20260423-06h.py) |
 | 3411 | 2026-04-23 09:02:49 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3411_20260423-09h.py](warehouse/can_3411_20260423-09h.py) |
+| 3412 | 2026-04-23 10:47:43 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3412_20260423-10h.py](warehouse/can_3412_20260423-10h.py) |
