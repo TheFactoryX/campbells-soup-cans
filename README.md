@@ -3501,3 +3501,4 @@ If you need permission, you're thinking too much.
 | 3411 | 2026-04-23 09:02:49 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3411_20260423-09h.py](warehouse/can_3411_20260423-09h.py) |
 | 3412 | 2026-04-23 10:47:43 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3412_20260423-10h.py](warehouse/can_3412_20260423-10h.py) |
 | 3413 | 2026-04-23 12:08:39 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3413_20260423-12h.py](warehouse/can_3413_20260423-12h.py) |
+| 3414 | 2026-04-23 14:12:09 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3414_20260423-14h.py](warehouse/can_3414_20260423-14h.py) |
