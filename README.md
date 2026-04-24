@@ -3514,3 +3514,4 @@ If you need permission, you're thinking too much.
 | 3424 | 2026-04-24 09:11:35 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3424_20260424-09h.py](warehouse/can_3424_20260424-09h.py) |
 | 3425 | 2026-04-24 10:45:16 | inclusionAI: Ling-2.6-flash (free) | ✅ | [warehouse/can_3425_20260424-10h.py](warehouse/can_3425_20260424-10h.py) |
 | 3426 | 2026-04-24 12:06:16 | NVIDIA: Nemotron 3 Super (free) | ❌ (missing print) | [warehouse/can_3426_20260424-12h.py](warehouse/can_3426_20260424-12h.py) |
+| 3427 | 2026-04-24 14:07:15 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3427_20260424-14h.py](warehouse/can_3427_20260424-14h.py) |
