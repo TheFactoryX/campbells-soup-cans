@@ -3511,3 +3511,4 @@ If you need permission, you're thinking too much.
 | 3421 | 2026-04-24 00:03:24 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3421_20260424-00h.py](warehouse/can_3421_20260424-00h.py) |
 | 3422 | 2026-04-24 03:51:22 | Qwen: Qwen3 VL 30B A3B Instruct | ✅ | [warehouse/can_3422_20260424-03h.py](warehouse/can_3422_20260424-03h.py) |
 | 3423 | 2026-04-24 06:20:23 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3423_20260424-06h.py](warehouse/can_3423_20260424-06h.py) |
+| 3424 | 2026-04-24 09:11:35 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3424_20260424-09h.py](warehouse/can_3424_20260424-09h.py) |
