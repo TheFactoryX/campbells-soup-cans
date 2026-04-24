@@ -3515,3 +3515,4 @@ If you need permission, you're thinking too much.
 | 3425 | 2026-04-24 10:45:16 | inclusionAI: Ling-2.6-flash (free) | ✅ | [warehouse/can_3425_20260424-10h.py](warehouse/can_3425_20260424-10h.py) |
 | 3426 | 2026-04-24 12:06:16 | NVIDIA: Nemotron 3 Super (free) | ❌ (missing print) | [warehouse/can_3426_20260424-12h.py](warehouse/can_3426_20260424-12h.py) |
 | 3427 | 2026-04-24 14:07:15 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3427_20260424-14h.py](warehouse/can_3427_20260424-14h.py) |
+| 3428 | 2026-04-24 15:37:44 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3428_20260424-15h.py](warehouse/can_3428_20260424-15h.py) |
