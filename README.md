@@ -3518,3 +3518,4 @@ If you need permission, you're thinking too much.
 | 3428 | 2026-04-24 15:37:44 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3428_20260424-15h.py](warehouse/can_3428_20260424-15h.py) |
 | 3429 | 2026-04-24 17:12:41 | inclusionAI: Ling-2.6-flash (free) | ✅ | [warehouse/can_3429_20260424-17h.py](warehouse/can_3429_20260424-17h.py) |
 | 3430 | 2026-04-24 18:00:51 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3430_20260424-18h.py](warehouse/can_3430_20260424-18h.py) |
+| 3431 | 2026-04-24 19:13:08 | inclusionAI: Ling-2.6-flash (free) | ✅ | [warehouse/can_3431_20260424-19h.py](warehouse/can_3431_20260424-19h.py) |
