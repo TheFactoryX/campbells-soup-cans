@@ -3520,3 +3520,4 @@ If you need permission, you're thinking too much.
 | 3430 | 2026-04-24 18:00:51 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3430_20260424-18h.py](warehouse/can_3430_20260424-18h.py) |
 | 3431 | 2026-04-24 19:13:08 | inclusionAI: Ling-2.6-flash (free) | ✅ | [warehouse/can_3431_20260424-19h.py](warehouse/can_3431_20260424-19h.py) |
 | 3432 | 2026-04-24 20:02:45 | Free Models Router | ✅ | [warehouse/can_3432_20260424-20h.py](warehouse/can_3432_20260424-20h.py) |
+| 3433 | 2026-04-24 21:06:00 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3433_20260424-21h.py](warehouse/can_3433_20260424-21h.py) |
