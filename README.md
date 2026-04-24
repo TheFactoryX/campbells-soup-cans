@@ -3508,3 +3508,4 @@ If you need permission, you're thinking too much.
 | 3418 | 2026-04-23 21:07:21 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3418_20260423-21h.py](warehouse/can_3418_20260423-21h.py) |
 | 3419 | 2026-04-23 22:03:17 | Sao10k: Llama 3 Euryale 70B v2.1 | ❌ (empty, missing print) | [warehouse/can_3419_20260423-22h.py](warehouse/can_3419_20260423-22h.py) |
 | 3420 | 2026-04-23 23:07:32 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3420_20260423-23h.py](warehouse/can_3420_20260423-23h.py) |
+| 3421 | 2026-04-24 00:03:24 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3421_20260424-00h.py](warehouse/can_3421_20260424-00h.py) |
