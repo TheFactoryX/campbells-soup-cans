@@ -3521,3 +3521,4 @@ If you need permission, you're thinking too much.
 | 3431 | 2026-04-24 19:13:08 | inclusionAI: Ling-2.6-flash (free) | ✅ | [warehouse/can_3431_20260424-19h.py](warehouse/can_3431_20260424-19h.py) |
 | 3432 | 2026-04-24 20:02:45 | Free Models Router | ✅ | [warehouse/can_3432_20260424-20h.py](warehouse/can_3432_20260424-20h.py) |
 | 3433 | 2026-04-24 21:06:00 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3433_20260424-21h.py](warehouse/can_3433_20260424-21h.py) |
+| 3434 | 2026-04-24 22:02:34 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3434_20260424-22h.py](warehouse/can_3434_20260424-22h.py) |
