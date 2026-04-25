@@ -3535,3 +3535,4 @@ If you need permission, you're thinking too much.
 | 3445 | 2026-04-25 15:01:17 | Baidu: Qianfan-OCR-Fast (free) | ✅ | [warehouse/can_3445_20260425-15h.py](warehouse/can_3445_20260425-15h.py) |
 | 3446 | 2026-04-25 15:56:13 | inclusionAI: Ling-2.6-1T (free) | ❌ (missing print) | [warehouse/can_3446_20260425-15h.py](warehouse/can_3446_20260425-15h.py) |
 | 3447 | 2026-04-25 17:01:41 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3447_20260425-17h.py](warehouse/can_3447_20260425-17h.py) |
+| 3448 | 2026-04-25 17:56:53 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken) | [warehouse/can_3448_20260425-17h.py](warehouse/can_3448_20260425-17h.py) |
