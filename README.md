@@ -3525,3 +3525,4 @@ If you need permission, you're thinking too much.
 | 3435 | 2026-04-24 22:58:36 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3435_20260424-22h.py](warehouse/can_3435_20260424-22h.py) |
 | 3436 | 2026-04-24 23:55:43 | Qwen: Qwen3 30B A3B Thinking 2507 | ✅ | [warehouse/can_3436_20260424-23h.py](warehouse/can_3436_20260424-23h.py) |
 | 3437 | 2026-04-25 03:32:27 | inclusionAI: Ling-2.6-flash (free) | ✅ | [warehouse/can_3437_20260425-03h.py](warehouse/can_3437_20260425-03h.py) |
+| 3438 | 2026-04-25 05:58:50 | Tencent: Hy3 preview (free) | ❌ (empty, missing print) | [warehouse/can_3438_20260425-05h.py](warehouse/can_3438_20260425-05h.py) |
