@@ -3532,3 +3532,4 @@ If you need permission, you're thinking too much.
 | 3442 | 2026-04-25 11:04:49 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken, missing print) | [warehouse/can_3442_20260425-11h.py](warehouse/can_3442_20260425-11h.py) |
 | 3443 | 2026-04-25 11:54:23 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3443_20260425-11h.py](warehouse/can_3443_20260425-11h.py) |
 | 3444 | 2026-04-25 13:39:25 | Free Models Router | ❌ (missing print) | [warehouse/can_3444_20260425-13h.py](warehouse/can_3444_20260425-13h.py) |
+| 3445 | 2026-04-25 15:01:17 | Baidu: Qianfan-OCR-Fast (free) | ✅ | [warehouse/can_3445_20260425-15h.py](warehouse/can_3445_20260425-15h.py) |
