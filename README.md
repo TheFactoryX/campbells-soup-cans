@@ -3530,3 +3530,4 @@ If you need permission, you're thinking too much.
 | 3440 | 2026-04-25 09:10:42 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3440_20260425-09h.py](warehouse/can_3440_20260425-09h.py) |
 | 3441 | 2026-04-25 10:05:42 | Perplexity: Sonar Pro | ❌ (broken) | [warehouse/can_3441_20260425-10h.py](warehouse/can_3441_20260425-10h.py) |
 | 3442 | 2026-04-25 11:04:49 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken, missing print) | [warehouse/can_3442_20260425-11h.py](warehouse/can_3442_20260425-11h.py) |
+| 3443 | 2026-04-25 11:54:23 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3443_20260425-11h.py](warehouse/can_3443_20260425-11h.py) |
