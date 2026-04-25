@@ -3528,3 +3528,4 @@ If you need permission, you're thinking too much.
 | 3438 | 2026-04-25 05:58:50 | Tencent: Hy3 preview (free) | ❌ (empty, missing print) | [warehouse/can_3438_20260425-05h.py](warehouse/can_3438_20260425-05h.py) |
 | 3439 | 2026-04-25 07:45:49 | Baidu: Qianfan-OCR-Fast (free) | ❌ (broken) | [warehouse/can_3439_20260425-07h.py](warehouse/can_3439_20260425-07h.py) |
 | 3440 | 2026-04-25 09:10:42 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3440_20260425-09h.py](warehouse/can_3440_20260425-09h.py) |
+| 3441 | 2026-04-25 10:05:42 | Perplexity: Sonar Pro | ❌ (broken) | [warehouse/can_3441_20260425-10h.py](warehouse/can_3441_20260425-10h.py) |
