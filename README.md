@@ -3537,3 +3537,4 @@ If you need permission, you're thinking too much.
 | 3447 | 2026-04-25 17:01:41 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3447_20260425-17h.py](warehouse/can_3447_20260425-17h.py) |
 | 3448 | 2026-04-25 17:56:53 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken) | [warehouse/can_3448_20260425-17h.py](warehouse/can_3448_20260425-17h.py) |
 | 3449 | 2026-04-25 19:11:58 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3449_20260425-19h.py](warehouse/can_3449_20260425-19h.py) |
+| 3450 | 2026-04-25 19:55:41 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3450_20260425-19h.py](warehouse/can_3450_20260425-19h.py) |
