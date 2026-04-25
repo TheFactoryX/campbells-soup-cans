@@ -3534,3 +3534,4 @@ If you need permission, you're thinking too much.
 | 3444 | 2026-04-25 13:39:25 | Free Models Router | ❌ (missing print) | [warehouse/can_3444_20260425-13h.py](warehouse/can_3444_20260425-13h.py) |
 | 3445 | 2026-04-25 15:01:17 | Baidu: Qianfan-OCR-Fast (free) | ✅ | [warehouse/can_3445_20260425-15h.py](warehouse/can_3445_20260425-15h.py) |
 | 3446 | 2026-04-25 15:56:13 | inclusionAI: Ling-2.6-1T (free) | ❌ (missing print) | [warehouse/can_3446_20260425-15h.py](warehouse/can_3446_20260425-15h.py) |
+| 3447 | 2026-04-25 17:01:41 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3447_20260425-17h.py](warehouse/can_3447_20260425-17h.py) |
