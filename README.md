@@ -3533,3 +3533,4 @@ If you need permission, you're thinking too much.
 | 3443 | 2026-04-25 11:54:23 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3443_20260425-11h.py](warehouse/can_3443_20260425-11h.py) |
 | 3444 | 2026-04-25 13:39:25 | Free Models Router | ❌ (missing print) | [warehouse/can_3444_20260425-13h.py](warehouse/can_3444_20260425-13h.py) |
 | 3445 | 2026-04-25 15:01:17 | Baidu: Qianfan-OCR-Fast (free) | ✅ | [warehouse/can_3445_20260425-15h.py](warehouse/can_3445_20260425-15h.py) |
+| 3446 | 2026-04-25 15:56:13 | inclusionAI: Ling-2.6-1T (free) | ❌ (missing print) | [warehouse/can_3446_20260425-15h.py](warehouse/can_3446_20260425-15h.py) |
