@@ -3541,3 +3541,4 @@ If you need permission, you're thinking too much.
 | 3451 | 2026-04-25 20:57:16 | Mistral: Mistral Large 3 2512 | ✅ | [warehouse/can_3451_20260425-20h.py](warehouse/can_3451_20260425-20h.py) |
 | 3452 | 2026-04-25 21:53:10 | Nex AGI: DeepSeek V3.1 Nex N1 | ❌ (broken) | [warehouse/can_3452_20260425-21h.py](warehouse/can_3452_20260425-21h.py) |
 | 3453 | 2026-04-25 22:57:10 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3453_20260425-22h.py](warehouse/can_3453_20260425-22h.py) |
+| 3454 | 2026-04-25 23:54:53 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3454_20260425-23h.py](warehouse/can_3454_20260425-23h.py) |
