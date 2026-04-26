@@ -3547,3 +3547,4 @@ If you need permission, you're thinking too much.
 | 3457 | 2026-04-26 08:37:32 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3457_20260426-08h.py](warehouse/can_3457_20260426-08h.py) |
 | 3458 | 2026-04-26 10:06:26 | Baidu: Qianfan-OCR-Fast (free) | ❌ (broken) | [warehouse/can_3458_20260426-10h.py](warehouse/can_3458_20260426-10h.py) |
 | 3459 | 2026-04-26 11:04:16 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_3459_20260426-11h.py](warehouse/can_3459_20260426-11h.py) |
+| 3460 | 2026-04-26 11:56:05 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken, missing print) | [warehouse/can_3460_20260426-11h.py](warehouse/can_3460_20260426-11h.py) |
