@@ -3543,3 +3543,4 @@ If you need permission, you're thinking too much.
 | 3453 | 2026-04-25 22:57:10 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3453_20260425-22h.py](warehouse/can_3453_20260425-22h.py) |
 | 3454 | 2026-04-25 23:54:53 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3454_20260425-23h.py](warehouse/can_3454_20260425-23h.py) |
 | 3455 | 2026-04-26 03:55:57 | inclusionAI: Ling-2.6-1T (free) | ✅ | [warehouse/can_3455_20260426-03h.py](warehouse/can_3455_20260426-03h.py) |
+| 3456 | 2026-04-26 06:19:41 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3456_20260426-06h.py](warehouse/can_3456_20260426-06h.py) |
