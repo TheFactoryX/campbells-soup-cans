@@ -3557,3 +3557,4 @@ If you need permission, you're thinking too much.
 | 3467 | 2026-04-26 19:57:31 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3467_20260426-19h.py](warehouse/can_3467_20260426-19h.py) |
 | 3468 | 2026-04-26 20:57:34 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3468_20260426-20h.py](warehouse/can_3468_20260426-20h.py) |
 | 3469 | 2026-04-26 21:54:15 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3469_20260426-21h.py](warehouse/can_3469_20260426-21h.py) |
+| 3470 | 2026-04-26 22:59:22 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3470_20260426-22h.py](warehouse/can_3470_20260426-22h.py) |
