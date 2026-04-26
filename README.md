@@ -3551,3 +3551,4 @@ If you need permission, you're thinking too much.
 | 3461 | 2026-04-26 13:41:25 | inclusionAI: Ling-2.6-1T (free) | ✅ | [warehouse/can_3461_20260426-13h.py](warehouse/can_3461_20260426-13h.py) |
 | 3462 | 2026-04-26 15:02:42 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3462_20260426-15h.py](warehouse/can_3462_20260426-15h.py) |
 | 3463 | 2026-04-26 15:57:46 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3463_20260426-15h.py](warehouse/can_3463_20260426-15h.py) |
+| 3464 | 2026-04-26 17:03:14 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3464_20260426-17h.py](warehouse/can_3464_20260426-17h.py) |
