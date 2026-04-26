@@ -3542,3 +3542,4 @@ If you need permission, you're thinking too much.
 | 3452 | 2026-04-25 21:53:10 | Nex AGI: DeepSeek V3.1 Nex N1 | ❌ (broken) | [warehouse/can_3452_20260425-21h.py](warehouse/can_3452_20260425-21h.py) |
 | 3453 | 2026-04-25 22:57:10 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3453_20260425-22h.py](warehouse/can_3453_20260425-22h.py) |
 | 3454 | 2026-04-25 23:54:53 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3454_20260425-23h.py](warehouse/can_3454_20260425-23h.py) |
+| 3455 | 2026-04-26 03:55:57 | inclusionAI: Ling-2.6-1T (free) | ✅ | [warehouse/can_3455_20260426-03h.py](warehouse/can_3455_20260426-03h.py) |
