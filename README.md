@@ -3546,3 +3546,4 @@ If you need permission, you're thinking too much.
 | 3456 | 2026-04-26 06:19:41 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3456_20260426-06h.py](warehouse/can_3456_20260426-06h.py) |
 | 3457 | 2026-04-26 08:37:32 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3457_20260426-08h.py](warehouse/can_3457_20260426-08h.py) |
 | 3458 | 2026-04-26 10:06:26 | Baidu: Qianfan-OCR-Fast (free) | ❌ (broken) | [warehouse/can_3458_20260426-10h.py](warehouse/can_3458_20260426-10h.py) |
+| 3459 | 2026-04-26 11:04:16 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_3459_20260426-11h.py](warehouse/can_3459_20260426-11h.py) |
