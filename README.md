@@ -3563,3 +3563,4 @@ If you need permission, you're thinking too much.
 | 3473 | 2026-04-27 06:40:57 | inclusionAI: Ling-2.6-flash (free) | ✅ | [warehouse/can_3473_20260427-06h.py](warehouse/can_3473_20260427-06h.py) |
 | 3474 | 2026-04-27 09:29:17 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3474_20260427-09h.py](warehouse/can_3474_20260427-09h.py) |
 | 3475 | 2026-04-27 11:59:35 | inclusionAI: Ling-2.6-1T (free) | ✅ | [warehouse/can_3475_20260427-11h.py](warehouse/can_3475_20260427-11h.py) |
+| 3476 | 2026-04-27 14:26:40 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3476_20260427-14h.py](warehouse/can_3476_20260427-14h.py) |
