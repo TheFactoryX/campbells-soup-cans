@@ -3567,3 +3567,4 @@ If you need permission, you're thinking too much.
 | 3477 | 2026-04-27 16:56:14 | Auto Router | ✅ | [warehouse/can_3477_20260427-16h.py](warehouse/can_3477_20260427-16h.py) |
 | 3478 | 2026-04-27 18:19:46 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3478_20260427-18h.py](warehouse/can_3478_20260427-18h.py) |
 | 3479 | 2026-04-27 20:18:54 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3479_20260427-20h.py](warehouse/can_3479_20260427-20h.py) |
+| 3480 | 2026-04-27 22:07:23 | Google Gemini Flash Latest | ✅ | [warehouse/can_3480_20260427-22h.py](warehouse/can_3480_20260427-22h.py) |
