@@ -3566,3 +3566,4 @@ If you need permission, you're thinking too much.
 | 3476 | 2026-04-27 14:26:40 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3476_20260427-14h.py](warehouse/can_3476_20260427-14h.py) |
 | 3477 | 2026-04-27 16:56:14 | Auto Router | ✅ | [warehouse/can_3477_20260427-16h.py](warehouse/can_3477_20260427-16h.py) |
 | 3478 | 2026-04-27 18:19:46 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3478_20260427-18h.py](warehouse/can_3478_20260427-18h.py) |
+| 3479 | 2026-04-27 20:18:54 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3479_20260427-20h.py](warehouse/can_3479_20260427-20h.py) |
