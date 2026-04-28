@@ -3577,3 +3577,4 @@ If you need permission, you're thinking too much.
 | 3487 | 2026-04-28 17:02:25 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3487_20260428-17h.py](warehouse/can_3487_20260428-17h.py) |
 | 3488 | 2026-04-28 18:51:50 | Mistral: Mixtral 8x7B Instruct | ✅ | [warehouse/can_3488_20260428-18h.py](warehouse/can_3488_20260428-18h.py) |
 | 3489 | 2026-04-28 20:41:07 | inclusionAI: Ling-2.6-1T (free) | ❌ (empty, missing print) | [warehouse/can_3489_20260428-20h.py](warehouse/can_3489_20260428-20h.py) |
+| 3490 | 2026-04-28 22:11:13 | Free Models Router | ✅ | [warehouse/can_3490_20260428-22h.py](warehouse/can_3490_20260428-22h.py) |
