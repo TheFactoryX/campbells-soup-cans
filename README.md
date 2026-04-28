@@ -3574,3 +3574,4 @@ If you need permission, you're thinking too much.
 | 3484 | 2026-04-28 06:44:50 | inclusionAI: Ling-2.6-1T (free) | ✅ | [warehouse/can_3484_20260428-06h.py](warehouse/can_3484_20260428-06h.py) |
 | 3485 | 2026-04-28 09:34:04 | inclusionAI: Ling-2.6-flash (free) | ❌ (broken) | [warehouse/can_3485_20260428-09h.py](warehouse/can_3485_20260428-09h.py) |
 | 3486 | 2026-04-28 12:02:14 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3486_20260428-12h.py](warehouse/can_3486_20260428-12h.py) |
+| 3487 | 2026-04-28 17:02:25 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3487_20260428-17h.py](warehouse/can_3487_20260428-17h.py) |
