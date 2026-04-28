@@ -3571,3 +3571,4 @@ If you need permission, you're thinking too much.
 | 3481 | 2026-04-27 23:10:34 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3481_20260427-23h.py](warehouse/can_3481_20260427-23h.py) |
 | 3482 | 2026-04-28 00:06:18 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3482_20260428-00h.py](warehouse/can_3482_20260428-00h.py) |
 | 3483 | 2026-04-28 04:06:35 | OpenAI: gpt-oss-20b (free) | ❌ (missing print) | [warehouse/can_3483_20260428-04h.py](warehouse/can_3483_20260428-04h.py) |
+| 3484 | 2026-04-28 06:44:50 | inclusionAI: Ling-2.6-1T (free) | ✅ | [warehouse/can_3484_20260428-06h.py](warehouse/can_3484_20260428-06h.py) |
