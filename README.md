@@ -3580,3 +3580,4 @@ If you need permission, you're thinking too much.
 | 3490 | 2026-04-28 22:11:13 | Free Models Router | ✅ | [warehouse/can_3490_20260428-22h.py](warehouse/can_3490_20260428-22h.py) |
 | 3491 | 2026-04-28 23:10:11 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3491_20260428-23h.py](warehouse/can_3491_20260428-23h.py) |
 | 3492 | 2026-04-29 00:07:39 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3492_20260429-00h.py](warehouse/can_3492_20260429-00h.py) |
+| 3493 | 2026-04-29 04:03:14 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3493_20260429-04h.py](warehouse/can_3493_20260429-04h.py) |
