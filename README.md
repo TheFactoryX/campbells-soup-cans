@@ -3588,3 +3588,4 @@ If you need permission, you're thinking too much.
 | 3498 | 2026-04-29 16:53:49 | Z.ai: GLM 4.5 | ✅ | [warehouse/can_3498_20260429-16h.py](warehouse/can_3498_20260429-16h.py) |
 | 3499 | 2026-04-29 18:48:07 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3499_20260429-18h.py](warehouse/can_3499_20260429-18h.py) |
 | 3500 | 2026-04-29 20:34:54 | inclusionAI: Ling-2.6-1T (free) | ✅ | [warehouse/can_3500_20260429-20h.py](warehouse/can_3500_20260429-20h.py) |
+| 3501 | 2026-04-29 22:11:04 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3501_20260429-22h.py](warehouse/can_3501_20260429-22h.py) |
