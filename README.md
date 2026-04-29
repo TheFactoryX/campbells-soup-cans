@@ -3584,3 +3584,4 @@ If you need permission, you're thinking too much.
 | 3494 | 2026-04-29 06:37:47 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3494_20260429-06h.py](warehouse/can_3494_20260429-06h.py) |
 | 3495 | 2026-04-29 09:24:43 | OpenAI: GPT-3.5 Turbo Instruct | ✅ | [warehouse/can_3495_20260429-09h.py](warehouse/can_3495_20260429-09h.py) |
 | 3496 | 2026-04-29 11:54:31 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3496_20260429-11h.py](warehouse/can_3496_20260429-11h.py) |
+| 3497 | 2026-04-29 14:30:54 | Poolside: Laguna M.1 (free) | ❌ (broken) | [warehouse/can_3497_20260429-14h.py](warehouse/can_3497_20260429-14h.py) |
