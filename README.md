@@ -3582,3 +3582,4 @@ If you need permission, you're thinking too much.
 | 3492 | 2026-04-29 00:07:39 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3492_20260429-00h.py](warehouse/can_3492_20260429-00h.py) |
 | 3493 | 2026-04-29 04:03:14 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3493_20260429-04h.py](warehouse/can_3493_20260429-04h.py) |
 | 3494 | 2026-04-29 06:37:47 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3494_20260429-06h.py](warehouse/can_3494_20260429-06h.py) |
+| 3495 | 2026-04-29 09:24:43 | OpenAI: GPT-3.5 Turbo Instruct | ✅ | [warehouse/can_3495_20260429-09h.py](warehouse/can_3495_20260429-09h.py) |
