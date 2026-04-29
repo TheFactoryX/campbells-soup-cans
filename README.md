@@ -3585,3 +3585,4 @@ If you need permission, you're thinking too much.
 | 3495 | 2026-04-29 09:24:43 | OpenAI: GPT-3.5 Turbo Instruct | ✅ | [warehouse/can_3495_20260429-09h.py](warehouse/can_3495_20260429-09h.py) |
 | 3496 | 2026-04-29 11:54:31 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3496_20260429-11h.py](warehouse/can_3496_20260429-11h.py) |
 | 3497 | 2026-04-29 14:30:54 | Poolside: Laguna M.1 (free) | ❌ (broken) | [warehouse/can_3497_20260429-14h.py](warehouse/can_3497_20260429-14h.py) |
+| 3498 | 2026-04-29 16:53:49 | Z.ai: GLM 4.5 | ✅ | [warehouse/can_3498_20260429-16h.py](warehouse/can_3498_20260429-16h.py) |
