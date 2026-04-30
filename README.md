@@ -3598,3 +3598,4 @@ If you need permission, you're thinking too much.
 | 3508 | 2026-04-30 14:24:00 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3508_20260430-14h.py](warehouse/can_3508_20260430-14h.py) |
 | 3509 | 2026-04-30 16:47:41 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_3509_20260430-16h.py](warehouse/can_3509_20260430-16h.py) |
 | 3510 | 2026-04-30 18:44:39 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3510_20260430-18h.py](warehouse/can_3510_20260430-18h.py) |
+| 3511 | 2026-04-30 20:19:22 | NVIDIA: Nemotron 3 Super (free) | ❌ (missing print) | [warehouse/can_3511_20260430-20h.py](warehouse/can_3511_20260430-20h.py) |
