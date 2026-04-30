@@ -3591,3 +3591,4 @@ If you need permission, you're thinking too much.
 | 3501 | 2026-04-29 22:11:04 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3501_20260429-22h.py](warehouse/can_3501_20260429-22h.py) |
 | 3502 | 2026-04-29 23:10:47 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3502_20260429-23h.py](warehouse/can_3502_20260429-23h.py) |
 | 3503 | 2026-04-30 00:07:31 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3503_20260430-00h.py](warehouse/can_3503_20260430-00h.py) |
+| 3504 | 2026-04-30 04:04:33 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_3504_20260430-04h.py](warehouse/can_3504_20260430-04h.py) |
