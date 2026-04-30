@@ -3593,3 +3593,4 @@ If you need permission, you're thinking too much.
 | 3503 | 2026-04-30 00:07:31 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3503_20260430-00h.py](warehouse/can_3503_20260430-00h.py) |
 | 3504 | 2026-04-30 04:04:33 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_3504_20260430-04h.py](warehouse/can_3504_20260430-04h.py) |
 | 3505 | 2026-04-30 06:42:11 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3505_20260430-06h.py](warehouse/can_3505_20260430-06h.py) |
+| 3506 | 2026-04-30 09:25:44 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3506_20260430-09h.py](warehouse/can_3506_20260430-09h.py) |
