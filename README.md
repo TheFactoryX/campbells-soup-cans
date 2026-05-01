@@ -3603,3 +3603,4 @@ If you need permission, you're thinking too much.
 | 3513 | 2026-04-30 23:10:10 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3513_20260430-23h.py](warehouse/can_3513_20260430-23h.py) |
 | 3514 | 2026-05-01 00:06:15 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3514_20260501-00h.py](warehouse/can_3514_20260501-00h.py) |
 | 3515 | 2026-05-01 04:18:03 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3515_20260501-04h.py](warehouse/can_3515_20260501-04h.py) |
+| 3516 | 2026-05-01 07:36:59 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3516_20260501-07h.py](warehouse/can_3516_20260501-07h.py) |
