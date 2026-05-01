@@ -3613,3 +3613,4 @@ If you need permission, you're thinking too much.
 | 3523 | 2026-05-01 19:40:21 | Owl Alpha | ❌ (broken) | [warehouse/can_3523_20260501-19h.py](warehouse/can_3523_20260501-19h.py) |
 | 3524 | 2026-05-01 21:07:46 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3524_20260501-21h.py](warehouse/can_3524_20260501-21h.py) |
 | 3525 | 2026-05-01 22:06:00 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3525_20260501-22h.py](warehouse/can_3525_20260501-22h.py) |
+| 3526 | 2026-05-01 23:08:26 | MiniMax: MiniMax M2.5 (free) | ✅ | [warehouse/can_3526_20260501-23h.py](warehouse/can_3526_20260501-23h.py) |
