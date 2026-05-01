@@ -3611,3 +3611,4 @@ If you need permission, you're thinking too much.
 | 3521 | 2026-05-01 17:14:01 | Free Models Router | ✅ | [warehouse/can_3521_20260501-17h.py](warehouse/can_3521_20260501-17h.py) |
 | 3522 | 2026-05-01 18:12:55 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3522_20260501-18h.py](warehouse/can_3522_20260501-18h.py) |
 | 3523 | 2026-05-01 19:40:21 | Owl Alpha | ❌ (broken) | [warehouse/can_3523_20260501-19h.py](warehouse/can_3523_20260501-19h.py) |
+| 3524 | 2026-05-01 21:07:46 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3524_20260501-21h.py](warehouse/can_3524_20260501-21h.py) |
