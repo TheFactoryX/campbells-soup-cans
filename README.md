@@ -3601,3 +3601,4 @@ If you need permission, you're thinking too much.
 | 3511 | 2026-04-30 20:19:22 | NVIDIA: Nemotron 3 Super (free) | ❌ (missing print) | [warehouse/can_3511_20260430-20h.py](warehouse/can_3511_20260430-20h.py) |
 | 3512 | 2026-04-30 22:09:33 | Poolside: Laguna M.1 (free) | ❌ (broken) | [warehouse/can_3512_20260430-22h.py](warehouse/can_3512_20260430-22h.py) |
 | 3513 | 2026-04-30 23:10:10 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3513_20260430-23h.py](warehouse/can_3513_20260430-23h.py) |
+| 3514 | 2026-05-01 00:06:15 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3514_20260501-00h.py](warehouse/can_3514_20260501-00h.py) |
