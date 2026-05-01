@@ -3607,3 +3607,4 @@ If you need permission, you're thinking too much.
 | 3517 | 2026-05-01 09:57:45 | Owl Alpha | ✅ | [warehouse/can_3517_20260501-09h.py](warehouse/can_3517_20260501-09h.py) |
 | 3518 | 2026-05-01 11:32:54 | Free Models Router | ✅ | [warehouse/can_3518_20260501-11h.py](warehouse/can_3518_20260501-11h.py) |
 | 3519 | 2026-05-01 13:54:18 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3519_20260501-13h.py](warehouse/can_3519_20260501-13h.py) |
+| 3520 | 2026-05-01 15:16:27 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3520_20260501-15h.py](warehouse/can_3520_20260501-15h.py) |
