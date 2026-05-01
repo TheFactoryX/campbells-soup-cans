@@ -3605,3 +3605,4 @@ If you need permission, you're thinking too much.
 | 3515 | 2026-05-01 04:18:03 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3515_20260501-04h.py](warehouse/can_3515_20260501-04h.py) |
 | 3516 | 2026-05-01 07:36:59 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3516_20260501-07h.py](warehouse/can_3516_20260501-07h.py) |
 | 3517 | 2026-05-01 09:57:45 | Owl Alpha | ✅ | [warehouse/can_3517_20260501-09h.py](warehouse/can_3517_20260501-09h.py) |
+| 3518 | 2026-05-01 11:32:54 | Free Models Router | ✅ | [warehouse/can_3518_20260501-11h.py](warehouse/can_3518_20260501-11h.py) |
