@@ -3623,3 +3623,4 @@ If you need permission, you're thinking too much.
 | 3533 | 2026-05-02 11:59:54 | MiniMax: MiniMax M2.5 (free) | ✅ | [warehouse/can_3533_20260502-11h.py](warehouse/can_3533_20260502-11h.py) |
 | 3534 | 2026-05-02 13:49:19 | MiniMax: MiniMax M2.5 (free) | ✅ | [warehouse/can_3534_20260502-13h.py](warehouse/can_3534_20260502-13h.py) |
 | 3535 | 2026-05-02 15:05:02 | Free Models Router | ✅ | [warehouse/can_3535_20260502-15h.py](warehouse/can_3535_20260502-15h.py) |
+| 3536 | 2026-05-02 16:01:23 | Qwen: Qwen3 Coder Flash | ✅ | [warehouse/can_3536_20260502-16h.py](warehouse/can_3536_20260502-16h.py) |
