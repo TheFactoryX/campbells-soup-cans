@@ -3615,3 +3615,4 @@ If you need permission, you're thinking too much.
 | 3525 | 2026-05-01 22:06:00 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3525_20260501-22h.py](warehouse/can_3525_20260501-22h.py) |
 | 3526 | 2026-05-01 23:08:26 | MiniMax: MiniMax M2.5 (free) | ✅ | [warehouse/can_3526_20260501-23h.py](warehouse/can_3526_20260501-23h.py) |
 | 3527 | 2026-05-02 00:06:05 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3527_20260502-00h.py](warehouse/can_3527_20260502-00h.py) |
+| 3528 | 2026-05-02 03:51:50 | OpenAI: o4 Mini High | ✅ | [warehouse/can_3528_20260502-03h.py](warehouse/can_3528_20260502-03h.py) |
