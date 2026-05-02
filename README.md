@@ -3617,3 +3617,4 @@ If you need permission, you're thinking too much.
 | 3527 | 2026-05-02 00:06:05 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3527_20260502-00h.py](warehouse/can_3527_20260502-00h.py) |
 | 3528 | 2026-05-02 03:51:50 | OpenAI: o4 Mini High | ✅ | [warehouse/can_3528_20260502-03h.py](warehouse/can_3528_20260502-03h.py) |
 | 3529 | 2026-05-02 06:20:12 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3529_20260502-06h.py](warehouse/can_3529_20260502-06h.py) |
+| 3530 | 2026-05-02 08:43:37 | Baidu: ERNIE 4.5 300B A47B  | ✅ | [warehouse/can_3530_20260502-08h.py](warehouse/can_3530_20260502-08h.py) |
