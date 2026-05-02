@@ -3626,3 +3626,4 @@ If you need permission, you're thinking too much.
 | 3536 | 2026-05-02 16:01:23 | Qwen: Qwen3 Coder Flash | ✅ | [warehouse/can_3536_20260502-16h.py](warehouse/can_3536_20260502-16h.py) |
 | 3537 | 2026-05-02 17:06:49 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3537_20260502-17h.py](warehouse/can_3537_20260502-17h.py) |
 | 3538 | 2026-05-02 18:02:18 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3538_20260502-18h.py](warehouse/can_3538_20260502-18h.py) |
+| 3539 | 2026-05-02 19:17:55 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3539_20260502-19h.py](warehouse/can_3539_20260502-19h.py) |
