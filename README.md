@@ -3629,3 +3629,4 @@ If you need permission, you're thinking too much.
 | 3539 | 2026-05-02 19:17:55 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3539_20260502-19h.py](warehouse/can_3539_20260502-19h.py) |
 | 3540 | 2026-05-02 21:00:00 | Owl Alpha | ✅ | [warehouse/can_3540_20260502-21h.py](warehouse/can_3540_20260502-21h.py) |
 | 3541 | 2026-05-02 21:58:51 | MiniMax: MiniMax M2.5 (free) | ❌ (broken) | [warehouse/can_3541_20260502-21h.py](warehouse/can_3541_20260502-21h.py) |
+| 3542 | 2026-05-02 23:03:07 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3542_20260502-23h.py](warehouse/can_3542_20260502-23h.py) |
