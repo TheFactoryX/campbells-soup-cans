@@ -3621,3 +3621,4 @@ If you need permission, you're thinking too much.
 | 3531 | 2026-05-02 10:10:26 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3531_20260502-10h.py](warehouse/can_3531_20260502-10h.py) |
 | 3532 | 2026-05-02 11:07:19 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3532_20260502-11h.py](warehouse/can_3532_20260502-11h.py) |
 | 3533 | 2026-05-02 11:59:54 | MiniMax: MiniMax M2.5 (free) | ✅ | [warehouse/can_3533_20260502-11h.py](warehouse/can_3533_20260502-11h.py) |
+| 3534 | 2026-05-02 13:49:19 | MiniMax: MiniMax M2.5 (free) | ✅ | [warehouse/can_3534_20260502-13h.py](warehouse/can_3534_20260502-13h.py) |
