@@ -3633,3 +3633,4 @@ If you need permission, you're thinking too much.
 | 3543 | 2026-05-03 00:01:21 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3543_20260503-00h.py](warehouse/can_3543_20260503-00h.py) |
 | 3544 | 2026-05-03 04:11:28 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3544_20260503-04h.py](warehouse/can_3544_20260503-04h.py) |
 | 3545 | 2026-05-03 06:41:15 | Z.ai: GLM 4.6V | ✅ | [warehouse/can_3545_20260503-06h.py](warehouse/can_3545_20260503-06h.py) |
+| 3546 | 2026-05-03 08:57:13 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3546_20260503-08h.py](warehouse/can_3546_20260503-08h.py) |
