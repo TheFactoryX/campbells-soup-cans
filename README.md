@@ -3638,3 +3638,4 @@ If you need permission, you're thinking too much.
 | 3548 | 2026-05-03 11:58:01 | Google: Gemini 2.5 Flash | ✅ | [warehouse/can_3548_20260503-11h.py](warehouse/can_3548_20260503-11h.py) |
 | 3549 | 2026-05-03 13:49:44 | inclusionAI: Ling-2.6-1T (free) | ✅ | [warehouse/can_3549_20260503-13h.py](warehouse/can_3549_20260503-13h.py) |
 | 3550 | 2026-05-03 15:05:56 | NVIDIA: Nemotron 3 Super (free) | ❌ (broken) | [warehouse/can_3550_20260503-15h.py](warehouse/can_3550_20260503-15h.py) |
+| 3551 | 2026-05-03 16:00:54 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3551_20260503-16h.py](warehouse/can_3551_20260503-16h.py) |
