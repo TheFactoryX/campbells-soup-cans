@@ -3636,3 +3636,4 @@ If you need permission, you're thinking too much.
 | 3546 | 2026-05-03 08:57:13 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3546_20260503-08h.py](warehouse/can_3546_20260503-08h.py) |
 | 3547 | 2026-05-03 10:16:16 | Baidu: Qianfan-OCR-Fast (free) | ❌ (broken) | [warehouse/can_3547_20260503-10h.py](warehouse/can_3547_20260503-10h.py) |
 | 3548 | 2026-05-03 11:58:01 | Google: Gemini 2.5 Flash | ✅ | [warehouse/can_3548_20260503-11h.py](warehouse/can_3548_20260503-11h.py) |
+| 3549 | 2026-05-03 13:49:44 | inclusionAI: Ling-2.6-1T (free) | ✅ | [warehouse/can_3549_20260503-13h.py](warehouse/can_3549_20260503-13h.py) |
