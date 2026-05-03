@@ -3644,3 +3644,4 @@ If you need permission, you're thinking too much.
 | 3554 | 2026-05-03 19:18:41 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3554_20260503-19h.py](warehouse/can_3554_20260503-19h.py) |
 | 3555 | 2026-05-03 21:02:58 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3555_20260503-21h.py](warehouse/can_3555_20260503-21h.py) |
 | 3556 | 2026-05-03 22:00:51 | inclusionAI: Ling-2.6-1T (free) | ✅ | [warehouse/can_3556_20260503-22h.py](warehouse/can_3556_20260503-22h.py) |
+| 3557 | 2026-05-03 23:03:51 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (missing print) | [warehouse/can_3557_20260503-23h.py](warehouse/can_3557_20260503-23h.py) |
