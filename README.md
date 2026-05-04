@@ -3653,3 +3653,4 @@ If you need permission, you're thinking too much.
 | 3563 | 2026-05-04 15:21:46 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3563_20260504-15h.py](warehouse/can_3563_20260504-15h.py) |
 | 3564 | 2026-05-04 17:51:08 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_3564_20260504-17h.py](warehouse/can_3564_20260504-17h.py) |
 | 3565 | 2026-05-04 19:55:22 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3565_20260504-19h.py](warehouse/can_3565_20260504-19h.py) |
+| 3566 | 2026-05-04 21:19:51 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3566_20260504-21h.py](warehouse/can_3566_20260504-21h.py) |
