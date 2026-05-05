@@ -3657,3 +3657,4 @@ If you need permission, you're thinking too much.
 | 3567 | 2026-05-04 23:10:00 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3567_20260504-23h.py](warehouse/can_3567_20260504-23h.py) |
 | 3568 | 2026-05-05 00:08:05 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3568_20260505-00h.py](warehouse/can_3568_20260505-00h.py) |
 | 3569 | 2026-05-05 03:50:44 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3569_20260505-03h.py](warehouse/can_3569_20260505-03h.py) |
+| 3570 | 2026-05-05 06:28:35 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3570_20260505-06h.py](warehouse/can_3570_20260505-06h.py) |
