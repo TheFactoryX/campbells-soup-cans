@@ -3655,3 +3655,4 @@ If you need permission, you're thinking too much.
 | 3565 | 2026-05-04 19:55:22 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3565_20260504-19h.py](warehouse/can_3565_20260504-19h.py) |
 | 3566 | 2026-05-04 21:19:51 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3566_20260504-21h.py](warehouse/can_3566_20260504-21h.py) |
 | 3567 | 2026-05-04 23:10:00 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3567_20260504-23h.py](warehouse/can_3567_20260504-23h.py) |
+| 3568 | 2026-05-05 00:08:05 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3568_20260505-00h.py](warehouse/can_3568_20260505-00h.py) |
