@@ -3663,3 +3663,4 @@ If you need permission, you're thinking too much.
 | 3573 | 2026-05-05 14:24:39 | Poolside: Laguna XS.2 (free) | ❌ (broken) | [warehouse/can_3573_20260505-14h.py](warehouse/can_3573_20260505-14h.py) |
 | 3574 | 2026-05-05 16:54:59 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3574_20260505-16h.py](warehouse/can_3574_20260505-16h.py) |
 | 3575 | 2026-05-05 18:46:58 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3575_20260505-18h.py](warehouse/can_3575_20260505-18h.py) |
+| 3576 | 2026-05-05 20:17:25 | OpenAI: GPT-5 Codex | ✅ | [warehouse/can_3576_20260505-20h.py](warehouse/can_3576_20260505-20h.py) |
