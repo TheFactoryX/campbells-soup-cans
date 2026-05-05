@@ -3664,3 +3664,4 @@ If you need permission, you're thinking too much.
 | 3574 | 2026-05-05 16:54:59 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3574_20260505-16h.py](warehouse/can_3574_20260505-16h.py) |
 | 3575 | 2026-05-05 18:46:58 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3575_20260505-18h.py](warehouse/can_3575_20260505-18h.py) |
 | 3576 | 2026-05-05 20:17:25 | OpenAI: GPT-5 Codex | ✅ | [warehouse/can_3576_20260505-20h.py](warehouse/can_3576_20260505-20h.py) |
+| 3577 | 2026-05-05 22:12:35 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3577_20260505-22h.py](warehouse/can_3577_20260505-22h.py) |
