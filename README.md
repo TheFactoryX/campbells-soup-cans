@@ -3661,3 +3661,4 @@ If you need permission, you're thinking too much.
 | 3571 | 2026-05-05 09:20:38 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3571_20260505-09h.py](warehouse/can_3571_20260505-09h.py) |
 | 3572 | 2026-05-05 11:38:13 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3572_20260505-11h.py](warehouse/can_3572_20260505-11h.py) |
 | 3573 | 2026-05-05 14:24:39 | Poolside: Laguna XS.2 (free) | ❌ (broken) | [warehouse/can_3573_20260505-14h.py](warehouse/can_3573_20260505-14h.py) |
+| 3574 | 2026-05-05 16:54:59 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3574_20260505-16h.py](warehouse/can_3574_20260505-16h.py) |
