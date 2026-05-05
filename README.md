@@ -3665,3 +3665,4 @@ If you need permission, you're thinking too much.
 | 3575 | 2026-05-05 18:46:58 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3575_20260505-18h.py](warehouse/can_3575_20260505-18h.py) |
 | 3576 | 2026-05-05 20:17:25 | OpenAI: GPT-5 Codex | ✅ | [warehouse/can_3576_20260505-20h.py](warehouse/can_3576_20260505-20h.py) |
 | 3577 | 2026-05-05 22:12:35 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3577_20260505-22h.py](warehouse/can_3577_20260505-22h.py) |
+| 3578 | 2026-05-05 23:12:13 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3578_20260505-23h.py](warehouse/can_3578_20260505-23h.py) |
