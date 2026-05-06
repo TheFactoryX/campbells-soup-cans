@@ -3674,3 +3674,4 @@ If you need permission, you're thinking too much.
 | 3584 | 2026-05-06 14:46:30 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3584_20260506-14h.py](warehouse/can_3584_20260506-14h.py) |
 | 3585 | 2026-05-06 16:54:13 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3585_20260506-16h.py](warehouse/can_3585_20260506-16h.py) |
 | 3586 | 2026-05-06 18:59:21 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3586_20260506-18h.py](warehouse/can_3586_20260506-18h.py) |
+| 3587 | 2026-05-06 20:46:33 | Google: Gemma 4 31B (free) | ✅ | [warehouse/can_3587_20260506-20h.py](warehouse/can_3587_20260506-20h.py) |
