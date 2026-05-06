@@ -3669,3 +3669,4 @@ If you need permission, you're thinking too much.
 | 3579 | 2026-05-06 00:04:39 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3579_20260506-00h.py](warehouse/can_3579_20260506-00h.py) |
 | 3580 | 2026-05-06 04:05:35 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3580_20260506-04h.py](warehouse/can_3580_20260506-04h.py) |
 | 3581 | 2026-05-06 06:45:21 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3581_20260506-06h.py](warehouse/can_3581_20260506-06h.py) |
+| 3582 | 2026-05-06 09:36:33 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3582_20260506-09h.py](warehouse/can_3582_20260506-09h.py) |
