@@ -3668,3 +3668,4 @@ If you need permission, you're thinking too much.
 | 3578 | 2026-05-05 23:12:13 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3578_20260505-23h.py](warehouse/can_3578_20260505-23h.py) |
 | 3579 | 2026-05-06 00:04:39 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3579_20260506-00h.py](warehouse/can_3579_20260506-00h.py) |
 | 3580 | 2026-05-06 04:05:35 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3580_20260506-04h.py](warehouse/can_3580_20260506-04h.py) |
+| 3581 | 2026-05-06 06:45:21 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3581_20260506-06h.py](warehouse/can_3581_20260506-06h.py) |
