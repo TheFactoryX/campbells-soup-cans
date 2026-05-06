@@ -3672,3 +3672,4 @@ If you need permission, you're thinking too much.
 | 3582 | 2026-05-06 09:36:33 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3582_20260506-09h.py](warehouse/can_3582_20260506-09h.py) |
 | 3583 | 2026-05-06 12:07:11 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3583_20260506-12h.py](warehouse/can_3583_20260506-12h.py) |
 | 3584 | 2026-05-06 14:46:30 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3584_20260506-14h.py](warehouse/can_3584_20260506-14h.py) |
+| 3585 | 2026-05-06 16:54:13 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3585_20260506-16h.py](warehouse/can_3585_20260506-16h.py) |
