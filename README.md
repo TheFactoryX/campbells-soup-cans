@@ -3671,3 +3671,4 @@ If you need permission, you're thinking too much.
 | 3581 | 2026-05-06 06:45:21 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3581_20260506-06h.py](warehouse/can_3581_20260506-06h.py) |
 | 3582 | 2026-05-06 09:36:33 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3582_20260506-09h.py](warehouse/can_3582_20260506-09h.py) |
 | 3583 | 2026-05-06 12:07:11 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3583_20260506-12h.py](warehouse/can_3583_20260506-12h.py) |
+| 3584 | 2026-05-06 14:46:30 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3584_20260506-14h.py](warehouse/can_3584_20260506-14h.py) |
