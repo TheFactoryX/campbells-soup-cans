@@ -3684,3 +3684,4 @@ If you need permission, you're thinking too much.
 | 3594 | 2026-05-07 13:02:30 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3594_20260507-13h.py](warehouse/can_3594_20260507-13h.py) |
 | 3595 | 2026-05-07 15:36:20 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3595_20260507-15h.py](warehouse/can_3595_20260507-15h.py) |
 | 3596 | 2026-05-07 17:58:00 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3596_20260507-17h.py](warehouse/can_3596_20260507-17h.py) |
+| 3597 | 2026-05-07 19:54:26 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3597_20260507-19h.py](warehouse/can_3597_20260507-19h.py) |
