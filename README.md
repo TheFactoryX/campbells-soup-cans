@@ -3678,3 +3678,4 @@ If you need permission, you're thinking too much.
 | 3588 | 2026-05-06 22:08:34 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3588_20260506-22h.py](warehouse/can_3588_20260506-22h.py) |
 | 3589 | 2026-05-06 23:06:31 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3589_20260506-23h.py](warehouse/can_3589_20260506-23h.py) |
 | 3590 | 2026-05-07 00:05:24 | MiniMax: MiniMax M2.5 (free) | ✅ | [warehouse/can_3590_20260507-00h.py](warehouse/can_3590_20260507-00h.py) |
+| 3591 | 2026-05-07 04:05:34 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3591_20260507-04h.py](warehouse/can_3591_20260507-04h.py) |
