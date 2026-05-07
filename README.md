@@ -3682,3 +3682,4 @@ If you need permission, you're thinking too much.
 | 3592 | 2026-05-07 07:18:10 | Baidu Qianfan: CoBuddy (free) | ❌ (broken) | [warehouse/can_3592_20260507-07h.py](warehouse/can_3592_20260507-07h.py) |
 | 3593 | 2026-05-07 10:34:48 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3593_20260507-10h.py](warehouse/can_3593_20260507-10h.py) |
 | 3594 | 2026-05-07 13:02:30 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3594_20260507-13h.py](warehouse/can_3594_20260507-13h.py) |
+| 3595 | 2026-05-07 15:36:20 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3595_20260507-15h.py](warehouse/can_3595_20260507-15h.py) |
