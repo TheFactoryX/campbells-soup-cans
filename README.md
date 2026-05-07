@@ -3686,3 +3686,4 @@ If you need permission, you're thinking too much.
 | 3596 | 2026-05-07 17:58:00 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3596_20260507-17h.py](warehouse/can_3596_20260507-17h.py) |
 | 3597 | 2026-05-07 19:54:26 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3597_20260507-19h.py](warehouse/can_3597_20260507-19h.py) |
 | 3598 | 2026-05-07 21:14:38 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3598_20260507-21h.py](warehouse/can_3598_20260507-21h.py) |
+| 3599 | 2026-05-07 22:17:52 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3599_20260507-22h.py](warehouse/can_3599_20260507-22h.py) |
