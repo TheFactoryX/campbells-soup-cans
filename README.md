@@ -3695,3 +3695,4 @@ If you need permission, you're thinking too much.
 | 3605 | 2026-05-08 11:45:35 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3605_20260508-11h.py](warehouse/can_3605_20260508-11h.py) |
 | 3606 | 2026-05-08 14:17:02 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3606_20260508-14h.py](warehouse/can_3606_20260508-14h.py) |
 | 3607 | 2026-05-08 16:44:36 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3607_20260508-16h.py](warehouse/can_3607_20260508-16h.py) |
+| 3608 | 2026-05-08 18:44:38 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3608_20260508-18h.py](warehouse/can_3608_20260508-18h.py) |
