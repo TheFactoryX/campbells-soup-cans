@@ -3693,3 +3693,4 @@ If you need permission, you're thinking too much.
 | 3603 | 2026-05-08 07:57:57 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3603_20260508-07h.py](warehouse/can_3603_20260508-07h.py) |
 | 3604 | 2026-05-08 09:53:52 | Baidu Qianfan: CoBuddy (free) | ✅ | [warehouse/can_3604_20260508-09h.py](warehouse/can_3604_20260508-09h.py) |
 | 3605 | 2026-05-08 11:45:35 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3605_20260508-11h.py](warehouse/can_3605_20260508-11h.py) |
+| 3606 | 2026-05-08 14:17:02 | Tencent: Hy3 preview (free) | ✅ | [warehouse/can_3606_20260508-14h.py](warehouse/can_3606_20260508-14h.py) |
