@@ -3698,3 +3698,4 @@ If you need permission, you're thinking too much.
 | 3608 | 2026-05-08 18:44:38 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3608_20260508-18h.py](warehouse/can_3608_20260508-18h.py) |
 | 3609 | 2026-05-08 20:15:54 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3609_20260508-20h.py](warehouse/can_3609_20260508-20h.py) |
 | 3610 | 2026-05-08 21:29:25 | Baidu Qianfan: CoBuddy (free) | ✅ | [warehouse/can_3610_20260508-21h.py](warehouse/can_3610_20260508-21h.py) |
+| 3611 | 2026-05-08 23:10:17 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3611_20260508-23h.py](warehouse/can_3611_20260508-23h.py) |
