@@ -3689,3 +3689,4 @@ If you need permission, you're thinking too much.
 | 3599 | 2026-05-07 22:17:52 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3599_20260507-22h.py](warehouse/can_3599_20260507-22h.py) |
 | 3600 | 2026-05-08 00:06:52 | Baidu: Qianfan-OCR-Fast (free) | ✅ | [warehouse/can_3600_20260508-00h.py](warehouse/can_3600_20260508-00h.py) |
 | 3601 | 2026-05-08 03:53:49 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_3601_20260508-03h.py](warehouse/can_3601_20260508-03h.py) |
+| 3602 | 2026-05-08 06:09:43 | Baidu: Qianfan-OCR-Fast (free) | ❌ (broken) | [warehouse/can_3602_20260508-06h.py](warehouse/can_3602_20260508-06h.py) |
