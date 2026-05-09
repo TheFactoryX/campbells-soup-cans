@@ -3700,3 +3700,4 @@ If you need permission, you're thinking too much.
 | 3610 | 2026-05-08 21:29:25 | Baidu Qianfan: CoBuddy (free) | ✅ | [warehouse/can_3610_20260508-21h.py](warehouse/can_3610_20260508-21h.py) |
 | 3611 | 2026-05-08 23:10:17 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3611_20260508-23h.py](warehouse/can_3611_20260508-23h.py) |
 | 3612 | 2026-05-09 00:09:55 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3612_20260509-00h.py](warehouse/can_3612_20260509-00h.py) |
+| 3613 | 2026-05-09 03:56:17 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3613_20260509-03h.py](warehouse/can_3613_20260509-03h.py) |
