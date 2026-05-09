@@ -3709,3 +3709,4 @@ If you need permission, you're thinking too much.
 | 3619 | 2026-05-09 15:13:38 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3619_20260509-15h.py](warehouse/can_3619_20260509-15h.py) |
 | 3620 | 2026-05-09 16:09:56 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3620_20260509-16h.py](warehouse/can_3620_20260509-16h.py) |
 | 3621 | 2026-05-09 17:12:55 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_3621_20260509-17h.py](warehouse/can_3621_20260509-17h.py) |
+| 3622 | 2026-05-09 18:06:33 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3622_20260509-18h.py](warehouse/can_3622_20260509-18h.py) |
