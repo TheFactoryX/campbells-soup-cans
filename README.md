@@ -3704,3 +3704,4 @@ If you need permission, you're thinking too much.
 | 3614 | 2026-05-09 06:27:20 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3614_20260509-06h.py](warehouse/can_3614_20260509-06h.py) |
 | 3615 | 2026-05-09 08:52:18 | NVIDIA: Nemotron 3 Super (free) | ❌ (missing print) | [warehouse/can_3615_20260509-08h.py](warehouse/can_3615_20260509-08h.py) |
 | 3616 | 2026-05-09 10:16:24 | Baidu: Qianfan-OCR-Fast (free) | ❌ (broken) | [warehouse/can_3616_20260509-10h.py](warehouse/can_3616_20260509-10h.py) |
+| 3617 | 2026-05-09 12:01:14 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_3617_20260509-12h.py](warehouse/can_3617_20260509-12h.py) |
