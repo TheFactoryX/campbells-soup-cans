@@ -3701,3 +3701,4 @@ If you need permission, you're thinking too much.
 | 3611 | 2026-05-08 23:10:17 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3611_20260508-23h.py](warehouse/can_3611_20260508-23h.py) |
 | 3612 | 2026-05-09 00:09:55 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3612_20260509-00h.py](warehouse/can_3612_20260509-00h.py) |
 | 3613 | 2026-05-09 03:56:17 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3613_20260509-03h.py](warehouse/can_3613_20260509-03h.py) |
+| 3614 | 2026-05-09 06:27:20 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3614_20260509-06h.py](warehouse/can_3614_20260509-06h.py) |
