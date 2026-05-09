@@ -3712,3 +3712,4 @@ If you need permission, you're thinking too much.
 | 3622 | 2026-05-09 18:06:33 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3622_20260509-18h.py](warehouse/can_3622_20260509-18h.py) |
 | 3623 | 2026-05-09 19:33:19 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3623_20260509-19h.py](warehouse/can_3623_20260509-19h.py) |
 | 3624 | 2026-05-09 21:03:15 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3624_20260509-21h.py](warehouse/can_3624_20260509-21h.py) |
+| 3625 | 2026-05-09 22:02:00 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_3625_20260509-22h.py](warehouse/can_3625_20260509-22h.py) |
