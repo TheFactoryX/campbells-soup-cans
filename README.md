@@ -3706,3 +3706,4 @@ If you need permission, you're thinking too much.
 | 3616 | 2026-05-09 10:16:24 | Baidu: Qianfan-OCR-Fast (free) | ❌ (broken) | [warehouse/can_3616_20260509-10h.py](warehouse/can_3616_20260509-10h.py) |
 | 3617 | 2026-05-09 12:01:14 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_3617_20260509-12h.py](warehouse/can_3617_20260509-12h.py) |
 | 3618 | 2026-05-09 13:53:02 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3618_20260509-13h.py](warehouse/can_3618_20260509-13h.py) |
+| 3619 | 2026-05-09 15:13:38 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3619_20260509-15h.py](warehouse/can_3619_20260509-15h.py) |
