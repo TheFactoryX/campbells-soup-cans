@@ -3714,3 +3714,4 @@ If you need permission, you're thinking too much.
 | 3624 | 2026-05-09 21:03:15 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3624_20260509-21h.py](warehouse/can_3624_20260509-21h.py) |
 | 3625 | 2026-05-09 22:02:00 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_3625_20260509-22h.py](warehouse/can_3625_20260509-22h.py) |
 | 3626 | 2026-05-09 23:05:22 | MiniMax: MiniMax M2.5 (free) | ❌ (broken) | [warehouse/can_3626_20260509-23h.py](warehouse/can_3626_20260509-23h.py) |
+| 3627 | 2026-05-10 00:04:46 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3627_20260510-00h.py](warehouse/can_3627_20260510-00h.py) |
