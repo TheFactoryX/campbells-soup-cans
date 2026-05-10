@@ -3726,3 +3726,4 @@ If you need permission, you're thinking too much.
 | 3636 | 2026-05-10 17:13:10 | inclusionAI: Ring-2.6-1T (free) | ✅ | [warehouse/can_3636_20260510-17h.py](warehouse/can_3636_20260510-17h.py) |
 | 3637 | 2026-05-10 18:06:58 | Baidu Qianfan: CoBuddy (free) | ✅ | [warehouse/can_3637_20260510-18h.py](warehouse/can_3637_20260510-18h.py) |
 | 3638 | 2026-05-10 19:33:32 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3638_20260510-19h.py](warehouse/can_3638_20260510-19h.py) |
+| 3639 | 2026-05-10 21:06:38 | Free Models Router | ✅ | [warehouse/can_3639_20260510-21h.py](warehouse/can_3639_20260510-21h.py) |
