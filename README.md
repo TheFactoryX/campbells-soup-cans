@@ -3724,3 +3724,4 @@ If you need permission, you're thinking too much.
 | 3634 | 2026-05-10 15:13:54 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3634_20260510-15h.py](warehouse/can_3634_20260510-15h.py) |
 | 3635 | 2026-05-10 16:11:01 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3635_20260510-16h.py](warehouse/can_3635_20260510-16h.py) |
 | 3636 | 2026-05-10 17:13:10 | inclusionAI: Ring-2.6-1T (free) | ✅ | [warehouse/can_3636_20260510-17h.py](warehouse/can_3636_20260510-17h.py) |
+| 3637 | 2026-05-10 18:06:58 | Baidu Qianfan: CoBuddy (free) | ✅ | [warehouse/can_3637_20260510-18h.py](warehouse/can_3637_20260510-18h.py) |
