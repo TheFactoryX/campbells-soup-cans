@@ -3719,3 +3719,4 @@ If you need permission, you're thinking too much.
 | 3629 | 2026-05-10 06:46:58 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3629_20260510-06h.py](warehouse/can_3629_20260510-06h.py) |
 | 3630 | 2026-05-10 09:02:04 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_3630_20260510-09h.py](warehouse/can_3630_20260510-09h.py) |
 | 3631 | 2026-05-10 10:37:50 | Baidu: Qianfan-OCR-Fast (free) | ✅ | [warehouse/can_3631_20260510-10h.py](warehouse/can_3631_20260510-10h.py) |
+| 3632 | 2026-05-10 12:02:34 | Owl Alpha | ✅ | [warehouse/can_3632_20260510-12h.py](warehouse/can_3632_20260510-12h.py) |
