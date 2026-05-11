@@ -3729,3 +3729,4 @@ If you need permission, you're thinking too much.
 | 3639 | 2026-05-10 21:06:38 | Free Models Router | ✅ | [warehouse/can_3639_20260510-21h.py](warehouse/can_3639_20260510-21h.py) |
 | 3640 | 2026-05-10 22:05:18 | Owl Alpha | ✅ | [warehouse/can_3640_20260510-22h.py](warehouse/can_3640_20260510-22h.py) |
 | 3641 | 2026-05-10 23:09:13 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3641_20260510-23h.py](warehouse/can_3641_20260510-23h.py) |
+| 3642 | 2026-05-11 00:09:00 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3642_20260511-00h.py](warehouse/can_3642_20260511-00h.py) |
