@@ -3737,3 +3737,4 @@ If you need permission, you're thinking too much.
 | 3647 | 2026-05-11 18:04:57 | Baidu Qianfan: CoBuddy (free) | ❌ (empty, missing print) | [warehouse/can_3647_20260511-18h.py](warehouse/can_3647_20260511-18h.py) |
 | 3648 | 2026-05-11 20:03:31 | Free Models Router | ✅ | [warehouse/can_3648_20260511-20h.py](warehouse/can_3648_20260511-20h.py) |
 | 3649 | 2026-05-11 21:41:27 | OpenAI: gpt-oss-20b (free) | ❌ (missing print) | [warehouse/can_3649_20260511-21h.py](warehouse/can_3649_20260511-21h.py) |
+| 3650 | 2026-05-11 23:12:06 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3650_20260511-23h.py](warehouse/can_3650_20260511-23h.py) |
