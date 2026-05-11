@@ -3734,3 +3734,4 @@ If you need permission, you're thinking too much.
 | 3644 | 2026-05-11 08:36:00 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3644_20260511-08h.py](warehouse/can_3644_20260511-08h.py) |
 | 3645 | 2026-05-11 12:22:20 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3645_20260511-12h.py](warehouse/can_3645_20260511-12h.py) |
 | 3646 | 2026-05-11 16:10:56 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3646_20260511-16h.py](warehouse/can_3646_20260511-16h.py) |
+| 3647 | 2026-05-11 18:04:57 | Baidu Qianfan: CoBuddy (free) | ❌ (empty, missing print) | [warehouse/can_3647_20260511-18h.py](warehouse/can_3647_20260511-18h.py) |
