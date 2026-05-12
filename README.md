@@ -3741,3 +3741,4 @@ If you need permission, you're thinking too much.
 | 3651 | 2026-05-12 00:11:09 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3651_20260512-00h.py](warehouse/can_3651_20260512-00h.py) |
 | 3652 | 2026-05-12 04:05:58 | Free Models Router | ✅ | [warehouse/can_3652_20260512-04h.py](warehouse/can_3652_20260512-04h.py) |
 | 3653 | 2026-05-12 06:49:48 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3653_20260512-06h.py](warehouse/can_3653_20260512-06h.py) |
+| 3654 | 2026-05-12 09:48:45 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3654_20260512-09h.py](warehouse/can_3654_20260512-09h.py) |
