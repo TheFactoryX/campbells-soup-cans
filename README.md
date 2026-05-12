@@ -3743,3 +3743,4 @@ If you need permission, you're thinking too much.
 | 3653 | 2026-05-12 06:49:48 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3653_20260512-06h.py](warehouse/can_3653_20260512-06h.py) |
 | 3654 | 2026-05-12 09:48:45 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3654_20260512-09h.py](warehouse/can_3654_20260512-09h.py) |
 | 3655 | 2026-05-12 12:17:35 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3655_20260512-12h.py](warehouse/can_3655_20260512-12h.py) |
+| 3656 | 2026-05-12 15:45:36 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3656_20260512-15h.py](warehouse/can_3656_20260512-15h.py) |
