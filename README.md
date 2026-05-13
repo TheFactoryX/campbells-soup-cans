@@ -3753,3 +3753,4 @@ If you need permission, you're thinking too much.
 | 3663 | 2026-05-13 10:43:26 | Free Models Router | ✅ | [warehouse/can_3663_20260513-10h.py](warehouse/can_3663_20260513-10h.py) |
 | 3664 | 2026-05-13 13:29:01 | Google: Gemma 4 31B (free) | ✅ | [warehouse/can_3664_20260513-13h.py](warehouse/can_3664_20260513-13h.py) |
 | 3665 | 2026-05-13 16:32:37 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3665_20260513-16h.py](warehouse/can_3665_20260513-16h.py) |
+| 3666 | 2026-05-13 19:06:07 | inclusionAI: Ring-2.6-1T (free) | ✅ | [warehouse/can_3666_20260513-19h.py](warehouse/can_3666_20260513-19h.py) |
