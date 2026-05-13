@@ -3755,3 +3755,4 @@ If you need permission, you're thinking too much.
 | 3665 | 2026-05-13 16:32:37 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3665_20260513-16h.py](warehouse/can_3665_20260513-16h.py) |
 | 3666 | 2026-05-13 19:06:07 | inclusionAI: Ring-2.6-1T (free) | ✅ | [warehouse/can_3666_20260513-19h.py](warehouse/can_3666_20260513-19h.py) |
 | 3667 | 2026-05-13 20:54:35 | Arcee AI: Trinity Large Thinking (free) | ✅ | [warehouse/can_3667_20260513-20h.py](warehouse/can_3667_20260513-20h.py) |
+| 3668 | 2026-05-13 22:38:39 | Arcee AI: Trinity Large Thinking (free) | ✅ | [warehouse/can_3668_20260513-22h.py](warehouse/can_3668_20260513-22h.py) |
