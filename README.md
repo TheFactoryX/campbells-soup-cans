@@ -3747,3 +3747,4 @@ If you need permission, you're thinking too much.
 | 3657 | 2026-05-12 18:18:02 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3657_20260512-18h.py](warehouse/can_3657_20260512-18h.py) |
 | 3658 | 2026-05-12 20:50:06 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3658_20260512-20h.py](warehouse/can_3658_20260512-20h.py) |
 | 3659 | 2026-05-12 22:35:14 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3659_20260512-22h.py](warehouse/can_3659_20260512-22h.py) |
+| 3660 | 2026-05-13 00:13:25 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3660_20260513-00h.py](warehouse/can_3660_20260513-00h.py) |
