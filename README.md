@@ -3748,3 +3748,4 @@ If you need permission, you're thinking too much.
 | 3658 | 2026-05-12 20:50:06 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3658_20260512-20h.py](warehouse/can_3658_20260512-20h.py) |
 | 3659 | 2026-05-12 22:35:14 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3659_20260512-22h.py](warehouse/can_3659_20260512-22h.py) |
 | 3660 | 2026-05-13 00:13:25 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3660_20260513-00h.py](warehouse/can_3660_20260513-00h.py) |
+| 3661 | 2026-05-13 04:14:14 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3661_20260513-04h.py](warehouse/can_3661_20260513-04h.py) |
