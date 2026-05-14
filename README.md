@@ -3760,3 +3760,4 @@ If you need permission, you're thinking too much.
 | 3670 | 2026-05-14 04:15:17 | ByteDance Seed: Seed 1.6 Flash | ✅ | [warehouse/can_3670_20260514-04h.py](warehouse/can_3670_20260514-04h.py) |
 | 3671 | 2026-05-14 07:24:38 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3671_20260514-07h.py](warehouse/can_3671_20260514-07h.py) |
 | 3672 | 2026-05-14 10:34:01 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3672_20260514-10h.py](warehouse/can_3672_20260514-10h.py) |
+| 3673 | 2026-05-14 13:05:18 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3673_20260514-13h.py](warehouse/can_3673_20260514-13h.py) |
