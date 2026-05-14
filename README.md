@@ -3765,3 +3765,4 @@ If you need permission, you're thinking too much.
 | 3675 | 2026-05-14 18:06:44 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3675_20260514-18h.py](warehouse/can_3675_20260514-18h.py) |
 | 3676 | 2026-05-14 20:02:13 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3676_20260514-20h.py](warehouse/can_3676_20260514-20h.py) |
 | 3677 | 2026-05-14 21:36:33 | Owl Alpha | ✅ | [warehouse/can_3677_20260514-21h.py](warehouse/can_3677_20260514-21h.py) |
+| 3678 | 2026-05-14 23:11:51 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3678_20260514-23h.py](warehouse/can_3678_20260514-23h.py) |
