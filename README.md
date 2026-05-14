@@ -3762,3 +3762,4 @@ If you need permission, you're thinking too much.
 | 3672 | 2026-05-14 10:34:01 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3672_20260514-10h.py](warehouse/can_3672_20260514-10h.py) |
 | 3673 | 2026-05-14 13:05:18 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3673_20260514-13h.py](warehouse/can_3673_20260514-13h.py) |
 | 3674 | 2026-05-14 15:33:27 | Free Models Router | ✅ | [warehouse/can_3674_20260514-15h.py](warehouse/can_3674_20260514-15h.py) |
+| 3675 | 2026-05-14 18:06:44 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3675_20260514-18h.py](warehouse/can_3675_20260514-18h.py) |
