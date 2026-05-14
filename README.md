@@ -3759,3 +3759,4 @@ If you need permission, you're thinking too much.
 | 3669 | 2026-05-14 00:15:16 | DeepSeek: DeepSeek V4 Flash (free) | ✅ | [warehouse/can_3669_20260514-00h.py](warehouse/can_3669_20260514-00h.py) |
 | 3670 | 2026-05-14 04:15:17 | ByteDance Seed: Seed 1.6 Flash | ✅ | [warehouse/can_3670_20260514-04h.py](warehouse/can_3670_20260514-04h.py) |
 | 3671 | 2026-05-14 07:24:38 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3671_20260514-07h.py](warehouse/can_3671_20260514-07h.py) |
+| 3672 | 2026-05-14 10:34:01 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3672_20260514-10h.py](warehouse/can_3672_20260514-10h.py) |
