@@ -3773,3 +3773,4 @@ If you need permission, you're thinking too much.
 | 3683 | 2026-05-15 14:35:45 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3683_20260515-14h.py](warehouse/can_3683_20260515-14h.py) |
 | 3684 | 2026-05-15 17:00:59 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3684_20260515-17h.py](warehouse/can_3684_20260515-17h.py) |
 | 3685 | 2026-05-15 18:54:00 | Owl Alpha | ✅ | [warehouse/can_3685_20260515-18h.py](warehouse/can_3685_20260515-18h.py) |
+| 3686 | 2026-05-15 20:34:31 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3686_20260515-20h.py](warehouse/can_3686_20260515-20h.py) |
