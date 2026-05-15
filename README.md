@@ -3768,3 +3768,4 @@ If you need permission, you're thinking too much.
 | 3678 | 2026-05-14 23:11:51 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3678_20260514-23h.py](warehouse/can_3678_20260514-23h.py) |
 | 3679 | 2026-05-15 00:10:01 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3679_20260515-00h.py](warehouse/can_3679_20260515-00h.py) |
 | 3680 | 2026-05-15 04:18:03 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3680_20260515-04h.py](warehouse/can_3680_20260515-04h.py) |
+| 3681 | 2026-05-15 08:16:42 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3681_20260515-08h.py](warehouse/can_3681_20260515-08h.py) |
