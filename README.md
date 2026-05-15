@@ -3772,3 +3772,4 @@ If you need permission, you're thinking too much.
 | 3682 | 2026-05-15 11:29:27 | Free Models Router | ✅ | [warehouse/can_3682_20260515-11h.py](warehouse/can_3682_20260515-11h.py) |
 | 3683 | 2026-05-15 14:35:45 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3683_20260515-14h.py](warehouse/can_3683_20260515-14h.py) |
 | 3684 | 2026-05-15 17:00:59 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3684_20260515-17h.py](warehouse/can_3684_20260515-17h.py) |
+| 3685 | 2026-05-15 18:54:00 | Owl Alpha | ✅ | [warehouse/can_3685_20260515-18h.py](warehouse/can_3685_20260515-18h.py) |
