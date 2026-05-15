@@ -3766,3 +3766,4 @@ If you need permission, you're thinking too much.
 | 3676 | 2026-05-14 20:02:13 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3676_20260514-20h.py](warehouse/can_3676_20260514-20h.py) |
 | 3677 | 2026-05-14 21:36:33 | Owl Alpha | ✅ | [warehouse/can_3677_20260514-21h.py](warehouse/can_3677_20260514-21h.py) |
 | 3678 | 2026-05-14 23:11:51 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3678_20260514-23h.py](warehouse/can_3678_20260514-23h.py) |
+| 3679 | 2026-05-15 00:10:01 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3679_20260515-00h.py](warehouse/can_3679_20260515-00h.py) |
