@@ -3775,3 +3775,4 @@ If you need permission, you're thinking too much.
 | 3685 | 2026-05-15 18:54:00 | Owl Alpha | ✅ | [warehouse/can_3685_20260515-18h.py](warehouse/can_3685_20260515-18h.py) |
 | 3686 | 2026-05-15 20:34:31 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3686_20260515-20h.py](warehouse/can_3686_20260515-20h.py) |
 | 3687 | 2026-05-15 22:11:10 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3687_20260515-22h.py](warehouse/can_3687_20260515-22h.py) |
+| 3688 | 2026-05-15 23:11:59 | Arcee AI: Trinity Large Thinking (free) | ✅ | [warehouse/can_3688_20260515-23h.py](warehouse/can_3688_20260515-23h.py) |
