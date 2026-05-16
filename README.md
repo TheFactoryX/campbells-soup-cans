@@ -3781,3 +3781,4 @@ If you need permission, you're thinking too much.
 | 3691 | 2026-05-16 06:34:27 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3691_20260516-06h.py](warehouse/can_3691_20260516-06h.py) |
 | 3692 | 2026-05-16 09:00:55 | Free Models Router | ✅ | [warehouse/can_3692_20260516-09h.py](warehouse/can_3692_20260516-09h.py) |
 | 3693 | 2026-05-16 10:37:30 | Free Models Router | ✅ | [warehouse/can_3693_20260516-10h.py](warehouse/can_3693_20260516-10h.py) |
+| 3694 | 2026-05-16 12:06:11 | Baidu Qianfan: CoBuddy (free) | ❌ (broken) | [warehouse/can_3694_20260516-12h.py](warehouse/can_3694_20260516-12h.py) |
