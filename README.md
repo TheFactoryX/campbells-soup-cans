@@ -3789,3 +3789,4 @@ If you need permission, you're thinking too much.
 | 3699 | 2026-05-16 18:09:43 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3699_20260516-18h.py](warehouse/can_3699_20260516-18h.py) |
 | 3700 | 2026-05-16 19:33:34 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3700_20260516-19h.py](warehouse/can_3700_20260516-19h.py) |
 | 3701 | 2026-05-16 21:04:36 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3701_20260516-21h.py](warehouse/can_3701_20260516-21h.py) |
+| 3702 | 2026-05-16 22:05:07 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3702_20260516-22h.py](warehouse/can_3702_20260516-22h.py) |
