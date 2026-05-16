@@ -3783,3 +3783,4 @@ If you need permission, you're thinking too much.
 | 3693 | 2026-05-16 10:37:30 | Free Models Router | ✅ | [warehouse/can_3693_20260516-10h.py](warehouse/can_3693_20260516-10h.py) |
 | 3694 | 2026-05-16 12:06:11 | Baidu Qianfan: CoBuddy (free) | ❌ (broken) | [warehouse/can_3694_20260516-12h.py](warehouse/can_3694_20260516-12h.py) |
 | 3695 | 2026-05-16 14:00:05 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3695_20260516-14h.py](warehouse/can_3695_20260516-14h.py) |
+| 3696 | 2026-05-16 15:16:05 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3696_20260516-15h.py](warehouse/can_3696_20260516-15h.py) |
