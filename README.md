@@ -3778,3 +3778,4 @@ If you need permission, you're thinking too much.
 | 3688 | 2026-05-15 23:11:59 | Arcee AI: Trinity Large Thinking (free) | ✅ | [warehouse/can_3688_20260515-23h.py](warehouse/can_3688_20260515-23h.py) |
 | 3689 | 2026-05-16 00:07:14 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3689_20260516-00h.py](warehouse/can_3689_20260516-00h.py) |
 | 3690 | 2026-05-16 04:02:44 | OpenAI: GPT-5 | ❌ (missing print) | [warehouse/can_3690_20260516-04h.py](warehouse/can_3690_20260516-04h.py) |
+| 3691 | 2026-05-16 06:34:27 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3691_20260516-06h.py](warehouse/can_3691_20260516-06h.py) |
