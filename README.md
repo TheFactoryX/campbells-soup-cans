@@ -3788,3 +3788,4 @@ If you need permission, you're thinking too much.
 | 3698 | 2026-05-16 17:16:10 | Relace: Relace Search | ✅ | [warehouse/can_3698_20260516-17h.py](warehouse/can_3698_20260516-17h.py) |
 | 3699 | 2026-05-16 18:09:43 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3699_20260516-18h.py](warehouse/can_3699_20260516-18h.py) |
 | 3700 | 2026-05-16 19:33:34 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3700_20260516-19h.py](warehouse/can_3700_20260516-19h.py) |
+| 3701 | 2026-05-16 21:04:36 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3701_20260516-21h.py](warehouse/can_3701_20260516-21h.py) |
