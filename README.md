@@ -3796,3 +3796,4 @@ If you need permission, you're thinking too much.
 | 3706 | 2026-05-17 07:44:13 | Google: Gemma 4 26B A4B  (free) | ❌ (broken) | [warehouse/can_3706_20260517-07h.py](warehouse/can_3706_20260517-07h.py) |
 | 3707 | 2026-05-17 09:59:21 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3707_20260517-09h.py](warehouse/can_3707_20260517-09h.py) |
 | 3708 | 2026-05-17 11:33:23 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3708_20260517-11h.py](warehouse/can_3708_20260517-11h.py) |
+| 3709 | 2026-05-17 13:57:17 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3709_20260517-13h.py](warehouse/can_3709_20260517-13h.py) |
