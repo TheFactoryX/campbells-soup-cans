@@ -3797,3 +3797,4 @@ If you need permission, you're thinking too much.
 | 3707 | 2026-05-17 09:59:21 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3707_20260517-09h.py](warehouse/can_3707_20260517-09h.py) |
 | 3708 | 2026-05-17 11:33:23 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3708_20260517-11h.py](warehouse/can_3708_20260517-11h.py) |
 | 3709 | 2026-05-17 13:57:17 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3709_20260517-13h.py](warehouse/can_3709_20260517-13h.py) |
+| 3710 | 2026-05-17 15:17:27 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3710_20260517-15h.py](warehouse/can_3710_20260517-15h.py) |
