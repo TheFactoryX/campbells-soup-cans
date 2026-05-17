@@ -3793,3 +3793,4 @@ If you need permission, you're thinking too much.
 | 3703 | 2026-05-16 23:08:21 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3703_20260516-23h.py](warehouse/can_3703_20260516-23h.py) |
 | 3704 | 2026-05-17 00:08:44 | Owl Alpha | ✅ | [warehouse/can_3704_20260517-00h.py](warehouse/can_3704_20260517-00h.py) |
 | 3705 | 2026-05-17 04:32:29 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3705_20260517-04h.py](warehouse/can_3705_20260517-04h.py) |
+| 3706 | 2026-05-17 07:44:13 | Google: Gemma 4 26B A4B  (free) | ❌ (broken) | [warehouse/can_3706_20260517-07h.py](warehouse/can_3706_20260517-07h.py) |
