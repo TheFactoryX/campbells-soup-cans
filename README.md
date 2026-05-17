@@ -3791,3 +3791,4 @@ If you need permission, you're thinking too much.
 | 3701 | 2026-05-16 21:04:36 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3701_20260516-21h.py](warehouse/can_3701_20260516-21h.py) |
 | 3702 | 2026-05-16 22:05:07 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3702_20260516-22h.py](warehouse/can_3702_20260516-22h.py) |
 | 3703 | 2026-05-16 23:08:21 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3703_20260516-23h.py](warehouse/can_3703_20260516-23h.py) |
+| 3704 | 2026-05-17 00:08:44 | Owl Alpha | ✅ | [warehouse/can_3704_20260517-00h.py](warehouse/can_3704_20260517-00h.py) |
