@@ -3794,3 +3794,4 @@ If you need permission, you're thinking too much.
 | 3704 | 2026-05-17 00:08:44 | Owl Alpha | ✅ | [warehouse/can_3704_20260517-00h.py](warehouse/can_3704_20260517-00h.py) |
 | 3705 | 2026-05-17 04:32:29 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3705_20260517-04h.py](warehouse/can_3705_20260517-04h.py) |
 | 3706 | 2026-05-17 07:44:13 | Google: Gemma 4 26B A4B  (free) | ❌ (broken) | [warehouse/can_3706_20260517-07h.py](warehouse/can_3706_20260517-07h.py) |
+| 3707 | 2026-05-17 09:59:21 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3707_20260517-09h.py](warehouse/can_3707_20260517-09h.py) |
