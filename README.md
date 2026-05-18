@@ -3806,3 +3806,4 @@ If you need permission, you're thinking too much.
 | 3716 | 2026-05-17 23:11:11 | Owl Alpha | ✅ | [warehouse/can_3716_20260517-23h.py](warehouse/can_3716_20260517-23h.py) |
 | 3717 | 2026-05-18 00:10:26 | Z.ai: GLM 4.5 Air | ✅ | [warehouse/can_3717_20260518-00h.py](warehouse/can_3717_20260518-00h.py) |
 | 3718 | 2026-05-18 04:42:03 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3718_20260518-04h.py](warehouse/can_3718_20260518-04h.py) |
+| 3719 | 2026-05-18 08:52:22 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3719_20260518-08h.py](warehouse/can_3719_20260518-08h.py) |
