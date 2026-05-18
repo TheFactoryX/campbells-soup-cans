@@ -3812,3 +3812,4 @@ If you need permission, you're thinking too much.
 | 3722 | 2026-05-18 19:02:48 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3722_20260518-19h.py](warehouse/can_3722_20260518-19h.py) |
 | 3723 | 2026-05-18 20:45:39 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3723_20260518-20h.py](warehouse/can_3723_20260518-20h.py) |
 | 3724 | 2026-05-18 22:13:31 | Mistral: Ministral 3 14B 2512 | ❌ (broken) | [warehouse/can_3724_20260518-22h.py](warehouse/can_3724_20260518-22h.py) |
+| 3725 | 2026-05-18 23:31:11 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3725_20260518-23h.py](warehouse/can_3725_20260518-23h.py) |
