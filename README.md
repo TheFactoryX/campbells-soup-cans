@@ -3807,3 +3807,4 @@ If you need permission, you're thinking too much.
 | 3717 | 2026-05-18 00:10:26 | Z.ai: GLM 4.5 Air | ✅ | [warehouse/can_3717_20260518-00h.py](warehouse/can_3717_20260518-00h.py) |
 | 3718 | 2026-05-18 04:42:03 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3718_20260518-04h.py](warehouse/can_3718_20260518-04h.py) |
 | 3719 | 2026-05-18 08:52:22 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3719_20260518-08h.py](warehouse/can_3719_20260518-08h.py) |
+| 3720 | 2026-05-18 12:47:13 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3720_20260518-12h.py](warehouse/can_3720_20260518-12h.py) |
