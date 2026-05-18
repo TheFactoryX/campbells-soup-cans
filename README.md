@@ -3810,3 +3810,4 @@ If you need permission, you're thinking too much.
 | 3720 | 2026-05-18 12:47:13 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3720_20260518-12h.py](warehouse/can_3720_20260518-12h.py) |
 | 3721 | 2026-05-18 16:32:41 | DeepSeek: DeepSeek V4 Flash (free) | ❌ (broken) | [warehouse/can_3721_20260518-16h.py](warehouse/can_3721_20260518-16h.py) |
 | 3722 | 2026-05-18 19:02:48 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3722_20260518-19h.py](warehouse/can_3722_20260518-19h.py) |
+| 3723 | 2026-05-18 20:45:39 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3723_20260518-20h.py](warehouse/can_3723_20260518-20h.py) |
