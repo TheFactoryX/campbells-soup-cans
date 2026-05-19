@@ -3815,3 +3815,4 @@ If you need permission, you're thinking too much.
 | 3725 | 2026-05-18 23:31:11 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3725_20260518-23h.py](warehouse/can_3725_20260518-23h.py) |
 | 3726 | 2026-05-19 04:33:28 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (broken) | [warehouse/can_3726_20260519-04h.py](warehouse/can_3726_20260519-04h.py) |
 | 3727 | 2026-05-19 08:38:16 | Free Models Router | ✅ | [warehouse/can_3727_20260519-08h.py](warehouse/can_3727_20260519-08h.py) |
+| 3728 | 2026-05-19 12:20:17 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3728_20260519-12h.py](warehouse/can_3728_20260519-12h.py) |
