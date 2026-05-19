@@ -3817,3 +3817,4 @@ If you need permission, you're thinking too much.
 | 3727 | 2026-05-19 08:38:16 | Free Models Router | ✅ | [warehouse/can_3727_20260519-08h.py](warehouse/can_3727_20260519-08h.py) |
 | 3728 | 2026-05-19 12:20:17 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3728_20260519-12h.py](warehouse/can_3728_20260519-12h.py) |
 | 3729 | 2026-05-19 16:30:57 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3729_20260519-16h.py](warehouse/can_3729_20260519-16h.py) |
+| 3730 | 2026-05-19 19:16:51 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3730_20260519-19h.py](warehouse/can_3730_20260519-19h.py) |
