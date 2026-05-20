@@ -3826,3 +3826,4 @@ If you need permission, you're thinking too much.
 | 3736 | 2026-05-20 15:56:15 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken, missing print) | [warehouse/can_3736_20260520-15h.py](warehouse/can_3736_20260520-15h.py) |
 | 3737 | 2026-05-20 18:32:10 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3737_20260520-18h.py](warehouse/can_3737_20260520-18h.py) |
 | 3738 | 2026-05-20 21:13:28 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3738_20260520-21h.py](warehouse/can_3738_20260520-21h.py) |
+| 3739 | 2026-05-20 22:44:38 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3739_20260520-22h.py](warehouse/can_3739_20260520-22h.py) |
