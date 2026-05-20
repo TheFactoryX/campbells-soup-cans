@@ -3822,3 +3822,4 @@ If you need permission, you're thinking too much.
 | 3732 | 2026-05-19 23:33:02 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3732_20260519-23h.py](warehouse/can_3732_20260519-23h.py) |
 | 3733 | 2026-05-20 04:36:20 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3733_20260520-04h.py](warehouse/can_3733_20260520-04h.py) |
 | 3734 | 2026-05-20 08:34:59 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3734_20260520-08h.py](warehouse/can_3734_20260520-08h.py) |
+| 3735 | 2026-05-20 12:03:22 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3735_20260520-12h.py](warehouse/can_3735_20260520-12h.py) |
