@@ -3820,3 +3820,4 @@ If you need permission, you're thinking too much.
 | 3730 | 2026-05-19 19:16:51 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3730_20260519-19h.py](warehouse/can_3730_20260519-19h.py) |
 | 3731 | 2026-05-19 21:46:18 | DeepSeek: DeepSeek V4 Flash (free) | ✅ | [warehouse/can_3731_20260519-21h.py](warehouse/can_3731_20260519-21h.py) |
 | 3732 | 2026-05-19 23:33:02 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3732_20260519-23h.py](warehouse/can_3732_20260519-23h.py) |
+| 3733 | 2026-05-20 04:36:20 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3733_20260520-04h.py](warehouse/can_3733_20260520-04h.py) |
