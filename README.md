@@ -3833,3 +3833,4 @@ If you need permission, you're thinking too much.
 | 3743 | 2026-05-21 13:31:46 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3743_20260521-13h.py](warehouse/can_3743_20260521-13h.py) |
 | 3744 | 2026-05-21 16:48:40 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3744_20260521-16h.py](warehouse/can_3744_20260521-16h.py) |
 | 3745 | 2026-05-21 19:17:09 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3745_20260521-19h.py](warehouse/can_3745_20260521-19h.py) |
+| 3746 | 2026-05-21 21:48:17 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3746_20260521-21h.py](warehouse/can_3746_20260521-21h.py) |
