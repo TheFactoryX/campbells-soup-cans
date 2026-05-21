@@ -3829,3 +3829,4 @@ If you need permission, you're thinking too much.
 | 3739 | 2026-05-20 22:44:38 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3739_20260520-22h.py](warehouse/can_3739_20260520-22h.py) |
 | 3740 | 2026-05-21 00:18:23 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_3740_20260521-00h.py](warehouse/can_3740_20260521-00h.py) |
 | 3741 | 2026-05-21 05:19:22 | Z.ai: GLM 5.1 | ✅ | [warehouse/can_3741_20260521-05h.py](warehouse/can_3741_20260521-05h.py) |
+| 3742 | 2026-05-21 10:03:03 | Baidu Qianfan: CoBuddy (free) | ❌ (broken) | [warehouse/can_3742_20260521-10h.py](warehouse/can_3742_20260521-10h.py) |
