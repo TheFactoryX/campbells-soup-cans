@@ -3830,3 +3830,4 @@ If you need permission, you're thinking too much.
 | 3740 | 2026-05-21 00:18:23 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_3740_20260521-00h.py](warehouse/can_3740_20260521-00h.py) |
 | 3741 | 2026-05-21 05:19:22 | Z.ai: GLM 5.1 | ✅ | [warehouse/can_3741_20260521-05h.py](warehouse/can_3741_20260521-05h.py) |
 | 3742 | 2026-05-21 10:03:03 | Baidu Qianfan: CoBuddy (free) | ❌ (broken) | [warehouse/can_3742_20260521-10h.py](warehouse/can_3742_20260521-10h.py) |
+| 3743 | 2026-05-21 13:31:46 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3743_20260521-13h.py](warehouse/can_3743_20260521-13h.py) |
