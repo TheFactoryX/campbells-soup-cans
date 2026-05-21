@@ -3827,3 +3827,4 @@ If you need permission, you're thinking too much.
 | 3737 | 2026-05-20 18:32:10 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3737_20260520-18h.py](warehouse/can_3737_20260520-18h.py) |
 | 3738 | 2026-05-20 21:13:28 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3738_20260520-21h.py](warehouse/can_3738_20260520-21h.py) |
 | 3739 | 2026-05-20 22:44:38 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3739_20260520-22h.py](warehouse/can_3739_20260520-22h.py) |
+| 3740 | 2026-05-21 00:18:23 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_3740_20260521-00h.py](warehouse/can_3740_20260521-00h.py) |
