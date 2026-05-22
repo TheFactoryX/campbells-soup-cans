@@ -3842,3 +3842,4 @@ If you need permission, you're thinking too much.
 | 3752 | 2026-05-22 18:04:35 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3752_20260522-18h.py](warehouse/can_3752_20260522-18h.py) |
 | 3753 | 2026-05-22 20:10:56 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3753_20260522-20h.py](warehouse/can_3753_20260522-20h.py) |
 | 3754 | 2026-05-22 21:35:29 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3754_20260522-21h.py](warehouse/can_3754_20260522-21h.py) |
+| 3755 | 2026-05-22 23:19:28 | Arcee AI: Trinity Large Thinking (free) | ✅ | [warehouse/can_3755_20260522-23h.py](warehouse/can_3755_20260522-23h.py) |
