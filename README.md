@@ -3837,3 +3837,4 @@ If you need permission, you're thinking too much.
 | 3747 | 2026-05-21 23:16:58 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3747_20260521-23h.py](warehouse/can_3747_20260521-23h.py) |
 | 3748 | 2026-05-22 04:39:07 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3748_20260522-04h.py](warehouse/can_3748_20260522-04h.py) |
 | 3749 | 2026-05-22 08:31:48 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3749_20260522-08h.py](warehouse/can_3749_20260522-08h.py) |
+| 3750 | 2026-05-22 12:00:34 | Mistral: Ministral 3 8B 2512 | ✅ | [warehouse/can_3750_20260522-12h.py](warehouse/can_3750_20260522-12h.py) |
