@@ -3840,3 +3840,4 @@ If you need permission, you're thinking too much.
 | 3750 | 2026-05-22 12:00:34 | Mistral: Ministral 3 8B 2512 | ✅ | [warehouse/can_3750_20260522-12h.py](warehouse/can_3750_20260522-12h.py) |
 | 3751 | 2026-05-22 15:23:18 | Arcee AI: Trinity Large Thinking (free) | ✅ | [warehouse/can_3751_20260522-15h.py](warehouse/can_3751_20260522-15h.py) |
 | 3752 | 2026-05-22 18:04:35 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3752_20260522-18h.py](warehouse/can_3752_20260522-18h.py) |
+| 3753 | 2026-05-22 20:10:56 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3753_20260522-20h.py](warehouse/can_3753_20260522-20h.py) |
