@@ -3838,3 +3838,4 @@ If you need permission, you're thinking too much.
 | 3748 | 2026-05-22 04:39:07 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3748_20260522-04h.py](warehouse/can_3748_20260522-04h.py) |
 | 3749 | 2026-05-22 08:31:48 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3749_20260522-08h.py](warehouse/can_3749_20260522-08h.py) |
 | 3750 | 2026-05-22 12:00:34 | Mistral: Ministral 3 8B 2512 | ✅ | [warehouse/can_3750_20260522-12h.py](warehouse/can_3750_20260522-12h.py) |
+| 3751 | 2026-05-22 15:23:18 | Arcee AI: Trinity Large Thinking (free) | ✅ | [warehouse/can_3751_20260522-15h.py](warehouse/can_3751_20260522-15h.py) |
