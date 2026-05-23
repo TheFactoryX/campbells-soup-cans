@@ -3853,3 +3853,4 @@ If you need permission, you're thinking too much.
 | 3763 | 2026-05-23 17:17:21 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3763_20260523-17h.py](warehouse/can_3763_20260523-17h.py) |
 | 3764 | 2026-05-23 19:37:37 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3764_20260523-19h.py](warehouse/can_3764_20260523-19h.py) |
 | 3765 | 2026-05-23 21:08:00 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3765_20260523-21h.py](warehouse/can_3765_20260523-21h.py) |
+| 3766 | 2026-05-23 22:08:31 | Baidu Qianfan: CoBuddy (free) | ✅ | [warehouse/can_3766_20260523-22h.py](warehouse/can_3766_20260523-22h.py) |
