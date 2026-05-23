@@ -3852,3 +3852,4 @@ If you need permission, you're thinking too much.
 | 3762 | 2026-05-23 15:20:01 | Baidu Qianfan: CoBuddy (free) | ❌ (broken) | [warehouse/can_3762_20260523-15h.py](warehouse/can_3762_20260523-15h.py) |
 | 3763 | 2026-05-23 17:17:21 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3763_20260523-17h.py](warehouse/can_3763_20260523-17h.py) |
 | 3764 | 2026-05-23 19:37:37 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3764_20260523-19h.py](warehouse/can_3764_20260523-19h.py) |
+| 3765 | 2026-05-23 21:08:00 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3765_20260523-21h.py](warehouse/can_3765_20260523-21h.py) |
