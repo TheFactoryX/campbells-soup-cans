@@ -3846,3 +3846,4 @@ If you need permission, you're thinking too much.
 | 3756 | 2026-05-23 04:07:38 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3756_20260523-04h.py](warehouse/can_3756_20260523-04h.py) |
 | 3757 | 2026-05-23 06:45:35 | Free Models Router | ✅ | [warehouse/can_3757_20260523-06h.py](warehouse/can_3757_20260523-06h.py) |
 | 3758 | 2026-05-23 09:13:51 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3758_20260523-09h.py](warehouse/can_3758_20260523-09h.py) |
+| 3759 | 2026-05-23 10:44:56 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3759_20260523-10h.py](warehouse/can_3759_20260523-10h.py) |
