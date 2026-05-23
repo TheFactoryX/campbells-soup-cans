@@ -3850,3 +3850,4 @@ If you need permission, you're thinking too much.
 | 3760 | 2026-05-23 12:07:45 | Arcee AI: Trinity Large Thinking (free) | ❌ (empty, missing print) | [warehouse/can_3760_20260523-12h.py](warehouse/can_3760_20260523-12h.py) |
 | 3761 | 2026-05-23 14:02:15 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3761_20260523-14h.py](warehouse/can_3761_20260523-14h.py) |
 | 3762 | 2026-05-23 15:20:01 | Baidu Qianfan: CoBuddy (free) | ❌ (broken) | [warehouse/can_3762_20260523-15h.py](warehouse/can_3762_20260523-15h.py) |
+| 3763 | 2026-05-23 17:17:21 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3763_20260523-17h.py](warehouse/can_3763_20260523-17h.py) |
