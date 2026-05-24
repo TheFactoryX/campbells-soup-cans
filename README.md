@@ -3861,3 +3861,4 @@ If you need permission, you're thinking too much.
 | 3771 | 2026-05-24 10:11:38 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3771_20260524-10h.py](warehouse/can_3771_20260524-10h.py) |
 | 3772 | 2026-05-24 11:42:43 | OpenAI: GPT-5 | ✅ | [warehouse/can_3772_20260524-11h.py](warehouse/can_3772_20260524-11h.py) |
 | 3773 | 2026-05-24 13:59:40 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3773_20260524-13h.py](warehouse/can_3773_20260524-13h.py) |
+| 3774 | 2026-05-24 15:33:11 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3774_20260524-15h.py](warehouse/can_3774_20260524-15h.py) |
