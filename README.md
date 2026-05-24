@@ -3855,3 +3855,4 @@ If you need permission, you're thinking too much.
 | 3765 | 2026-05-23 21:08:00 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3765_20260523-21h.py](warehouse/can_3765_20260523-21h.py) |
 | 3766 | 2026-05-23 22:08:31 | Baidu Qianfan: CoBuddy (free) | ✅ | [warehouse/can_3766_20260523-22h.py](warehouse/can_3766_20260523-22h.py) |
 | 3767 | 2026-05-23 23:11:29 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3767_20260523-23h.py](warehouse/can_3767_20260523-23h.py) |
+| 3768 | 2026-05-24 00:12:38 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3768_20260524-00h.py](warehouse/can_3768_20260524-00h.py) |
