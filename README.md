@@ -3864,3 +3864,4 @@ If you need permission, you're thinking too much.
 | 3774 | 2026-05-24 15:33:11 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3774_20260524-15h.py](warehouse/can_3774_20260524-15h.py) |
 | 3775 | 2026-05-24 17:16:10 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3775_20260524-17h.py](warehouse/can_3775_20260524-17h.py) |
 | 3776 | 2026-05-24 18:13:37 | Arcee AI: Trinity Large Thinking (free) | ✅ | [warehouse/can_3776_20260524-18h.py](warehouse/can_3776_20260524-18h.py) |
+| 3777 | 2026-05-24 19:41:53 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3777_20260524-19h.py](warehouse/can_3777_20260524-19h.py) |
