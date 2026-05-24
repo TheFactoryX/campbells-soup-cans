@@ -3857,3 +3857,4 @@ If you need permission, you're thinking too much.
 | 3767 | 2026-05-23 23:11:29 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3767_20260523-23h.py](warehouse/can_3767_20260523-23h.py) |
 | 3768 | 2026-05-24 00:12:38 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3768_20260524-00h.py](warehouse/can_3768_20260524-00h.py) |
 | 3769 | 2026-05-24 04:40:13 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3769_20260524-04h.py](warehouse/can_3769_20260524-04h.py) |
+| 3770 | 2026-05-24 08:00:20 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_3770_20260524-08h.py](warehouse/can_3770_20260524-08h.py) |
