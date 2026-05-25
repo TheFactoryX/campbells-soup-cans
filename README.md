@@ -3874,3 +3874,4 @@ If you need permission, you're thinking too much.
 | 3784 | 2026-05-25 16:02:43 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_3784_20260525-16h.py](warehouse/can_3784_20260525-16h.py) |
 | 3785 | 2026-05-25 17:57:57 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3785_20260525-17h.py](warehouse/can_3785_20260525-17h.py) |
 | 3786 | 2026-05-25 19:58:56 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3786_20260525-19h.py](warehouse/can_3786_20260525-19h.py) |
+| 3787 | 2026-05-25 21:33:57 | Baidu: ERNIE 4.5 VL 424B A47B  | ✅ | [warehouse/can_3787_20260525-21h.py](warehouse/can_3787_20260525-21h.py) |
