@@ -3868,3 +3868,4 @@ If you need permission, you're thinking too much.
 | 3778 | 2026-05-24 21:11:20 | Owl Alpha | ✅ | [warehouse/can_3778_20260524-21h.py](warehouse/can_3778_20260524-21h.py) |
 | 3779 | 2026-05-24 22:11:15 | Arcee AI: Trinity Large Thinking (free) | ✅ | [warehouse/can_3779_20260524-22h.py](warehouse/can_3779_20260524-22h.py) |
 | 3780 | 2026-05-24 23:14:53 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3780_20260524-23h.py](warehouse/can_3780_20260524-23h.py) |
+| 3781 | 2026-05-25 00:15:22 | Anthropic: Claude 3.5 Haiku | ✅ | [warehouse/can_3781_20260525-00h.py](warehouse/can_3781_20260525-00h.py) |
