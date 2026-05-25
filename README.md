@@ -3872,3 +3872,4 @@ If you need permission, you're thinking too much.
 | 3782 | 2026-05-25 04:55:22 | OpenAI: gpt-oss-120b (free) | ❌ (broken) | [warehouse/can_3782_20260525-04h.py](warehouse/can_3782_20260525-04h.py) |
 | 3783 | 2026-05-25 12:44:24 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3783_20260525-12h.py](warehouse/can_3783_20260525-12h.py) |
 | 3784 | 2026-05-25 16:02:43 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_3784_20260525-16h.py](warehouse/can_3784_20260525-16h.py) |
+| 3785 | 2026-05-25 17:57:57 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3785_20260525-17h.py](warehouse/can_3785_20260525-17h.py) |
