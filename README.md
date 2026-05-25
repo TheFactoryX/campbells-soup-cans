@@ -3871,3 +3871,4 @@ If you need permission, you're thinking too much.
 | 3781 | 2026-05-25 00:15:22 | Anthropic: Claude 3.5 Haiku | ✅ | [warehouse/can_3781_20260525-00h.py](warehouse/can_3781_20260525-00h.py) |
 | 3782 | 2026-05-25 04:55:22 | OpenAI: gpt-oss-120b (free) | ❌ (broken) | [warehouse/can_3782_20260525-04h.py](warehouse/can_3782_20260525-04h.py) |
 | 3783 | 2026-05-25 12:44:24 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3783_20260525-12h.py](warehouse/can_3783_20260525-12h.py) |
+| 3784 | 2026-05-25 16:02:43 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_3784_20260525-16h.py](warehouse/can_3784_20260525-16h.py) |
