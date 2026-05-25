@@ -3875,3 +3875,4 @@ If you need permission, you're thinking too much.
 | 3785 | 2026-05-25 17:57:57 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3785_20260525-17h.py](warehouse/can_3785_20260525-17h.py) |
 | 3786 | 2026-05-25 19:58:56 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3786_20260525-19h.py](warehouse/can_3786_20260525-19h.py) |
 | 3787 | 2026-05-25 21:33:57 | Baidu: ERNIE 4.5 VL 424B A47B  | ✅ | [warehouse/can_3787_20260525-21h.py](warehouse/can_3787_20260525-21h.py) |
+| 3788 | 2026-05-25 23:32:13 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3788_20260525-23h.py](warehouse/can_3788_20260525-23h.py) |
