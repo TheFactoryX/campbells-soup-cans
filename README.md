@@ -3879,3 +3879,4 @@ If you need permission, you're thinking too much.
 | 3789 | 2026-05-26 04:34:52 | OpenAI: GPT-5.4 Mini | ✅ | [warehouse/can_3789_20260526-04h.py](warehouse/can_3789_20260526-04h.py) |
 | 3790 | 2026-05-26 08:42:53 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3790_20260526-08h.py](warehouse/can_3790_20260526-08h.py) |
 | 3791 | 2026-05-26 16:52:08 | Baidu Qianfan: CoBuddy (free) | ✅ | [warehouse/can_3791_20260526-16h.py](warehouse/can_3791_20260526-16h.py) |
+| 3792 | 2026-05-26 19:27:49 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3792_20260526-19h.py](warehouse/can_3792_20260526-19h.py) |
