@@ -3881,3 +3881,4 @@ If you need permission, you're thinking too much.
 | 3791 | 2026-05-26 16:52:08 | Baidu Qianfan: CoBuddy (free) | ✅ | [warehouse/can_3791_20260526-16h.py](warehouse/can_3791_20260526-16h.py) |
 | 3792 | 2026-05-26 19:27:49 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3792_20260526-19h.py](warehouse/can_3792_20260526-19h.py) |
 | 3793 | 2026-05-26 21:57:50 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (broken, missing print) | [warehouse/can_3793_20260526-21h.py](warehouse/can_3793_20260526-21h.py) |
+| 3794 | 2026-05-26 23:33:32 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3794_20260526-23h.py](warehouse/can_3794_20260526-23h.py) |
