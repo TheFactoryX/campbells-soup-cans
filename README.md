@@ -3878,3 +3878,4 @@ If you need permission, you're thinking too much.
 | 3788 | 2026-05-25 23:32:13 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3788_20260525-23h.py](warehouse/can_3788_20260525-23h.py) |
 | 3789 | 2026-05-26 04:34:52 | OpenAI: GPT-5.4 Mini | ✅ | [warehouse/can_3789_20260526-04h.py](warehouse/can_3789_20260526-04h.py) |
 | 3790 | 2026-05-26 08:42:53 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3790_20260526-08h.py](warehouse/can_3790_20260526-08h.py) |
+| 3791 | 2026-05-26 16:52:08 | Baidu Qianfan: CoBuddy (free) | ✅ | [warehouse/can_3791_20260526-16h.py](warehouse/can_3791_20260526-16h.py) |
