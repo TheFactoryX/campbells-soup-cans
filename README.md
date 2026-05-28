@@ -3895,3 +3895,4 @@ If you need permission, you're thinking too much.
 | 3805 | 2026-05-28 17:02:34 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3805_20260528-17h.py](warehouse/can_3805_20260528-17h.py) |
 | 3806 | 2026-05-28 19:44:44 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3806_20260528-19h.py](warehouse/can_3806_20260528-19h.py) |
 | 3807 | 2026-05-28 22:08:09 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3807_20260528-22h.py](warehouse/can_3807_20260528-22h.py) |
+| 3808 | 2026-05-28 23:42:42 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3808_20260528-23h.py](warehouse/can_3808_20260528-23h.py) |
