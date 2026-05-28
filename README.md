@@ -3890,3 +3890,4 @@ If you need permission, you're thinking too much.
 | 3800 | 2026-05-27 22:11:12 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3800_20260527-22h.py](warehouse/can_3800_20260527-22h.py) |
 | 3801 | 2026-05-27 23:38:01 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3801_20260527-23h.py](warehouse/can_3801_20260527-23h.py) |
 | 3802 | 2026-05-28 04:40:12 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3802_20260528-04h.py](warehouse/can_3802_20260528-04h.py) |
+| 3803 | 2026-05-28 08:53:10 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3803_20260528-08h.py](warehouse/can_3803_20260528-08h.py) |
