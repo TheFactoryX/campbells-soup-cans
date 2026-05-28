@@ -3893,3 +3893,4 @@ If you need permission, you're thinking too much.
 | 3803 | 2026-05-28 08:53:10 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3803_20260528-08h.py](warehouse/can_3803_20260528-08h.py) |
 | 3804 | 2026-05-28 12:44:46 | Owl Alpha | ✅ | [warehouse/can_3804_20260528-12h.py](warehouse/can_3804_20260528-12h.py) |
 | 3805 | 2026-05-28 17:02:34 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3805_20260528-17h.py](warehouse/can_3805_20260528-17h.py) |
+| 3806 | 2026-05-28 19:44:44 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3806_20260528-19h.py](warehouse/can_3806_20260528-19h.py) |
