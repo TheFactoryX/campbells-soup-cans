@@ -3897,3 +3897,4 @@ If you need permission, you're thinking too much.
 | 3807 | 2026-05-28 22:08:09 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_3807_20260528-22h.py](warehouse/can_3807_20260528-22h.py) |
 | 3808 | 2026-05-28 23:42:42 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3808_20260528-23h.py](warehouse/can_3808_20260528-23h.py) |
 | 3809 | 2026-05-29 04:43:00 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3809_20260529-04h.py](warehouse/can_3809_20260529-04h.py) |
+| 3810 | 2026-05-29 08:51:40 | Owl Alpha | ✅ | [warehouse/can_3810_20260529-08h.py](warehouse/can_3810_20260529-08h.py) |
