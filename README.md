@@ -3900,3 +3900,4 @@ If you need permission, you're thinking too much.
 | 3810 | 2026-05-29 08:51:40 | Owl Alpha | ✅ | [warehouse/can_3810_20260529-08h.py](warehouse/can_3810_20260529-08h.py) |
 | 3811 | 2026-05-29 12:26:42 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3811_20260529-12h.py](warehouse/can_3811_20260529-12h.py) |
 | 3812 | 2026-05-29 16:53:24 | OpenAI: GPT-5.4 | ✅ | [warehouse/can_3812_20260529-16h.py](warehouse/can_3812_20260529-16h.py) |
+| 3813 | 2026-05-29 19:40:27 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_3813_20260529-19h.py](warehouse/can_3813_20260529-19h.py) |
