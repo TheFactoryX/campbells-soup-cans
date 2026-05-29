@@ -3899,3 +3899,4 @@ If you need permission, you're thinking too much.
 | 3809 | 2026-05-29 04:43:00 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3809_20260529-04h.py](warehouse/can_3809_20260529-04h.py) |
 | 3810 | 2026-05-29 08:51:40 | Owl Alpha | ✅ | [warehouse/can_3810_20260529-08h.py](warehouse/can_3810_20260529-08h.py) |
 | 3811 | 2026-05-29 12:26:42 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3811_20260529-12h.py](warehouse/can_3811_20260529-12h.py) |
+| 3812 | 2026-05-29 16:53:24 | OpenAI: GPT-5.4 | ✅ | [warehouse/can_3812_20260529-16h.py](warehouse/can_3812_20260529-16h.py) |
