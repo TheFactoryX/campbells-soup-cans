@@ -3906,3 +3906,4 @@ If you need permission, you're thinking too much.
 | 3816 | 2026-05-30 04:17:16 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3816_20260530-04h.py](warehouse/can_3816_20260530-04h.py) |
 | 3817 | 2026-05-30 07:57:18 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3817_20260530-07h.py](warehouse/can_3817_20260530-07h.py) |
 | 3818 | 2026-05-30 10:17:56 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3818_20260530-10h.py](warehouse/can_3818_20260530-10h.py) |
+| 3819 | 2026-05-30 12:15:53 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3819_20260530-12h.py](warehouse/can_3819_20260530-12h.py) |
