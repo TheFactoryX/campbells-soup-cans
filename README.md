@@ -3903,3 +3903,4 @@ If you need permission, you're thinking too much.
 | 3813 | 2026-05-29 19:40:27 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_3813_20260529-19h.py](warehouse/can_3813_20260529-19h.py) |
 | 3814 | 2026-05-29 22:04:21 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3814_20260529-22h.py](warehouse/can_3814_20260529-22h.py) |
 | 3815 | 2026-05-29 23:41:25 | Owl Alpha | ❌ (missing print) | [warehouse/can_3815_20260529-23h.py](warehouse/can_3815_20260529-23h.py) |
+| 3816 | 2026-05-30 04:17:16 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3816_20260530-04h.py](warehouse/can_3816_20260530-04h.py) |
