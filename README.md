@@ -3909,3 +3909,4 @@ If you need permission, you're thinking too much.
 | 3819 | 2026-05-30 12:15:53 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3819_20260530-12h.py](warehouse/can_3819_20260530-12h.py) |
 | 3820 | 2026-05-30 14:08:07 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3820_20260530-14h.py](warehouse/can_3820_20260530-14h.py) |
 | 3821 | 2026-05-30 15:35:58 | Owl Alpha | ❌ (broken) | [warehouse/can_3821_20260530-15h.py](warehouse/can_3821_20260530-15h.py) |
+| 3822 | 2026-05-30 17:30:03 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3822_20260530-17h.py](warehouse/can_3822_20260530-17h.py) |
