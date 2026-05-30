@@ -3908,3 +3908,4 @@ If you need permission, you're thinking too much.
 | 3818 | 2026-05-30 10:17:56 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3818_20260530-10h.py](warehouse/can_3818_20260530-10h.py) |
 | 3819 | 2026-05-30 12:15:53 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3819_20260530-12h.py](warehouse/can_3819_20260530-12h.py) |
 | 3820 | 2026-05-30 14:08:07 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3820_20260530-14h.py](warehouse/can_3820_20260530-14h.py) |
+| 3821 | 2026-05-30 15:35:58 | Owl Alpha | ❌ (broken) | [warehouse/can_3821_20260530-15h.py](warehouse/can_3821_20260530-15h.py) |
