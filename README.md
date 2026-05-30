@@ -3907,3 +3907,4 @@ If you need permission, you're thinking too much.
 | 3817 | 2026-05-30 07:57:18 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3817_20260530-07h.py](warehouse/can_3817_20260530-07h.py) |
 | 3818 | 2026-05-30 10:17:56 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3818_20260530-10h.py](warehouse/can_3818_20260530-10h.py) |
 | 3819 | 2026-05-30 12:15:53 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3819_20260530-12h.py](warehouse/can_3819_20260530-12h.py) |
+| 3820 | 2026-05-30 14:08:07 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3820_20260530-14h.py](warehouse/can_3820_20260530-14h.py) |
