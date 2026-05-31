@@ -3917,3 +3917,4 @@ If you need permission, you're thinking too much.
 | 3827 | 2026-05-31 04:52:03 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3827_20260531-04h.py](warehouse/can_3827_20260531-04h.py) |
 | 3828 | 2026-05-31 08:22:20 | Free Models Router | ❌ (broken) | [warehouse/can_3828_20260531-08h.py](warehouse/can_3828_20260531-08h.py) |
 | 3829 | 2026-05-31 11:06:35 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3829_20260531-11h.py](warehouse/can_3829_20260531-11h.py) |
+| 3830 | 2026-05-31 12:46:31 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3830_20260531-12h.py](warehouse/can_3830_20260531-12h.py) |
