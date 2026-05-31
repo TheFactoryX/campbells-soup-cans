@@ -3920,3 +3920,4 @@ If you need permission, you're thinking too much.
 | 3830 | 2026-05-31 12:46:31 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3830_20260531-12h.py](warehouse/can_3830_20260531-12h.py) |
 | 3831 | 2026-05-31 14:55:34 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_3831_20260531-14h.py](warehouse/can_3831_20260531-14h.py) |
 | 3832 | 2026-05-31 16:36:12 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3832_20260531-16h.py](warehouse/can_3832_20260531-16h.py) |
+| 3833 | 2026-05-31 18:16:58 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3833_20260531-18h.py](warehouse/can_3833_20260531-18h.py) |
