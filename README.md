@@ -3914,3 +3914,4 @@ If you need permission, you're thinking too much.
 | 3824 | 2026-05-30 21:14:44 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3824_20260530-21h.py](warehouse/can_3824_20260530-21h.py) |
 | 3825 | 2026-05-30 22:14:54 | Poolside: Laguna M.1 (free) | ❌ (broken) | [warehouse/can_3825_20260530-22h.py](warehouse/can_3825_20260530-22h.py) |
 | 3826 | 2026-05-30 23:17:08 | Owl Alpha | ❌ (broken) | [warehouse/can_3826_20260530-23h.py](warehouse/can_3826_20260530-23h.py) |
+| 3827 | 2026-05-31 04:52:03 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3827_20260531-04h.py](warehouse/can_3827_20260531-04h.py) |
