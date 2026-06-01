@@ -3927,3 +3927,4 @@ If you need permission, you're thinking too much.
 | 3837 | 2026-06-01 05:15:57 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3837_20260601-05h.py](warehouse/can_3837_20260601-05h.py) |
 | 3838 | 2026-06-01 10:32:54 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3838_20260601-10h.py](warehouse/can_3838_20260601-10h.py) |
 | 3839 | 2026-06-01 16:46:22 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3839_20260601-16h.py](warehouse/can_3839_20260601-16h.py) |
+| 3840 | 2026-06-01 21:04:39 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3840_20260601-21h.py](warehouse/can_3840_20260601-21h.py) |
