@@ -3931,3 +3931,4 @@ If you need permission, you're thinking too much.
 | 3841 | 2026-06-01 23:09:54 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3841_20260601-23h.py](warehouse/can_3841_20260601-23h.py) |
 | 3842 | 2026-06-02 01:36:30 | Free Models Router | ✅ | [warehouse/can_3842_20260602-01h.py](warehouse/can_3842_20260602-01h.py) |
 | 3843 | 2026-06-02 06:57:38 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3843_20260602-06h.py](warehouse/can_3843_20260602-06h.py) |
+| 3844 | 2026-06-02 11:42:22 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3844_20260602-11h.py](warehouse/can_3844_20260602-11h.py) |
