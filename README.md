@@ -3934,3 +3934,4 @@ If you need permission, you're thinking too much.
 | 3844 | 2026-06-02 11:42:22 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3844_20260602-11h.py](warehouse/can_3844_20260602-11h.py) |
 | 3845 | 2026-06-02 16:54:44 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3845_20260602-16h.py](warehouse/can_3845_20260602-16h.py) |
 | 3846 | 2026-06-02 20:18:59 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3846_20260602-20h.py](warehouse/can_3846_20260602-20h.py) |
+| 3847 | 2026-06-02 23:08:16 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3847_20260602-23h.py](warehouse/can_3847_20260602-23h.py) |
