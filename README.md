@@ -3929,3 +3929,4 @@ If you need permission, you're thinking too much.
 | 3839 | 2026-06-01 16:46:22 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3839_20260601-16h.py](warehouse/can_3839_20260601-16h.py) |
 | 3840 | 2026-06-01 21:04:39 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3840_20260601-21h.py](warehouse/can_3840_20260601-21h.py) |
 | 3841 | 2026-06-01 23:09:54 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3841_20260601-23h.py](warehouse/can_3841_20260601-23h.py) |
+| 3842 | 2026-06-02 01:36:30 | Free Models Router | ✅ | [warehouse/can_3842_20260602-01h.py](warehouse/can_3842_20260602-01h.py) |
