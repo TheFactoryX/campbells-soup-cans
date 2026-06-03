@@ -3937,3 +3937,4 @@ If you need permission, you're thinking too much.
 | 3847 | 2026-06-02 23:08:16 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3847_20260602-23h.py](warehouse/can_3847_20260602-23h.py) |
 | 3848 | 2026-06-03 01:47:44 | OpenAI: gpt-oss-20b (free) | ❌ (broken, missing print) | [warehouse/can_3848_20260603-01h.py](warehouse/can_3848_20260603-01h.py) |
 | 3849 | 2026-06-03 07:12:45 | Poolside: Laguna XS.2 (free) | ❌ (broken) | [warehouse/can_3849_20260603-07h.py](warehouse/can_3849_20260603-07h.py) |
+| 3850 | 2026-06-03 12:12:08 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_3850_20260603-12h.py](warehouse/can_3850_20260603-12h.py) |
