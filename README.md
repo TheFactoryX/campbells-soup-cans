@@ -3939,3 +3939,4 @@ If you need permission, you're thinking too much.
 | 3849 | 2026-06-03 07:12:45 | Poolside: Laguna XS.2 (free) | ❌ (broken) | [warehouse/can_3849_20260603-07h.py](warehouse/can_3849_20260603-07h.py) |
 | 3850 | 2026-06-03 12:12:08 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_3850_20260603-12h.py](warehouse/can_3850_20260603-12h.py) |
 | 3851 | 2026-06-03 17:17:36 | Owl Alpha | ✅ | [warehouse/can_3851_20260603-17h.py](warehouse/can_3851_20260603-17h.py) |
+| 3852 | 2026-06-03 21:29:27 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3852_20260603-21h.py](warehouse/can_3852_20260603-21h.py) |
