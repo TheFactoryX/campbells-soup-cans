@@ -3947,3 +3947,4 @@ If you need permission, you're thinking too much.
 | 3857 | 2026-06-04 16:28:31 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3857_20260604-16h.py](warehouse/can_3857_20260604-16h.py) |
 | 3858 | 2026-06-04 19:30:25 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3858_20260604-19h.py](warehouse/can_3858_20260604-19h.py) |
 | 3859 | 2026-06-04 21:53:22 | MoonshotAI: Kimi K2.6 (free) | ❌ (missing print) | [warehouse/can_3859_20260604-21h.py](warehouse/can_3859_20260604-21h.py) |
+| 3860 | 2026-06-04 23:37:06 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_3860_20260604-23h.py](warehouse/can_3860_20260604-23h.py) |
