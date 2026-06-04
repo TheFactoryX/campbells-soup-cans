@@ -3943,3 +3943,4 @@ If you need permission, you're thinking too much.
 | 3853 | 2026-06-04 00:01:02 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3853_20260604-00h.py](warehouse/can_3853_20260604-00h.py) |
 | 3854 | 2026-06-04 05:05:03 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3854_20260604-05h.py](warehouse/can_3854_20260604-05h.py) |
 | 3855 | 2026-06-04 09:01:06 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3855_20260604-09h.py](warehouse/can_3855_20260604-09h.py) |
+| 3856 | 2026-06-04 12:18:57 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3856_20260604-12h.py](warehouse/can_3856_20260604-12h.py) |
