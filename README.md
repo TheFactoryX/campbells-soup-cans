@@ -3953,3 +3953,4 @@ If you need permission, you're thinking too much.
 | 3863 | 2026-06-05 12:19:16 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3863_20260605-12h.py](warehouse/can_3863_20260605-12h.py) |
 | 3864 | 2026-06-05 16:08:40 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3864_20260605-16h.py](warehouse/can_3864_20260605-16h.py) |
 | 3865 | 2026-06-05 18:10:38 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3865_20260605-18h.py](warehouse/can_3865_20260605-18h.py) |
+| 3866 | 2026-06-05 20:13:16 | Free Models Router | ✅ | [warehouse/can_3866_20260605-20h.py](warehouse/can_3866_20260605-20h.py) |
