@@ -3949,3 +3949,4 @@ If you need permission, you're thinking too much.
 | 3859 | 2026-06-04 21:53:22 | MoonshotAI: Kimi K2.6 (free) | ❌ (missing print) | [warehouse/can_3859_20260604-21h.py](warehouse/can_3859_20260604-21h.py) |
 | 3860 | 2026-06-04 23:37:06 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_3860_20260604-23h.py](warehouse/can_3860_20260604-23h.py) |
 | 3861 | 2026-06-05 04:47:12 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3861_20260605-04h.py](warehouse/can_3861_20260605-04h.py) |
+| 3862 | 2026-06-05 08:52:25 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3862_20260605-08h.py](warehouse/can_3862_20260605-08h.py) |
