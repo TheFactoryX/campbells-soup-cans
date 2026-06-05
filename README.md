@@ -3950,3 +3950,4 @@ If you need permission, you're thinking too much.
 | 3860 | 2026-06-04 23:37:06 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_3860_20260604-23h.py](warehouse/can_3860_20260604-23h.py) |
 | 3861 | 2026-06-05 04:47:12 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3861_20260605-04h.py](warehouse/can_3861_20260605-04h.py) |
 | 3862 | 2026-06-05 08:52:25 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3862_20260605-08h.py](warehouse/can_3862_20260605-08h.py) |
+| 3863 | 2026-06-05 12:19:16 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3863_20260605-12h.py](warehouse/can_3863_20260605-12h.py) |
