@@ -3951,3 +3951,4 @@ If you need permission, you're thinking too much.
 | 3861 | 2026-06-05 04:47:12 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3861_20260605-04h.py](warehouse/can_3861_20260605-04h.py) |
 | 3862 | 2026-06-05 08:52:25 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3862_20260605-08h.py](warehouse/can_3862_20260605-08h.py) |
 | 3863 | 2026-06-05 12:19:16 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3863_20260605-12h.py](warehouse/can_3863_20260605-12h.py) |
+| 3864 | 2026-06-05 16:08:40 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3864_20260605-16h.py](warehouse/can_3864_20260605-16h.py) |
