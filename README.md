@@ -3955,3 +3955,4 @@ If you need permission, you're thinking too much.
 | 3865 | 2026-06-05 18:10:38 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3865_20260605-18h.py](warehouse/can_3865_20260605-18h.py) |
 | 3866 | 2026-06-05 20:13:16 | Free Models Router | ✅ | [warehouse/can_3866_20260605-20h.py](warehouse/can_3866_20260605-20h.py) |
 | 3867 | 2026-06-05 21:45:47 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3867_20260605-21h.py](warehouse/can_3867_20260605-21h.py) |
+| 3868 | 2026-06-05 23:37:54 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3868_20260605-23h.py](warehouse/can_3868_20260605-23h.py) |
