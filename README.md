@@ -3958,3 +3958,4 @@ If you need permission, you're thinking too much.
 | 3868 | 2026-06-05 23:37:54 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3868_20260605-23h.py](warehouse/can_3868_20260605-23h.py) |
 | 3869 | 2026-06-06 04:19:47 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3869_20260606-04h.py](warehouse/can_3869_20260606-04h.py) |
 | 3870 | 2026-06-06 08:02:26 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3870_20260606-08h.py](warehouse/can_3870_20260606-08h.py) |
+| 3871 | 2026-06-06 10:21:59 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3871_20260606-10h.py](warehouse/can_3871_20260606-10h.py) |
