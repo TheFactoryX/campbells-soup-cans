@@ -3972,3 +3972,4 @@ If you need permission, you're thinking too much.
 | 3882 | 2026-06-07 14:20:20 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3882_20260607-14h.py](warehouse/can_3882_20260607-14h.py) |
 | 3883 | 2026-06-07 16:44:15 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3883_20260607-16h.py](warehouse/can_3883_20260607-16h.py) |
 | 3884 | 2026-06-07 18:19:28 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3884_20260607-18h.py](warehouse/can_3884_20260607-18h.py) |
+| 3885 | 2026-06-07 20:37:41 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3885_20260607-20h.py](warehouse/can_3885_20260607-20h.py) |
