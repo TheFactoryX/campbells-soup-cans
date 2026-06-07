@@ -3971,3 +3971,4 @@ If you need permission, you're thinking too much.
 | 3881 | 2026-06-07 12:01:50 | Z.ai: GLM 4.5 Air (free) | ✅ | [warehouse/can_3881_20260607-12h.py](warehouse/can_3881_20260607-12h.py) |
 | 3882 | 2026-06-07 14:20:20 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3882_20260607-14h.py](warehouse/can_3882_20260607-14h.py) |
 | 3883 | 2026-06-07 16:44:15 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3883_20260607-16h.py](warehouse/can_3883_20260607-16h.py) |
+| 3884 | 2026-06-07 18:19:28 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3884_20260607-18h.py](warehouse/can_3884_20260607-18h.py) |
