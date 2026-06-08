@@ -3980,3 +3980,4 @@ If you need permission, you're thinking too much.
 | 3890 | 2026-06-08 16:20:11 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (empty, missing print) | [warehouse/can_3890_20260608-16h.py](warehouse/can_3890_20260608-16h.py) |
 | 3891 | 2026-06-08 19:34:59 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (broken) | [warehouse/can_3891_20260608-19h.py](warehouse/can_3891_20260608-19h.py) |
 | 3892 | 2026-06-08 22:01:09 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3892_20260608-22h.py](warehouse/can_3892_20260608-22h.py) |
+| 3893 | 2026-06-08 23:36:46 | NVIDIA: Nemotron 3 Super (free) | ❌ (missing print) | [warehouse/can_3893_20260608-23h.py](warehouse/can_3893_20260608-23h.py) |
