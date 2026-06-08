@@ -3977,3 +3977,4 @@ If you need permission, you're thinking too much.
 | 3887 | 2026-06-08 01:34:08 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3887_20260608-01h.py](warehouse/can_3887_20260608-01h.py) |
 | 3888 | 2026-06-08 07:03:30 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3888_20260608-07h.py](warehouse/can_3888_20260608-07h.py) |
 | 3889 | 2026-06-08 12:08:55 | Owl Alpha | ✅ | [warehouse/can_3889_20260608-12h.py](warehouse/can_3889_20260608-12h.py) |
+| 3890 | 2026-06-08 16:20:11 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (empty, missing print) | [warehouse/can_3890_20260608-16h.py](warehouse/can_3890_20260608-16h.py) |
