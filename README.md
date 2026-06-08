@@ -3976,3 +3976,4 @@ If you need permission, you're thinking too much.
 | 3886 | 2026-06-07 22:17:44 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3886_20260607-22h.py](warehouse/can_3886_20260607-22h.py) |
 | 3887 | 2026-06-08 01:34:08 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3887_20260608-01h.py](warehouse/can_3887_20260608-01h.py) |
 | 3888 | 2026-06-08 07:03:30 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3888_20260608-07h.py](warehouse/can_3888_20260608-07h.py) |
+| 3889 | 2026-06-08 12:08:55 | Owl Alpha | ✅ | [warehouse/can_3889_20260608-12h.py](warehouse/can_3889_20260608-12h.py) |
