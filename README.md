@@ -3983,3 +3983,4 @@ If you need permission, you're thinking too much.
 | 3893 | 2026-06-08 23:36:46 | NVIDIA: Nemotron 3 Super (free) | ❌ (missing print) | [warehouse/can_3893_20260608-23h.py](warehouse/can_3893_20260608-23h.py) |
 | 3894 | 2026-06-09 04:35:19 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3894_20260609-04h.py](warehouse/can_3894_20260609-04h.py) |
 | 3895 | 2026-06-09 08:40:59 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3895_20260609-08h.py](warehouse/can_3895_20260609-08h.py) |
+| 3896 | 2026-06-09 12:15:08 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3896_20260609-12h.py](warehouse/can_3896_20260609-12h.py) |
