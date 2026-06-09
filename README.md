@@ -3987,3 +3987,4 @@ If you need permission, you're thinking too much.
 | 3897 | 2026-06-09 15:29:01 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3897_20260609-15h.py](warehouse/can_3897_20260609-15h.py) |
 | 3898 | 2026-06-09 18:20:37 | Owl Alpha | ✅ | [warehouse/can_3898_20260609-18h.py](warehouse/can_3898_20260609-18h.py) |
 | 3899 | 2026-06-09 21:12:35 | Free Models Router | ✅ | [warehouse/can_3899_20260609-21h.py](warehouse/can_3899_20260609-21h.py) |
+| 3900 | 2026-06-09 22:51:01 | Nex AGI: Nex-N2-Pro (free) | ✅ | [warehouse/can_3900_20260609-22h.py](warehouse/can_3900_20260609-22h.py) |
