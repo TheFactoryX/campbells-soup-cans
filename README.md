@@ -3986,3 +3986,4 @@ If you need permission, you're thinking too much.
 | 3896 | 2026-06-09 12:15:08 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3896_20260609-12h.py](warehouse/can_3896_20260609-12h.py) |
 | 3897 | 2026-06-09 15:29:01 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3897_20260609-15h.py](warehouse/can_3897_20260609-15h.py) |
 | 3898 | 2026-06-09 18:20:37 | Owl Alpha | ✅ | [warehouse/can_3898_20260609-18h.py](warehouse/can_3898_20260609-18h.py) |
+| 3899 | 2026-06-09 21:12:35 | Free Models Router | ✅ | [warehouse/can_3899_20260609-21h.py](warehouse/can_3899_20260609-21h.py) |
