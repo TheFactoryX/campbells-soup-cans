@@ -3993,3 +3993,4 @@ If you need permission, you're thinking too much.
 | 3903 | 2026-06-10 11:03:46 | Nex AGI: Nex-N2-Pro (free) | ✅ | [warehouse/can_3903_20260610-11h.py](warehouse/can_3903_20260610-11h.py) |
 | 3904 | 2026-06-10 14:29:03 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3904_20260610-14h.py](warehouse/can_3904_20260610-14h.py) |
 | 3905 | 2026-06-10 18:09:18 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3905_20260610-18h.py](warehouse/can_3905_20260610-18h.py) |
+| 3906 | 2026-06-10 20:44:51 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3906_20260610-20h.py](warehouse/can_3906_20260610-20h.py) |
