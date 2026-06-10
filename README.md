@@ -3991,3 +3991,4 @@ If you need permission, you're thinking too much.
 | 3901 | 2026-06-10 01:30:32 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3901_20260610-01h.py](warehouse/can_3901_20260610-01h.py) |
 | 3902 | 2026-06-10 06:42:05 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3902_20260610-06h.py](warehouse/can_3902_20260610-06h.py) |
 | 3903 | 2026-06-10 11:03:46 | Nex AGI: Nex-N2-Pro (free) | ✅ | [warehouse/can_3903_20260610-11h.py](warehouse/can_3903_20260610-11h.py) |
+| 3904 | 2026-06-10 14:29:03 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3904_20260610-14h.py](warehouse/can_3904_20260610-14h.py) |
