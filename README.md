@@ -4000,3 +4000,4 @@ If you need permission, you're thinking too much.
 | 3910 | 2026-06-11 11:48:20 | Nex AGI: Nex-N2-Pro (free) | ✅ | [warehouse/can_3910_20260611-11h.py](warehouse/can_3910_20260611-11h.py) |
 | 3911 | 2026-06-11 16:20:13 | Nex AGI: Nex-N2-Pro (free) | ✅ | [warehouse/can_3911_20260611-16h.py](warehouse/can_3911_20260611-16h.py) |
 | 3912 | 2026-06-11 19:45:10 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3912_20260611-19h.py](warehouse/can_3912_20260611-19h.py) |
+| 3913 | 2026-06-11 22:16:03 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3913_20260611-22h.py](warehouse/can_3913_20260611-22h.py) |
