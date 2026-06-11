@@ -3995,3 +3995,4 @@ If you need permission, you're thinking too much.
 | 3905 | 2026-06-10 18:09:18 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3905_20260610-18h.py](warehouse/can_3905_20260610-18h.py) |
 | 3906 | 2026-06-10 20:44:51 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3906_20260610-20h.py](warehouse/can_3906_20260610-20h.py) |
 | 3907 | 2026-06-10 22:56:52 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3907_20260610-22h.py](warehouse/can_3907_20260610-22h.py) |
+| 3908 | 2026-06-11 01:40:21 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3908_20260611-01h.py](warehouse/can_3908_20260611-01h.py) |
