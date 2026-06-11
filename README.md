@@ -3998,3 +3998,4 @@ If you need permission, you're thinking too much.
 | 3908 | 2026-06-11 01:40:21 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3908_20260611-01h.py](warehouse/can_3908_20260611-01h.py) |
 | 3909 | 2026-06-11 07:05:00 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3909_20260611-07h.py](warehouse/can_3909_20260611-07h.py) |
 | 3910 | 2026-06-11 11:48:20 | Nex AGI: Nex-N2-Pro (free) | ✅ | [warehouse/can_3910_20260611-11h.py](warehouse/can_3910_20260611-11h.py) |
+| 3911 | 2026-06-11 16:20:13 | Nex AGI: Nex-N2-Pro (free) | ✅ | [warehouse/can_3911_20260611-16h.py](warehouse/can_3911_20260611-16h.py) |
