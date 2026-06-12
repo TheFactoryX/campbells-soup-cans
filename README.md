@@ -4004,3 +4004,4 @@ If you need permission, you're thinking too much.
 | 3914 | 2026-06-11 23:55:52 | Google: Gemma 4 31B (free) | ✅ | [warehouse/can_3914_20260611-23h.py](warehouse/can_3914_20260611-23h.py) |
 | 3915 | 2026-06-12 05:03:38 | Owl Alpha | ✅ | [warehouse/can_3915_20260612-05h.py](warehouse/can_3915_20260612-05h.py) |
 | 3916 | 2026-06-12 09:12:40 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3916_20260612-09h.py](warehouse/can_3916_20260612-09h.py) |
+| 3917 | 2026-06-12 12:31:54 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3917_20260612-12h.py](warehouse/can_3917_20260612-12h.py) |
