@@ -1,0 +1,14 @@
+"""
+Campbell's Soup Can #3919
+Produced: 2026-06-12 19:21:36
+Worker: DeepSeek: R1 Distill Qwen 32B (deepseek/deepseek-r1-distill-qwen-32b)
+Employment: Paid
+Flavor: Woody Allen Philosophy
+Quality: ✅
+
+Made by Machine #0 - Production Line 0
+Like Warhol's soup cans - same but different.
+Each can is the same flavor, made by different hands.
+"""
+
+pythonĊimportĠsysĊimportĠtimeĊĊ#ĠDefineĠourĠquoteĊquoteĠ=Ġ(ĊĠĠĠĠ"LifeĠisĠlikeĠaĠcomfortableĠarmchairĠ-\n"ĊĠĠĠĠ"itĠstartsĠtoĠfallĠapartĠrightĠwhenĠyouĠgetĠcomfortable.\n"ĊĠĠĠĠ"AndĠexistence?ĠThat'sĠjustĠaĠsockĠdrawerĠwithĠnoĠmatchingĠsocks.\n"ĊĠĠĠĠ"ButĠhere'sĠtheĠrealĠkicker:ĠevenĠthoughĠeverythingĠisĠpredetermined,\n"ĊĠĠĠĠ"IĠstillĠblameĠmyselfĠforĠeternity'sĠbadĠchoices."Ċ)ĊĊ#ĠDefineĠsomeĠANSIĠcolorsĊCOLORSĠ=Ġ{ĊĠĠĠĠ'red':Ġ'\033[31m',ĊĠĠĠĠ'blue':Ġ'\033[34m',ĊĠĠĠĠ'green':Ġ'\033[32m',ĊĠĠĠĠ'yellow':Ġ'\033[33m',ĊĠĠĠĠ'reset':Ġ'\033[0m',Ċ}ĊĊ#ĠCreateĠaĠtypewriterĠeffectĠtoĠprintĠtheĠquoteĊdefĠtypewriter_effect(text):ĊĠĠĠĠforĠcharĠinĠtext:ĊĠĠĠĠĠĠĠĠsys.stdout.write(char)ĊĠĠĠĠĠĠĠĠsys.stdout.flush()ĊĠĠĠĠĠĠĠĠtime.sleep(0.01)ĊĊ#ĠClearĠtheĠscreenĊsys.stdout.write('\033[2J')Ċsys.stdout.write('\033[H')ĊĊ#ĠPositionĠcursorĠandĠprintĠtheĠquoteĠwithĠaĠframeĊprint("\033[34m"Ġ+Ġ"âķŃâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâķ®")ĠĠ#ĠBlueĠframeĊtypewriter_effect("\033[31m"Ġ+Ġf"âĶĤĠ{quote.strip()}ĠâĶĤ\033[0m")ĠĠ#ĠRedĠquoteĊprint("âķ°âĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâķ¯")ĊĊ#ĠAddĠaĠplayfulĠASCIIĠartĠ"âĪŀ"ĠsymbolĊprint("\033[33m"Ġ+Ġ"\nĠĠĠĠ(O)ĠĠĠĠĠâĪŀĠĠĠĠĠ(O)"Ġ"\033[0m")ĠĠ#ĠYellowĠinfinityĠsymbolĊprint("ĠĠĠĠĠ\ĠĠĠĠĠ~ĠĠĠĠĠ/ĠĠĠĠ")ĠĠ#ĠCoffeeĠcupĠhandleĊprint("ĠĠĠĠĠĠ\ĠĠĠĠĠ~ĠĠĠĠĠ/ĠĠĠ")ĠĠ#ĠCoffeeĠcupĠbaseĊprint("ĠĠĠĠĠĠĠ\ĠĠĠĠĠ~ĠĠĠĠĠ/ĠĠ")ĠĠ#ĠCoffeeĠcupĠspoutĊĊ#ĠFlashingĠtextĠeffectĊforĠ_ĠinĠrange(3):ĊĠĠĠĠtime.sleep(0.5)ĊĠĠĠĠprint("\033[35m"Ġ+Ġ"ĠĠĠĠAndĠdon'tĠworry,ĠI'llĠstillĠblameĠmyselfĠforĠeverything!ĠĠĠĠ\033[0m")ĊĠĠĠĠtime.sleep(0.5)ĊĠĠĠĠsys.stdout.write('\033[2J')ĊĠĠĠĠsys.stdout.write('\033[H')ĊĠĠĠĠprint("\033[34m"Ġ+Ġ"âķŃâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâķ®")ĊĠĠĠĠprint("\033[31m"Ġ+Ġf"âĶĤĠ{quote.strip()}ĠâĶĤ\033[0m")ĊĠĠĠĠprint("âķ°âĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâĶĢâķ¯")ĊĠĠĠĠprint("\033[33m"Ġ+Ġ"\nĠĠĠĠ(O)ĠĠĠĠĠâĪŀĠĠĠĠĠ(O)"Ġ"\033[0m")ĊĠĠĠĠprint("ĠĠĠĠĠ\ĠĠĠĠĠ~ĠĠĠĠĠ/ĠĠĠĠ")ĊĠĠĠĠprint("ĠĠĠĠĠĠ\ĠĠĠĠĠ~ĠĠĠĠĠ/ĠĠĠ")ĊĠĠĠĠprint("ĠĠĠĠĠĠĠ\ĠĠĠĠĠ~ĠĠĠĠĠ/ĠĠ")ĊĊprint("\033[0m")ĠĠ#ĠResetĠallĠcolorsĊ
