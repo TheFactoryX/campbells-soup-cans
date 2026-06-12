@@ -4005,3 +4005,4 @@ If you need permission, you're thinking too much.
 | 3915 | 2026-06-12 05:03:38 | Owl Alpha | ✅ | [warehouse/can_3915_20260612-05h.py](warehouse/can_3915_20260612-05h.py) |
 | 3916 | 2026-06-12 09:12:40 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3916_20260612-09h.py](warehouse/can_3916_20260612-09h.py) |
 | 3917 | 2026-06-12 12:31:54 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3917_20260612-12h.py](warehouse/can_3917_20260612-12h.py) |
+| 3918 | 2026-06-12 16:27:17 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_3918_20260612-16h.py](warehouse/can_3918_20260612-16h.py) |
