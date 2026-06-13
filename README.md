@@ -4014,3 +4014,4 @@ If you need permission, you're thinking too much.
 | 3924 | 2026-06-13 11:24:14 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3924_20260613-11h.py](warehouse/can_3924_20260613-11h.py) |
 | 3925 | 2026-06-13 14:26:32 | Owl Alpha | ❌ (empty, missing print) | [warehouse/can_3925_20260613-14h.py](warehouse/can_3925_20260613-14h.py) |
 | 3926 | 2026-06-13 16:46:34 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3926_20260613-16h.py](warehouse/can_3926_20260613-16h.py) |
+| 3927 | 2026-06-13 18:43:44 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3927_20260613-18h.py](warehouse/can_3927_20260613-18h.py) |
