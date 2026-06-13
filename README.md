@@ -4015,3 +4015,4 @@ If you need permission, you're thinking too much.
 | 3925 | 2026-06-13 14:26:32 | Owl Alpha | ❌ (empty, missing print) | [warehouse/can_3925_20260613-14h.py](warehouse/can_3925_20260613-14h.py) |
 | 3926 | 2026-06-13 16:46:34 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3926_20260613-16h.py](warehouse/can_3926_20260613-16h.py) |
 | 3927 | 2026-06-13 18:43:44 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3927_20260613-18h.py](warehouse/can_3927_20260613-18h.py) |
+| 3928 | 2026-06-13 20:40:36 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3928_20260613-20h.py](warehouse/can_3928_20260613-20h.py) |
