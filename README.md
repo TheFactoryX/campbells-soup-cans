@@ -4013,3 +4013,4 @@ If you need permission, you're thinking too much.
 | 3923 | 2026-06-13 08:31:30 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3923_20260613-08h.py](warehouse/can_3923_20260613-08h.py) |
 | 3924 | 2026-06-13 11:24:14 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3924_20260613-11h.py](warehouse/can_3924_20260613-11h.py) |
 | 3925 | 2026-06-13 14:26:32 | Owl Alpha | ❌ (empty, missing print) | [warehouse/can_3925_20260613-14h.py](warehouse/can_3925_20260613-14h.py) |
+| 3926 | 2026-06-13 16:46:34 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3926_20260613-16h.py](warehouse/can_3926_20260613-16h.py) |
