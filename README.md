@@ -4009,3 +4009,4 @@ If you need permission, you're thinking too much.
 | 3919 | 2026-06-12 19:21:36 | DeepSeek: R1 Distill Qwen 32B | ✅ | [warehouse/can_3919_20260612-19h.py](warehouse/can_3919_20260612-19h.py) |
 | 3920 | 2026-06-12 22:00:25 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3920_20260612-22h.py](warehouse/can_3920_20260612-22h.py) |
 | 3921 | 2026-06-12 23:51:34 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3921_20260612-23h.py](warehouse/can_3921_20260612-23h.py) |
+| 3922 | 2026-06-13 04:51:43 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_3922_20260613-04h.py](warehouse/can_3922_20260613-04h.py) |
