@@ -4024,3 +4024,4 @@ If you need permission, you're thinking too much.
 | 3934 | 2026-06-14 15:17:53 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_3934_20260614-15h.py](warehouse/can_3934_20260614-15h.py) |
 | 3935 | 2026-06-14 17:48:22 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3935_20260614-17h.py](warehouse/can_3935_20260614-17h.py) |
 | 3936 | 2026-06-14 19:57:38 | Owl Alpha | ✅ | [warehouse/can_3936_20260614-19h.py](warehouse/can_3936_20260614-19h.py) |
+| 3937 | 2026-06-14 21:40:01 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3937_20260614-21h.py](warehouse/can_3937_20260614-21h.py) |
