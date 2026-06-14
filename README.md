@@ -4018,3 +4018,4 @@ If you need permission, you're thinking too much.
 | 3928 | 2026-06-13 20:40:36 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3928_20260613-20h.py](warehouse/can_3928_20260613-20h.py) |
 | 3929 | 2026-06-13 22:18:42 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_3929_20260613-22h.py](warehouse/can_3929_20260613-22h.py) |
 | 3930 | 2026-06-14 01:36:59 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_3930_20260614-01h.py](warehouse/can_3930_20260614-01h.py) |
+| 3931 | 2026-06-14 06:57:00 | Free Models Router | ✅ | [warehouse/can_3931_20260614-06h.py](warehouse/can_3931_20260614-06h.py) |
