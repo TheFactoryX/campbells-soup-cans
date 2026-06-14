@@ -4021,3 +4021,4 @@ If you need permission, you're thinking too much.
 | 3931 | 2026-06-14 06:57:00 | Free Models Router | ✅ | [warehouse/can_3931_20260614-06h.py](warehouse/can_3931_20260614-06h.py) |
 | 3932 | 2026-06-14 10:31:50 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3932_20260614-10h.py](warehouse/can_3932_20260614-10h.py) |
 | 3933 | 2026-06-14 13:03:37 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3933_20260614-13h.py](warehouse/can_3933_20260614-13h.py) |
+| 3934 | 2026-06-14 15:17:53 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_3934_20260614-15h.py](warehouse/can_3934_20260614-15h.py) |
