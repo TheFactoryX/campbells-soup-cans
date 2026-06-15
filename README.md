@@ -4028,3 +4028,4 @@ If you need permission, you're thinking too much.
 | 3938 | 2026-06-14 23:37:03 | Free Models Router | ✅ | [warehouse/can_3938_20260614-23h.py](warehouse/can_3938_20260614-23h.py) |
 | 3939 | 2026-06-15 05:27:35 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_3939_20260615-05h.py](warehouse/can_3939_20260615-05h.py) |
 | 3940 | 2026-06-15 12:42:36 | Free Models Router | ✅ | [warehouse/can_3940_20260615-12h.py](warehouse/can_3940_20260615-12h.py) |
+| 3941 | 2026-06-15 18:01:38 | Nex AGI: Nex-N2-Pro (free) | ❌ (missing print) | [warehouse/can_3941_20260615-18h.py](warehouse/can_3941_20260615-18h.py) |
