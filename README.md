@@ -4035,3 +4035,4 @@ If you need permission, you're thinking too much.
 | 3945 | 2026-06-16 11:34:05 | Owl Alpha | ❌ (empty, missing print) | [warehouse/can_3945_20260616-11h.py](warehouse/can_3945_20260616-11h.py) |
 | 3946 | 2026-06-16 17:20:39 | Google: Gemma 4 26B A4B  (free) | ❌ (broken) | [warehouse/can_3946_20260616-17h.py](warehouse/can_3946_20260616-17h.py) |
 | 3947 | 2026-06-16 21:19:28 | Google: Gemma 4 31B (free) | ✅ | [warehouse/can_3947_20260616-21h.py](warehouse/can_3947_20260616-21h.py) |
+| 3948 | 2026-06-16 23:48:17 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3948_20260616-23h.py](warehouse/can_3948_20260616-23h.py) |
