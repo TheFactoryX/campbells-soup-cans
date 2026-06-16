@@ -4030,3 +4030,4 @@ If you need permission, you're thinking too much.
 | 3940 | 2026-06-15 12:42:36 | Free Models Router | ✅ | [warehouse/can_3940_20260615-12h.py](warehouse/can_3940_20260615-12h.py) |
 | 3941 | 2026-06-15 18:01:38 | Nex AGI: Nex-N2-Pro (free) | ❌ (missing print) | [warehouse/can_3941_20260615-18h.py](warehouse/can_3941_20260615-18h.py) |
 | 3942 | 2026-06-15 21:21:18 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3942_20260615-21h.py](warehouse/can_3942_20260615-21h.py) |
+| 3943 | 2026-06-16 00:02:09 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3943_20260616-00h.py](warehouse/can_3943_20260616-00h.py) |
