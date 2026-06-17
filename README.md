@@ -4040,3 +4040,4 @@ If you need permission, you're thinking too much.
 | 3950 | 2026-06-17 11:16:41 | Google: Gemma 4 31B (free) | ✅ | [warehouse/can_3950_20260617-11h.py](warehouse/can_3950_20260617-11h.py) |
 | 3951 | 2026-06-17 16:04:36 | Nex AGI: Nex-N2-Pro (free) | ✅ | [warehouse/can_3951_20260617-16h.py](warehouse/can_3951_20260617-16h.py) |
 | 3952 | 2026-06-17 18:34:37 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3952_20260617-18h.py](warehouse/can_3952_20260617-18h.py) |
+| 3953 | 2026-06-17 21:21:38 | Owl Alpha | ❌ (broken, missing print) | [warehouse/can_3953_20260617-21h.py](warehouse/can_3953_20260617-21h.py) |
