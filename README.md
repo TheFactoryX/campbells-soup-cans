@@ -4041,3 +4041,4 @@ If you need permission, you're thinking too much.
 | 3951 | 2026-06-17 16:04:36 | Nex AGI: Nex-N2-Pro (free) | ✅ | [warehouse/can_3951_20260617-16h.py](warehouse/can_3951_20260617-16h.py) |
 | 3952 | 2026-06-17 18:34:37 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_3952_20260617-18h.py](warehouse/can_3952_20260617-18h.py) |
 | 3953 | 2026-06-17 21:21:38 | Owl Alpha | ❌ (broken, missing print) | [warehouse/can_3953_20260617-21h.py](warehouse/can_3953_20260617-21h.py) |
+| 3954 | 2026-06-17 23:50:30 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3954_20260617-23h.py](warehouse/can_3954_20260617-23h.py) |
