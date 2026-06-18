@@ -4043,3 +4043,4 @@ If you need permission, you're thinking too much.
 | 3953 | 2026-06-17 21:21:38 | Owl Alpha | ❌ (broken, missing print) | [warehouse/can_3953_20260617-21h.py](warehouse/can_3953_20260617-21h.py) |
 | 3954 | 2026-06-17 23:50:30 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_3954_20260617-23h.py](warehouse/can_3954_20260617-23h.py) |
 | 3955 | 2026-06-18 05:01:58 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3955_20260618-05h.py](warehouse/can_3955_20260618-05h.py) |
+| 3956 | 2026-06-18 09:45:29 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_3956_20260618-09h.py](warehouse/can_3956_20260618-09h.py) |
