@@ -4051,3 +4051,4 @@ If you need permission, you're thinking too much.
 | 3961 | 2026-06-19 02:06:08 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_3961_20260619-02h.py](warehouse/can_3961_20260619-02h.py) |
 | 3962 | 2026-06-19 07:28:41 | Nex AGI: Nex-N2-Pro (free) | ❌ (broken) | [warehouse/can_3962_20260619-07h.py](warehouse/can_3962_20260619-07h.py) |
 | 3963 | 2026-06-19 12:17:33 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3963_20260619-12h.py](warehouse/can_3963_20260619-12h.py) |
+| 3964 | 2026-06-19 16:14:13 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3964_20260619-16h.py](warehouse/can_3964_20260619-16h.py) |
