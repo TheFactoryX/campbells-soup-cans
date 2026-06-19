@@ -4053,3 +4053,4 @@ If you need permission, you're thinking too much.
 | 3963 | 2026-06-19 12:17:33 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_3963_20260619-12h.py](warehouse/can_3963_20260619-12h.py) |
 | 3964 | 2026-06-19 16:14:13 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3964_20260619-16h.py](warehouse/can_3964_20260619-16h.py) |
 | 3965 | 2026-06-19 18:09:10 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (broken, missing print) | [warehouse/can_3965_20260619-18h.py](warehouse/can_3965_20260619-18h.py) |
+| 3966 | 2026-06-19 20:03:08 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_3966_20260619-20h.py](warehouse/can_3966_20260619-20h.py) |
