@@ -4049,3 +4049,4 @@ If you need permission, you're thinking too much.
 | 3959 | 2026-06-18 20:38:40 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3959_20260618-20h.py](warehouse/can_3959_20260618-20h.py) |
 | 3960 | 2026-06-18 23:05:10 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3960_20260618-23h.py](warehouse/can_3960_20260618-23h.py) |
 | 3961 | 2026-06-19 02:06:08 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_3961_20260619-02h.py](warehouse/can_3961_20260619-02h.py) |
+| 3962 | 2026-06-19 07:28:41 | Nex AGI: Nex-N2-Pro (free) | ❌ (broken) | [warehouse/can_3962_20260619-07h.py](warehouse/can_3962_20260619-07h.py) |
