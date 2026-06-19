@@ -4048,3 +4048,4 @@ If you need permission, you're thinking too much.
 | 3958 | 2026-06-18 17:29:22 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_3958_20260618-17h.py](warehouse/can_3958_20260618-17h.py) |
 | 3959 | 2026-06-18 20:38:40 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_3959_20260618-20h.py](warehouse/can_3959_20260618-20h.py) |
 | 3960 | 2026-06-18 23:05:10 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3960_20260618-23h.py](warehouse/can_3960_20260618-23h.py) |
+| 3961 | 2026-06-19 02:06:08 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_3961_20260619-02h.py](warehouse/can_3961_20260619-02h.py) |
