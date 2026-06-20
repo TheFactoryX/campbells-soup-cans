@@ -4057,3 +4057,4 @@ If you need permission, you're thinking too much.
 | 3967 | 2026-06-19 21:34:50 | Google: Gemma 4 31B (free) | ✅ | [warehouse/can_3967_20260619-21h.py](warehouse/can_3967_20260619-21h.py) |
 | 3968 | 2026-06-19 23:14:51 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_3968_20260619-23h.py](warehouse/can_3968_20260619-23h.py) |
 | 3969 | 2026-06-20 01:32:36 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_3969_20260620-01h.py](warehouse/can_3969_20260620-01h.py) |
+| 3970 | 2026-06-20 06:41:09 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_3970_20260620-06h.py](warehouse/can_3970_20260620-06h.py) |
