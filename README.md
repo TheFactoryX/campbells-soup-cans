@@ -4059,3 +4059,4 @@ If you need permission, you're thinking too much.
 | 3969 | 2026-06-20 01:32:36 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_3969_20260620-01h.py](warehouse/can_3969_20260620-01h.py) |
 | 3970 | 2026-06-20 06:41:09 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_3970_20260620-06h.py](warehouse/can_3970_20260620-06h.py) |
 | 3971 | 2026-06-20 10:13:17 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_3971_20260620-10h.py](warehouse/can_3971_20260620-10h.py) |
+| 3972 | 2026-06-20 12:10:53 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3972_20260620-12h.py](warehouse/can_3972_20260620-12h.py) |
