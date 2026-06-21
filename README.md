@@ -4068,3 +4068,4 @@ If you need permission, you're thinking too much.
 | 3978 | 2026-06-21 01:39:26 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3978_20260621-01h.py](warehouse/can_3978_20260621-01h.py) |
 | 3979 | 2026-06-21 07:09:01 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3979_20260621-07h.py](warehouse/can_3979_20260621-07h.py) |
 | 3980 | 2026-06-21 10:46:24 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_3980_20260621-10h.py](warehouse/can_3980_20260621-10h.py) |
+| 3981 | 2026-06-21 13:17:28 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_3981_20260621-13h.py](warehouse/can_3981_20260621-13h.py) |
