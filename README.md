@@ -4066,3 +4066,4 @@ If you need permission, you're thinking too much.
 | 3976 | 2026-06-20 20:41:18 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3976_20260620-20h.py](warehouse/can_3976_20260620-20h.py) |
 | 3977 | 2026-06-20 22:34:48 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_3977_20260620-22h.py](warehouse/can_3977_20260620-22h.py) |
 | 3978 | 2026-06-21 01:39:26 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3978_20260621-01h.py](warehouse/can_3978_20260621-01h.py) |
+| 3979 | 2026-06-21 07:09:01 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3979_20260621-07h.py](warehouse/can_3979_20260621-07h.py) |
