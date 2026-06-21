@@ -4071,3 +4071,4 @@ If you need permission, you're thinking too much.
 | 3981 | 2026-06-21 13:17:28 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_3981_20260621-13h.py](warehouse/can_3981_20260621-13h.py) |
 | 3982 | 2026-06-21 16:11:05 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3982_20260621-16h.py](warehouse/can_3982_20260621-16h.py) |
 | 3983 | 2026-06-21 17:52:13 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_3983_20260621-17h.py](warehouse/can_3983_20260621-17h.py) |
+| 3984 | 2026-06-21 20:02:35 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_3984_20260621-20h.py](warehouse/can_3984_20260621-20h.py) |
