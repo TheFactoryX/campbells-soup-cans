@@ -4069,3 +4069,4 @@ If you need permission, you're thinking too much.
 | 3979 | 2026-06-21 07:09:01 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_3979_20260621-07h.py](warehouse/can_3979_20260621-07h.py) |
 | 3980 | 2026-06-21 10:46:24 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_3980_20260621-10h.py](warehouse/can_3980_20260621-10h.py) |
 | 3981 | 2026-06-21 13:17:28 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_3981_20260621-13h.py](warehouse/can_3981_20260621-13h.py) |
+| 3982 | 2026-06-21 16:11:05 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3982_20260621-16h.py](warehouse/can_3982_20260621-16h.py) |
