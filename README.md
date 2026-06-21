@@ -4065,3 +4065,4 @@ If you need permission, you're thinking too much.
 | 3975 | 2026-06-20 18:45:02 | Free Models Router | ❌ (broken, missing print) | [warehouse/can_3975_20260620-18h.py](warehouse/can_3975_20260620-18h.py) |
 | 3976 | 2026-06-20 20:41:18 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_3976_20260620-20h.py](warehouse/can_3976_20260620-20h.py) |
 | 3977 | 2026-06-20 22:34:48 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_3977_20260620-22h.py](warehouse/can_3977_20260620-22h.py) |
+| 3978 | 2026-06-21 01:39:26 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_3978_20260621-01h.py](warehouse/can_3978_20260621-01h.py) |
