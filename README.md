@@ -4075,3 +4075,4 @@ If you need permission, you're thinking too much.
 | 3985 | 2026-06-21 21:42:01 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_3985_20260621-21h.py](warehouse/can_3985_20260621-21h.py) |
 | 3986 | 2026-06-21 23:44:54 | Google: Gemini 2.5 Flash Lite Preview 09-2025 | ✅ | [warehouse/can_3986_20260621-23h.py](warehouse/can_3986_20260621-23h.py) |
 | 3987 | 2026-06-22 05:30:50 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_3987_20260622-05h.py](warehouse/can_3987_20260622-05h.py) |
+| 3988 | 2026-06-22 12:25:54 | Mistral: Ministral 3 8B 2512 | ✅ | [warehouse/can_3988_20260622-12h.py](warehouse/can_3988_20260622-12h.py) |
