@@ -4082,3 +4082,4 @@ If you need permission, you're thinking too much.
 | 3992 | 2026-06-23 01:23:28 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_3992_20260623-01h.py](warehouse/can_3992_20260623-01h.py) |
 | 3993 | 2026-06-23 06:19:12 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (missing print) | [warehouse/can_3993_20260623-06h.py](warehouse/can_3993_20260623-06h.py) |
 | 3994 | 2026-06-23 10:43:26 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3994_20260623-10h.py](warehouse/can_3994_20260623-10h.py) |
+| 3995 | 2026-06-23 13:46:16 | Owl Alpha | ✅ | [warehouse/can_3995_20260623-13h.py](warehouse/can_3995_20260623-13h.py) |
