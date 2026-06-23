@@ -4084,3 +4084,4 @@ If you need permission, you're thinking too much.
 | 3994 | 2026-06-23 10:43:26 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_3994_20260623-10h.py](warehouse/can_3994_20260623-10h.py) |
 | 3995 | 2026-06-23 13:46:16 | Owl Alpha | ✅ | [warehouse/can_3995_20260623-13h.py](warehouse/can_3995_20260623-13h.py) |
 | 3996 | 2026-06-23 16:42:06 | Z.ai: GLM 5.2 | ✅ | [warehouse/can_3996_20260623-16h.py](warehouse/can_3996_20260623-16h.py) |
+| 3997 | 2026-06-23 19:18:59 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_3997_20260623-19h.py](warehouse/can_3997_20260623-19h.py) |
