@@ -4088,3 +4088,4 @@ If you need permission, you're thinking too much.
 | 3998 | 2026-06-23 21:50:54 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_3998_20260623-21h.py](warehouse/can_3998_20260623-21h.py) |
 | 3999 | 2026-06-23 23:30:27 | Owl Alpha | ✅ | [warehouse/can_3999_20260623-23h.py](warehouse/can_3999_20260623-23h.py) |
 | 4000 | 2026-06-24 04:36:01 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4000_20260624-04h.py](warehouse/can_4000_20260624-04h.py) |
+| 4001 | 2026-06-24 08:33:02 | Google: Gemma 4 31B (free) | ✅ | [warehouse/can_4001_20260624-08h.py](warehouse/can_4001_20260624-08h.py) |
