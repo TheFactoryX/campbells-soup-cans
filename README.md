@@ -4092,3 +4092,4 @@ If you need permission, you're thinking too much.
 | 4002 | 2026-06-24 12:00:51 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4002_20260624-12h.py](warehouse/can_4002_20260624-12h.py) |
 | 4003 | 2026-06-24 15:11:47 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4003_20260624-15h.py](warehouse/can_4003_20260624-15h.py) |
 | 4004 | 2026-06-24 17:19:09 | Free Models Router | ❌ (empty, missing print) | [warehouse/can_4004_20260624-17h.py](warehouse/can_4004_20260624-17h.py) |
+| 4005 | 2026-06-24 20:08:58 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_4005_20260624-20h.py](warehouse/can_4005_20260624-20h.py) |
