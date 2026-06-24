@@ -4091,3 +4091,4 @@ If you need permission, you're thinking too much.
 | 4001 | 2026-06-24 08:33:02 | Google: Gemma 4 31B (free) | ✅ | [warehouse/can_4001_20260624-08h.py](warehouse/can_4001_20260624-08h.py) |
 | 4002 | 2026-06-24 12:00:51 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4002_20260624-12h.py](warehouse/can_4002_20260624-12h.py) |
 | 4003 | 2026-06-24 15:11:47 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4003_20260624-15h.py](warehouse/can_4003_20260624-15h.py) |
+| 4004 | 2026-06-24 17:19:09 | Free Models Router | ❌ (empty, missing print) | [warehouse/can_4004_20260624-17h.py](warehouse/can_4004_20260624-17h.py) |
