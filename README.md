@@ -4097,3 +4097,4 @@ If you need permission, you're thinking too much.
 | 4007 | 2026-06-24 23:33:48 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_4007_20260624-23h.py](warehouse/can_4007_20260624-23h.py) |
 | 4008 | 2026-06-25 04:34:00 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4008_20260625-04h.py](warehouse/can_4008_20260625-04h.py) |
 | 4009 | 2026-06-25 08:30:53 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4009_20260625-08h.py](warehouse/can_4009_20260625-08h.py) |
+| 4010 | 2026-06-25 11:49:45 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4010_20260625-11h.py](warehouse/can_4010_20260625-11h.py) |
