@@ -4098,3 +4098,4 @@ If you need permission, you're thinking too much.
 | 4008 | 2026-06-25 04:34:00 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4008_20260625-04h.py](warehouse/can_4008_20260625-04h.py) |
 | 4009 | 2026-06-25 08:30:53 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4009_20260625-08h.py](warehouse/can_4009_20260625-08h.py) |
 | 4010 | 2026-06-25 11:49:45 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4010_20260625-11h.py](warehouse/can_4010_20260625-11h.py) |
+| 4011 | 2026-06-25 15:14:08 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_4011_20260625-15h.py](warehouse/can_4011_20260625-15h.py) |
