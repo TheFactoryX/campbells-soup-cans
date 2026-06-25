@@ -4095,3 +4095,4 @@ If you need permission, you're thinking too much.
 | 4005 | 2026-06-24 20:08:58 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_4005_20260624-20h.py](warehouse/can_4005_20260624-20h.py) |
 | 4006 | 2026-06-24 21:45:26 | Mistral: Ministral 3 8B 2512 | ❌ (broken) | [warehouse/can_4006_20260624-21h.py](warehouse/can_4006_20260624-21h.py) |
 | 4007 | 2026-06-24 23:33:48 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_4007_20260624-23h.py](warehouse/can_4007_20260624-23h.py) |
+| 4008 | 2026-06-25 04:34:00 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4008_20260625-04h.py](warehouse/can_4008_20260625-04h.py) |
