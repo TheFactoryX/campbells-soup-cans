@@ -4104,3 +4104,4 @@ If you need permission, you're thinking too much.
 | 4014 | 2026-06-25 22:46:11 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4014_20260625-22h.py](warehouse/can_4014_20260625-22h.py) |
 | 4015 | 2026-06-26 01:30:06 | Free Models Router | ✅ | [warehouse/can_4015_20260626-01h.py](warehouse/can_4015_20260626-01h.py) |
 | 4016 | 2026-06-26 06:29:02 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_4016_20260626-06h.py](warehouse/can_4016_20260626-06h.py) |
+| 4017 | 2026-06-26 10:28:33 | Poolside: Laguna M.1 (free) | ❌ (empty, missing print) | [warehouse/can_4017_20260626-10h.py](warehouse/can_4017_20260626-10h.py) |
