@@ -4108,3 +4108,4 @@ If you need permission, you're thinking too much.
 | 4018 | 2026-06-26 13:20:23 | NVIDIA: Nemotron 3 Super (free) | ❌ (empty, missing print) | [warehouse/can_4018_20260626-13h.py](warehouse/can_4018_20260626-13h.py) |
 | 4019 | 2026-06-26 16:27:32 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4019_20260626-16h.py](warehouse/can_4019_20260626-16h.py) |
 | 4020 | 2026-06-26 19:03:39 | Google: Gemma 4 31B (free) | ❌ (empty, missing print) | [warehouse/can_4020_20260626-19h.py](warehouse/can_4020_20260626-19h.py) |
+| 4021 | 2026-06-26 20:55:14 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4021_20260626-20h.py](warehouse/can_4021_20260626-20h.py) |
