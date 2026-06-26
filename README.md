@@ -4107,3 +4107,4 @@ If you need permission, you're thinking too much.
 | 4017 | 2026-06-26 10:28:33 | Poolside: Laguna M.1 (free) | ❌ (empty, missing print) | [warehouse/can_4017_20260626-10h.py](warehouse/can_4017_20260626-10h.py) |
 | 4018 | 2026-06-26 13:20:23 | NVIDIA: Nemotron 3 Super (free) | ❌ (empty, missing print) | [warehouse/can_4018_20260626-13h.py](warehouse/can_4018_20260626-13h.py) |
 | 4019 | 2026-06-26 16:27:32 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4019_20260626-16h.py](warehouse/can_4019_20260626-16h.py) |
+| 4020 | 2026-06-26 19:03:39 | Google: Gemma 4 31B (free) | ❌ (empty, missing print) | [warehouse/can_4020_20260626-19h.py](warehouse/can_4020_20260626-19h.py) |
