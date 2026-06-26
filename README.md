@@ -4102,3 +4102,4 @@ If you need permission, you're thinking too much.
 | 4012 | 2026-06-25 17:24:06 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_4012_20260625-17h.py](warehouse/can_4012_20260625-17h.py) |
 | 4013 | 2026-06-25 20:22:04 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_4013_20260625-20h.py](warehouse/can_4013_20260625-20h.py) |
 | 4014 | 2026-06-25 22:46:11 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4014_20260625-22h.py](warehouse/can_4014_20260625-22h.py) |
+| 4015 | 2026-06-26 01:30:06 | Free Models Router | ✅ | [warehouse/can_4015_20260626-01h.py](warehouse/can_4015_20260626-01h.py) |
