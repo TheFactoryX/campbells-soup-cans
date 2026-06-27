@@ -4112,3 +4112,4 @@ If you need permission, you're thinking too much.
 | 4022 | 2026-06-26 22:36:37 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4022_20260626-22h.py](warehouse/can_4022_20260626-22h.py) |
 | 4023 | 2026-06-27 01:22:59 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4023_20260627-01h.py](warehouse/can_4023_20260627-01h.py) |
 | 4024 | 2026-06-27 06:01:43 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_4024_20260627-06h.py](warehouse/can_4024_20260627-06h.py) |
+| 4025 | 2026-06-27 08:49:39 | Cohere: North Mini Code (free) | ❌ (empty, missing print) | [warehouse/can_4025_20260627-08h.py](warehouse/can_4025_20260627-08h.py) |
