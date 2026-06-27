@@ -4114,3 +4114,4 @@ If you need permission, you're thinking too much.
 | 4024 | 2026-06-27 06:01:43 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_4024_20260627-06h.py](warehouse/can_4024_20260627-06h.py) |
 | 4025 | 2026-06-27 08:49:39 | Cohere: North Mini Code (free) | ❌ (empty, missing print) | [warehouse/can_4025_20260627-08h.py](warehouse/can_4025_20260627-08h.py) |
 | 4026 | 2026-06-27 11:03:30 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (broken) | [warehouse/can_4026_20260627-11h.py](warehouse/can_4026_20260627-11h.py) |
+| 4027 | 2026-06-27 12:19:24 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_4027_20260627-12h.py](warehouse/can_4027_20260627-12h.py) |
