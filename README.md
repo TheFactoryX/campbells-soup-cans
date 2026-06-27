@@ -4120,3 +4120,4 @@ If you need permission, you're thinking too much.
 | 4030 | 2026-06-27 18:17:59 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4030_20260627-18h.py](warehouse/can_4030_20260627-18h.py) |
 | 4031 | 2026-06-27 20:19:46 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4031_20260627-20h.py](warehouse/can_4031_20260627-20h.py) |
 | 4032 | 2026-06-27 22:16:01 | Google: Gemma 4 31B (free) | ✅ | [warehouse/can_4032_20260627-22h.py](warehouse/can_4032_20260627-22h.py) |
+| 4033 | 2026-06-27 23:30:52 | Poolside: Laguna XS.2 | ✅ | [warehouse/can_4033_20260627-23h.py](warehouse/can_4033_20260627-23h.py) |
