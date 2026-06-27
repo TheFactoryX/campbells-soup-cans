@@ -4110,3 +4110,4 @@ If you need permission, you're thinking too much.
 | 4020 | 2026-06-26 19:03:39 | Google: Gemma 4 31B (free) | ❌ (empty, missing print) | [warehouse/can_4020_20260626-19h.py](warehouse/can_4020_20260626-19h.py) |
 | 4021 | 2026-06-26 20:55:14 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4021_20260626-20h.py](warehouse/can_4021_20260626-20h.py) |
 | 4022 | 2026-06-26 22:36:37 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4022_20260626-22h.py](warehouse/can_4022_20260626-22h.py) |
+| 4023 | 2026-06-27 01:22:59 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4023_20260627-01h.py](warehouse/can_4023_20260627-01h.py) |
