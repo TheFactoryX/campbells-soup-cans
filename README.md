@@ -4122,3 +4122,4 @@ If you need permission, you're thinking too much.
 | 4032 | 2026-06-27 22:16:01 | Google: Gemma 4 31B (free) | ✅ | [warehouse/can_4032_20260627-22h.py](warehouse/can_4032_20260627-22h.py) |
 | 4033 | 2026-06-27 23:30:52 | Poolside: Laguna XS.2 | ✅ | [warehouse/can_4033_20260627-23h.py](warehouse/can_4033_20260627-23h.py) |
 | 4034 | 2026-06-28 04:50:49 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4034_20260628-04h.py](warehouse/can_4034_20260628-04h.py) |
+| 4035 | 2026-06-28 08:28:17 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4035_20260628-08h.py](warehouse/can_4035_20260628-08h.py) |
