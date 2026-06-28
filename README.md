@@ -4130,3 +4130,4 @@ If you need permission, you're thinking too much.
 | 4040 | 2026-06-28 18:17:39 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4040_20260628-18h.py](warehouse/can_4040_20260628-18h.py) |
 | 4041 | 2026-06-28 20:36:29 | OpenAI: gpt-oss-120b (free) | ❌ (missing print) | [warehouse/can_4041_20260628-20h.py](warehouse/can_4041_20260628-20h.py) |
 | 4042 | 2026-06-28 22:15:08 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_4042_20260628-22h.py](warehouse/can_4042_20260628-22h.py) |
+| 4043 | 2026-06-28 23:31:59 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4043_20260628-23h.py](warehouse/can_4043_20260628-23h.py) |
