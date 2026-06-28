@@ -4127,3 +4127,4 @@ If you need permission, you're thinking too much.
 | 4037 | 2026-06-28 12:46:33 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4037_20260628-12h.py](warehouse/can_4037_20260628-12h.py) |
 | 4038 | 2026-06-28 14:57:05 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_4038_20260628-14h.py](warehouse/can_4038_20260628-14h.py) |
 | 4039 | 2026-06-28 16:36:36 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_4039_20260628-16h.py](warehouse/can_4039_20260628-16h.py) |
+| 4040 | 2026-06-28 18:17:39 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4040_20260628-18h.py](warehouse/can_4040_20260628-18h.py) |
