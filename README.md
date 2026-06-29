@@ -4133,3 +4133,4 @@ If you need permission, you're thinking too much.
 | 4043 | 2026-06-28 23:31:59 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4043_20260628-23h.py](warehouse/can_4043_20260628-23h.py) |
 | 4044 | 2026-06-29 04:59:36 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4044_20260629-04h.py](warehouse/can_4044_20260629-04h.py) |
 | 4045 | 2026-06-29 09:58:57 | OpenAI: GPT-5.4 Nano | ✅ | [warehouse/can_4045_20260629-09h.py](warehouse/can_4045_20260629-09h.py) |
+| 4046 | 2026-06-29 14:18:45 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4046_20260629-14h.py](warehouse/can_4046_20260629-14h.py) |
