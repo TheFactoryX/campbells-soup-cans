@@ -4144,3 +4144,4 @@ If you need permission, you're thinking too much.
 | 4054 | 2026-06-30 13:15:30 | Free Models Router | ❌ (empty, missing print) | [warehouse/can_4054_20260630-13h.py](warehouse/can_4054_20260630-13h.py) |
 | 4055 | 2026-06-30 15:43:08 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4055_20260630-15h.py](warehouse/can_4055_20260630-15h.py) |
 | 4056 | 2026-06-30 18:15:03 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4056_20260630-18h.py](warehouse/can_4056_20260630-18h.py) |
+| 4057 | 2026-06-30 20:21:37 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4057_20260630-20h.py](warehouse/can_4057_20260630-20h.py) |
