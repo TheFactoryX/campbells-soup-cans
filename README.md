@@ -4139,3 +4139,4 @@ If you need permission, you're thinking too much.
 | 4049 | 2026-06-29 21:45:33 | Owl Alpha | ✅ | [warehouse/can_4049_20260629-21h.py](warehouse/can_4049_20260629-21h.py) |
 | 4050 | 2026-06-29 23:15:57 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_4050_20260629-23h.py](warehouse/can_4050_20260629-23h.py) |
 | 4051 | 2026-06-30 01:27:35 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_4051_20260630-01h.py](warehouse/can_4051_20260630-01h.py) |
+| 4052 | 2026-06-30 06:32:57 | Free Models Router | ❌ (broken) | [warehouse/can_4052_20260630-06h.py](warehouse/can_4052_20260630-06h.py) |
