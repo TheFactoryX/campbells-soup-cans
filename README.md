@@ -4153,3 +4153,4 @@ If you need permission, you're thinking too much.
 | 4063 | 2026-07-01 16:39:38 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4063_20260701-16h.py](warehouse/can_4063_20260701-16h.py) |
 | 4064 | 2026-07-01 19:11:54 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_4064_20260701-19h.py](warehouse/can_4064_20260701-19h.py) |
 | 4065 | 2026-07-01 20:54:35 | Qwen: Qwen3.5-9B | ✅ | [warehouse/can_4065_20260701-20h.py](warehouse/can_4065_20260701-20h.py) |
+| 4066 | 2026-07-01 22:39:42 | Google: Gemma 4 31B (free) | ✅ | [warehouse/can_4066_20260701-22h.py](warehouse/can_4066_20260701-22h.py) |
