@@ -4147,3 +4147,4 @@ If you need permission, you're thinking too much.
 | 4057 | 2026-06-30 20:21:37 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4057_20260630-20h.py](warehouse/can_4057_20260630-20h.py) |
 | 4058 | 2026-06-30 22:39:51 | Google: Gemma 4 26B A4B  (free) | ❌ (broken) | [warehouse/can_4058_20260630-22h.py](warehouse/can_4058_20260630-22h.py) |
 | 4059 | 2026-07-01 01:32:28 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_4059_20260701-01h.py](warehouse/can_4059_20260701-01h.py) |
+| 4060 | 2026-07-01 06:44:26 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4060_20260701-06h.py](warehouse/can_4060_20260701-06h.py) |
