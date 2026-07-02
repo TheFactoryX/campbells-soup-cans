@@ -4157,3 +4157,4 @@ If you need permission, you're thinking too much.
 | 4067 | 2026-07-02 01:24:55 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4067_20260702-01h.py](warehouse/can_4067_20260702-01h.py) |
 | 4068 | 2026-07-02 06:09:45 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4068_20260702-06h.py](warehouse/can_4068_20260702-06h.py) |
 | 4069 | 2026-07-02 09:31:55 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4069_20260702-09h.py](warehouse/can_4069_20260702-09h.py) |
+| 4070 | 2026-07-02 12:21:07 | Poolside: Laguna M.1 (free) | ❌ (empty, missing print) | [warehouse/can_4070_20260702-12h.py](warehouse/can_4070_20260702-12h.py) |
