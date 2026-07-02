@@ -4156,3 +4156,4 @@ If you need permission, you're thinking too much.
 | 4066 | 2026-07-01 22:39:42 | Google: Gemma 4 31B (free) | ✅ | [warehouse/can_4066_20260701-22h.py](warehouse/can_4066_20260701-22h.py) |
 | 4067 | 2026-07-02 01:24:55 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4067_20260702-01h.py](warehouse/can_4067_20260702-01h.py) |
 | 4068 | 2026-07-02 06:09:45 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4068_20260702-06h.py](warehouse/can_4068_20260702-06h.py) |
+| 4069 | 2026-07-02 09:31:55 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4069_20260702-09h.py](warehouse/can_4069_20260702-09h.py) |
