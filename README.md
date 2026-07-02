@@ -4159,3 +4159,4 @@ If you need permission, you're thinking too much.
 | 4069 | 2026-07-02 09:31:55 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4069_20260702-09h.py](warehouse/can_4069_20260702-09h.py) |
 | 4070 | 2026-07-02 12:21:07 | Poolside: Laguna M.1 (free) | ❌ (empty, missing print) | [warehouse/can_4070_20260702-12h.py](warehouse/can_4070_20260702-12h.py) |
 | 4071 | 2026-07-02 15:30:18 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_4071_20260702-15h.py](warehouse/can_4071_20260702-15h.py) |
+| 4072 | 2026-07-02 18:01:55 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (broken, missing print) | [warehouse/can_4072_20260702-18h.py](warehouse/can_4072_20260702-18h.py) |
