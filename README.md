@@ -4160,3 +4160,4 @@ If you need permission, you're thinking too much.
 | 4070 | 2026-07-02 12:21:07 | Poolside: Laguna M.1 (free) | ❌ (empty, missing print) | [warehouse/can_4070_20260702-12h.py](warehouse/can_4070_20260702-12h.py) |
 | 4071 | 2026-07-02 15:30:18 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ✅ | [warehouse/can_4071_20260702-15h.py](warehouse/can_4071_20260702-15h.py) |
 | 4072 | 2026-07-02 18:01:55 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (broken, missing print) | [warehouse/can_4072_20260702-18h.py](warehouse/can_4072_20260702-18h.py) |
+| 4073 | 2026-07-02 19:52:00 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_4073_20260702-19h.py](warehouse/can_4073_20260702-19h.py) |
