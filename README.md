@@ -4171,3 +4171,4 @@ If you need permission, you're thinking too much.
 | 4081 | 2026-07-03 17:47:47 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4081_20260703-17h.py](warehouse/can_4081_20260703-17h.py) |
 | 4082 | 2026-07-03 19:49:26 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_4082_20260703-19h.py](warehouse/can_4082_20260703-19h.py) |
 | 4083 | 2026-07-03 21:31:27 | Google: Gemma 4 31B (free) | ✅ | [warehouse/can_4083_20260703-21h.py](warehouse/can_4083_20260703-21h.py) |
+| 4084 | 2026-07-03 23:18:14 | Anthropic: Claude Fable 5 | ✅ | [warehouse/can_4084_20260703-23h.py](warehouse/can_4084_20260703-23h.py) |
