@@ -4169,3 +4169,4 @@ If you need permission, you're thinking too much.
 | 4079 | 2026-07-03 13:11:48 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_4079_20260703-13h.py](warehouse/can_4079_20260703-13h.py) |
 | 4080 | 2026-07-03 15:25:34 | Free Models Router | ✅ | [warehouse/can_4080_20260703-15h.py](warehouse/can_4080_20260703-15h.py) |
 | 4081 | 2026-07-03 17:47:47 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4081_20260703-17h.py](warehouse/can_4081_20260703-17h.py) |
+| 4082 | 2026-07-03 19:49:26 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_4082_20260703-19h.py](warehouse/can_4082_20260703-19h.py) |
