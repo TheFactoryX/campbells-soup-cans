@@ -4168,3 +4168,4 @@ If you need permission, you're thinking too much.
 | 4078 | 2026-07-03 10:49:36 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4078_20260703-10h.py](warehouse/can_4078_20260703-10h.py) |
 | 4079 | 2026-07-03 13:11:48 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_4079_20260703-13h.py](warehouse/can_4079_20260703-13h.py) |
 | 4080 | 2026-07-03 15:25:34 | Free Models Router | ✅ | [warehouse/can_4080_20260703-15h.py](warehouse/can_4080_20260703-15h.py) |
+| 4081 | 2026-07-03 17:47:47 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4081_20260703-17h.py](warehouse/can_4081_20260703-17h.py) |
