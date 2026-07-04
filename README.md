@@ -4173,3 +4173,4 @@ If you need permission, you're thinking too much.
 | 4083 | 2026-07-03 21:31:27 | Google: Gemma 4 31B (free) | ✅ | [warehouse/can_4083_20260703-21h.py](warehouse/can_4083_20260703-21h.py) |
 | 4084 | 2026-07-03 23:18:14 | Anthropic: Claude Fable 5 | ✅ | [warehouse/can_4084_20260703-23h.py](warehouse/can_4084_20260703-23h.py) |
 | 4085 | 2026-07-04 04:01:59 | Meta: Llama 3.1 8B Instruct | ✅ | [warehouse/can_4085_20260704-04h.py](warehouse/can_4085_20260704-04h.py) |
+| 4086 | 2026-07-04 07:14:32 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (broken) | [warehouse/can_4086_20260704-07h.py](warehouse/can_4086_20260704-07h.py) |
