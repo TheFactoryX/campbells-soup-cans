@@ -4178,3 +4178,4 @@ If you need permission, you're thinking too much.
 | 4088 | 2026-07-04 11:46:06 | Free Models Router | ❌ (empty, broken, missing print) | [warehouse/can_4088_20260704-11h.py](warehouse/can_4088_20260704-11h.py) |
 | 4089 | 2026-07-04 13:58:31 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_4089_20260704-13h.py](warehouse/can_4089_20260704-13h.py) |
 | 4090 | 2026-07-04 15:30:55 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4090_20260704-15h.py](warehouse/can_4090_20260704-15h.py) |
+| 4091 | 2026-07-04 17:19:22 | Free Models Router | ✅ | [warehouse/can_4091_20260704-17h.py](warehouse/can_4091_20260704-17h.py) |
