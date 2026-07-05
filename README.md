@@ -4192,3 +4192,4 @@ If you need permission, you're thinking too much.
 | 4102 | 2026-07-05 16:18:16 | LiquidAI: LFM2.5-1.2B-Instruct (free) | ❌ (broken) | [warehouse/can_4102_20260705-16h.py](warehouse/can_4102_20260705-16h.py) |
 | 4103 | 2026-07-05 18:16:00 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_4103_20260705-18h.py](warehouse/can_4103_20260705-18h.py) |
 | 4104 | 2026-07-05 19:46:10 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4104_20260705-19h.py](warehouse/can_4104_20260705-19h.py) |
+| 4105 | 2026-07-05 21:19:06 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4105_20260705-21h.py](warehouse/can_4105_20260705-21h.py) |
