@@ -4184,3 +4184,4 @@ If you need permission, you're thinking too much.
 | 4094 | 2026-07-04 22:12:58 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4094_20260704-22h.py](warehouse/can_4094_20260704-22h.py) |
 | 4095 | 2026-07-04 23:14:23 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_4095_20260704-23h.py](warehouse/can_4095_20260704-23h.py) |
 | 4096 | 2026-07-05 00:14:37 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_4096_20260705-00h.py](warehouse/can_4096_20260705-00h.py) |
+| 4097 | 2026-07-05 04:32:46 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_4097_20260705-04h.py](warehouse/can_4097_20260705-04h.py) |
