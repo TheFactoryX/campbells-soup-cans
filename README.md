@@ -4187,3 +4187,4 @@ If you need permission, you're thinking too much.
 | 4097 | 2026-07-05 04:32:46 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ✅ | [warehouse/can_4097_20260705-04h.py](warehouse/can_4097_20260705-04h.py) |
 | 4098 | 2026-07-05 08:17:24 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4098_20260705-08h.py](warehouse/can_4098_20260705-08h.py) |
 | 4099 | 2026-07-05 11:13:25 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4099_20260705-11h.py](warehouse/can_4099_20260705-11h.py) |
+| 4100 | 2026-07-05 12:42:02 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4100_20260705-12h.py](warehouse/can_4100_20260705-12h.py) |
