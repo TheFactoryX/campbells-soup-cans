@@ -4197,3 +4197,4 @@ If you need permission, you're thinking too much.
 | 4107 | 2026-07-06 04:39:08 | Free Models Router | ✅ | [warehouse/can_4107_20260706-04h.py](warehouse/can_4107_20260706-04h.py) |
 | 4108 | 2026-07-06 09:10:16 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4108_20260706-09h.py](warehouse/can_4108_20260706-09h.py) |
 | 4109 | 2026-07-06 12:58:32 | OpenAI: GPT-5.4 | ✅ | [warehouse/can_4109_20260706-12h.py](warehouse/can_4109_20260706-12h.py) |
+| 4110 | 2026-07-06 16:30:08 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4110_20260706-16h.py](warehouse/can_4110_20260706-16h.py) |
