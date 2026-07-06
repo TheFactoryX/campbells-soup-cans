@@ -4199,3 +4199,4 @@ If you need permission, you're thinking too much.
 | 4109 | 2026-07-06 12:58:32 | OpenAI: GPT-5.4 | ✅ | [warehouse/can_4109_20260706-12h.py](warehouse/can_4109_20260706-12h.py) |
 | 4110 | 2026-07-06 16:30:08 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4110_20260706-16h.py](warehouse/can_4110_20260706-16h.py) |
 | 4111 | 2026-07-06 19:04:51 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4111_20260706-19h.py](warehouse/can_4111_20260706-19h.py) |
+| 4112 | 2026-07-06 21:01:19 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4112_20260706-21h.py](warehouse/can_4112_20260706-21h.py) |
