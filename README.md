@@ -4204,3 +4204,4 @@ If you need permission, you're thinking too much.
 | 4114 | 2026-07-07 01:07:15 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_4114_20260707-01h.py](warehouse/can_4114_20260707-01h.py) |
 | 4115 | 2026-07-07 05:06:57 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4115_20260707-05h.py](warehouse/can_4115_20260707-05h.py) |
 | 4116 | 2026-07-07 08:43:04 | Tencent: Hy3 (free) | ✅ | [warehouse/can_4116_20260707-08h.py](warehouse/can_4116_20260707-08h.py) |
+| 4117 | 2026-07-07 12:09:19 | Tencent: Hy3 (free) | ✅ | [warehouse/can_4117_20260707-12h.py](warehouse/can_4117_20260707-12h.py) |
