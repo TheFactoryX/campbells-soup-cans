@@ -4202,3 +4202,4 @@ If you need permission, you're thinking too much.
 | 4112 | 2026-07-06 21:01:19 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4112_20260706-21h.py](warehouse/can_4112_20260706-21h.py) |
 | 4113 | 2026-07-06 22:38:12 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4113_20260706-22h.py](warehouse/can_4113_20260706-22h.py) |
 | 4114 | 2026-07-07 01:07:15 | LiquidAI: LFM2.5-1.2B-Thinking (free) | ❌ (empty, missing print) | [warehouse/can_4114_20260707-01h.py](warehouse/can_4114_20260707-01h.py) |
+| 4115 | 2026-07-07 05:06:57 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4115_20260707-05h.py](warehouse/can_4115_20260707-05h.py) |
