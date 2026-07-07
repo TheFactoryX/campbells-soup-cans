@@ -4206,3 +4206,4 @@ If you need permission, you're thinking too much.
 | 4116 | 2026-07-07 08:43:04 | Tencent: Hy3 (free) | ✅ | [warehouse/can_4116_20260707-08h.py](warehouse/can_4116_20260707-08h.py) |
 | 4117 | 2026-07-07 12:09:19 | Tencent: Hy3 (free) | ✅ | [warehouse/can_4117_20260707-12h.py](warehouse/can_4117_20260707-12h.py) |
 | 4118 | 2026-07-07 15:14:42 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4118_20260707-15h.py](warehouse/can_4118_20260707-15h.py) |
+| 4119 | 2026-07-07 17:26:54 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4119_20260707-17h.py](warehouse/can_4119_20260707-17h.py) |
