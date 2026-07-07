@@ -4208,3 +4208,4 @@ If you need permission, you're thinking too much.
 | 4118 | 2026-07-07 15:14:42 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4118_20260707-15h.py](warehouse/can_4118_20260707-15h.py) |
 | 4119 | 2026-07-07 17:26:54 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4119_20260707-17h.py](warehouse/can_4119_20260707-17h.py) |
 | 4120 | 2026-07-07 20:14:21 | Qwen: Qwen3 Coder 480B A35B (free) | ❌ (empty, missing print) | [warehouse/can_4120_20260707-20h.py](warehouse/can_4120_20260707-20h.py) |
+| 4121 | 2026-07-07 21:43:45 | OpenAI: GPT-4o-mini Search Preview | ✅ | [warehouse/can_4121_20260707-21h.py](warehouse/can_4121_20260707-21h.py) |
