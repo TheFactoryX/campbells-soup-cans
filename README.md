@@ -4210,3 +4210,4 @@ If you need permission, you're thinking too much.
 | 4120 | 2026-07-07 20:14:21 | Qwen: Qwen3 Coder 480B A35B (free) | ❌ (empty, missing print) | [warehouse/can_4120_20260707-20h.py](warehouse/can_4120_20260707-20h.py) |
 | 4121 | 2026-07-07 21:43:45 | OpenAI: GPT-4o-mini Search Preview | ✅ | [warehouse/can_4121_20260707-21h.py](warehouse/can_4121_20260707-21h.py) |
 | 4122 | 2026-07-07 23:14:22 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4122_20260707-23h.py](warehouse/can_4122_20260707-23h.py) |
+| 4123 | 2026-07-08 00:13:59 | Free Models Router | ✅ | [warehouse/can_4123_20260708-00h.py](warehouse/can_4123_20260708-00h.py) |
