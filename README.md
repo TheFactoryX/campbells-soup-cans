@@ -4216,3 +4216,4 @@ If you need permission, you're thinking too much.
 | 4126 | 2026-07-08 09:37:04 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4126_20260708-09h.py](warehouse/can_4126_20260708-09h.py) |
 | 4127 | 2026-07-08 11:57:11 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4127_20260708-11h.py](warehouse/can_4127_20260708-11h.py) |
 | 4128 | 2026-07-08 14:40:33 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4128_20260708-14h.py](warehouse/can_4128_20260708-14h.py) |
+| 4129 | 2026-07-08 16:49:41 | MiniMax: MiniMax M2 | ❌ (broken) | [warehouse/can_4129_20260708-16h.py](warehouse/can_4129_20260708-16h.py) |
