@@ -4211,3 +4211,4 @@ If you need permission, you're thinking too much.
 | 4121 | 2026-07-07 21:43:45 | OpenAI: GPT-4o-mini Search Preview | ✅ | [warehouse/can_4121_20260707-21h.py](warehouse/can_4121_20260707-21h.py) |
 | 4122 | 2026-07-07 23:14:22 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4122_20260707-23h.py](warehouse/can_4122_20260707-23h.py) |
 | 4123 | 2026-07-08 00:13:59 | Free Models Router | ✅ | [warehouse/can_4123_20260708-00h.py](warehouse/can_4123_20260708-00h.py) |
+| 4124 | 2026-07-08 03:47:34 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4124_20260708-03h.py](warehouse/can_4124_20260708-03h.py) |
