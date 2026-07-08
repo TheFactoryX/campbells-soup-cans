@@ -4217,3 +4217,4 @@ If you need permission, you're thinking too much.
 | 4127 | 2026-07-08 11:57:11 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4127_20260708-11h.py](warehouse/can_4127_20260708-11h.py) |
 | 4128 | 2026-07-08 14:40:33 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4128_20260708-14h.py](warehouse/can_4128_20260708-14h.py) |
 | 4129 | 2026-07-08 16:49:41 | MiniMax: MiniMax M2 | ❌ (broken) | [warehouse/can_4129_20260708-16h.py](warehouse/can_4129_20260708-16h.py) |
+| 4130 | 2026-07-08 18:45:45 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4130_20260708-18h.py](warehouse/can_4130_20260708-18h.py) |
