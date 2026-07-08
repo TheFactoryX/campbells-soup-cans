@@ -4219,3 +4219,4 @@ If you need permission, you're thinking too much.
 | 4129 | 2026-07-08 16:49:41 | MiniMax: MiniMax M2 | ❌ (broken) | [warehouse/can_4129_20260708-16h.py](warehouse/can_4129_20260708-16h.py) |
 | 4130 | 2026-07-08 18:45:45 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4130_20260708-18h.py](warehouse/can_4130_20260708-18h.py) |
 | 4131 | 2026-07-08 20:37:17 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4131_20260708-20h.py](warehouse/can_4131_20260708-20h.py) |
+| 4132 | 2026-07-08 22:16:47 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_4132_20260708-22h.py](warehouse/can_4132_20260708-22h.py) |
