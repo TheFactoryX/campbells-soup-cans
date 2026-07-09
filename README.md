@@ -4222,3 +4222,4 @@ If you need permission, you're thinking too much.
 | 4132 | 2026-07-08 22:16:47 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_4132_20260708-22h.py](warehouse/can_4132_20260708-22h.py) |
 | 4133 | 2026-07-09 01:02:35 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4133_20260709-01h.py](warehouse/can_4133_20260709-01h.py) |
 | 4134 | 2026-07-09 05:10:52 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4134_20260709-05h.py](warehouse/can_4134_20260709-05h.py) |
+| 4135 | 2026-07-09 08:44:19 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_4135_20260709-08h.py](warehouse/can_4135_20260709-08h.py) |
