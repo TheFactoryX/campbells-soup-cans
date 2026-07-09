@@ -4225,3 +4225,4 @@ If you need permission, you're thinking too much.
 | 4135 | 2026-07-09 08:44:19 | Poolside: Laguna XS.2 (free) | ✅ | [warehouse/can_4135_20260709-08h.py](warehouse/can_4135_20260709-08h.py) |
 | 4136 | 2026-07-09 12:15:21 | Poolside: Laguna XS.2 (free) | ❌ (broken) | [warehouse/can_4136_20260709-12h.py](warehouse/can_4136_20260709-12h.py) |
 | 4137 | 2026-07-09 15:36:30 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4137_20260709-15h.py](warehouse/can_4137_20260709-15h.py) |
+| 4138 | 2026-07-09 18:09:48 | Qwen: Qwen3.5 Plus 2026-04-20 | ✅ | [warehouse/can_4138_20260709-18h.py](warehouse/can_4138_20260709-18h.py) |
