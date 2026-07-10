@@ -4230,3 +4230,4 @@ If you need permission, you're thinking too much.
 | 4140 | 2026-07-09 21:45:05 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4140_20260709-21h.py](warehouse/can_4140_20260709-21h.py) |
 | 4141 | 2026-07-09 23:36:24 | Free Models Router | ✅ | [warehouse/can_4141_20260709-23h.py](warehouse/can_4141_20260709-23h.py) |
 | 4142 | 2026-07-10 04:14:40 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_4142_20260710-04h.py](warehouse/can_4142_20260710-04h.py) |
+| 4143 | 2026-07-10 07:53:49 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4143_20260710-07h.py](warehouse/can_4143_20260710-07h.py) |
