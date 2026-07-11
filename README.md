@@ -4245,3 +4245,4 @@ If you need permission, you're thinking too much.
 | 4155 | 2026-07-11 10:34:13 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4155_20260711-10h.py](warehouse/can_4155_20260711-10h.py) |
 | 4156 | 2026-07-11 12:05:23 | Free Models Router | ✅ | [warehouse/can_4156_20260711-12h.py](warehouse/can_4156_20260711-12h.py) |
 | 4157 | 2026-07-11 13:54:17 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4157_20260711-13h.py](warehouse/can_4157_20260711-13h.py) |
+| 4158 | 2026-07-11 15:15:20 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_4158_20260711-15h.py](warehouse/can_4158_20260711-15h.py) |
