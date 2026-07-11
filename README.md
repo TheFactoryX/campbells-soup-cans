@@ -4249,3 +4249,4 @@ If you need permission, you're thinking too much.
 | 4159 | 2026-07-11 16:12:00 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4159_20260711-16h.py](warehouse/can_4159_20260711-16h.py) |
 | 4160 | 2026-07-11 17:16:30 | Tencent: Hy3 (free) | ✅ | [warehouse/can_4160_20260711-17h.py](warehouse/can_4160_20260711-17h.py) |
 | 4161 | 2026-07-11 19:31:41 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_4161_20260711-19h.py](warehouse/can_4161_20260711-19h.py) |
+| 4162 | 2026-07-11 21:07:11 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4162_20260711-21h.py](warehouse/can_4162_20260711-21h.py) |
