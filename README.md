@@ -4265,3 +4265,4 @@ If you need permission, you're thinking too much.
 | 4175 | 2026-07-12 19:31:15 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4175_20260712-19h.py](warehouse/can_4175_20260712-19h.py) |
 | 4176 | 2026-07-12 21:06:31 | OpenAI: gpt-oss-120b (free) | ✅ | [warehouse/can_4176_20260712-21h.py](warehouse/can_4176_20260712-21h.py) |
 | 4177 | 2026-07-12 22:07:31 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4177_20260712-22h.py](warehouse/can_4177_20260712-22h.py) |
+| 4178 | 2026-07-12 23:09:03 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4178_20260712-23h.py](warehouse/can_4178_20260712-23h.py) |
