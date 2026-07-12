@@ -4254,3 +4254,4 @@ If you need permission, you're thinking too much.
 | 4164 | 2026-07-11 23:10:51 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4164_20260711-23h.py](warehouse/can_4164_20260711-23h.py) |
 | 4165 | 2026-07-12 00:11:14 | Meta: Llama 3.2 3B Instruct (free) | ❌ (broken) | [warehouse/can_4165_20260712-00h.py](warehouse/can_4165_20260712-00h.py) |
 | 4166 | 2026-07-12 03:57:11 | Tencent: Hy3 (free) | ✅ | [warehouse/can_4166_20260712-03h.py](warehouse/can_4166_20260712-03h.py) |
+| 4167 | 2026-07-12 06:45:58 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4167_20260712-06h.py](warehouse/can_4167_20260712-06h.py) |
