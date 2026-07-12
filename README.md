@@ -4261,3 +4261,4 @@ If you need permission, you're thinking too much.
 | 4171 | 2026-07-12 13:56:24 | Free Models Router | ✅ | [warehouse/can_4171_20260712-13h.py](warehouse/can_4171_20260712-13h.py) |
 | 4172 | 2026-07-12 15:16:16 | Free Models Router | ❌ (empty, missing print) | [warehouse/can_4172_20260712-15h.py](warehouse/can_4172_20260712-15h.py) |
 | 4173 | 2026-07-12 16:15:02 | NVIDIA: Nemotron 3 Super (free) | ❌ (broken) | [warehouse/can_4173_20260712-16h.py](warehouse/can_4173_20260712-16h.py) |
+| 4174 | 2026-07-12 17:27:45 | Free Models Router | ✅ | [warehouse/can_4174_20260712-17h.py](warehouse/can_4174_20260712-17h.py) |
