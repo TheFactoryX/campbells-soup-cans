@@ -4252,3 +4252,4 @@ If you need permission, you're thinking too much.
 | 4162 | 2026-07-11 21:07:11 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4162_20260711-21h.py](warehouse/can_4162_20260711-21h.py) |
 | 4163 | 2026-07-11 22:08:00 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4163_20260711-22h.py](warehouse/can_4163_20260711-22h.py) |
 | 4164 | 2026-07-11 23:10:51 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4164_20260711-23h.py](warehouse/can_4164_20260711-23h.py) |
+| 4165 | 2026-07-12 00:11:14 | Meta: Llama 3.2 3B Instruct (free) | ❌ (broken) | [warehouse/can_4165_20260712-00h.py](warehouse/can_4165_20260712-00h.py) |
