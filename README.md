@@ -4269,3 +4269,4 @@ If you need permission, you're thinking too much.
 | 4179 | 2026-07-13 00:10:51 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4179_20260713-00h.py](warehouse/can_4179_20260713-00h.py) |
 | 4180 | 2026-07-13 04:00:02 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_4180_20260713-04h.py](warehouse/can_4180_20260713-04h.py) |
 | 4181 | 2026-07-13 07:37:22 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_4181_20260713-07h.py](warehouse/can_4181_20260713-07h.py) |
+| 4182 | 2026-07-13 11:28:42 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_4182_20260713-11h.py](warehouse/can_4182_20260713-11h.py) |
