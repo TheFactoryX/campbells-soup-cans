@@ -4268,3 +4268,4 @@ If you need permission, you're thinking too much.
 | 4178 | 2026-07-12 23:09:03 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4178_20260712-23h.py](warehouse/can_4178_20260712-23h.py) |
 | 4179 | 2026-07-13 00:10:51 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4179_20260713-00h.py](warehouse/can_4179_20260713-00h.py) |
 | 4180 | 2026-07-13 04:00:02 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_4180_20260713-04h.py](warehouse/can_4180_20260713-04h.py) |
+| 4181 | 2026-07-13 07:37:22 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_4181_20260713-07h.py](warehouse/can_4181_20260713-07h.py) |
