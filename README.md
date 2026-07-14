@@ -4286,3 +4286,4 @@ If you need permission, you're thinking too much.
 | 4196 | 2026-07-14 17:34:01 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4196_20260714-17h.py](warehouse/can_4196_20260714-17h.py) |
 | 4197 | 2026-07-14 19:42:17 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4197_20260714-19h.py](warehouse/can_4197_20260714-19h.py) |
 | 4198 | 2026-07-14 21:15:01 | Free Models Router | ✅ | [warehouse/can_4198_20260714-21h.py](warehouse/can_4198_20260714-21h.py) |
+| 4199 | 2026-07-14 22:15:57 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4199_20260714-22h.py](warehouse/can_4199_20260714-22h.py) |
