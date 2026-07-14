@@ -4282,3 +4282,4 @@ If you need permission, you're thinking too much.
 | 4192 | 2026-07-14 09:17:06 | Tencent: Hy3 (free) | ✅ | [warehouse/can_4192_20260714-09h.py](warehouse/can_4192_20260714-09h.py) |
 | 4193 | 2026-07-14 11:44:30 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4193_20260714-11h.py](warehouse/can_4193_20260714-11h.py) |
 | 4194 | 2026-07-14 14:13:47 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4194_20260714-14h.py](warehouse/can_4194_20260714-14h.py) |
+| 4195 | 2026-07-14 15:48:23 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4195_20260714-15h.py](warehouse/can_4195_20260714-15h.py) |
