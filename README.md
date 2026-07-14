@@ -4284,3 +4284,4 @@ If you need permission, you're thinking too much.
 | 4194 | 2026-07-14 14:13:47 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4194_20260714-14h.py](warehouse/can_4194_20260714-14h.py) |
 | 4195 | 2026-07-14 15:48:23 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4195_20260714-15h.py](warehouse/can_4195_20260714-15h.py) |
 | 4196 | 2026-07-14 17:34:01 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4196_20260714-17h.py](warehouse/can_4196_20260714-17h.py) |
+| 4197 | 2026-07-14 19:42:17 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4197_20260714-19h.py](warehouse/can_4197_20260714-19h.py) |
