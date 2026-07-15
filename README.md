@@ -4292,3 +4292,4 @@ If you need permission, you're thinking too much.
 | 4202 | 2026-07-15 03:34:44 | Poolside: Laguna XS 2.1 (free) | ❌ (broken) | [warehouse/can_4202_20260715-03h.py](warehouse/can_4202_20260715-03h.py) |
 | 4203 | 2026-07-15 06:27:55 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4203_20260715-06h.py](warehouse/can_4203_20260715-06h.py) |
 | 4204 | 2026-07-15 09:21:40 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4204_20260715-09h.py](warehouse/can_4204_20260715-09h.py) |
+| 4205 | 2026-07-15 11:48:23 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4205_20260715-11h.py](warehouse/can_4205_20260715-11h.py) |
