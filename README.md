@@ -4295,3 +4295,4 @@ If you need permission, you're thinking too much.
 | 4205 | 2026-07-15 11:48:23 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4205_20260715-11h.py](warehouse/can_4205_20260715-11h.py) |
 | 4206 | 2026-07-15 14:09:41 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4206_20260715-14h.py](warehouse/can_4206_20260715-14h.py) |
 | 4207 | 2026-07-15 15:50:31 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4207_20260715-15h.py](warehouse/can_4207_20260715-15h.py) |
+| 4208 | 2026-07-15 17:38:47 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4208_20260715-17h.py](warehouse/can_4208_20260715-17h.py) |
