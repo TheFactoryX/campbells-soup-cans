@@ -4298,3 +4298,4 @@ If you need permission, you're thinking too much.
 | 4208 | 2026-07-15 17:38:47 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4208_20260715-17h.py](warehouse/can_4208_20260715-17h.py) |
 | 4209 | 2026-07-15 19:36:18 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4209_20260715-19h.py](warehouse/can_4209_20260715-19h.py) |
 | 4210 | 2026-07-15 21:14:43 | Free Models Router | ❌ (empty, broken, missing print) | [warehouse/can_4210_20260715-21h.py](warehouse/can_4210_20260715-21h.py) |
+| 4211 | 2026-07-15 22:15:28 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4211_20260715-22h.py](warehouse/can_4211_20260715-22h.py) |
