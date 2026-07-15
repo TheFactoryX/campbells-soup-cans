@@ -4293,3 +4293,4 @@ If you need permission, you're thinking too much.
 | 4203 | 2026-07-15 06:27:55 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4203_20260715-06h.py](warehouse/can_4203_20260715-06h.py) |
 | 4204 | 2026-07-15 09:21:40 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4204_20260715-09h.py](warehouse/can_4204_20260715-09h.py) |
 | 4205 | 2026-07-15 11:48:23 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4205_20260715-11h.py](warehouse/can_4205_20260715-11h.py) |
+| 4206 | 2026-07-15 14:09:41 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4206_20260715-14h.py](warehouse/can_4206_20260715-14h.py) |
