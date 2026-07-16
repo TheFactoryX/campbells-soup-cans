@@ -4309,3 +4309,4 @@ If you need permission, you're thinking too much.
 | 4219 | 2026-07-16 16:41:38 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4219_20260716-16h.py](warehouse/can_4219_20260716-16h.py) |
 | 4220 | 2026-07-16 18:19:03 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4220_20260716-18h.py](warehouse/can_4220_20260716-18h.py) |
 | 4221 | 2026-07-16 20:11:49 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4221_20260716-20h.py](warehouse/can_4221_20260716-20h.py) |
+| 4222 | 2026-07-16 21:17:05 | OpenAI: o1 | ✅ | [warehouse/can_4222_20260716-21h.py](warehouse/can_4222_20260716-21h.py) |
