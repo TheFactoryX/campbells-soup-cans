@@ -4302,3 +4302,4 @@ If you need permission, you're thinking too much.
 | 4212 | 2026-07-15 23:15:00 | Cohere: North Mini Code (free) | ❌ (broken) | [warehouse/can_4212_20260715-23h.py](warehouse/can_4212_20260715-23h.py) |
 | 4213 | 2026-07-16 00:12:08 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4213_20260716-00h.py](warehouse/can_4213_20260716-00h.py) |
 | 4214 | 2026-07-16 03:38:28 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4214_20260716-03h.py](warehouse/can_4214_20260716-03h.py) |
+| 4215 | 2026-07-16 06:31:17 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_4215_20260716-06h.py](warehouse/can_4215_20260716-06h.py) |
