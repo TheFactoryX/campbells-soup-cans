@@ -4300,3 +4300,4 @@ If you need permission, you're thinking too much.
 | 4210 | 2026-07-15 21:14:43 | Free Models Router | ❌ (empty, broken, missing print) | [warehouse/can_4210_20260715-21h.py](warehouse/can_4210_20260715-21h.py) |
 | 4211 | 2026-07-15 22:15:28 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4211_20260715-22h.py](warehouse/can_4211_20260715-22h.py) |
 | 4212 | 2026-07-15 23:15:00 | Cohere: North Mini Code (free) | ❌ (broken) | [warehouse/can_4212_20260715-23h.py](warehouse/can_4212_20260715-23h.py) |
+| 4213 | 2026-07-16 00:12:08 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4213_20260716-00h.py](warehouse/can_4213_20260716-00h.py) |
