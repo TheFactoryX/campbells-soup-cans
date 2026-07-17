@@ -4311,3 +4311,4 @@ If you need permission, you're thinking too much.
 | 4221 | 2026-07-16 20:11:49 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4221_20260716-20h.py](warehouse/can_4221_20260716-20h.py) |
 | 4222 | 2026-07-16 21:17:05 | OpenAI: o1 | ✅ | [warehouse/can_4222_20260716-21h.py](warehouse/can_4222_20260716-21h.py) |
 | 4223 | 2026-07-16 23:10:43 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4223_20260716-23h.py](warehouse/can_4223_20260716-23h.py) |
+| 4224 | 2026-07-17 00:12:41 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4224_20260717-00h.py](warehouse/can_4224_20260717-00h.py) |
