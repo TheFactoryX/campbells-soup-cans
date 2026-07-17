@@ -4318,3 +4318,4 @@ If you need permission, you're thinking too much.
 | 4228 | 2026-07-17 11:40:48 | Poolside: Laguna XS 2.1 (free) | ❌ (broken) | [warehouse/can_4228_20260717-11h.py](warehouse/can_4228_20260717-11h.py) |
 | 4229 | 2026-07-17 14:03:17 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4229_20260717-14h.py](warehouse/can_4229_20260717-14h.py) |
 | 4230 | 2026-07-17 15:40:23 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4230_20260717-15h.py](warehouse/can_4230_20260717-15h.py) |
+| 4231 | 2026-07-17 17:30:57 | Free Models Router | ✅ | [warehouse/can_4231_20260717-17h.py](warehouse/can_4231_20260717-17h.py) |
