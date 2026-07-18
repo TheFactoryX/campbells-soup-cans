@@ -4337,3 +4337,4 @@ If you need permission, you're thinking too much.
 | 4247 | 2026-07-18 19:31:40 | Free Models Router | ✅ | [warehouse/can_4247_20260718-19h.py](warehouse/can_4247_20260718-19h.py) |
 | 4248 | 2026-07-18 21:06:21 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_4248_20260718-21h.py](warehouse/can_4248_20260718-21h.py) |
 | 4249 | 2026-07-18 22:07:26 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4249_20260718-22h.py](warehouse/can_4249_20260718-22h.py) |
+| 4250 | 2026-07-18 23:11:03 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4250_20260718-23h.py](warehouse/can_4250_20260718-23h.py) |
