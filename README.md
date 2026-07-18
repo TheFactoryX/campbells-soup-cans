@@ -4326,3 +4326,4 @@ If you need permission, you're thinking too much.
 | 4236 | 2026-07-18 00:09:20 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4236_20260718-00h.py](warehouse/can_4236_20260718-00h.py) |
 | 4237 | 2026-07-18 03:31:59 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4237_20260718-03h.py](warehouse/can_4237_20260718-03h.py) |
 | 4238 | 2026-07-18 06:18:22 | Free Models Router | ❌ (broken) | [warehouse/can_4238_20260718-06h.py](warehouse/can_4238_20260718-06h.py) |
+| 4239 | 2026-07-18 08:58:36 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_4239_20260718-08h.py](warehouse/can_4239_20260718-08h.py) |
