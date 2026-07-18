@@ -4333,3 +4333,4 @@ If you need permission, you're thinking too much.
 | 4243 | 2026-07-18 15:15:23 | OpenAI: GPT-5 Codex | ❌ (empty, missing print) | [warehouse/can_4243_20260718-15h.py](warehouse/can_4243_20260718-15h.py) |
 | 4244 | 2026-07-18 16:12:39 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4244_20260718-16h.py](warehouse/can_4244_20260718-16h.py) |
 | 4245 | 2026-07-18 17:15:40 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4245_20260718-17h.py](warehouse/can_4245_20260718-17h.py) |
+| 4246 | 2026-07-18 18:10:37 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4246_20260718-18h.py](warehouse/can_4246_20260718-18h.py) |
