@@ -4323,3 +4323,4 @@ If you need permission, you're thinking too much.
 | 4233 | 2026-07-17 21:07:43 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4233_20260717-21h.py](warehouse/can_4233_20260717-21h.py) |
 | 4234 | 2026-07-17 22:06:14 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4234_20260717-22h.py](warehouse/can_4234_20260717-22h.py) |
 | 4235 | 2026-07-17 23:08:13 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4235_20260717-23h.py](warehouse/can_4235_20260717-23h.py) |
+| 4236 | 2026-07-18 00:09:20 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4236_20260718-00h.py](warehouse/can_4236_20260718-00h.py) |
