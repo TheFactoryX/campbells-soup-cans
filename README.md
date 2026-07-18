@@ -4328,3 +4328,4 @@ If you need permission, you're thinking too much.
 | 4238 | 2026-07-18 06:18:22 | Free Models Router | ❌ (broken) | [warehouse/can_4238_20260718-06h.py](warehouse/can_4238_20260718-06h.py) |
 | 4239 | 2026-07-18 08:58:36 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken) | [warehouse/can_4239_20260718-08h.py](warehouse/can_4239_20260718-08h.py) |
 | 4240 | 2026-07-18 10:41:45 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4240_20260718-10h.py](warehouse/can_4240_20260718-10h.py) |
+| 4241 | 2026-07-18 12:04:51 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4241_20260718-12h.py](warehouse/can_4241_20260718-12h.py) |
