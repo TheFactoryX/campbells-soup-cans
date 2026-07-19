@@ -4345,3 +4345,4 @@ If you need permission, you're thinking too much.
 | 4255 | 2026-07-19 11:29:49 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (broken, missing print) | [warehouse/can_4255_20260719-11h.py](warehouse/can_4255_20260719-11h.py) |
 | 4256 | 2026-07-19 13:53:22 | Tencent: Hy3 (free) | ✅ | [warehouse/can_4256_20260719-13h.py](warehouse/can_4256_20260719-13h.py) |
 | 4257 | 2026-07-19 15:15:01 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4257_20260719-15h.py](warehouse/can_4257_20260719-15h.py) |
+| 4258 | 2026-07-19 16:13:16 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4258_20260719-16h.py](warehouse/can_4258_20260719-16h.py) |
