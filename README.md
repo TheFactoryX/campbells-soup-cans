@@ -4344,3 +4344,4 @@ If you need permission, you're thinking too much.
 | 4254 | 2026-07-19 09:16:28 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4254_20260719-09h.py](warehouse/can_4254_20260719-09h.py) |
 | 4255 | 2026-07-19 11:29:49 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (broken, missing print) | [warehouse/can_4255_20260719-11h.py](warehouse/can_4255_20260719-11h.py) |
 | 4256 | 2026-07-19 13:53:22 | Tencent: Hy3 (free) | ✅ | [warehouse/can_4256_20260719-13h.py](warehouse/can_4256_20260719-13h.py) |
+| 4257 | 2026-07-19 15:15:01 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4257_20260719-15h.py](warehouse/can_4257_20260719-15h.py) |
