@@ -4355,3 +4355,4 @@ If you need permission, you're thinking too much.
 | 4265 | 2026-07-20 04:05:39 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4265_20260720-04h.py](warehouse/can_4265_20260720-04h.py) |
 | 4266 | 2026-07-20 07:29:40 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4266_20260720-07h.py](warehouse/can_4266_20260720-07h.py) |
 | 4267 | 2026-07-20 11:12:55 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4267_20260720-11h.py](warehouse/can_4267_20260720-11h.py) |
+| 4268 | 2026-07-20 13:17:41 | Free Models Router | ✅ | [warehouse/can_4268_20260720-13h.py](warehouse/can_4268_20260720-13h.py) |
