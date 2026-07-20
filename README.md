@@ -4357,3 +4357,4 @@ If you need permission, you're thinking too much.
 | 4267 | 2026-07-20 11:12:55 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4267_20260720-11h.py](warehouse/can_4267_20260720-11h.py) |
 | 4268 | 2026-07-20 13:17:41 | Free Models Router | ✅ | [warehouse/can_4268_20260720-13h.py](warehouse/can_4268_20260720-13h.py) |
 | 4269 | 2026-07-20 16:01:16 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4269_20260720-16h.py](warehouse/can_4269_20260720-16h.py) |
+| 4270 | 2026-07-20 18:19:30 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4270_20260720-18h.py](warehouse/can_4270_20260720-18h.py) |
