@@ -4364,3 +4364,4 @@ If you need permission, you're thinking too much.
 | 4274 | 2026-07-21 00:13:38 | OpenAI: gpt-oss-20b (free) | ❌ (empty, missing print) | [warehouse/can_4274_20260721-00h.py](warehouse/can_4274_20260721-00h.py) |
 | 4275 | 2026-07-21 03:48:19 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4275_20260721-03h.py](warehouse/can_4275_20260721-03h.py) |
 | 4276 | 2026-07-21 06:41:14 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4276_20260721-06h.py](warehouse/can_4276_20260721-06h.py) |
+| 4277 | 2026-07-21 09:39:48 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4277_20260721-09h.py](warehouse/can_4277_20260721-09h.py) |
