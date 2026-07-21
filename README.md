@@ -4371,3 +4371,4 @@ If you need permission, you're thinking too much.
 | 4281 | 2026-07-21 18:40:17 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4281_20260721-18h.py](warehouse/can_4281_20260721-18h.py) |
 | 4282 | 2026-07-21 20:35:42 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4282_20260721-20h.py](warehouse/can_4282_20260721-20h.py) |
 | 4283 | 2026-07-21 22:11:58 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4283_20260721-22h.py](warehouse/can_4283_20260721-22h.py) |
+| 4284 | 2026-07-21 23:12:36 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (broken, missing print) | [warehouse/can_4284_20260721-23h.py](warehouse/can_4284_20260721-23h.py) |
