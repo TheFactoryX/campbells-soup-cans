@@ -4373,3 +4373,4 @@ If you need permission, you're thinking too much.
 | 4283 | 2026-07-21 22:11:58 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4283_20260721-22h.py](warehouse/can_4283_20260721-22h.py) |
 | 4284 | 2026-07-21 23:12:36 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (broken, missing print) | [warehouse/can_4284_20260721-23h.py](warehouse/can_4284_20260721-23h.py) |
 | 4285 | 2026-07-22 00:08:34 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_4285_20260722-00h.py](warehouse/can_4285_20260722-00h.py) |
+| 4286 | 2026-07-22 03:46:29 | Free Models Router | ❌ (broken) | [warehouse/can_4286_20260722-03h.py](warehouse/can_4286_20260722-03h.py) |
