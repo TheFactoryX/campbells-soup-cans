@@ -4382,3 +4382,4 @@ If you need permission, you're thinking too much.
 | 4292 | 2026-07-22 18:33:51 | Free Models Router | ❌ (missing print) | [warehouse/can_4292_20260722-18h.py](warehouse/can_4292_20260722-18h.py) |
 | 4293 | 2026-07-22 20:32:14 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4293_20260722-20h.py](warehouse/can_4293_20260722-20h.py) |
 | 4294 | 2026-07-22 22:15:44 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4294_20260722-22h.py](warehouse/can_4294_20260722-22h.py) |
+| 4295 | 2026-07-22 23:17:31 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4295_20260722-23h.py](warehouse/can_4295_20260722-23h.py) |
