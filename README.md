@@ -4376,3 +4376,4 @@ If you need permission, you're thinking too much.
 | 4286 | 2026-07-22 03:46:29 | Free Models Router | ❌ (broken) | [warehouse/can_4286_20260722-03h.py](warehouse/can_4286_20260722-03h.py) |
 | 4287 | 2026-07-22 06:42:01 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4287_20260722-06h.py](warehouse/can_4287_20260722-06h.py) |
 | 4288 | 2026-07-22 09:38:28 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4288_20260722-09h.py](warehouse/can_4288_20260722-09h.py) |
+| 4289 | 2026-07-22 12:03:06 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4289_20260722-12h.py](warehouse/can_4289_20260722-12h.py) |
