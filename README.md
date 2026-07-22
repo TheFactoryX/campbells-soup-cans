@@ -4379,3 +4379,4 @@ If you need permission, you're thinking too much.
 | 4289 | 2026-07-22 12:03:06 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4289_20260722-12h.py](warehouse/can_4289_20260722-12h.py) |
 | 4290 | 2026-07-22 14:21:57 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4290_20260722-14h.py](warehouse/can_4290_20260722-14h.py) |
 | 4291 | 2026-07-22 16:46:01 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_4291_20260722-16h.py](warehouse/can_4291_20260722-16h.py) |
+| 4292 | 2026-07-22 18:33:51 | Free Models Router | ❌ (missing print) | [warehouse/can_4292_20260722-18h.py](warehouse/can_4292_20260722-18h.py) |
