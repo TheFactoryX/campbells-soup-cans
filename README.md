@@ -4390,3 +4390,4 @@ If you need permission, you're thinking too much.
 | 4300 | 2026-07-23 14:32:11 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4300_20260723-14h.py](warehouse/can_4300_20260723-14h.py) |
 | 4301 | 2026-07-23 16:46:18 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_4301_20260723-16h.py](warehouse/can_4301_20260723-16h.py) |
 | 4302 | 2026-07-23 18:37:06 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_4302_20260723-18h.py](warehouse/can_4302_20260723-18h.py) |
+| 4303 | 2026-07-23 20:19:54 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4303_20260723-20h.py](warehouse/can_4303_20260723-20h.py) |
