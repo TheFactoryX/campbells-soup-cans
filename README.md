@@ -4392,3 +4392,4 @@ If you need permission, you're thinking too much.
 | 4302 | 2026-07-23 18:37:06 | Poolside: Laguna M.1 (free) | ✅ | [warehouse/can_4302_20260723-18h.py](warehouse/can_4302_20260723-18h.py) |
 | 4303 | 2026-07-23 20:19:54 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4303_20260723-20h.py](warehouse/can_4303_20260723-20h.py) |
 | 4304 | 2026-07-23 22:14:30 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4304_20260723-22h.py](warehouse/can_4304_20260723-22h.py) |
+| 4305 | 2026-07-23 23:13:22 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4305_20260723-23h.py](warehouse/can_4305_20260723-23h.py) |
