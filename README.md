@@ -4400,3 +4400,4 @@ If you need permission, you're thinking too much.
 | 4310 | 2026-07-24 11:55:43 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4310_20260724-11h.py](warehouse/can_4310_20260724-11h.py) |
 | 4311 | 2026-07-24 14:12:33 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4311_20260724-14h.py](warehouse/can_4311_20260724-14h.py) |
 | 4312 | 2026-07-24 15:44:55 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4312_20260724-15h.py](warehouse/can_4312_20260724-15h.py) |
+| 4313 | 2026-07-24 17:51:41 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4313_20260724-17h.py](warehouse/can_4313_20260724-17h.py) |
