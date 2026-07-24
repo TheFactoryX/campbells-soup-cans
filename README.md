@@ -4393,3 +4393,4 @@ If you need permission, you're thinking too much.
 | 4303 | 2026-07-23 20:19:54 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4303_20260723-20h.py](warehouse/can_4303_20260723-20h.py) |
 | 4304 | 2026-07-23 22:14:30 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4304_20260723-22h.py](warehouse/can_4304_20260723-22h.py) |
 | 4305 | 2026-07-23 23:13:22 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4305_20260723-23h.py](warehouse/can_4305_20260723-23h.py) |
+| 4306 | 2026-07-24 00:12:19 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken, missing print) | [warehouse/can_4306_20260724-00h.py](warehouse/can_4306_20260724-00h.py) |
