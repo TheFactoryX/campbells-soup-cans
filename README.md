@@ -4403,3 +4403,4 @@ If you need permission, you're thinking too much.
 | 4313 | 2026-07-24 17:51:41 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4313_20260724-17h.py](warehouse/can_4313_20260724-17h.py) |
 | 4314 | 2026-07-24 19:46:53 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4314_20260724-19h.py](warehouse/can_4314_20260724-19h.py) |
 | 4315 | 2026-07-24 21:28:10 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4315_20260724-21h.py](warehouse/can_4315_20260724-21h.py) |
+| 4316 | 2026-07-24 23:15:59 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4316_20260724-23h.py](warehouse/can_4316_20260724-23h.py) |
