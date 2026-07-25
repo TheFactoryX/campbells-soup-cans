@@ -4416,3 +4416,4 @@ If you need permission, you're thinking too much.
 | 4326 | 2026-07-25 19:34:18 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4326_20260725-19h.py](warehouse/can_4326_20260725-19h.py) |
 | 4327 | 2026-07-25 21:08:31 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4327_20260725-21h.py](warehouse/can_4327_20260725-21h.py) |
 | 4328 | 2026-07-25 22:10:26 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (empty, missing print) | [warehouse/can_4328_20260725-22h.py](warehouse/can_4328_20260725-22h.py) |
+| 4329 | 2026-07-25 23:12:41 | Ling-3.0-flash (free) | ✅ | [warehouse/can_4329_20260725-23h.py](warehouse/can_4329_20260725-23h.py) |
