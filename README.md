@@ -4405,3 +4405,4 @@ If you need permission, you're thinking too much.
 | 4315 | 2026-07-24 21:28:10 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4315_20260724-21h.py](warehouse/can_4315_20260724-21h.py) |
 | 4316 | 2026-07-24 23:15:59 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4316_20260724-23h.py](warehouse/can_4316_20260724-23h.py) |
 | 4317 | 2026-07-25 00:17:17 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4317_20260725-00h.py](warehouse/can_4317_20260725-00h.py) |
+| 4318 | 2026-07-25 04:27:50 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4318_20260725-04h.py](warehouse/can_4318_20260725-04h.py) |
