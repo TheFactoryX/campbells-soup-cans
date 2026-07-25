@@ -4414,3 +4414,4 @@ If you need permission, you're thinking too much.
 | 4324 | 2026-07-25 17:15:25 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4324_20260725-17h.py](warehouse/can_4324_20260725-17h.py) |
 | 4325 | 2026-07-25 18:10:47 | Poolside: Laguna M.1 (free) | ❌ (empty, missing print) | [warehouse/can_4325_20260725-18h.py](warehouse/can_4325_20260725-18h.py) |
 | 4326 | 2026-07-25 19:34:18 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4326_20260725-19h.py](warehouse/can_4326_20260725-19h.py) |
+| 4327 | 2026-07-25 21:08:31 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4327_20260725-21h.py](warehouse/can_4327_20260725-21h.py) |
