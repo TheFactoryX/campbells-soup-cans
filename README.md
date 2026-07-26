@@ -4424,3 +4424,4 @@ If you need permission, you're thinking too much.
 | 4334 | 2026-07-26 11:36:39 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4334_20260726-11h.py](warehouse/can_4334_20260726-11h.py) |
 | 4335 | 2026-07-26 13:56:27 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4335_20260726-13h.py](warehouse/can_4335_20260726-13h.py) |
 | 4336 | 2026-07-26 15:29:12 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4336_20260726-15h.py](warehouse/can_4336_20260726-15h.py) |
+| 4337 | 2026-07-26 17:15:44 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_4337_20260726-17h.py](warehouse/can_4337_20260726-17h.py) |
