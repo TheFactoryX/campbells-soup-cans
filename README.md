@@ -4419,3 +4419,4 @@ If you need permission, you're thinking too much.
 | 4329 | 2026-07-25 23:12:41 | Ling-3.0-flash (free) | ✅ | [warehouse/can_4329_20260725-23h.py](warehouse/can_4329_20260725-23h.py) |
 | 4330 | 2026-07-26 00:14:43 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4330_20260726-00h.py](warehouse/can_4330_20260726-00h.py) |
 | 4331 | 2026-07-26 03:59:01 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4331_20260726-03h.py](warehouse/can_4331_20260726-03h.py) |
+| 4332 | 2026-07-26 06:48:27 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4332_20260726-06h.py](warehouse/can_4332_20260726-06h.py) |
