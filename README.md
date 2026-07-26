@@ -4429,3 +4429,4 @@ If you need permission, you're thinking too much.
 | 4339 | 2026-07-26 19:37:49 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4339_20260726-19h.py](warehouse/can_4339_20260726-19h.py) |
 | 4340 | 2026-07-26 21:11:13 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4340_20260726-21h.py](warehouse/can_4340_20260726-21h.py) |
 | 4341 | 2026-07-26 22:12:52 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4341_20260726-22h.py](warehouse/can_4341_20260726-22h.py) |
+| 4342 | 2026-07-26 23:13:01 | Ling-3.0-flash (free) | ✅ | [warehouse/can_4342_20260726-23h.py](warehouse/can_4342_20260726-23h.py) |
