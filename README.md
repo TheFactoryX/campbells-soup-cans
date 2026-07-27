@@ -4438,3 +4438,4 @@ If you need permission, you're thinking too much.
 | 4348 | 2026-07-27 17:11:23 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4348_20260727-17h.py](warehouse/can_4348_20260727-17h.py) |
 | 4349 | 2026-07-27 18:47:14 | Ling-3.0-flash (free) | ✅ | [warehouse/can_4349_20260727-18h.py](warehouse/can_4349_20260727-18h.py) |
 | 4350 | 2026-07-27 20:42:54 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4350_20260727-20h.py](warehouse/can_4350_20260727-20h.py) |
+| 4351 | 2026-07-27 22:18:15 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4351_20260727-22h.py](warehouse/can_4351_20260727-22h.py) |
