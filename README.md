@@ -4434,3 +4434,4 @@ If you need permission, you're thinking too much.
 | 4344 | 2026-07-27 04:04:19 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4344_20260727-04h.py](warehouse/can_4344_20260727-04h.py) |
 | 4345 | 2026-07-27 07:52:00 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4345_20260727-07h.py](warehouse/can_4345_20260727-07h.py) |
 | 4346 | 2026-07-27 11:38:55 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4346_20260727-11h.py](warehouse/can_4346_20260727-11h.py) |
+| 4347 | 2026-07-27 15:13:23 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4347_20260727-15h.py](warehouse/can_4347_20260727-15h.py) |
