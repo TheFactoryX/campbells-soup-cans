@@ -4440,3 +4440,4 @@ If you need permission, you're thinking too much.
 | 4350 | 2026-07-27 20:42:54 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4350_20260727-20h.py](warehouse/can_4350_20260727-20h.py) |
 | 4351 | 2026-07-27 22:18:15 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4351_20260727-22h.py](warehouse/can_4351_20260727-22h.py) |
 | 4352 | 2026-07-28 00:10:43 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4352_20260728-00h.py](warehouse/can_4352_20260728-00h.py) |
+| 4353 | 2026-07-28 03:35:58 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4353_20260728-03h.py](warehouse/can_4353_20260728-03h.py) |
