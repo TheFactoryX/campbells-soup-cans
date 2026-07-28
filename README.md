@@ -4444,3 +4444,4 @@ If you need permission, you're thinking too much.
 | 4354 | 2026-07-28 06:40:17 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_4354_20260728-06h.py](warehouse/can_4354_20260728-06h.py) |
 | 4355 | 2026-07-28 09:47:33 | OpenAI: gpt-oss-20b (free) | ❌ (broken) | [warehouse/can_4355_20260728-09h.py](warehouse/can_4355_20260728-09h.py) |
 | 4356 | 2026-07-28 12:13:46 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4356_20260728-12h.py](warehouse/can_4356_20260728-12h.py) |
+| 4357 | 2026-07-28 14:40:31 | Free Models Router | ✅ | [warehouse/can_4357_20260728-14h.py](warehouse/can_4357_20260728-14h.py) |
