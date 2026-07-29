@@ -4450,3 +4450,4 @@ If you need permission, you're thinking too much.
 | 4360 | 2026-07-28 20:34:26 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4360_20260728-20h.py](warehouse/can_4360_20260728-20h.py) |
 | 4361 | 2026-07-28 22:16:35 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4361_20260728-22h.py](warehouse/can_4361_20260728-22h.py) |
 | 4362 | 2026-07-29 00:08:59 | Ling-3.0-flash (free) | ✅ | [warehouse/can_4362_20260729-00h.py](warehouse/can_4362_20260729-00h.py) |
+| 4363 | 2026-07-29 03:40:37 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4363_20260729-03h.py](warehouse/can_4363_20260729-03h.py) |
