@@ -4469,3 +4469,4 @@ If you need permission, you're thinking too much.
 | 4379 | 2026-07-30 16:49:46 | Free Models Router | ✅ | [warehouse/can_4379_20260730-16h.py](warehouse/can_4379_20260730-16h.py) |
 | 4380 | 2026-07-30 18:46:11 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4380_20260730-18h.py](warehouse/can_4380_20260730-18h.py) |
 | 4381 | 2026-07-30 20:34:20 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken, missing print) | [warehouse/can_4381_20260730-20h.py](warehouse/can_4381_20260730-20h.py) |
+| 4382 | 2026-07-30 22:18:53 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4382_20260730-22h.py](warehouse/can_4382_20260730-22h.py) |
