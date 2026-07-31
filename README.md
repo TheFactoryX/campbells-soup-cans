@@ -4474,3 +4474,4 @@ If you need permission, you're thinking too much.
 | 4384 | 2026-07-31 03:54:17 | Free Models Router | ❌ (empty, broken, missing print) | [warehouse/can_4384_20260731-03h.py](warehouse/can_4384_20260731-03h.py) |
 | 4385 | 2026-07-31 07:13:43 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4385_20260731-07h.py](warehouse/can_4385_20260731-07h.py) |
 | 4386 | 2026-07-31 09:59:44 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4386_20260731-09h.py](warehouse/can_4386_20260731-09h.py) |
+| 4387 | 2026-07-31 12:16:44 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4387_20260731-12h.py](warehouse/can_4387_20260731-12h.py) |
