@@ -4470,3 +4470,4 @@ If you need permission, you're thinking too much.
 | 4380 | 2026-07-30 18:46:11 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4380_20260730-18h.py](warehouse/can_4380_20260730-18h.py) |
 | 4381 | 2026-07-30 20:34:20 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken, missing print) | [warehouse/can_4381_20260730-20h.py](warehouse/can_4381_20260730-20h.py) |
 | 4382 | 2026-07-30 22:18:53 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4382_20260730-22h.py](warehouse/can_4382_20260730-22h.py) |
+| 4383 | 2026-07-31 00:15:12 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4383_20260731-00h.py](warehouse/can_4383_20260731-00h.py) |
