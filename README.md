@@ -4483,3 +4483,4 @@ If you need permission, you're thinking too much.
 | 4393 | 2026-08-01 00:13:14 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4393_20260801-00h.py](warehouse/can_4393_20260801-00h.py) |
 | 4394 | 2026-08-01 03:52:36 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4394_20260801-03h.py](warehouse/can_4394_20260801-03h.py) |
 | 4395 | 2026-08-01 06:40:35 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4395_20260801-06h.py](warehouse/can_4395_20260801-06h.py) |
+| 4396 | 2026-08-01 09:20:44 | Ling-3.0-flash (free) | ✅ | [warehouse/can_4396_20260801-09h.py](warehouse/can_4396_20260801-09h.py) |
