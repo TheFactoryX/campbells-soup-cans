@@ -4496,3 +4496,4 @@ If you need permission, you're thinking too much.
 | 4406 | 2026-08-02 00:12:07 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4406_20260802-00h.py](warehouse/can_4406_20260802-00h.py) |
 | 4407 | 2026-08-02 03:54:07 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4407_20260802-03h.py](warehouse/can_4407_20260802-03h.py) |
 | 4408 | 2026-08-02 06:46:25 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4408_20260802-06h.py](warehouse/can_4408_20260802-06h.py) |
+| 4409 | 2026-08-02 09:21:19 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4409_20260802-09h.py](warehouse/can_4409_20260802-09h.py) |
