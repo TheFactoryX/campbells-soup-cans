@@ -4502,3 +4502,4 @@ If you need permission, you're thinking too much.
 | 4412 | 2026-08-02 15:27:19 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4412_20260802-15h.py](warehouse/can_4412_20260802-15h.py) |
 | 4413 | 2026-08-02 17:15:23 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4413_20260802-17h.py](warehouse/can_4413_20260802-17h.py) |
 | 4414 | 2026-08-02 18:13:40 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4414_20260802-18h.py](warehouse/can_4414_20260802-18h.py) |
+| 4415 | 2026-08-02 19:36:44 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4415_20260802-19h.py](warehouse/can_4415_20260802-19h.py) |
