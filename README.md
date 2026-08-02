@@ -4494,3 +4494,4 @@ If you need permission, you're thinking too much.
 | 4404 | 2026-08-01 22:11:18 | Free Models Router | ❌ (empty, broken, missing print) | [warehouse/can_4404_20260801-22h.py](warehouse/can_4404_20260801-22h.py) |
 | 4405 | 2026-08-01 23:12:13 | Cohere: North Mini Code (free) | ❌ (empty, missing print) | [warehouse/can_4405_20260801-23h.py](warehouse/can_4405_20260801-23h.py) |
 | 4406 | 2026-08-02 00:12:07 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4406_20260802-00h.py](warehouse/can_4406_20260802-00h.py) |
+| 4407 | 2026-08-02 03:54:07 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4407_20260802-03h.py](warehouse/can_4407_20260802-03h.py) |
