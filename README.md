@@ -4499,3 +4499,4 @@ If you need permission, you're thinking too much.
 | 4409 | 2026-08-02 09:21:19 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4409_20260802-09h.py](warehouse/can_4409_20260802-09h.py) |
 | 4410 | 2026-08-02 11:34:11 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4410_20260802-11h.py](warehouse/can_4410_20260802-11h.py) |
 | 4411 | 2026-08-02 13:54:54 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4411_20260802-13h.py](warehouse/can_4411_20260802-13h.py) |
+| 4412 | 2026-08-02 15:27:19 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4412_20260802-15h.py](warehouse/can_4412_20260802-15h.py) |
