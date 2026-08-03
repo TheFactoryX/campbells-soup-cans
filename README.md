@@ -4514,3 +4514,4 @@ If you need permission, you're thinking too much.
 | 4424 | 2026-08-03 18:05:22 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4424_20260803-18h.py](warehouse/can_4424_20260803-18h.py) |
 | 4425 | 2026-08-03 19:58:02 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4425_20260803-19h.py](warehouse/can_4425_20260803-19h.py) |
 | 4426 | 2026-08-03 21:29:54 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4426_20260803-21h.py](warehouse/can_4426_20260803-21h.py) |
+| 4427 | 2026-08-03 23:18:59 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4427_20260803-23h.py](warehouse/can_4427_20260803-23h.py) |
