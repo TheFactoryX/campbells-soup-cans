@@ -4509,3 +4509,4 @@ If you need permission, you're thinking too much.
 | 4419 | 2026-08-03 00:12:57 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4419_20260803-00h.py](warehouse/can_4419_20260803-00h.py) |
 | 4420 | 2026-08-03 03:56:16 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4420_20260803-03h.py](warehouse/can_4420_20260803-03h.py) |
 | 4421 | 2026-08-03 07:46:24 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4421_20260803-07h.py](warehouse/can_4421_20260803-07h.py) |
+| 4422 | 2026-08-03 11:43:46 | Google: Gemma 4 26B A4B  (free) | ❌ (broken) | [warehouse/can_4422_20260803-11h.py](warehouse/can_4422_20260803-11h.py) |
