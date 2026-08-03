@@ -4512,3 +4512,4 @@ If you need permission, you're thinking too much.
 | 4422 | 2026-08-03 11:43:46 | Google: Gemma 4 26B A4B  (free) | ❌ (broken) | [warehouse/can_4422_20260803-11h.py](warehouse/can_4422_20260803-11h.py) |
 | 4423 | 2026-08-03 15:16:18 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4423_20260803-15h.py](warehouse/can_4423_20260803-15h.py) |
 | 4424 | 2026-08-03 18:05:22 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4424_20260803-18h.py](warehouse/can_4424_20260803-18h.py) |
+| 4425 | 2026-08-03 19:58:02 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4425_20260803-19h.py](warehouse/can_4425_20260803-19h.py) |
