@@ -4518,3 +4518,4 @@ If you need permission, you're thinking too much.
 | 4428 | 2026-08-04 03:37:04 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4428_20260804-03h.py](warehouse/can_4428_20260804-03h.py) |
 | 4429 | 2026-08-04 06:40:43 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_4429_20260804-06h.py](warehouse/can_4429_20260804-06h.py) |
 | 4430 | 2026-08-04 09:57:36 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4430_20260804-09h.py](warehouse/can_4430_20260804-09h.py) |
+| 4431 | 2026-08-04 12:18:42 | NVIDIA: Nemotron 3 Super (free) | ❌ (missing print) | [warehouse/can_4431_20260804-12h.py](warehouse/can_4431_20260804-12h.py) |
