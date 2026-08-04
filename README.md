@@ -4517,3 +4517,4 @@ If you need permission, you're thinking too much.
 | 4427 | 2026-08-03 23:18:59 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4427_20260803-23h.py](warehouse/can_4427_20260803-23h.py) |
 | 4428 | 2026-08-04 03:37:04 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4428_20260804-03h.py](warehouse/can_4428_20260804-03h.py) |
 | 4429 | 2026-08-04 06:40:43 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_4429_20260804-06h.py](warehouse/can_4429_20260804-06h.py) |
+| 4430 | 2026-08-04 09:57:36 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4430_20260804-09h.py](warehouse/can_4430_20260804-09h.py) |
