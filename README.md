@@ -4522,3 +4522,4 @@ If you need permission, you're thinking too much.
 | 4432 | 2026-08-04 15:34:55 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_4432_20260804-15h.py](warehouse/can_4432_20260804-15h.py) |
 | 4433 | 2026-08-04 18:03:11 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4433_20260804-18h.py](warehouse/can_4433_20260804-18h.py) |
 | 4434 | 2026-08-04 19:56:18 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_4434_20260804-19h.py](warehouse/can_4434_20260804-19h.py) |
+| 4435 | 2026-08-04 21:35:46 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4435_20260804-21h.py](warehouse/can_4435_20260804-21h.py) |
