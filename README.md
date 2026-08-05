@@ -4527,3 +4527,4 @@ If you need permission, you're thinking too much.
 | 4437 | 2026-08-05 03:32:47 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4437_20260805-03h.py](warehouse/can_4437_20260805-03h.py) |
 | 4438 | 2026-08-05 06:41:44 | Ling-3.0-flash (free) | ✅ | [warehouse/can_4438_20260805-06h.py](warehouse/can_4438_20260805-06h.py) |
 | 4439 | 2026-08-05 09:48:52 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4439_20260805-09h.py](warehouse/can_4439_20260805-09h.py) |
+| 4440 | 2026-08-05 12:16:25 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4440_20260805-12h.py](warehouse/can_4440_20260805-12h.py) |
