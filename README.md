@@ -4530,3 +4530,4 @@ If you need permission, you're thinking too much.
 | 4440 | 2026-08-05 12:16:25 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4440_20260805-12h.py](warehouse/can_4440_20260805-12h.py) |
 | 4441 | 2026-08-05 15:27:07 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4441_20260805-15h.py](warehouse/can_4441_20260805-15h.py) |
 | 4442 | 2026-08-05 17:53:28 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4442_20260805-17h.py](warehouse/can_4442_20260805-17h.py) |
+| 4443 | 2026-08-05 19:54:53 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_4443_20260805-19h.py](warehouse/can_4443_20260805-19h.py) |
