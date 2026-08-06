@@ -4533,3 +4533,4 @@ If you need permission, you're thinking too much.
 | 4443 | 2026-08-05 19:54:53 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (broken) | [warehouse/can_4443_20260805-19h.py](warehouse/can_4443_20260805-19h.py) |
 | 4444 | 2026-08-05 21:32:40 | Free Models Router | ✅ | [warehouse/can_4444_20260805-21h.py](warehouse/can_4444_20260805-21h.py) |
 | 4445 | 2026-08-05 23:17:32 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4445_20260805-23h.py](warehouse/can_4445_20260805-23h.py) |
+| 4446 | 2026-08-06 03:37:45 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4446_20260806-03h.py](warehouse/can_4446_20260806-03h.py) |
