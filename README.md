@@ -4536,3 +4536,4 @@ If you need permission, you're thinking too much.
 | 4446 | 2026-08-06 03:37:45 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4446_20260806-03h.py](warehouse/can_4446_20260806-03h.py) |
 | 4447 | 2026-08-06 06:45:43 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4447_20260806-06h.py](warehouse/can_4447_20260806-06h.py) |
 | 4448 | 2026-08-06 09:58:01 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4448_20260806-09h.py](warehouse/can_4448_20260806-09h.py) |
+| 4449 | 2026-08-06 12:18:53 | Free Models Router | ✅ | [warehouse/can_4449_20260806-12h.py](warehouse/can_4449_20260806-12h.py) |
