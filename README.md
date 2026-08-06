@@ -4537,3 +4537,4 @@ If you need permission, you're thinking too much.
 | 4447 | 2026-08-06 06:45:43 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4447_20260806-06h.py](warehouse/can_4447_20260806-06h.py) |
 | 4448 | 2026-08-06 09:58:01 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4448_20260806-09h.py](warehouse/can_4448_20260806-09h.py) |
 | 4449 | 2026-08-06 12:18:53 | Free Models Router | ✅ | [warehouse/can_4449_20260806-12h.py](warehouse/can_4449_20260806-12h.py) |
+| 4450 | 2026-08-06 15:28:10 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4450_20260806-15h.py](warehouse/can_4450_20260806-15h.py) |
