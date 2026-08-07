@@ -4550,3 +4550,4 @@ If you need permission, you're thinking too much.
 | 4460 | 2026-08-07 15:08:42 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4460_20260807-15h.py](warehouse/can_4460_20260807-15h.py) |
 | 4461 | 2026-08-07 16:08:45 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4461_20260807-16h.py](warehouse/can_4461_20260807-16h.py) |
 | 4462 | 2026-08-07 17:07:25 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_4462_20260807-17h.py](warehouse/can_4462_20260807-17h.py) |
+| 4463 | 2026-08-07 18:01:44 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4463_20260807-18h.py](warehouse/can_4463_20260807-18h.py) |
