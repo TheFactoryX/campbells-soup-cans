@@ -4548,3 +4548,4 @@ If you need permission, you're thinking too much.
 | 4458 | 2026-08-07 11:57:26 | inclusionAI: Ling 3.0 Tiny (free) | ✅ | [warehouse/can_4458_20260807-11h.py](warehouse/can_4458_20260807-11h.py) |
 | 4459 | 2026-08-07 13:39:13 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4459_20260807-13h.py](warehouse/can_4459_20260807-13h.py) |
 | 4460 | 2026-08-07 15:08:42 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4460_20260807-15h.py](warehouse/can_4460_20260807-15h.py) |
+| 4461 | 2026-08-07 16:08:45 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4461_20260807-16h.py](warehouse/can_4461_20260807-16h.py) |
