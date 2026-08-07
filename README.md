@@ -4542,3 +4542,4 @@ If you need permission, you're thinking too much.
 | 4452 | 2026-08-07 03:18:48 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4452_20260807-03h.py](warehouse/can_4452_20260807-03h.py) |
 | 4453 | 2026-08-07 05:50:20 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4453_20260807-05h.py](warehouse/can_4453_20260807-05h.py) |
 | 4454 | 2026-08-07 07:41:22 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4454_20260807-07h.py](warehouse/can_4454_20260807-07h.py) |
+| 4455 | 2026-08-07 09:15:05 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4455_20260807-09h.py](warehouse/can_4455_20260807-09h.py) |
