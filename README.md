@@ -4554,3 +4554,4 @@ If you need permission, you're thinking too much.
 | 4464 | 2026-08-07 19:15:19 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4464_20260807-19h.py](warehouse/can_4464_20260807-19h.py) |
 | 4465 | 2026-08-07 20:01:32 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4465_20260807-20h.py](warehouse/can_4465_20260807-20h.py) |
 | 4466 | 2026-08-07 20:58:37 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4466_20260807-20h.py](warehouse/can_4466_20260807-20h.py) |
+| 4467 | 2026-08-07 21:55:33 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4467_20260807-21h.py](warehouse/can_4467_20260807-21h.py) |
