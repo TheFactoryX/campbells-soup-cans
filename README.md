@@ -4545,3 +4545,4 @@ If you need permission, you're thinking too much.
 | 4455 | 2026-08-07 09:15:05 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4455_20260807-09h.py](warehouse/can_4455_20260807-09h.py) |
 | 4456 | 2026-08-07 10:13:15 | inclusionAI: Ling 3.0 Tiny (free) | ✅ | [warehouse/can_4456_20260807-10h.py](warehouse/can_4456_20260807-10h.py) |
 | 4457 | 2026-08-07 11:08:22 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4457_20260807-11h.py](warehouse/can_4457_20260807-11h.py) |
+| 4458 | 2026-08-07 11:57:26 | inclusionAI: Ling 3.0 Tiny (free) | ✅ | [warehouse/can_4458_20260807-11h.py](warehouse/can_4458_20260807-11h.py) |
