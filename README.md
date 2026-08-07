@@ -4538,3 +4538,4 @@ If you need permission, you're thinking too much.
 | 4448 | 2026-08-06 09:58:01 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4448_20260806-09h.py](warehouse/can_4448_20260806-09h.py) |
 | 4449 | 2026-08-06 12:18:53 | Free Models Router | ✅ | [warehouse/can_4449_20260806-12h.py](warehouse/can_4449_20260806-12h.py) |
 | 4450 | 2026-08-06 15:28:10 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4450_20260806-15h.py](warehouse/can_4450_20260806-15h.py) |
+| 4451 | 2026-08-07 00:15:24 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4451_20260807-00h.py](warehouse/can_4451_20260807-00h.py) |
