@@ -4571,3 +4571,4 @@ If you need permission, you're thinking too much.
 | 4481 | 2026-08-08 14:49:37 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4481_20260808-14h.py](warehouse/can_4481_20260808-14h.py) |
 | 4482 | 2026-08-08 15:45:53 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4482_20260808-15h.py](warehouse/can_4482_20260808-15h.py) |
 | 4483 | 2026-08-08 16:52:01 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4483_20260808-16h.py](warehouse/can_4483_20260808-16h.py) |
+| 4484 | 2026-08-08 17:45:45 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4484_20260808-17h.py](warehouse/can_4484_20260808-17h.py) |
