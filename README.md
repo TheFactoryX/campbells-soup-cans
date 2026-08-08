@@ -4577,3 +4577,4 @@ If you need permission, you're thinking too much.
 | 4487 | 2026-08-08 20:47:55 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4487_20260808-20h.py](warehouse/can_4487_20260808-20h.py) |
 | 4488 | 2026-08-08 21:45:42 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4488_20260808-21h.py](warehouse/can_4488_20260808-21h.py) |
 | 4489 | 2026-08-08 22:46:53 | Free Models Router | ✅ | [warehouse/can_4489_20260808-22h.py](warehouse/can_4489_20260808-22h.py) |
+| 4490 | 2026-08-08 23:44:38 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4490_20260808-23h.py](warehouse/can_4490_20260808-23h.py) |
