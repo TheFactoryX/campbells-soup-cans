@@ -4563,3 +4563,4 @@ If you need permission, you're thinking too much.
 | 4473 | 2026-08-08 07:15:08 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4473_20260808-07h.py](warehouse/can_4473_20260808-07h.py) |
 | 4474 | 2026-08-08 08:02:10 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (broken) | [warehouse/can_4474_20260808-08h.py](warehouse/can_4474_20260808-08h.py) |
 | 4475 | 2026-08-08 09:00:29 | Free Models Router | ✅ | [warehouse/can_4475_20260808-09h.py](warehouse/can_4475_20260808-09h.py) |
+| 4476 | 2026-08-08 09:54:12 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4476_20260808-09h.py](warehouse/can_4476_20260808-09h.py) |
