@@ -4561,3 +4561,4 @@ If you need permission, you're thinking too much.
 | 4471 | 2026-08-08 04:28:00 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4471_20260808-04h.py](warehouse/can_4471_20260808-04h.py) |
 | 4472 | 2026-08-08 05:56:12 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4472_20260808-05h.py](warehouse/can_4472_20260808-05h.py) |
 | 4473 | 2026-08-08 07:15:08 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4473_20260808-07h.py](warehouse/can_4473_20260808-07h.py) |
+| 4474 | 2026-08-08 08:02:10 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (broken) | [warehouse/can_4474_20260808-08h.py](warehouse/can_4474_20260808-08h.py) |
