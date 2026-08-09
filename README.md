@@ -4589,3 +4589,4 @@ If you need permission, you're thinking too much.
 | 4499 | 2026-08-09 13:15:14 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4499_20260809-13h.py](warehouse/can_4499_20260809-13h.py) |
 | 4500 | 2026-08-09 14:01:48 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4500_20260809-14h.py](warehouse/can_4500_20260809-14h.py) |
 | 4501 | 2026-08-09 14:52:33 | inclusionAI: Ling 3.0 Tiny (free) | ✅ | [warehouse/can_4501_20260809-14h.py](warehouse/can_4501_20260809-14h.py) |
+| 4502 | 2026-08-09 15:46:26 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4502_20260809-15h.py](warehouse/can_4502_20260809-15h.py) |
