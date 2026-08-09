@@ -4578,3 +4578,4 @@ If you need permission, you're thinking too much.
 | 4488 | 2026-08-08 21:45:42 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4488_20260808-21h.py](warehouse/can_4488_20260808-21h.py) |
 | 4489 | 2026-08-08 22:46:53 | Free Models Router | ✅ | [warehouse/can_4489_20260808-22h.py](warehouse/can_4489_20260808-22h.py) |
 | 4490 | 2026-08-08 23:44:38 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4490_20260808-23h.py](warehouse/can_4490_20260808-23h.py) |
+| 4491 | 2026-08-09 02:28:27 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_4491_20260809-02h.py](warehouse/can_4491_20260809-02h.py) |
