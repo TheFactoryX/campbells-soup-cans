@@ -4584,3 +4584,4 @@ If you need permission, you're thinking too much.
 | 4494 | 2026-08-09 07:16:29 | Z.ai: GLM 5 | ✅ | [warehouse/can_4494_20260809-07h.py](warehouse/can_4494_20260809-07h.py) |
 | 4495 | 2026-08-09 09:02:26 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4495_20260809-09h.py](warehouse/can_4495_20260809-09h.py) |
 | 4496 | 2026-08-09 09:56:35 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (empty, missing print) | [warehouse/can_4496_20260809-09h.py](warehouse/can_4496_20260809-09h.py) |
+| 4497 | 2026-08-09 10:52:28 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4497_20260809-10h.py](warehouse/can_4497_20260809-10h.py) |
