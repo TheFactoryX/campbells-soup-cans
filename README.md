@@ -4581,3 +4581,4 @@ If you need permission, you're thinking too much.
 | 4491 | 2026-08-09 02:28:27 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_4491_20260809-02h.py](warehouse/can_4491_20260809-02h.py) |
 | 4492 | 2026-08-09 04:36:46 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4492_20260809-04h.py](warehouse/can_4492_20260809-04h.py) |
 | 4493 | 2026-08-09 05:57:40 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4493_20260809-05h.py](warehouse/can_4493_20260809-05h.py) |
+| 4494 | 2026-08-09 07:16:29 | Z.ai: GLM 5 | ✅ | [warehouse/can_4494_20260809-07h.py](warehouse/can_4494_20260809-07h.py) |
