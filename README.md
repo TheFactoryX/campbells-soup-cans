@@ -4597,3 +4597,4 @@ If you need permission, you're thinking too much.
 | 4507 | 2026-08-09 20:51:21 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4507_20260809-20h.py](warehouse/can_4507_20260809-20h.py) |
 | 4508 | 2026-08-09 21:48:08 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4508_20260809-21h.py](warehouse/can_4508_20260809-21h.py) |
 | 4509 | 2026-08-09 22:49:42 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4509_20260809-22h.py](warehouse/can_4509_20260809-22h.py) |
+| 4510 | 2026-08-09 23:46:52 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (broken) | [warehouse/can_4510_20260809-23h.py](warehouse/can_4510_20260809-23h.py) |
