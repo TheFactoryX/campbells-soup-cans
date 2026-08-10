@@ -4605,3 +4605,4 @@ If you need permission, you're thinking too much.
 | 4515 | 2026-08-10 10:35:57 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4515_20260810-10h.py](warehouse/can_4515_20260810-10h.py) |
 | 4516 | 2026-08-10 11:58:32 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4516_20260810-11h.py](warehouse/can_4516_20260810-11h.py) |
 | 4517 | 2026-08-10 13:44:13 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_4517_20260810-13h.py](warehouse/can_4517_20260810-13h.py) |
+| 4518 | 2026-08-10 15:16:02 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4518_20260810-15h.py](warehouse/can_4518_20260810-15h.py) |
