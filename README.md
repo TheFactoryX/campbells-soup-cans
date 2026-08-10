@@ -4601,3 +4601,4 @@ If you need permission, you're thinking too much.
 | 4511 | 2026-08-10 02:34:26 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4511_20260810-02h.py](warehouse/can_4511_20260810-02h.py) |
 | 4512 | 2026-08-10 04:53:58 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4512_20260810-04h.py](warehouse/can_4512_20260810-04h.py) |
 | 4513 | 2026-08-10 06:42:01 | inclusionAI: Ling 3.0 Tiny (free) | ✅ | [warehouse/can_4513_20260810-06h.py](warehouse/can_4513_20260810-06h.py) |
+| 4514 | 2026-08-10 08:50:51 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4514_20260810-08h.py](warehouse/can_4514_20260810-08h.py) |
