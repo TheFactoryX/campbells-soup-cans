@@ -4634,3 +4634,4 @@ If you need permission, you're thinking too much.
 | 4544 | 2026-08-12 00:00:02 | inclusionAI: Ling 3.0 Tiny (free) | ❌ (broken) | [warehouse/can_4544_20260812-00h.py](warehouse/can_4544_20260812-00h.py) |
 | 4545 | 2026-08-12 02:44:33 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4545_20260812-02h.py](warehouse/can_4545_20260812-02h.py) |
 | 4546 | 2026-08-12 05:02:27 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4546_20260812-05h.py](warehouse/can_4546_20260812-05h.py) |
+| 4547 | 2026-08-12 06:41:56 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4547_20260812-06h.py](warehouse/can_4547_20260812-06h.py) |
