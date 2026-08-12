@@ -4643,3 +4643,4 @@ If you need permission, you're thinking too much.
 | 4553 | 2026-08-12 16:11:03 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4553_20260812-16h.py](warehouse/can_4553_20260812-16h.py) |
 | 4554 | 2026-08-12 17:12:21 | Google: Gemma 4 26B A4B  (free) | ❌ (broken) | [warehouse/can_4554_20260812-17h.py](warehouse/can_4554_20260812-17h.py) |
 | 4555 | 2026-08-12 18:07:14 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4555_20260812-18h.py](warehouse/can_4555_20260812-18h.py) |
+| 4556 | 2026-08-12 19:25:56 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4556_20260812-19h.py](warehouse/can_4556_20260812-19h.py) |
