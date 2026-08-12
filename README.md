@@ -4640,3 +4640,4 @@ If you need permission, you're thinking too much.
 | 4550 | 2026-08-12 11:58:59 | Free Models Router | ❌ (empty, missing print) | [warehouse/can_4550_20260812-11h.py](warehouse/can_4550_20260812-11h.py) |
 | 4551 | 2026-08-12 13:47:05 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4551_20260812-13h.py](warehouse/can_4551_20260812-13h.py) |
 | 4552 | 2026-08-12 15:14:11 | Free Models Router | ✅ | [warehouse/can_4552_20260812-15h.py](warehouse/can_4552_20260812-15h.py) |
+| 4553 | 2026-08-12 16:11:03 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4553_20260812-16h.py](warehouse/can_4553_20260812-16h.py) |
