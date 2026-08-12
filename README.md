@@ -4638,3 +4638,4 @@ If you need permission, you're thinking too much.
 | 4548 | 2026-08-12 08:39:15 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4548_20260812-08h.py](warehouse/can_4548_20260812-08h.py) |
 | 4549 | 2026-08-12 10:19:30 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4549_20260812-10h.py](warehouse/can_4549_20260812-10h.py) |
 | 4550 | 2026-08-12 11:58:59 | Free Models Router | ❌ (empty, missing print) | [warehouse/can_4550_20260812-11h.py](warehouse/can_4550_20260812-11h.py) |
+| 4551 | 2026-08-12 13:47:05 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4551_20260812-13h.py](warehouse/can_4551_20260812-13h.py) |
