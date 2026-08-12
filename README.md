@@ -4636,3 +4636,4 @@ If you need permission, you're thinking too much.
 | 4546 | 2026-08-12 05:02:27 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4546_20260812-05h.py](warehouse/can_4546_20260812-05h.py) |
 | 4547 | 2026-08-12 06:41:56 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4547_20260812-06h.py](warehouse/can_4547_20260812-06h.py) |
 | 4548 | 2026-08-12 08:39:15 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4548_20260812-08h.py](warehouse/can_4548_20260812-08h.py) |
+| 4549 | 2026-08-12 10:19:30 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4549_20260812-10h.py](warehouse/can_4549_20260812-10h.py) |
