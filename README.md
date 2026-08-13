@@ -4648,3 +4648,4 @@ If you need permission, you're thinking too much.
 | 4558 | 2026-08-12 22:02:17 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4558_20260812-22h.py](warehouse/can_4558_20260812-22h.py) |
 | 4559 | 2026-08-12 23:01:46 | inclusionAI: Ling 3.0 Tiny (free) | ✅ | [warehouse/can_4559_20260812-23h.py](warehouse/can_4559_20260812-23h.py) |
 | 4560 | 2026-08-12 23:58:36 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (empty, missing print) | [warehouse/can_4560_20260812-23h.py](warehouse/can_4560_20260812-23h.py) |
+| 4561 | 2026-08-13 02:47:00 | Poolside: Laguna S 2.1 (free) | ❌ (broken) | [warehouse/can_4561_20260813-02h.py](warehouse/can_4561_20260813-02h.py) |
