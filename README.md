@@ -4661,3 +4661,4 @@ If you need permission, you're thinking too much.
 | 4571 | 2026-08-13 18:08:28 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4571_20260813-18h.py](warehouse/can_4571_20260813-18h.py) |
 | 4572 | 2026-08-13 19:20:57 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4572_20260813-19h.py](warehouse/can_4572_20260813-19h.py) |
 | 4573 | 2026-08-13 21:03:19 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4573_20260813-21h.py](warehouse/can_4573_20260813-21h.py) |
+| 4574 | 2026-08-13 22:03:11 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4574_20260813-22h.py](warehouse/can_4574_20260813-22h.py) |
