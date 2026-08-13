@@ -4654,3 +4654,4 @@ If you need permission, you're thinking too much.
 | 4564 | 2026-08-13 08:43:18 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4564_20260813-08h.py](warehouse/can_4564_20260813-08h.py) |
 | 4565 | 2026-08-13 10:27:39 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4565_20260813-10h.py](warehouse/can_4565_20260813-10h.py) |
 | 4566 | 2026-08-13 11:59:38 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4566_20260813-11h.py](warehouse/can_4566_20260813-11h.py) |
+| 4567 | 2026-08-13 13:48:05 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4567_20260813-13h.py](warehouse/can_4567_20260813-13h.py) |
