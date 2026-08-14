@@ -4680,3 +4680,4 @@ If you need permission, you're thinking too much.
 | 4590 | 2026-08-14 20:45:32 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4590_20260814-20h.py](warehouse/can_4590_20260814-20h.py) |
 | 4591 | 2026-08-14 21:41:23 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4591_20260814-21h.py](warehouse/can_4591_20260814-21h.py) |
 | 4592 | 2026-08-14 22:40:44 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4592_20260814-22h.py](warehouse/can_4592_20260814-22h.py) |
+| 4593 | 2026-08-14 23:36:31 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4593_20260814-23h.py](warehouse/can_4593_20260814-23h.py) |
