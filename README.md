@@ -4669,3 +4669,4 @@ If you need permission, you're thinking too much.
 | 4579 | 2026-08-14 06:42:10 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4579_20260814-06h.py](warehouse/can_4579_20260814-06h.py) |
 | 4580 | 2026-08-14 08:37:13 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4580_20260814-08h.py](warehouse/can_4580_20260814-08h.py) |
 | 4581 | 2026-08-14 10:16:23 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4581_20260814-10h.py](warehouse/can_4581_20260814-10h.py) |
+| 4582 | 2026-08-14 11:57:20 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4582_20260814-11h.py](warehouse/can_4582_20260814-11h.py) |
