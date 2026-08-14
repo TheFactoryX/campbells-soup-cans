@@ -4673,3 +4673,4 @@ If you need permission, you're thinking too much.
 | 4583 | 2026-08-14 13:43:18 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4583_20260814-13h.py](warehouse/can_4583_20260814-13h.py) |
 | 4584 | 2026-08-14 15:07:06 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4584_20260814-15h.py](warehouse/can_4584_20260814-15h.py) |
 | 4585 | 2026-08-14 16:05:45 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4585_20260814-16h.py](warehouse/can_4585_20260814-16h.py) |
+| 4586 | 2026-08-14 17:11:34 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4586_20260814-17h.py](warehouse/can_4586_20260814-17h.py) |
