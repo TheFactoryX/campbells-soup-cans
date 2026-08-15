@@ -4696,3 +4696,4 @@ If you need permission, you're thinking too much.
 | 4606 | 2026-08-15 13:43:39 | NVIDIA: Nemotron 3 Super (free) | ❌ (broken) | [warehouse/can_4606_20260815-13h.py](warehouse/can_4606_20260815-13h.py) |
 | 4607 | 2026-08-15 14:39:01 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4607_20260815-14h.py](warehouse/can_4607_20260815-14h.py) |
 | 4608 | 2026-08-15 15:34:33 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4608_20260815-15h.py](warehouse/can_4608_20260815-15h.py) |
+| 4609 | 2026-08-15 16:41:32 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4609_20260815-16h.py](warehouse/can_4609_20260815-16h.py) |
