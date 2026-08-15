@@ -4693,3 +4693,4 @@ If you need permission, you're thinking too much.
 | 4603 | 2026-08-15 10:39:15 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4603_20260815-10h.py](warehouse/can_4603_20260815-10h.py) |
 | 4604 | 2026-08-15 11:33:45 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (empty, missing print) | [warehouse/can_4604_20260815-11h.py](warehouse/can_4604_20260815-11h.py) |
 | 4605 | 2026-08-15 12:58:59 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4605_20260815-12h.py](warehouse/can_4605_20260815-12h.py) |
+| 4606 | 2026-08-15 13:43:39 | NVIDIA: Nemotron 3 Super (free) | ❌ (broken) | [warehouse/can_4606_20260815-13h.py](warehouse/can_4606_20260815-13h.py) |
