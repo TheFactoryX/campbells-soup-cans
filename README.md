@@ -4685,3 +4685,4 @@ If you need permission, you're thinking too much.
 | 4595 | 2026-08-15 03:04:43 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4595_20260815-03h.py](warehouse/can_4595_20260815-03h.py) |
 | 4596 | 2026-08-15 03:54:24 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4596_20260815-03h.py](warehouse/can_4596_20260815-03h.py) |
 | 4597 | 2026-08-15 04:46:55 | Free Models Router | ✅ | [warehouse/can_4597_20260815-04h.py](warehouse/can_4597_20260815-04h.py) |
+| 4598 | 2026-08-15 05:41:37 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4598_20260815-05h.py](warehouse/can_4598_20260815-05h.py) |
