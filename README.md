@@ -4700,3 +4700,4 @@ If you need permission, you're thinking too much.
 | 4610 | 2026-08-15 17:34:50 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4610_20260815-17h.py](warehouse/can_4610_20260815-17h.py) |
 | 4611 | 2026-08-15 18:47:14 | Free Models Router | ✅ | [warehouse/can_4611_20260815-18h.py](warehouse/can_4611_20260815-18h.py) |
 | 4612 | 2026-08-15 19:33:53 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4612_20260815-19h.py](warehouse/can_4612_20260815-19h.py) |
+| 4613 | 2026-08-15 20:38:58 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4613_20260815-20h.py](warehouse/can_4613_20260815-20h.py) |
