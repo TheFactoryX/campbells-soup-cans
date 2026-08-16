@@ -4719,3 +4719,4 @@ If you need permission, you're thinking too much.
 | 4629 | 2026-08-16 13:44:50 | Cohere: North Mini Code (free) | ❌ (broken) | [warehouse/can_4629_20260816-13h.py](warehouse/can_4629_20260816-13h.py) |
 | 4630 | 2026-08-16 14:38:43 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4630_20260816-14h.py](warehouse/can_4630_20260816-14h.py) |
 | 4631 | 2026-08-16 15:35:04 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (empty, missing print) | [warehouse/can_4631_20260816-15h.py](warehouse/can_4631_20260816-15h.py) |
+| 4632 | 2026-08-16 16:42:01 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4632_20260816-16h.py](warehouse/can_4632_20260816-16h.py) |
