@@ -4704,3 +4704,4 @@ If you need permission, you're thinking too much.
 | 4614 | 2026-08-15 21:34:30 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4614_20260815-21h.py](warehouse/can_4614_20260815-21h.py) |
 | 4615 | 2026-08-15 22:37:59 | NVIDIA: Nemotron 3.5 Lightning (free) | ❌ (broken, missing print) | [warehouse/can_4615_20260815-22h.py](warehouse/can_4615_20260815-22h.py) |
 | 4616 | 2026-08-15 23:34:13 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ❌ (empty, missing print) | [warehouse/can_4616_20260815-23h.py](warehouse/can_4616_20260815-23h.py) |
+| 4617 | 2026-08-16 01:57:07 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4617_20260816-01h.py](warehouse/can_4617_20260816-01h.py) |
