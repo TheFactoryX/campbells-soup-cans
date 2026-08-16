@@ -4714,3 +4714,4 @@ If you need permission, you're thinking too much.
 | 4624 | 2026-08-16 08:46:47 | Free Models Router | ✅ | [warehouse/can_4624_20260816-08h.py](warehouse/can_4624_20260816-08h.py) |
 | 4625 | 2026-08-16 09:42:20 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4625_20260816-09h.py](warehouse/can_4625_20260816-09h.py) |
 | 4626 | 2026-08-16 10:39:58 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4626_20260816-10h.py](warehouse/can_4626_20260816-10h.py) |
+| 4627 | 2026-08-16 11:33:42 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4627_20260816-11h.py](warehouse/can_4627_20260816-11h.py) |
