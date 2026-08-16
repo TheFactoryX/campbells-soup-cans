@@ -4718,3 +4718,4 @@ If you need permission, you're thinking too much.
 | 4628 | 2026-08-16 13:00:45 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4628_20260816-13h.py](warehouse/can_4628_20260816-13h.py) |
 | 4629 | 2026-08-16 13:44:50 | Cohere: North Mini Code (free) | ❌ (broken) | [warehouse/can_4629_20260816-13h.py](warehouse/can_4629_20260816-13h.py) |
 | 4630 | 2026-08-16 14:38:43 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4630_20260816-14h.py](warehouse/can_4630_20260816-14h.py) |
+| 4631 | 2026-08-16 15:35:04 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (empty, missing print) | [warehouse/can_4631_20260816-15h.py](warehouse/can_4631_20260816-15h.py) |
