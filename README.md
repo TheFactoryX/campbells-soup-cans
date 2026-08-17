@@ -4728,3 +4728,4 @@ If you need permission, you're thinking too much.
 | 4638 | 2026-08-16 22:36:18 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4638_20260816-22h.py](warehouse/can_4638_20260816-22h.py) |
 | 4639 | 2026-08-16 23:33:43 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4639_20260816-23h.py](warehouse/can_4639_20260816-23h.py) |
 | 4640 | 2026-08-17 01:55:06 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4640_20260817-01h.py](warehouse/can_4640_20260817-01h.py) |
+| 4641 | 2026-08-17 03:12:48 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4641_20260817-03h.py](warehouse/can_4641_20260817-03h.py) |
