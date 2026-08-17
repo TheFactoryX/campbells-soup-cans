@@ -4730,3 +4730,4 @@ If you need permission, you're thinking too much.
 | 4640 | 2026-08-17 01:55:06 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4640_20260817-01h.py](warehouse/can_4640_20260817-01h.py) |
 | 4641 | 2026-08-17 03:12:48 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4641_20260817-03h.py](warehouse/can_4641_20260817-03h.py) |
 | 4642 | 2026-08-17 04:03:49 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4642_20260817-04h.py](warehouse/can_4642_20260817-04h.py) |
+| 4643 | 2026-08-17 04:58:05 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4643_20260817-04h.py](warehouse/can_4643_20260817-04h.py) |
