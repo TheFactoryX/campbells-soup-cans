@@ -4744,3 +4744,4 @@ If you need permission, you're thinking too much.
 | 4654 | 2026-08-17 15:40:31 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4654_20260817-15h.py](warehouse/can_4654_20260817-15h.py) |
 | 4655 | 2026-08-17 16:45:19 | Google: Gemma 4 26B A4B  (free) | ❌ (broken) | [warehouse/can_4655_20260817-16h.py](warehouse/can_4655_20260817-16h.py) |
 | 4656 | 2026-08-17 17:44:35 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4656_20260817-17h.py](warehouse/can_4656_20260817-17h.py) |
+| 4657 | 2026-08-17 18:57:29 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4657_20260817-18h.py](warehouse/can_4657_20260817-18h.py) |
