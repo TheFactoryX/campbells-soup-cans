@@ -4733,3 +4733,4 @@ If you need permission, you're thinking too much.
 | 4643 | 2026-08-17 04:58:05 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4643_20260817-04h.py](warehouse/can_4643_20260817-04h.py) |
 | 4644 | 2026-08-17 05:50:27 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4644_20260817-05h.py](warehouse/can_4644_20260817-05h.py) |
 | 4645 | 2026-08-17 07:16:10 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4645_20260817-07h.py](warehouse/can_4645_20260817-07h.py) |
+| 4646 | 2026-08-17 08:03:10 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4646_20260817-08h.py](warehouse/can_4646_20260817-08h.py) |
