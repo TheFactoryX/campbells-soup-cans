@@ -4739,3 +4739,4 @@ If you need permission, you're thinking too much.
 | 4649 | 2026-08-17 10:48:09 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4649_20260817-10h.py](warehouse/can_4649_20260817-10h.py) |
 | 4650 | 2026-08-17 11:41:09 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4650_20260817-11h.py](warehouse/can_4650_20260817-11h.py) |
 | 4651 | 2026-08-17 13:05:37 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4651_20260817-13h.py](warehouse/can_4651_20260817-13h.py) |
+| 4652 | 2026-08-17 13:52:42 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4652_20260817-13h.py](warehouse/can_4652_20260817-13h.py) |
