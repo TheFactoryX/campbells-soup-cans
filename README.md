@@ -4735,3 +4735,4 @@ If you need permission, you're thinking too much.
 | 4645 | 2026-08-17 07:16:10 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4645_20260817-07h.py](warehouse/can_4645_20260817-07h.py) |
 | 4646 | 2026-08-17 08:03:10 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4646_20260817-08h.py](warehouse/can_4646_20260817-08h.py) |
 | 4647 | 2026-08-17 09:00:51 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4647_20260817-09h.py](warehouse/can_4647_20260817-09h.py) |
+| 4648 | 2026-08-17 09:57:23 | Google: Gemma 4 26B A4B  (free) | ❌ (broken) | [warehouse/can_4648_20260817-09h.py](warehouse/can_4648_20260817-09h.py) |
