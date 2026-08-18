@@ -4750,3 +4750,4 @@ If you need permission, you're thinking too much.
 | 4660 | 2026-08-17 21:41:32 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4660_20260817-21h.py](warehouse/can_4660_20260817-21h.py) |
 | 4661 | 2026-08-17 22:41:03 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4661_20260817-22h.py](warehouse/can_4661_20260817-22h.py) |
 | 4662 | 2026-08-17 23:36:12 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4662_20260817-23h.py](warehouse/can_4662_20260817-23h.py) |
+| 4663 | 2026-08-18 01:50:33 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4663_20260818-01h.py](warehouse/can_4663_20260818-01h.py) |
