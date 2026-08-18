@@ -4759,3 +4759,4 @@ If you need permission, you're thinking too much.
 | 4669 | 2026-08-18 07:53:42 | NVIDIA: Nemotron Nano 9B V2 (free) | ❌ (broken) | [warehouse/can_4669_20260818-07h.py](warehouse/can_4669_20260818-07h.py) |
 | 4670 | 2026-08-18 08:53:15 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4670_20260818-08h.py](warehouse/can_4670_20260818-08h.py) |
 | 4671 | 2026-08-18 09:48:03 | Google: Gemma 4 31B (free) | ✅ | [warehouse/can_4671_20260818-09h.py](warehouse/can_4671_20260818-09h.py) |
+| 4672 | 2026-08-18 10:46:46 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4672_20260818-10h.py](warehouse/can_4672_20260818-10h.py) |
