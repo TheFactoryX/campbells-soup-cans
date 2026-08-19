@@ -4773,3 +4773,4 @@ If you need permission, you're thinking too much.
 | 4683 | 2026-08-18 21:38:05 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4683_20260818-21h.py](warehouse/can_4683_20260818-21h.py) |
 | 4684 | 2026-08-18 22:41:36 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4684_20260818-22h.py](warehouse/can_4684_20260818-22h.py) |
 | 4685 | 2026-08-18 23:36:09 | Free Models Router | ✅ | [warehouse/can_4685_20260818-23h.py](warehouse/can_4685_20260818-23h.py) |
+| 4686 | 2026-08-19 01:52:42 | Google: Gemma 4 26B A4B  (free) | ✅ | [warehouse/can_4686_20260819-01h.py](warehouse/can_4686_20260819-01h.py) |
