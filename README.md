@@ -4788,3 +4788,4 @@ If you need permission, you're thinking too much.
 | 4698 | 2026-08-19 13:57:16 | LiquidAI: LFM2.5-2.6B (free) | ❌ (broken) | [warehouse/can_4698_20260819-13h.py](warehouse/can_4698_20260819-13h.py) |
 | 4699 | 2026-08-19 14:52:57 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4699_20260819-14h.py](warehouse/can_4699_20260819-14h.py) |
 | 4700 | 2026-08-19 15:46:15 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4700_20260819-15h.py](warehouse/can_4700_20260819-15h.py) |
+| 4701 | 2026-08-19 16:46:40 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4701_20260819-16h.py](warehouse/can_4701_20260819-16h.py) |
