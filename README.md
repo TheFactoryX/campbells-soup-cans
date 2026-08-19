@@ -4779,3 +4779,4 @@ If you need permission, you're thinking too much.
 | 4689 | 2026-08-19 04:52:01 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4689_20260819-04h.py](warehouse/can_4689_20260819-04h.py) |
 | 4690 | 2026-08-19 05:46:29 | Z.ai: GLM 5.2 (free) | ❌ (broken) | [warehouse/can_4690_20260819-05h.py](warehouse/can_4690_20260819-05h.py) |
 | 4691 | 2026-08-19 07:05:07 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4691_20260819-07h.py](warehouse/can_4691_20260819-07h.py) |
+| 4692 | 2026-08-19 07:54:02 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4692_20260819-07h.py](warehouse/can_4692_20260819-07h.py) |
