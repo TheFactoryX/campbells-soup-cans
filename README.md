@@ -4804,3 +4804,4 @@ If you need permission, you're thinking too much.
 | 4714 | 2026-08-20 07:06:23 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4714_20260820-07h.py](warehouse/can_4714_20260820-07h.py) |
 | 4715 | 2026-08-20 07:56:54 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4715_20260820-07h.py](warehouse/can_4715_20260820-07h.py) |
 | 4716 | 2026-08-20 08:56:10 | Free Models Router | ✅ | [warehouse/can_4716_20260820-08h.py](warehouse/can_4716_20260820-08h.py) |
+| 4717 | 2026-08-20 09:50:00 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4717_20260820-09h.py](warehouse/can_4717_20260820-09h.py) |
