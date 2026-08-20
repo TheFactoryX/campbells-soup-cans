@@ -4812,3 +4812,4 @@ If you need permission, you're thinking too much.
 | 4722 | 2026-08-20 14:54:39 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4722_20260820-14h.py](warehouse/can_4722_20260820-14h.py) |
 | 4723 | 2026-08-20 15:48:46 | OpenAI: gpt-oss-20b (free) | ✅ | [warehouse/can_4723_20260820-15h.py](warehouse/can_4723_20260820-15h.py) |
 | 4724 | 2026-08-20 16:50:28 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4724_20260820-16h.py](warehouse/can_4724_20260820-16h.py) |
+| 4725 | 2026-08-20 17:45:17 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ✅ | [warehouse/can_4725_20260820-17h.py](warehouse/can_4725_20260820-17h.py) |
