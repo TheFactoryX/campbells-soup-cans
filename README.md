@@ -4816,3 +4816,4 @@ If you need permission, you're thinking too much.
 | 4726 | 2026-08-20 18:58:58 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4726_20260820-18h.py](warehouse/can_4726_20260820-18h.py) |
 | 4727 | 2026-08-20 19:45:31 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4727_20260820-19h.py](warehouse/can_4727_20260820-19h.py) |
 | 4728 | 2026-08-20 20:46:38 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4728_20260820-20h.py](warehouse/can_4728_20260820-20h.py) |
+| 4729 | 2026-08-20 21:43:43 | Free Models Router | ✅ | [warehouse/can_4729_20260820-21h.py](warehouse/can_4729_20260820-21h.py) |
