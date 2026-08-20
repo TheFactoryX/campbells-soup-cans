@@ -4808,3 +4808,4 @@ If you need permission, you're thinking too much.
 | 4718 | 2026-08-20 10:47:06 | Z.ai: GLM 5.2 (free) | ✅ | [warehouse/can_4718_20260820-10h.py](warehouse/can_4718_20260820-10h.py) |
 | 4719 | 2026-08-20 11:42:28 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4719_20260820-11h.py](warehouse/can_4719_20260820-11h.py) |
 | 4720 | 2026-08-20 13:11:10 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4720_20260820-13h.py](warehouse/can_4720_20260820-13h.py) |
+| 4721 | 2026-08-20 13:59:31 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4721_20260820-13h.py](warehouse/can_4721_20260820-13h.py) |
