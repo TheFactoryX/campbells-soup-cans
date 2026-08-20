@@ -4799,3 +4799,4 @@ If you need permission, you're thinking too much.
 | 4709 | 2026-08-20 01:51:17 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4709_20260820-01h.py](warehouse/can_4709_20260820-01h.py) |
 | 4710 | 2026-08-20 03:10:08 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4710_20260820-03h.py](warehouse/can_4710_20260820-03h.py) |
 | 4711 | 2026-08-20 03:58:50 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4711_20260820-03h.py](warehouse/can_4711_20260820-03h.py) |
+| 4712 | 2026-08-20 04:53:12 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4712_20260820-04h.py](warehouse/can_4712_20260820-04h.py) |
