@@ -4822,3 +4822,4 @@ If you need permission, you're thinking too much.
 | 4732 | 2026-08-21 01:57:17 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4732_20260821-01h.py](warehouse/can_4732_20260821-01h.py) |
 | 4733 | 2026-08-21 03:16:02 | Free Models Router | ✅ | [warehouse/can_4733_20260821-03h.py](warehouse/can_4733_20260821-03h.py) |
 | 4734 | 2026-08-21 04:04:51 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4734_20260821-04h.py](warehouse/can_4734_20260821-04h.py) |
+| 4735 | 2026-08-21 04:54:27 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4735_20260821-04h.py](warehouse/can_4735_20260821-04h.py) |
