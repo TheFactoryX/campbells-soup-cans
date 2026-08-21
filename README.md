@@ -4825,3 +4825,4 @@ If you need permission, you're thinking too much.
 | 4735 | 2026-08-21 04:54:27 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4735_20260821-04h.py](warehouse/can_4735_20260821-04h.py) |
 | 4736 | 2026-08-21 05:48:11 | Ox Alpha | ❌ (broken) | [warehouse/can_4736_20260821-05h.py](warehouse/can_4736_20260821-05h.py) |
 | 4737 | 2026-08-21 07:10:10 | Ox Alpha | ❌ (broken) | [warehouse/can_4737_20260821-07h.py](warehouse/can_4737_20260821-07h.py) |
+| 4738 | 2026-08-21 07:56:53 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4738_20260821-07h.py](warehouse/can_4738_20260821-07h.py) |
