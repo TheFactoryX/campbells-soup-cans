@@ -4820,3 +4820,4 @@ If you need permission, you're thinking too much.
 | 4730 | 2026-08-20 22:45:11 | Ox Alpha | ❌ (broken) | [warehouse/can_4730_20260820-22h.py](warehouse/can_4730_20260820-22h.py) |
 | 4731 | 2026-08-20 23:40:52 | OpenAI: gpt-oss-20b (free) | ❌ (empty, missing print) | [warehouse/can_4731_20260820-23h.py](warehouse/can_4731_20260820-23h.py) |
 | 4732 | 2026-08-21 01:57:17 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4732_20260821-01h.py](warehouse/can_4732_20260821-01h.py) |
+| 4733 | 2026-08-21 03:16:02 | Free Models Router | ✅ | [warehouse/can_4733_20260821-03h.py](warehouse/can_4733_20260821-03h.py) |
