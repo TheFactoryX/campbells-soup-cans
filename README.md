@@ -4826,3 +4826,4 @@ If you need permission, you're thinking too much.
 | 4736 | 2026-08-21 05:48:11 | Ox Alpha | ❌ (broken) | [warehouse/can_4736_20260821-05h.py](warehouse/can_4736_20260821-05h.py) |
 | 4737 | 2026-08-21 07:10:10 | Ox Alpha | ❌ (broken) | [warehouse/can_4737_20260821-07h.py](warehouse/can_4737_20260821-07h.py) |
 | 4738 | 2026-08-21 07:56:53 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4738_20260821-07h.py](warehouse/can_4738_20260821-07h.py) |
+| 4739 | 2026-08-21 08:58:12 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4739_20260821-08h.py](warehouse/can_4739_20260821-08h.py) |
