@@ -4833,3 +4833,4 @@ If you need permission, you're thinking too much.
 | 4743 | 2026-08-21 13:10:36 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4743_20260821-13h.py](warehouse/can_4743_20260821-13h.py) |
 | 4744 | 2026-08-21 13:58:16 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4744_20260821-13h.py](warehouse/can_4744_20260821-13h.py) |
 | 4745 | 2026-08-21 14:53:19 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4745_20260821-14h.py](warehouse/can_4745_20260821-14h.py) |
+| 4746 | 2026-08-21 15:48:33 | NVIDIA: Nemotron 3 Super (free) | ❌ (empty, missing print) | [warehouse/can_4746_20260821-15h.py](warehouse/can_4746_20260821-15h.py) |
