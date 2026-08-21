@@ -4840,3 +4840,4 @@ If you need permission, you're thinking too much.
 | 4750 | 2026-08-21 19:37:04 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4750_20260821-19h.py](warehouse/can_4750_20260821-19h.py) |
 | 4751 | 2026-08-21 20:41:18 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4751_20260821-20h.py](warehouse/can_4751_20260821-20h.py) |
 | 4752 | 2026-08-21 21:38:59 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4752_20260821-21h.py](warehouse/can_4752_20260821-21h.py) |
+| 4753 | 2026-08-21 22:41:33 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4753_20260821-22h.py](warehouse/can_4753_20260821-22h.py) |
