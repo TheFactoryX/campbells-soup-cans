@@ -4818,3 +4818,4 @@ If you need permission, you're thinking too much.
 | 4728 | 2026-08-20 20:46:38 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4728_20260820-20h.py](warehouse/can_4728_20260820-20h.py) |
 | 4729 | 2026-08-20 21:43:43 | Free Models Router | ✅ | [warehouse/can_4729_20260820-21h.py](warehouse/can_4729_20260820-21h.py) |
 | 4730 | 2026-08-20 22:45:11 | Ox Alpha | ❌ (broken) | [warehouse/can_4730_20260820-22h.py](warehouse/can_4730_20260820-22h.py) |
+| 4731 | 2026-08-20 23:40:52 | OpenAI: gpt-oss-20b (free) | ❌ (empty, missing print) | [warehouse/can_4731_20260820-23h.py](warehouse/can_4731_20260820-23h.py) |
