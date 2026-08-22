@@ -4856,3 +4856,4 @@ If you need permission, you're thinking too much.
 | 4766 | 2026-08-22 13:00:37 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4766_20260822-13h.py](warehouse/can_4766_20260822-13h.py) |
 | 4767 | 2026-08-22 13:44:28 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4767_20260822-13h.py](warehouse/can_4767_20260822-13h.py) |
 | 4768 | 2026-08-22 14:38:17 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4768_20260822-14h.py](warehouse/can_4768_20260822-14h.py) |
+| 4769 | 2026-08-22 15:34:34 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4769_20260822-15h.py](warehouse/can_4769_20260822-15h.py) |
