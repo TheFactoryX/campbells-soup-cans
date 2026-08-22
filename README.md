@@ -4847,3 +4847,4 @@ If you need permission, you're thinking too much.
 | 4757 | 2026-08-22 03:56:16 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4757_20260822-03h.py](warehouse/can_4757_20260822-03h.py) |
 | 4758 | 2026-08-22 04:49:27 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_4758_20260822-04h.py](warehouse/can_4758_20260822-04h.py) |
 | 4759 | 2026-08-22 05:42:30 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4759_20260822-05h.py](warehouse/can_4759_20260822-05h.py) |
+| 4760 | 2026-08-22 06:59:02 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4760_20260822-06h.py](warehouse/can_4760_20260822-06h.py) |
