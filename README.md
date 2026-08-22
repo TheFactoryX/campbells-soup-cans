@@ -4844,3 +4844,4 @@ If you need permission, you're thinking too much.
 | 4754 | 2026-08-21 23:38:34 | Free Models Router | ✅ | [warehouse/can_4754_20260821-23h.py](warehouse/can_4754_20260821-23h.py) |
 | 4755 | 2026-08-22 01:49:51 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4755_20260822-01h.py](warehouse/can_4755_20260822-01h.py) |
 | 4756 | 2026-08-22 03:07:23 | Poolside: Laguna XS 2.1 (free) | ❌ (broken) | [warehouse/can_4756_20260822-03h.py](warehouse/can_4756_20260822-03h.py) |
+| 4757 | 2026-08-22 03:56:16 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4757_20260822-03h.py](warehouse/can_4757_20260822-03h.py) |
