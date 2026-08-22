@@ -4864,3 +4864,4 @@ If you need permission, you're thinking too much.
 | 4774 | 2026-08-22 20:39:59 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4774_20260822-20h.py](warehouse/can_4774_20260822-20h.py) |
 | 4775 | 2026-08-22 21:35:11 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4775_20260822-21h.py](warehouse/can_4775_20260822-21h.py) |
 | 4776 | 2026-08-22 22:38:46 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4776_20260822-22h.py](warehouse/can_4776_20260822-22h.py) |
+| 4777 | 2026-08-22 23:34:29 | LiquidAI: LFM2.5-2.6B (free) | ❌ (broken) | [warehouse/can_4777_20260822-23h.py](warehouse/can_4777_20260822-23h.py) |
