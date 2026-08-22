@@ -4852,3 +4852,4 @@ If you need permission, you're thinking too much.
 | 4762 | 2026-08-22 08:47:34 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4762_20260822-08h.py](warehouse/can_4762_20260822-08h.py) |
 | 4763 | 2026-08-22 09:42:51 | Ox Alpha | ❌ (broken) | [warehouse/can_4763_20260822-09h.py](warehouse/can_4763_20260822-09h.py) |
 | 4764 | 2026-08-22 10:40:37 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4764_20260822-10h.py](warehouse/can_4764_20260822-10h.py) |
+| 4765 | 2026-08-22 11:34:43 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4765_20260822-11h.py](warehouse/can_4765_20260822-11h.py) |
