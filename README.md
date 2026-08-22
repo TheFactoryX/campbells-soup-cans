@@ -4854,3 +4854,4 @@ If you need permission, you're thinking too much.
 | 4764 | 2026-08-22 10:40:37 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4764_20260822-10h.py](warehouse/can_4764_20260822-10h.py) |
 | 4765 | 2026-08-22 11:34:43 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4765_20260822-11h.py](warehouse/can_4765_20260822-11h.py) |
 | 4766 | 2026-08-22 13:00:37 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4766_20260822-13h.py](warehouse/can_4766_20260822-13h.py) |
+| 4767 | 2026-08-22 13:44:28 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4767_20260822-13h.py](warehouse/can_4767_20260822-13h.py) |
