@@ -4863,3 +4863,4 @@ If you need permission, you're thinking too much.
 | 4773 | 2026-08-22 19:34:51 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4773_20260822-19h.py](warehouse/can_4773_20260822-19h.py) |
 | 4774 | 2026-08-22 20:39:59 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4774_20260822-20h.py](warehouse/can_4774_20260822-20h.py) |
 | 4775 | 2026-08-22 21:35:11 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4775_20260822-21h.py](warehouse/can_4775_20260822-21h.py) |
+| 4776 | 2026-08-22 22:38:46 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4776_20260822-22h.py](warehouse/can_4776_20260822-22h.py) |
