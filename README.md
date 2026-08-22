@@ -4846,3 +4846,4 @@ If you need permission, you're thinking too much.
 | 4756 | 2026-08-22 03:07:23 | Poolside: Laguna XS 2.1 (free) | ❌ (broken) | [warehouse/can_4756_20260822-03h.py](warehouse/can_4756_20260822-03h.py) |
 | 4757 | 2026-08-22 03:56:16 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4757_20260822-03h.py](warehouse/can_4757_20260822-03h.py) |
 | 4758 | 2026-08-22 04:49:27 | NVIDIA: Nemotron Nano 12B 2 VL (free) | ✅ | [warehouse/can_4758_20260822-04h.py](warehouse/can_4758_20260822-04h.py) |
+| 4759 | 2026-08-22 05:42:30 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4759_20260822-05h.py](warehouse/can_4759_20260822-05h.py) |
