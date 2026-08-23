@@ -4868,3 +4868,4 @@ If you need permission, you're thinking too much.
 | 4778 | 2026-08-23 01:59:39 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_4778_20260823-01h.py](warehouse/can_4778_20260823-01h.py) |
 | 4779 | 2026-08-23 03:15:29 | OpenAI: GPT-5.6 Luna Pro | ❌ (missing print) | [warehouse/can_4779_20260823-03h.py](warehouse/can_4779_20260823-03h.py) |
 | 4780 | 2026-08-23 04:04:22 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4780_20260823-04h.py](warehouse/can_4780_20260823-04h.py) |
+| 4781 | 2026-08-23 04:51:45 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4781_20260823-04h.py](warehouse/can_4781_20260823-04h.py) |
