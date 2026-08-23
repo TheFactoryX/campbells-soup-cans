@@ -4884,3 +4884,4 @@ If you need permission, you're thinking too much.
 | 4794 | 2026-08-23 17:34:09 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4794_20260823-17h.py](warehouse/can_4794_20260823-17h.py) |
 | 4795 | 2026-08-23 18:48:32 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4795_20260823-18h.py](warehouse/can_4795_20260823-18h.py) |
 | 4796 | 2026-08-23 19:34:56 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4796_20260823-19h.py](warehouse/can_4796_20260823-19h.py) |
+| 4797 | 2026-08-23 20:39:34 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4797_20260823-20h.py](warehouse/can_4797_20260823-20h.py) |
