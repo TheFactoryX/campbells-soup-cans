@@ -4874,3 +4874,4 @@ If you need permission, you're thinking too much.
 | 4784 | 2026-08-23 07:47:08 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4784_20260823-07h.py](warehouse/can_4784_20260823-07h.py) |
 | 4785 | 2026-08-23 08:48:28 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4785_20260823-08h.py](warehouse/can_4785_20260823-08h.py) |
 | 4786 | 2026-08-23 09:43:12 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (broken, missing print) | [warehouse/can_4786_20260823-09h.py](warehouse/can_4786_20260823-09h.py) |
+| 4787 | 2026-08-23 10:41:20 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4787_20260823-10h.py](warehouse/can_4787_20260823-10h.py) |
