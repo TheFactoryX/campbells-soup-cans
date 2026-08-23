@@ -4865,3 +4865,4 @@ If you need permission, you're thinking too much.
 | 4775 | 2026-08-22 21:35:11 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4775_20260822-21h.py](warehouse/can_4775_20260822-21h.py) |
 | 4776 | 2026-08-22 22:38:46 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4776_20260822-22h.py](warehouse/can_4776_20260822-22h.py) |
 | 4777 | 2026-08-22 23:34:29 | LiquidAI: LFM2.5-2.6B (free) | ❌ (broken) | [warehouse/can_4777_20260822-23h.py](warehouse/can_4777_20260822-23h.py) |
+| 4778 | 2026-08-23 01:59:39 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_4778_20260823-01h.py](warehouse/can_4778_20260823-01h.py) |
