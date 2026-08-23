@@ -4881,3 +4881,4 @@ If you need permission, you're thinking too much.
 | 4791 | 2026-08-23 14:40:11 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4791_20260823-14h.py](warehouse/can_4791_20260823-14h.py) |
 | 4792 | 2026-08-23 15:36:04 | Ox Alpha | ❌ (broken) | [warehouse/can_4792_20260823-15h.py](warehouse/can_4792_20260823-15h.py) |
 | 4793 | 2026-08-23 16:43:19 | ReMM SLERP 13B | ✅ | [warehouse/can_4793_20260823-16h.py](warehouse/can_4793_20260823-16h.py) |
+| 4794 | 2026-08-23 17:34:09 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4794_20260823-17h.py](warehouse/can_4794_20260823-17h.py) |
