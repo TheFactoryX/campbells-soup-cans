@@ -4887,3 +4887,4 @@ If you need permission, you're thinking too much.
 | 4797 | 2026-08-23 20:39:34 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4797_20260823-20h.py](warehouse/can_4797_20260823-20h.py) |
 | 4798 | 2026-08-23 21:35:39 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4798_20260823-21h.py](warehouse/can_4798_20260823-21h.py) |
 | 4799 | 2026-08-23 22:37:54 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4799_20260823-22h.py](warehouse/can_4799_20260823-22h.py) |
+| 4800 | 2026-08-23 23:35:01 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4800_20260823-23h.py](warehouse/can_4800_20260823-23h.py) |
