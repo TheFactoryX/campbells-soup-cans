@@ -4899,3 +4899,4 @@ If you need permission, you're thinking too much.
 | 4809 | 2026-08-24 11:43:52 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4809_20260824-11h.py](warehouse/can_4809_20260824-11h.py) |
 | 4810 | 2026-08-24 13:12:48 | Free Models Router | ❌ (broken) | [warehouse/can_4810_20260824-13h.py](warehouse/can_4810_20260824-13h.py) |
 | 4811 | 2026-08-24 14:03:29 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4811_20260824-14h.py](warehouse/can_4811_20260824-14h.py) |
+| 4812 | 2026-08-24 15:00:00 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4812_20260824-15h.py](warehouse/can_4812_20260824-15h.py) |
