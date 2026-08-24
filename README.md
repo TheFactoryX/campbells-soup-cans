@@ -4902,3 +4902,4 @@ If you need permission, you're thinking too much.
 | 4812 | 2026-08-24 15:00:00 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4812_20260824-15h.py](warehouse/can_4812_20260824-15h.py) |
 | 4813 | 2026-08-24 15:55:39 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4813_20260824-15h.py](warehouse/can_4813_20260824-15h.py) |
 | 4814 | 2026-08-24 16:55:14 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4814_20260824-16h.py](warehouse/can_4814_20260824-16h.py) |
+| 4815 | 2026-08-24 17:46:51 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4815_20260824-17h.py](warehouse/can_4815_20260824-17h.py) |
