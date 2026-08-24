@@ -4891,3 +4891,4 @@ If you need permission, you're thinking too much.
 | 4801 | 2026-08-24 01:57:20 | NVIDIA: Nemotron Nano 9B V2 (free) | ✅ | [warehouse/can_4801_20260824-01h.py](warehouse/can_4801_20260824-01h.py) |
 | 4802 | 2026-08-24 03:16:30 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4802_20260824-03h.py](warehouse/can_4802_20260824-03h.py) |
 | 4803 | 2026-08-24 05:01:37 | NVIDIA: Nemotron 3 Nano 30B A3B (free) | ❌ (missing print) | [warehouse/can_4803_20260824-05h.py](warehouse/can_4803_20260824-05h.py) |
+| 4804 | 2026-08-24 05:53:32 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4804_20260824-05h.py](warehouse/can_4804_20260824-05h.py) |
