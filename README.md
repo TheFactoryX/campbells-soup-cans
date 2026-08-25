@@ -4916,3 +4916,4 @@ If you need permission, you're thinking too much.
 | 4826 | 2026-08-25 05:47:29 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4826_20260825-05h.py](warehouse/can_4826_20260825-05h.py) |
 | 4827 | 2026-08-25 07:08:08 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4827_20260825-07h.py](warehouse/can_4827_20260825-07h.py) |
 | 4828 | 2026-08-25 07:58:05 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4828_20260825-07h.py](warehouse/can_4828_20260825-07h.py) |
+| 4829 | 2026-08-25 08:59:55 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4829_20260825-08h.py](warehouse/can_4829_20260825-08h.py) |
