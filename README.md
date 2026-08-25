@@ -4929,3 +4929,4 @@ If you need permission, you're thinking too much.
 | 4839 | 2026-08-25 18:56:45 | MiniMax: MiniMax M3 (free) | ✅ | [warehouse/can_4839_20260825-18h.py](warehouse/can_4839_20260825-18h.py) |
 | 4840 | 2026-08-25 19:45:42 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4840_20260825-19h.py](warehouse/can_4840_20260825-19h.py) |
 | 4841 | 2026-08-25 20:45:58 | MiniMax: MiniMax M3 (free) | ✅ | [warehouse/can_4841_20260825-20h.py](warehouse/can_4841_20260825-20h.py) |
+| 4842 | 2026-08-25 21:44:05 | MiniMax: MiniMax M2.7 (free) | ✅ | [warehouse/can_4842_20260825-21h.py](warehouse/can_4842_20260825-21h.py) |
