@@ -4910,3 +4910,4 @@ If you need permission, you're thinking too much.
 | 4820 | 2026-08-24 22:44:42 | Google: Nano Banana Pro (Gemini 3 Pro Image Preview) | ✅ | [warehouse/can_4820_20260824-22h.py](warehouse/can_4820_20260824-22h.py) |
 | 4821 | 2026-08-24 23:35:29 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4821_20260824-23h.py](warehouse/can_4821_20260824-23h.py) |
 | 4822 | 2026-08-25 01:52:14 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4822_20260825-01h.py](warehouse/can_4822_20260825-01h.py) |
+| 4823 | 2026-08-25 03:12:39 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4823_20260825-03h.py](warehouse/can_4823_20260825-03h.py) |
