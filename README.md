@@ -4920,3 +4920,4 @@ If you need permission, you're thinking too much.
 | 4830 | 2026-08-25 09:51:24 | MiniMax: MiniMax M2.7 (free) | ✅ | [warehouse/can_4830_20260825-09h.py](warehouse/can_4830_20260825-09h.py) |
 | 4831 | 2026-08-25 10:49:29 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4831_20260825-10h.py](warehouse/can_4831_20260825-10h.py) |
 | 4832 | 2026-08-25 11:44:20 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4832_20260825-11h.py](warehouse/can_4832_20260825-11h.py) |
+| 4833 | 2026-08-25 13:11:15 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4833_20260825-13h.py](warehouse/can_4833_20260825-13h.py) |
