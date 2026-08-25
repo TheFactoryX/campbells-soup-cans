@@ -4925,3 +4925,4 @@ If you need permission, you're thinking too much.
 | 4835 | 2026-08-25 15:05:01 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4835_20260825-15h.py](warehouse/can_4835_20260825-15h.py) |
 | 4836 | 2026-08-25 15:59:51 | Free Models Router | ✅ | [warehouse/can_4836_20260825-15h.py](warehouse/can_4836_20260825-15h.py) |
 | 4837 | 2026-08-25 16:55:14 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4837_20260825-16h.py](warehouse/can_4837_20260825-16h.py) |
+| 4838 | 2026-08-25 17:45:16 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4838_20260825-17h.py](warehouse/can_4838_20260825-17h.py) |
