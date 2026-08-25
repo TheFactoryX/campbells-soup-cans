@@ -4918,3 +4918,4 @@ If you need permission, you're thinking too much.
 | 4828 | 2026-08-25 07:58:05 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4828_20260825-07h.py](warehouse/can_4828_20260825-07h.py) |
 | 4829 | 2026-08-25 08:59:55 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4829_20260825-08h.py](warehouse/can_4829_20260825-08h.py) |
 | 4830 | 2026-08-25 09:51:24 | MiniMax: MiniMax M2.7 (free) | ✅ | [warehouse/can_4830_20260825-09h.py](warehouse/can_4830_20260825-09h.py) |
+| 4831 | 2026-08-25 10:49:29 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_4831_20260825-10h.py](warehouse/can_4831_20260825-10h.py) |
