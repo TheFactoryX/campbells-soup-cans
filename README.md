@@ -4941,3 +4941,4 @@ If you need permission, you're thinking too much.
 | 4851 | 2026-08-26 09:02:00 | MiniMax: MiniMax M2.7 (free) | ✅ | [warehouse/can_4851_20260826-09h.py](warehouse/can_4851_20260826-09h.py) |
 | 4852 | 2026-08-26 09:57:19 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4852_20260826-09h.py](warehouse/can_4852_20260826-09h.py) |
 | 4853 | 2026-08-26 10:51:24 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4853_20260826-10h.py](warehouse/can_4853_20260826-10h.py) |
+| 4854 | 2026-08-26 11:45:28 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4854_20260826-11h.py](warehouse/can_4854_20260826-11h.py) |
