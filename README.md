@@ -4935,3 +4935,4 @@ If you need permission, you're thinking too much.
 | 4845 | 2026-08-26 01:58:19 | Dots Studio: Dots3-Note Preview (free) | ❌ (broken) | [warehouse/can_4845_20260826-01h.py](warehouse/can_4845_20260826-01h.py) |
 | 4846 | 2026-08-26 03:18:17 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4846_20260826-03h.py](warehouse/can_4846_20260826-03h.py) |
 | 4847 | 2026-08-26 04:55:58 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4847_20260826-04h.py](warehouse/can_4847_20260826-04h.py) |
+| 4848 | 2026-08-26 05:50:09 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4848_20260826-05h.py](warehouse/can_4848_20260826-05h.py) |
