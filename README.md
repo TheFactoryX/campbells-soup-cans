@@ -4939,3 +4939,4 @@ If you need permission, you're thinking too much.
 | 4849 | 2026-08-26 07:08:42 | MiniMax: MiniMax M3 (free) | ✅ | [warehouse/can_4849_20260826-07h.py](warehouse/can_4849_20260826-07h.py) |
 | 4850 | 2026-08-26 07:59:45 | MiniMax: MiniMax M2.7 (free) | ✅ | [warehouse/can_4850_20260826-07h.py](warehouse/can_4850_20260826-07h.py) |
 | 4851 | 2026-08-26 09:02:00 | MiniMax: MiniMax M2.7 (free) | ✅ | [warehouse/can_4851_20260826-09h.py](warehouse/can_4851_20260826-09h.py) |
+| 4852 | 2026-08-26 09:57:19 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4852_20260826-09h.py](warehouse/can_4852_20260826-09h.py) |
