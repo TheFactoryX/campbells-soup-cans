@@ -4947,3 +4947,4 @@ If you need permission, you're thinking too much.
 | 4857 | 2026-08-26 16:59:31 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4857_20260826-16h.py](warehouse/can_4857_20260826-16h.py) |
 | 4858 | 2026-08-26 19:18:08 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4858_20260826-19h.py](warehouse/can_4858_20260826-19h.py) |
 | 4859 | 2026-08-26 23:33:47 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4859_20260826-23h.py](warehouse/can_4859_20260826-23h.py) |
+| 4860 | 2026-08-27 09:50:08 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4860_20260827-09h.py](warehouse/can_4860_20260827-09h.py) |
