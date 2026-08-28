@@ -4949,3 +4949,4 @@ If you need permission, you're thinking too much.
 | 4859 | 2026-08-26 23:33:47 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4859_20260826-23h.py](warehouse/can_4859_20260826-23h.py) |
 | 4860 | 2026-08-27 09:50:08 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4860_20260827-09h.py](warehouse/can_4860_20260827-09h.py) |
 | 4861 | 2026-08-27 20:30:50 | Ling 3.0 Flash Fin (free) | ✅ | [warehouse/can_4861_20260827-20h.py](warehouse/can_4861_20260827-20h.py) |
+| 4862 | 2026-08-28 05:24:50 | MiniMax: MiniMax M3 (free) | ✅ | [warehouse/can_4862_20260828-05h.py](warehouse/can_4862_20260828-05h.py) |
