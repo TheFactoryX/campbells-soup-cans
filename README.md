@@ -4952,3 +4952,4 @@ If you need permission, you're thinking too much.
 | 4862 | 2026-08-28 05:24:50 | MiniMax: MiniMax M3 (free) | ✅ | [warehouse/can_4862_20260828-05h.py](warehouse/can_4862_20260828-05h.py) |
 | 4863 | 2026-08-28 18:43:18 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4863_20260828-18h.py](warehouse/can_4863_20260828-18h.py) |
 | 4864 | 2026-08-29 02:12:11 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4864_20260829-02h.py](warehouse/can_4864_20260829-02h.py) |
+| 4865 | 2026-08-29 09:04:59 | MiniMax: MiniMax M2.7 (free) | ❌ (broken) | [warehouse/can_4865_20260829-09h.py](warehouse/can_4865_20260829-09h.py) |
