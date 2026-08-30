@@ -4957,3 +4957,4 @@ If you need permission, you're thinking too much.
 | 4867 | 2026-08-29 18:31:15 | Free Models Router | ✅ | [warehouse/can_4867_20260829-18h.py](warehouse/can_4867_20260829-18h.py) |
 | 4868 | 2026-08-29 21:44:31 | MiniMax: MiniMax M3 (free) | ✅ | [warehouse/can_4868_20260829-21h.py](warehouse/can_4868_20260829-21h.py) |
 | 4869 | 2026-08-30 00:20:55 | MiniMax: MiniMax M2.7 (free) | ❌ (broken) | [warehouse/can_4869_20260830-00h.py](warehouse/can_4869_20260830-00h.py) |
+| 4870 | 2026-08-30 06:40:27 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4870_20260830-06h.py](warehouse/can_4870_20260830-06h.py) |
