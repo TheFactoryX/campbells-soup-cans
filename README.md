@@ -4956,3 +4956,4 @@ If you need permission, you're thinking too much.
 | 4866 | 2026-08-29 14:29:06 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4866_20260829-14h.py](warehouse/can_4866_20260829-14h.py) |
 | 4867 | 2026-08-29 18:31:15 | Free Models Router | ✅ | [warehouse/can_4867_20260829-18h.py](warehouse/can_4867_20260829-18h.py) |
 | 4868 | 2026-08-29 21:44:31 | MiniMax: MiniMax M3 (free) | ✅ | [warehouse/can_4868_20260829-21h.py](warehouse/can_4868_20260829-21h.py) |
+| 4869 | 2026-08-30 00:20:55 | MiniMax: MiniMax M2.7 (free) | ❌ (broken) | [warehouse/can_4869_20260830-00h.py](warehouse/can_4869_20260830-00h.py) |
