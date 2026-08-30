@@ -4961,3 +4961,4 @@ If you need permission, you're thinking too much.
 | 4871 | 2026-08-30 12:54:12 | MiniMax: MiniMax M3 (free) | ✅ | [warehouse/can_4871_20260830-12h.py](warehouse/can_4871_20260830-12h.py) |
 | 4872 | 2026-08-30 17:30:03 | Google: Gemini 3.5 Flash | ✅ | [warehouse/can_4872_20260830-17h.py](warehouse/can_4872_20260830-17h.py) |
 | 4873 | 2026-08-30 21:06:45 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4873_20260830-21h.py](warehouse/can_4873_20260830-21h.py) |
+| 4874 | 2026-08-30 23:30:18 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4874_20260830-23h.py](warehouse/can_4874_20260830-23h.py) |
