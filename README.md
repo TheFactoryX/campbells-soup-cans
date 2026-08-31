@@ -4963,3 +4963,4 @@ If you need permission, you're thinking too much.
 | 4873 | 2026-08-30 21:06:45 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4873_20260830-21h.py](warehouse/can_4873_20260830-21h.py) |
 | 4874 | 2026-08-30 23:30:18 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4874_20260830-23h.py](warehouse/can_4874_20260830-23h.py) |
 | 4875 | 2026-08-31 05:36:20 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4875_20260831-05h.py](warehouse/can_4875_20260831-05h.py) |
+| 4876 | 2026-08-31 13:52:18 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4876_20260831-13h.py](warehouse/can_4876_20260831-13h.py) |
