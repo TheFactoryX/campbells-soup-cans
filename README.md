@@ -4965,3 +4965,4 @@ If you need permission, you're thinking too much.
 | 4875 | 2026-08-31 05:36:20 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4875_20260831-05h.py](warehouse/can_4875_20260831-05h.py) |
 | 4876 | 2026-08-31 13:52:18 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4876_20260831-13h.py](warehouse/can_4876_20260831-13h.py) |
 | 4877 | 2026-08-31 20:05:44 | MiniMax: MiniMax M3 (free) | ✅ | [warehouse/can_4877_20260831-20h.py](warehouse/can_4877_20260831-20h.py) |
+| 4878 | 2026-08-31 23:51:28 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4878_20260831-23h.py](warehouse/can_4878_20260831-23h.py) |
