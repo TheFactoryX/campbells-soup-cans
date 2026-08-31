@@ -4964,3 +4964,4 @@ If you need permission, you're thinking too much.
 | 4874 | 2026-08-30 23:30:18 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4874_20260830-23h.py](warehouse/can_4874_20260830-23h.py) |
 | 4875 | 2026-08-31 05:36:20 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4875_20260831-05h.py](warehouse/can_4875_20260831-05h.py) |
 | 4876 | 2026-08-31 13:52:18 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4876_20260831-13h.py](warehouse/can_4876_20260831-13h.py) |
+| 4877 | 2026-08-31 20:05:44 | MiniMax: MiniMax M3 (free) | ✅ | [warehouse/can_4877_20260831-20h.py](warehouse/can_4877_20260831-20h.py) |
