@@ -4968,3 +4968,4 @@ If you need permission, you're thinking too much.
 | 4878 | 2026-08-31 23:51:28 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4878_20260831-23h.py](warehouse/can_4878_20260831-23h.py) |
 | 4879 | 2026-09-01 05:09:52 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4879_20260901-05h.py](warehouse/can_4879_20260901-05h.py) |
 | 4880 | 2026-09-01 10:07:19 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_4880_20260901-10h.py](warehouse/can_4880_20260901-10h.py) |
+| 4881 | 2026-09-01 14:54:22 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4881_20260901-14h.py](warehouse/can_4881_20260901-14h.py) |
