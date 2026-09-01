@@ -4970,3 +4970,4 @@ If you need permission, you're thinking too much.
 | 4880 | 2026-09-01 10:07:19 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_4880_20260901-10h.py](warehouse/can_4880_20260901-10h.py) |
 | 4881 | 2026-09-01 14:54:22 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4881_20260901-14h.py](warehouse/can_4881_20260901-14h.py) |
 | 4882 | 2026-09-01 18:31:24 | MiniMax: MiniMax M2.7 (free) | ✅ | [warehouse/can_4882_20260901-18h.py](warehouse/can_4882_20260901-18h.py) |
+| 4883 | 2026-09-01 21:47:21 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4883_20260901-21h.py](warehouse/can_4883_20260901-21h.py) |
