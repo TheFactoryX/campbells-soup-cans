@@ -4976,3 +4976,4 @@ If you need permission, you're thinking too much.
 | 4886 | 2026-09-02 09:38:11 | NVIDIA: Nemotron 3.5 Lightning (free) | ❌ (missing print) | [warehouse/can_4886_20260902-09h.py](warehouse/can_4886_20260902-09h.py) |
 | 4887 | 2026-09-02 14:29:57 | Ling 3.0 Flash Fin (free) | ✅ | [warehouse/can_4887_20260902-14h.py](warehouse/can_4887_20260902-14h.py) |
 | 4888 | 2026-09-02 18:43:26 | NVIDIA: Nemotron 3.5 Lightning | ✅ | [warehouse/can_4888_20260902-18h.py](warehouse/can_4888_20260902-18h.py) |
+| 4889 | 2026-09-02 21:50:00 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4889_20260902-21h.py](warehouse/can_4889_20260902-21h.py) |
