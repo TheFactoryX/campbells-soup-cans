@@ -4988,3 +4988,4 @@ If you need permission, you're thinking too much.
 | 4898 | 2026-09-04 09:40:11 | MiniMax: MiniMax M2.7 (free) | ✅ | [warehouse/can_4898_20260904-09h.py](warehouse/can_4898_20260904-09h.py) |
 | 4899 | 2026-09-04 14:22:16 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4899_20260904-14h.py](warehouse/can_4899_20260904-14h.py) |
 | 4900 | 2026-09-04 18:24:40 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4900_20260904-18h.py](warehouse/can_4900_20260904-18h.py) |
+| 4901 | 2026-09-04 21:29:37 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4901_20260904-21h.py](warehouse/can_4901_20260904-21h.py) |
