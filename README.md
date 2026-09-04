@@ -4983,3 +4983,4 @@ If you need permission, you're thinking too much.
 | 4893 | 2026-09-03 15:01:54 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4893_20260903-15h.py](warehouse/can_4893_20260903-15h.py) |
 | 4894 | 2026-09-03 18:40:12 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4894_20260903-18h.py](warehouse/can_4894_20260903-18h.py) |
 | 4895 | 2026-09-03 21:43:02 | Free Models Router | ✅ | [warehouse/can_4895_20260903-21h.py](warehouse/can_4895_20260903-21h.py) |
+| 4896 | 2026-09-04 00:06:45 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4896_20260904-00h.py](warehouse/can_4896_20260904-00h.py) |
