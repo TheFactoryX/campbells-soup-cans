@@ -4994,3 +4994,4 @@ If you need permission, you're thinking too much.
 | 4904 | 2026-09-05 09:05:44 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4904_20260905-09h.py](warehouse/can_4904_20260905-09h.py) |
 | 4905 | 2026-09-05 12:43:35 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4905_20260905-12h.py](warehouse/can_4905_20260905-12h.py) |
 | 4906 | 2026-09-05 16:05:01 | MiniMax: MiniMax M3 (free) | ✅ | [warehouse/can_4906_20260905-16h.py](warehouse/can_4906_20260905-16h.py) |
+| 4907 | 2026-09-05 18:18:51 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4907_20260905-18h.py](warehouse/can_4907_20260905-18h.py) |
