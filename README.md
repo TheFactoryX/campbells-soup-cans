@@ -4989,3 +4989,4 @@ If you need permission, you're thinking too much.
 | 4899 | 2026-09-04 14:22:16 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4899_20260904-14h.py](warehouse/can_4899_20260904-14h.py) |
 | 4900 | 2026-09-04 18:24:40 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4900_20260904-18h.py](warehouse/can_4900_20260904-18h.py) |
 | 4901 | 2026-09-04 21:29:37 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4901_20260904-21h.py](warehouse/can_4901_20260904-21h.py) |
+| 4902 | 2026-09-05 00:06:57 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4902_20260905-00h.py](warehouse/can_4902_20260905-00h.py) |
