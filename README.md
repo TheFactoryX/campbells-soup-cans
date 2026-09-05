@@ -4991,3 +4991,4 @@ If you need permission, you're thinking too much.
 | 4901 | 2026-09-04 21:29:37 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4901_20260904-21h.py](warehouse/can_4901_20260904-21h.py) |
 | 4902 | 2026-09-05 00:06:57 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4902_20260905-00h.py](warehouse/can_4902_20260905-00h.py) |
 | 4903 | 2026-09-05 04:30:38 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4903_20260905-04h.py](warehouse/can_4903_20260905-04h.py) |
+| 4904 | 2026-09-05 09:05:44 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4904_20260905-09h.py](warehouse/can_4904_20260905-09h.py) |
