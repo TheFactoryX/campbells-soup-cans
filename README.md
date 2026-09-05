@@ -4996,3 +4996,4 @@ If you need permission, you're thinking too much.
 | 4906 | 2026-09-05 16:05:01 | MiniMax: MiniMax M3 (free) | ✅ | [warehouse/can_4906_20260905-16h.py](warehouse/can_4906_20260905-16h.py) |
 | 4907 | 2026-09-05 18:18:51 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4907_20260905-18h.py](warehouse/can_4907_20260905-18h.py) |
 | 4908 | 2026-09-05 21:15:15 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4908_20260905-21h.py](warehouse/can_4908_20260905-21h.py) |
+| 4909 | 2026-09-05 22:57:57 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4909_20260905-22h.py](warehouse/can_4909_20260905-22h.py) |
