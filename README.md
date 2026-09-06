@@ -4999,3 +4999,4 @@ If you need permission, you're thinking too much.
 | 4909 | 2026-09-05 22:57:57 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4909_20260905-22h.py](warehouse/can_4909_20260905-22h.py) |
 | 4910 | 2026-09-06 00:58:41 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4910_20260906-00h.py](warehouse/can_4910_20260906-00h.py) |
 | 4911 | 2026-09-06 05:58:09 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4911_20260906-05h.py](warehouse/can_4911_20260906-05h.py) |
+| 4912 | 2026-09-06 10:57:57 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4912_20260906-10h.py](warehouse/can_4912_20260906-10h.py) |
