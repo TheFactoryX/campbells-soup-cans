@@ -5003,3 +5003,4 @@ If you need permission, you're thinking too much.
 | 4913 | 2026-09-06 14:11:10 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4913_20260906-14h.py](warehouse/can_4913_20260906-14h.py) |
 | 4914 | 2026-09-06 17:03:36 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (empty, missing print) | [warehouse/can_4914_20260906-17h.py](warehouse/can_4914_20260906-17h.py) |
 | 4915 | 2026-09-06 19:11:44 | NVIDIA: Nemotron 3.5 Lightning (free) | ❌ (broken) | [warehouse/can_4915_20260906-19h.py](warehouse/can_4915_20260906-19h.py) |
+| 4916 | 2026-09-06 21:22:12 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (broken) | [warehouse/can_4916_20260906-21h.py](warehouse/can_4916_20260906-21h.py) |
