@@ -5002,3 +5002,4 @@ If you need permission, you're thinking too much.
 | 4912 | 2026-09-06 10:57:57 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4912_20260906-10h.py](warehouse/can_4912_20260906-10h.py) |
 | 4913 | 2026-09-06 14:11:10 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4913_20260906-14h.py](warehouse/can_4913_20260906-14h.py) |
 | 4914 | 2026-09-06 17:03:36 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (empty, missing print) | [warehouse/can_4914_20260906-17h.py](warehouse/can_4914_20260906-17h.py) |
+| 4915 | 2026-09-06 19:11:44 | NVIDIA: Nemotron 3.5 Lightning (free) | ❌ (broken) | [warehouse/can_4915_20260906-19h.py](warehouse/can_4915_20260906-19h.py) |
