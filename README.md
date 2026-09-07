@@ -5009,3 +5009,4 @@ If you need permission, you're thinking too much.
 | 4919 | 2026-09-07 10:19:43 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4919_20260907-10h.py](warehouse/can_4919_20260907-10h.py) |
 | 4920 | 2026-09-07 16:27:54 | inclusionAI: Ling 3.0 Flash Fin (free) | ✅ | [warehouse/can_4920_20260907-16h.py](warehouse/can_4920_20260907-16h.py) |
 | 4921 | 2026-09-07 20:34:27 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4921_20260907-20h.py](warehouse/can_4921_20260907-20h.py) |
+| 4922 | 2026-09-07 23:30:21 | Free Models Router | ✅ | [warehouse/can_4922_20260907-23h.py](warehouse/can_4922_20260907-23h.py) |
