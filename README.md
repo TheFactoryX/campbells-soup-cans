@@ -5007,3 +5007,4 @@ If you need permission, you're thinking too much.
 | 4917 | 2026-09-06 23:54:55 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4917_20260906-23h.py](warehouse/can_4917_20260906-23h.py) |
 | 4918 | 2026-09-07 04:42:51 | MiniMax: MiniMax M3 (free) | ✅ | [warehouse/can_4918_20260907-04h.py](warehouse/can_4918_20260907-04h.py) |
 | 4919 | 2026-09-07 10:19:43 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4919_20260907-10h.py](warehouse/can_4919_20260907-10h.py) |
+| 4920 | 2026-09-07 16:27:54 | inclusionAI: Ling 3.0 Flash Fin (free) | ✅ | [warehouse/can_4920_20260907-16h.py](warehouse/can_4920_20260907-16h.py) |
