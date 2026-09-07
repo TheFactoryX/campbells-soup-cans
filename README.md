@@ -5005,3 +5005,4 @@ If you need permission, you're thinking too much.
 | 4915 | 2026-09-06 19:11:44 | NVIDIA: Nemotron 3.5 Lightning (free) | ❌ (broken) | [warehouse/can_4915_20260906-19h.py](warehouse/can_4915_20260906-19h.py) |
 | 4916 | 2026-09-06 21:22:12 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (broken) | [warehouse/can_4916_20260906-21h.py](warehouse/can_4916_20260906-21h.py) |
 | 4917 | 2026-09-06 23:54:55 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4917_20260906-23h.py](warehouse/can_4917_20260906-23h.py) |
+| 4918 | 2026-09-07 04:42:51 | MiniMax: MiniMax M3 (free) | ✅ | [warehouse/can_4918_20260907-04h.py](warehouse/can_4918_20260907-04h.py) |
