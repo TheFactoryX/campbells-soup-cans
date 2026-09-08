@@ -5013,3 +5013,4 @@ If you need permission, you're thinking too much.
 | 4923 | 2026-09-08 04:37:38 | inclusionAI: Ling 3.0 Flash Sante (free) | ✅ | [warehouse/can_4923_20260908-04h.py](warehouse/can_4923_20260908-04h.py) |
 | 4924 | 2026-09-08 09:42:04 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4924_20260908-09h.py](warehouse/can_4924_20260908-09h.py) |
 | 4925 | 2026-09-08 14:32:44 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4925_20260908-14h.py](warehouse/can_4925_20260908-14h.py) |
+| 4926 | 2026-09-08 18:41:12 | Nex AGI: Nex-N2.5-Pro (free) | ❌ (missing print) | [warehouse/can_4926_20260908-18h.py](warehouse/can_4926_20260908-18h.py) |
