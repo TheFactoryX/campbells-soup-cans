@@ -5017,3 +5017,4 @@ If you need permission, you're thinking too much.
 | 4927 | 2026-09-08 21:51:42 | inclusionAI: Ling 3.0 Flash Sante (free) | ✅ | [warehouse/can_4927_20260908-21h.py](warehouse/can_4927_20260908-21h.py) |
 | 4928 | 2026-09-09 00:15:40 | Nex AGI: Nex-N2.5-Mini (free) | ❌ (missing print) | [warehouse/can_4928_20260909-00h.py](warehouse/can_4928_20260909-00h.py) |
 | 4929 | 2026-09-09 04:50:50 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4929_20260909-04h.py](warehouse/can_4929_20260909-04h.py) |
+| 4930 | 2026-09-09 09:47:07 | Nex AGI: Nex-N2.5-Pro (free) | ✅ | [warehouse/can_4930_20260909-09h.py](warehouse/can_4930_20260909-09h.py) |
