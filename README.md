@@ -5023,3 +5023,4 @@ If you need permission, you're thinking too much.
 | 4933 | 2026-09-09 21:42:25 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_4933_20260909-21h.py](warehouse/can_4933_20260909-21h.py) |
 | 4934 | 2026-09-10 00:15:26 | inclusionAI: Ling 3.0 Flash Fin (free) | ❌ (broken) | [warehouse/can_4934_20260910-00h.py](warehouse/can_4934_20260910-00h.py) |
 | 4935 | 2026-09-10 04:52:16 | Poolside: Laguna XS 2.1 (free) | ❌ (broken) | [warehouse/can_4935_20260910-04h.py](warehouse/can_4935_20260910-04h.py) |
+| 4936 | 2026-09-10 09:45:19 | Free Models Router | ❌ (empty, broken, missing print) | [warehouse/can_4936_20260910-09h.py](warehouse/can_4936_20260910-09h.py) |
