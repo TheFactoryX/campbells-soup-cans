@@ -5021,3 +5021,4 @@ If you need permission, you're thinking too much.
 | 4931 | 2026-09-09 14:36:39 | NVIDIA: Nemotron 3.5 Lightning (free) | ❌ (empty, missing print) | [warehouse/can_4931_20260909-14h.py](warehouse/can_4931_20260909-14h.py) |
 | 4932 | 2026-09-09 18:37:13 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4932_20260909-18h.py](warehouse/can_4932_20260909-18h.py) |
 | 4933 | 2026-09-09 21:42:25 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_4933_20260909-21h.py](warehouse/can_4933_20260909-21h.py) |
+| 4934 | 2026-09-10 00:15:26 | inclusionAI: Ling 3.0 Flash Fin (free) | ❌ (broken) | [warehouse/can_4934_20260910-00h.py](warehouse/can_4934_20260910-00h.py) |
