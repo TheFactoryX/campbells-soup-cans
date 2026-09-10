@@ -5025,3 +5025,4 @@ If you need permission, you're thinking too much.
 | 4935 | 2026-09-10 04:52:16 | Poolside: Laguna XS 2.1 (free) | ❌ (broken) | [warehouse/can_4935_20260910-04h.py](warehouse/can_4935_20260910-04h.py) |
 | 4936 | 2026-09-10 09:45:19 | Free Models Router | ❌ (empty, broken, missing print) | [warehouse/can_4936_20260910-09h.py](warehouse/can_4936_20260910-09h.py) |
 | 4937 | 2026-09-10 14:26:51 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4937_20260910-14h.py](warehouse/can_4937_20260910-14h.py) |
+| 4938 | 2026-09-10 18:29:19 | inclusionAI: Ling 3.0 Flash VL (free) | ✅ | [warehouse/can_4938_20260910-18h.py](warehouse/can_4938_20260910-18h.py) |
