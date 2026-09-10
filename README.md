@@ -5026,3 +5026,4 @@ If you need permission, you're thinking too much.
 | 4936 | 2026-09-10 09:45:19 | Free Models Router | ❌ (empty, broken, missing print) | [warehouse/can_4936_20260910-09h.py](warehouse/can_4936_20260910-09h.py) |
 | 4937 | 2026-09-10 14:26:51 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4937_20260910-14h.py](warehouse/can_4937_20260910-14h.py) |
 | 4938 | 2026-09-10 18:29:19 | inclusionAI: Ling 3.0 Flash VL (free) | ✅ | [warehouse/can_4938_20260910-18h.py](warehouse/can_4938_20260910-18h.py) |
+| 4939 | 2026-09-10 21:38:21 | Nex AGI: Nex-N2.5-Mini (free) | ✅ | [warehouse/can_4939_20260910-21h.py](warehouse/can_4939_20260910-21h.py) |
