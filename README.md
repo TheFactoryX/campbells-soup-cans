@@ -5032,3 +5032,4 @@ If you need permission, you're thinking too much.
 | 4942 | 2026-09-11 09:42:13 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4942_20260911-09h.py](warehouse/can_4942_20260911-09h.py) |
 | 4943 | 2026-09-11 14:26:20 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4943_20260911-14h.py](warehouse/can_4943_20260911-14h.py) |
 | 4944 | 2026-09-11 18:33:58 | inclusionAI: Ling 3.0 Flash Sante (free) | ✅ | [warehouse/can_4944_20260911-18h.py](warehouse/can_4944_20260911-18h.py) |
+| 4945 | 2026-09-11 21:43:26 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4945_20260911-21h.py](warehouse/can_4945_20260911-21h.py) |
