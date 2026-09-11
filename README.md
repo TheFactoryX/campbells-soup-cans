@@ -5030,3 +5030,4 @@ If you need permission, you're thinking too much.
 | 4940 | 2026-09-11 00:11:06 | Google: Lyria 3 Pro Preview | ❌ (broken, missing print) | [warehouse/can_4940_20260911-00h.py](warehouse/can_4940_20260911-00h.py) |
 | 4941 | 2026-09-11 04:41:46 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4941_20260911-04h.py](warehouse/can_4941_20260911-04h.py) |
 | 4942 | 2026-09-11 09:42:13 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4942_20260911-09h.py](warehouse/can_4942_20260911-09h.py) |
+| 4943 | 2026-09-11 14:26:20 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4943_20260911-14h.py](warehouse/can_4943_20260911-14h.py) |
