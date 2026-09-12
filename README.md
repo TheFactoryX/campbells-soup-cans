@@ -5035,3 +5035,4 @@ If you need permission, you're thinking too much.
 | 4945 | 2026-09-11 21:43:26 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4945_20260911-21h.py](warehouse/can_4945_20260911-21h.py) |
 | 4946 | 2026-09-12 00:18:44 | Google: Lyria 3 Pro Preview | ❌ (missing print) | [warehouse/can_4946_20260912-00h.py](warehouse/can_4946_20260912-00h.py) |
 | 4947 | 2026-09-12 05:47:59 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4947_20260912-05h.py](warehouse/can_4947_20260912-05h.py) |
+| 4948 | 2026-09-12 10:48:01 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4948_20260912-10h.py](warehouse/can_4948_20260912-10h.py) |
