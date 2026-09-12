@@ -5038,3 +5038,4 @@ If you need permission, you're thinking too much.
 | 4948 | 2026-09-12 10:48:01 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4948_20260912-10h.py](warehouse/can_4948_20260912-10h.py) |
 | 4949 | 2026-09-12 14:08:28 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4949_20260912-14h.py](warehouse/can_4949_20260912-14h.py) |
 | 4950 | 2026-09-12 17:10:59 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4950_20260912-17h.py](warehouse/can_4950_20260912-17h.py) |
+| 4951 | 2026-09-12 19:22:22 | Nex AGI: Nex-N2.5-Mini (free) | ✅ | [warehouse/can_4951_20260912-19h.py](warehouse/can_4951_20260912-19h.py) |
