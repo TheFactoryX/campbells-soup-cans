@@ -5034,3 +5034,4 @@ If you need permission, you're thinking too much.
 | 4944 | 2026-09-11 18:33:58 | inclusionAI: Ling 3.0 Flash Sante (free) | ✅ | [warehouse/can_4944_20260911-18h.py](warehouse/can_4944_20260911-18h.py) |
 | 4945 | 2026-09-11 21:43:26 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_4945_20260911-21h.py](warehouse/can_4945_20260911-21h.py) |
 | 4946 | 2026-09-12 00:18:44 | Google: Lyria 3 Pro Preview | ❌ (missing print) | [warehouse/can_4946_20260912-00h.py](warehouse/can_4946_20260912-00h.py) |
+| 4947 | 2026-09-12 05:47:59 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4947_20260912-05h.py](warehouse/can_4947_20260912-05h.py) |
