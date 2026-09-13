@@ -5043,3 +5043,4 @@ If you need permission, you're thinking too much.
 | 4953 | 2026-09-13 01:01:13 | inclusionAI: Ling 3.0 Flash Sante (free) | ❌ (broken) | [warehouse/can_4953_20260913-01h.py](warehouse/can_4953_20260913-01h.py) |
 | 4954 | 2026-09-13 06:11:06 | inclusionAI: Ling 3.0 Flash Sante (free) | ❌ (broken) | [warehouse/can_4954_20260913-06h.py](warehouse/can_4954_20260913-06h.py) |
 | 4955 | 2026-09-13 11:53:58 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4955_20260913-11h.py](warehouse/can_4955_20260913-11h.py) |
+| 4956 | 2026-09-13 16:18:05 | Nex AGI: Nex-N2.5-Mini (free) | ✅ | [warehouse/can_4956_20260913-16h.py](warehouse/can_4956_20260913-16h.py) |
