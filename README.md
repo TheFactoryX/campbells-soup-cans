@@ -5040,3 +5040,4 @@ If you need permission, you're thinking too much.
 | 4950 | 2026-09-12 17:10:59 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4950_20260912-17h.py](warehouse/can_4950_20260912-17h.py) |
 | 4951 | 2026-09-12 19:22:22 | Nex AGI: Nex-N2.5-Mini (free) | ✅ | [warehouse/can_4951_20260912-19h.py](warehouse/can_4951_20260912-19h.py) |
 | 4952 | 2026-09-12 22:18:40 | inclusionAI: Ling 3.0 Flash Fin (free) | ✅ | [warehouse/can_4952_20260912-22h.py](warehouse/can_4952_20260912-22h.py) |
+| 4953 | 2026-09-13 01:01:13 | inclusionAI: Ling 3.0 Flash Sante (free) | ❌ (broken) | [warehouse/can_4953_20260913-01h.py](warehouse/can_4953_20260913-01h.py) |
