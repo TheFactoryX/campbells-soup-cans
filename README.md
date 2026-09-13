@@ -5041,3 +5041,4 @@ If you need permission, you're thinking too much.
 | 4951 | 2026-09-12 19:22:22 | Nex AGI: Nex-N2.5-Mini (free) | ✅ | [warehouse/can_4951_20260912-19h.py](warehouse/can_4951_20260912-19h.py) |
 | 4952 | 2026-09-12 22:18:40 | inclusionAI: Ling 3.0 Flash Fin (free) | ✅ | [warehouse/can_4952_20260912-22h.py](warehouse/can_4952_20260912-22h.py) |
 | 4953 | 2026-09-13 01:01:13 | inclusionAI: Ling 3.0 Flash Sante (free) | ❌ (broken) | [warehouse/can_4953_20260913-01h.py](warehouse/can_4953_20260913-01h.py) |
+| 4954 | 2026-09-13 06:11:06 | inclusionAI: Ling 3.0 Flash Sante (free) | ❌ (broken) | [warehouse/can_4954_20260913-06h.py](warehouse/can_4954_20260913-06h.py) |
