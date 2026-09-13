@@ -5045,3 +5045,4 @@ If you need permission, you're thinking too much.
 | 4955 | 2026-09-13 11:53:58 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4955_20260913-11h.py](warehouse/can_4955_20260913-11h.py) |
 | 4956 | 2026-09-13 16:18:05 | Nex AGI: Nex-N2.5-Mini (free) | ✅ | [warehouse/can_4956_20260913-16h.py](warehouse/can_4956_20260913-16h.py) |
 | 4957 | 2026-09-13 19:27:33 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4957_20260913-19h.py](warehouse/can_4957_20260913-19h.py) |
+| 4958 | 2026-09-13 22:24:40 | Nex AGI: Nex-N2.5-Pro (free) | ✅ | [warehouse/can_4958_20260913-22h.py](warehouse/can_4958_20260913-22h.py) |
