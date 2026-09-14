@@ -5047,3 +5047,4 @@ If you need permission, you're thinking too much.
 | 4957 | 2026-09-13 19:27:33 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4957_20260913-19h.py](warehouse/can_4957_20260913-19h.py) |
 | 4958 | 2026-09-13 22:24:40 | Nex AGI: Nex-N2.5-Pro (free) | ✅ | [warehouse/can_4958_20260913-22h.py](warehouse/can_4958_20260913-22h.py) |
 | 4959 | 2026-09-14 01:05:48 | Nex AGI: Nex-N2.5-Pro (free) | ✅ | [warehouse/can_4959_20260914-01h.py](warehouse/can_4959_20260914-01h.py) |
+| 4960 | 2026-09-14 06:18:02 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4960_20260914-06h.py](warehouse/can_4960_20260914-06h.py) |
