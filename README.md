@@ -5050,3 +5050,4 @@ If you need permission, you're thinking too much.
 | 4960 | 2026-09-14 06:18:02 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4960_20260914-06h.py](warehouse/can_4960_20260914-06h.py) |
 | 4961 | 2026-09-14 14:03:59 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4961_20260914-14h.py](warehouse/can_4961_20260914-14h.py) |
 | 4962 | 2026-09-14 19:22:22 | Free Models Router | ✅ | [warehouse/can_4962_20260914-19h.py](warehouse/can_4962_20260914-19h.py) |
+| 4963 | 2026-09-14 23:07:59 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_4963_20260914-23h.py](warehouse/can_4963_20260914-23h.py) |
