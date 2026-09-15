@@ -5055,3 +5055,4 @@ If you need permission, you're thinking too much.
 | 4965 | 2026-09-15 07:45:24 | Free Models Router | ✅ | [warehouse/can_4965_20260915-07h.py](warehouse/can_4965_20260915-07h.py) |
 | 4966 | 2026-09-15 13:33:49 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4966_20260915-13h.py](warehouse/can_4966_20260915-13h.py) |
 | 4967 | 2026-09-15 18:12:33 | MoonshotAI: Kimi K2.7 Code | ✅ | [warehouse/can_4967_20260915-18h.py](warehouse/can_4967_20260915-18h.py) |
+| 4968 | 2026-09-15 21:23:13 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4968_20260915-21h.py](warehouse/can_4968_20260915-21h.py) |
