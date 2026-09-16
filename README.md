@@ -5059,3 +5059,4 @@ If you need permission, you're thinking too much.
 | 4969 | 2026-09-16 00:21:33 | Meta: Llama 4 Scout | ✅ | [warehouse/can_4969_20260916-00h.py](warehouse/can_4969_20260916-00h.py) |
 | 4970 | 2026-09-16 06:02:31 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4970_20260916-06h.py](warehouse/can_4970_20260916-06h.py) |
 | 4971 | 2026-09-16 11:35:31 | inclusionAI: Ling 3.0 Flash Sante (free) | ❌ (empty, missing print) | [warehouse/can_4971_20260916-11h.py](warehouse/can_4971_20260916-11h.py) |
+| 4972 | 2026-09-16 16:56:47 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4972_20260916-16h.py](warehouse/can_4972_20260916-16h.py) |
