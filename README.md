@@ -5060,3 +5060,4 @@ If you need permission, you're thinking too much.
 | 4970 | 2026-09-16 06:02:31 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4970_20260916-06h.py](warehouse/can_4970_20260916-06h.py) |
 | 4971 | 2026-09-16 11:35:31 | inclusionAI: Ling 3.0 Flash Sante (free) | ❌ (empty, missing print) | [warehouse/can_4971_20260916-11h.py](warehouse/can_4971_20260916-11h.py) |
 | 4972 | 2026-09-16 16:56:47 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4972_20260916-16h.py](warehouse/can_4972_20260916-16h.py) |
+| 4973 | 2026-09-16 20:08:17 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4973_20260916-20h.py](warehouse/can_4973_20260916-20h.py) |
