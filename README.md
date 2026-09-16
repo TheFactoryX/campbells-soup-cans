@@ -5057,3 +5057,4 @@ If you need permission, you're thinking too much.
 | 4967 | 2026-09-15 18:12:33 | MoonshotAI: Kimi K2.7 Code | ✅ | [warehouse/can_4967_20260915-18h.py](warehouse/can_4967_20260915-18h.py) |
 | 4968 | 2026-09-15 21:23:13 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4968_20260915-21h.py](warehouse/can_4968_20260915-21h.py) |
 | 4969 | 2026-09-16 00:21:33 | Meta: Llama 4 Scout | ✅ | [warehouse/can_4969_20260916-00h.py](warehouse/can_4969_20260916-00h.py) |
+| 4970 | 2026-09-16 06:02:31 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4970_20260916-06h.py](warehouse/can_4970_20260916-06h.py) |
