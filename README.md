@@ -5066,3 +5066,4 @@ If you need permission, you're thinking too much.
 | 4976 | 2026-09-17 07:40:37 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_4976_20260917-07h.py](warehouse/can_4976_20260917-07h.py) |
 | 4977 | 2026-09-17 13:28:16 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4977_20260917-13h.py](warehouse/can_4977_20260917-13h.py) |
 | 4978 | 2026-09-17 18:14:53 | inclusionAI: Ling 3.0 Flash Fin (free) | ✅ | [warehouse/can_4978_20260917-18h.py](warehouse/can_4978_20260917-18h.py) |
+| 4979 | 2026-09-17 21:27:37 | inclusionAI: Ling 3.0 Flash Sante (free) | ✅ | [warehouse/can_4979_20260917-21h.py](warehouse/can_4979_20260917-21h.py) |
