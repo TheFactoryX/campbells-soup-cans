@@ -5065,3 +5065,4 @@ If you need permission, you're thinking too much.
 | 4975 | 2026-09-17 01:26:05 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4975_20260917-01h.py](warehouse/can_4975_20260917-01h.py) |
 | 4976 | 2026-09-17 07:40:37 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_4976_20260917-07h.py](warehouse/can_4976_20260917-07h.py) |
 | 4977 | 2026-09-17 13:28:16 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4977_20260917-13h.py](warehouse/can_4977_20260917-13h.py) |
+| 4978 | 2026-09-17 18:14:53 | inclusionAI: Ling 3.0 Flash Fin (free) | ✅ | [warehouse/can_4978_20260917-18h.py](warehouse/can_4978_20260917-18h.py) |
