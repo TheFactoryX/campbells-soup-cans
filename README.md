@@ -5062,3 +5062,4 @@ If you need permission, you're thinking too much.
 | 4972 | 2026-09-16 16:56:47 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_4972_20260916-16h.py](warehouse/can_4972_20260916-16h.py) |
 | 4973 | 2026-09-16 20:08:17 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4973_20260916-20h.py](warehouse/can_4973_20260916-20h.py) |
 | 4974 | 2026-09-16 22:56:59 | Free Models Router | ❌ (empty, missing print) | [warehouse/can_4974_20260916-22h.py](warehouse/can_4974_20260916-22h.py) |
+| 4975 | 2026-09-17 01:26:05 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_4975_20260917-01h.py](warehouse/can_4975_20260917-01h.py) |
