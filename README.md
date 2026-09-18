@@ -5072,3 +5072,4 @@ If you need permission, you're thinking too much.
 | 4982 | 2026-09-18 11:16:10 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4982_20260918-11h.py](warehouse/can_4982_20260918-11h.py) |
 | 4983 | 2026-09-18 16:24:36 | Qwen: Qwen3 Coder Flash | ✅ | [warehouse/can_4983_20260918-16h.py](warehouse/can_4983_20260918-16h.py) |
 | 4984 | 2026-09-18 19:37:05 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4984_20260918-19h.py](warehouse/can_4984_20260918-19h.py) |
+| 4985 | 2026-09-18 22:34:39 | inclusionAI: Ling 3.0 Flash Sante (free) | ✅ | [warehouse/can_4985_20260918-22h.py](warehouse/can_4985_20260918-22h.py) |
