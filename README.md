@@ -5078,3 +5078,4 @@ If you need permission, you're thinking too much.
 | 4988 | 2026-09-19 11:00:10 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4988_20260919-11h.py](warehouse/can_4988_20260919-11h.py) |
 | 4989 | 2026-09-19 14:25:58 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4989_20260919-14h.py](warehouse/can_4989_20260919-14h.py) |
 | 4990 | 2026-09-19 18:01:44 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4990_20260919-18h.py](warehouse/can_4990_20260919-18h.py) |
+| 4991 | 2026-09-19 20:43:33 | inclusionAI: Ling 3.0 Flash VL (free) | ✅ | [warehouse/can_4991_20260919-20h.py](warehouse/can_4991_20260919-20h.py) |
