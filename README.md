@@ -5073,3 +5073,4 @@ If you need permission, you're thinking too much.
 | 4983 | 2026-09-18 16:24:36 | Qwen: Qwen3 Coder Flash | ✅ | [warehouse/can_4983_20260918-16h.py](warehouse/can_4983_20260918-16h.py) |
 | 4984 | 2026-09-18 19:37:05 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_4984_20260918-19h.py](warehouse/can_4984_20260918-19h.py) |
 | 4985 | 2026-09-18 22:34:39 | inclusionAI: Ling 3.0 Flash Sante (free) | ✅ | [warehouse/can_4985_20260918-22h.py](warehouse/can_4985_20260918-22h.py) |
+| 4986 | 2026-09-19 01:10:32 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4986_20260919-01h.py](warehouse/can_4986_20260919-01h.py) |
