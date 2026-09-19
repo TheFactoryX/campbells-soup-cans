@@ -5076,3 +5076,4 @@ If you need permission, you're thinking too much.
 | 4986 | 2026-09-19 01:10:32 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_4986_20260919-01h.py](warehouse/can_4986_20260919-01h.py) |
 | 4987 | 2026-09-19 05:53:44 | DeepSeek: DeepSeek V4 Flash 0731 (free) | ✅ | [warehouse/can_4987_20260919-05h.py](warehouse/can_4987_20260919-05h.py) |
 | 4988 | 2026-09-19 11:00:10 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4988_20260919-11h.py](warehouse/can_4988_20260919-11h.py) |
+| 4989 | 2026-09-19 14:25:58 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4989_20260919-14h.py](warehouse/can_4989_20260919-14h.py) |
