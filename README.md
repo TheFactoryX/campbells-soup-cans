@@ -5077,3 +5077,4 @@ If you need permission, you're thinking too much.
 | 4987 | 2026-09-19 05:53:44 | DeepSeek: DeepSeek V4 Flash 0731 (free) | ✅ | [warehouse/can_4987_20260919-05h.py](warehouse/can_4987_20260919-05h.py) |
 | 4988 | 2026-09-19 11:00:10 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4988_20260919-11h.py](warehouse/can_4988_20260919-11h.py) |
 | 4989 | 2026-09-19 14:25:58 | Google: Lyria 3 Clip Preview | ❌ (broken, missing print) | [warehouse/can_4989_20260919-14h.py](warehouse/can_4989_20260919-14h.py) |
+| 4990 | 2026-09-19 18:01:44 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_4990_20260919-18h.py](warehouse/can_4990_20260919-18h.py) |
