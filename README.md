@@ -5081,3 +5081,4 @@ If you need permission, you're thinking too much.
 | 4991 | 2026-09-19 20:43:33 | inclusionAI: Ling 3.0 Flash VL (free) | ✅ | [warehouse/can_4991_20260919-20h.py](warehouse/can_4991_20260919-20h.py) |
 | 4992 | 2026-09-19 23:06:45 | inclusionAI: Ling 3.0 Flash Sante (free) | ✅ | [warehouse/can_4992_20260919-23h.py](warehouse/can_4992_20260919-23h.py) |
 | 4993 | 2026-09-20 01:10:23 | inclusionAI: Ling 3.0 Flash VL (free) | ✅ | [warehouse/can_4993_20260920-01h.py](warehouse/can_4993_20260920-01h.py) |
+| 4994 | 2026-09-20 06:17:51 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4994_20260920-06h.py](warehouse/can_4994_20260920-06h.py) |
