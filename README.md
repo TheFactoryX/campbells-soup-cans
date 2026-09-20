@@ -5085,3 +5085,4 @@ If you need permission, you're thinking too much.
 | 4995 | 2026-09-20 12:23:44 | Nex AGI: Nex-N2.5-Mini (free) | ✅ | [warehouse/can_4995_20260920-12h.py](warehouse/can_4995_20260920-12h.py) |
 | 4996 | 2026-09-20 16:47:59 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4996_20260920-16h.py](warehouse/can_4996_20260920-16h.py) |
 | 4997 | 2026-09-20 19:27:09 | Free Models Router | ✅ | [warehouse/can_4997_20260920-19h.py](warehouse/can_4997_20260920-19h.py) |
+| 4998 | 2026-09-20 22:26:48 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4998_20260920-22h.py](warehouse/can_4998_20260920-22h.py) |
