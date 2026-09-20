@@ -5083,3 +5083,4 @@ If you need permission, you're thinking too much.
 | 4993 | 2026-09-20 01:10:23 | inclusionAI: Ling 3.0 Flash VL (free) | ✅ | [warehouse/can_4993_20260920-01h.py](warehouse/can_4993_20260920-01h.py) |
 | 4994 | 2026-09-20 06:17:51 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_4994_20260920-06h.py](warehouse/can_4994_20260920-06h.py) |
 | 4995 | 2026-09-20 12:23:44 | Nex AGI: Nex-N2.5-Mini (free) | ✅ | [warehouse/can_4995_20260920-12h.py](warehouse/can_4995_20260920-12h.py) |
+| 4996 | 2026-09-20 16:47:59 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4996_20260920-16h.py](warehouse/can_4996_20260920-16h.py) |
