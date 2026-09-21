@@ -5088,3 +5088,4 @@ If you need permission, you're thinking too much.
 | 4998 | 2026-09-20 22:26:48 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4998_20260920-22h.py](warehouse/can_4998_20260920-22h.py) |
 | 4999 | 2026-09-21 01:06:38 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_4999_20260921-01h.py](warehouse/can_4999_20260921-01h.py) |
 | 5000 | 2026-09-21 06:21:59 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_5000_20260921-06h.py](warehouse/can_5000_20260921-06h.py) |
+| 5001 | 2026-09-21 14:09:43 | Free Models Router | ✅ | [warehouse/can_5001_20260921-14h.py](warehouse/can_5001_20260921-14h.py) |
