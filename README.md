@@ -5095,3 +5095,4 @@ If you need permission, you're thinking too much.
 | 5005 | 2026-09-22 09:58:20 | Free Models Router | ✅ | [warehouse/can_5005_20260922-09h.py](warehouse/can_5005_20260922-09h.py) |
 | 5006 | 2026-09-22 14:56:31 | Free Models Router | ✅ | [warehouse/can_5006_20260922-14h.py](warehouse/can_5006_20260922-14h.py) |
 | 5007 | 2026-09-22 18:55:07 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5007_20260922-18h.py](warehouse/can_5007_20260922-18h.py) |
+| 5008 | 2026-09-22 22:09:32 | Free Models Router | ✅ | [warehouse/can_5008_20260922-22h.py](warehouse/can_5008_20260922-22h.py) |
