@@ -5091,3 +5091,4 @@ If you need permission, you're thinking too much.
 | 5001 | 2026-09-21 14:09:43 | Free Models Router | ✅ | [warehouse/can_5001_20260921-14h.py](warehouse/can_5001_20260921-14h.py) |
 | 5002 | 2026-09-21 19:28:09 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_5002_20260921-19h.py](warehouse/can_5002_20260921-19h.py) |
 | 5003 | 2026-09-21 23:17:35 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_5003_20260921-23h.py](warehouse/can_5003_20260921-23h.py) |
+| 5004 | 2026-09-22 04:57:37 | Nex AGI: Nex-N2.5-Pro (free) | ✅ | [warehouse/can_5004_20260922-04h.py](warehouse/can_5004_20260922-04h.py) |
