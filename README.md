@@ -5093,3 +5093,4 @@ If you need permission, you're thinking too much.
 | 5003 | 2026-09-21 23:17:35 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_5003_20260921-23h.py](warehouse/can_5003_20260921-23h.py) |
 | 5004 | 2026-09-22 04:57:37 | Nex AGI: Nex-N2.5-Pro (free) | ✅ | [warehouse/can_5004_20260922-04h.py](warehouse/can_5004_20260922-04h.py) |
 | 5005 | 2026-09-22 09:58:20 | Free Models Router | ✅ | [warehouse/can_5005_20260922-09h.py](warehouse/can_5005_20260922-09h.py) |
+| 5006 | 2026-09-22 14:56:31 | Free Models Router | ✅ | [warehouse/can_5006_20260922-14h.py](warehouse/can_5006_20260922-14h.py) |
