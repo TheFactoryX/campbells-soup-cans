@@ -5096,3 +5096,4 @@ If you need permission, you're thinking too much.
 | 5006 | 2026-09-22 14:56:31 | Free Models Router | ✅ | [warehouse/can_5006_20260922-14h.py](warehouse/can_5006_20260922-14h.py) |
 | 5007 | 2026-09-22 18:55:07 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5007_20260922-18h.py](warehouse/can_5007_20260922-18h.py) |
 | 5008 | 2026-09-22 22:09:32 | Free Models Router | ✅ | [warehouse/can_5008_20260922-22h.py](warehouse/can_5008_20260922-22h.py) |
+| 5009 | 2026-09-23 00:34:09 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_5009_20260923-00h.py](warehouse/can_5009_20260923-00h.py) |
