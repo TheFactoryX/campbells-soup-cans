@@ -5098,3 +5098,4 @@ If you need permission, you're thinking too much.
 | 5008 | 2026-09-22 22:09:32 | Free Models Router | ✅ | [warehouse/can_5008_20260922-22h.py](warehouse/can_5008_20260922-22h.py) |
 | 5009 | 2026-09-23 00:34:09 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_5009_20260923-00h.py](warehouse/can_5009_20260923-00h.py) |
 | 5010 | 2026-09-23 05:59:04 | inclusionAI: Ling 3.0 Flash Sante (free) | ✅ | [warehouse/can_5010_20260923-05h.py](warehouse/can_5010_20260923-05h.py) |
+| 5011 | 2026-09-23 11:38:10 | inclusionAI: Ling 3.0 Flash VL (free) | ✅ | [warehouse/can_5011_20260923-11h.py](warehouse/can_5011_20260923-11h.py) |
