@@ -5100,3 +5100,4 @@ If you need permission, you're thinking too much.
 | 5010 | 2026-09-23 05:59:04 | inclusionAI: Ling 3.0 Flash Sante (free) | ✅ | [warehouse/can_5010_20260923-05h.py](warehouse/can_5010_20260923-05h.py) |
 | 5011 | 2026-09-23 11:38:10 | inclusionAI: Ling 3.0 Flash VL (free) | ✅ | [warehouse/can_5011_20260923-11h.py](warehouse/can_5011_20260923-11h.py) |
 | 5012 | 2026-09-23 17:00:22 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_5012_20260923-17h.py](warehouse/can_5012_20260923-17h.py) |
+| 5013 | 2026-09-23 20:22:31 | NVIDIA: Nemotron 3.5 Lightning (free) | ❌ (broken) | [warehouse/can_5013_20260923-20h.py](warehouse/can_5013_20260923-20h.py) |
