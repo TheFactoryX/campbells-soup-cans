@@ -5109,3 +5109,4 @@ If you need permission, you're thinking too much.
 | 5019 | 2026-09-24 22:24:58 | inclusionAI: Ling 3.0 Flash Fin (free) | ❌ (broken) | [warehouse/can_5019_20260924-22h.py](warehouse/can_5019_20260924-22h.py) |
 | 5020 | 2026-09-25 01:31:16 | LiquidAI: LFM2.5-2.6B (free) | ❌ (broken) | [warehouse/can_5020_20260925-01h.py](warehouse/can_5020_20260925-01h.py) |
 | 5021 | 2026-09-25 07:49:41 | inclusionAI: Ling 3.0 Flash Fin (free) | ✅ | [warehouse/can_5021_20260925-07h.py](warehouse/can_5021_20260925-07h.py) |
+| 5022 | 2026-09-25 13:48:43 | Z.ai: GLM 5.3 Flash | ❌ (missing print) | [warehouse/can_5022_20260925-13h.py](warehouse/can_5022_20260925-13h.py) |
