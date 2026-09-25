@@ -5111,3 +5111,4 @@ If you need permission, you're thinking too much.
 | 5021 | 2026-09-25 07:49:41 | inclusionAI: Ling 3.0 Flash Fin (free) | ✅ | [warehouse/can_5021_20260925-07h.py](warehouse/can_5021_20260925-07h.py) |
 | 5022 | 2026-09-25 13:48:43 | Z.ai: GLM 5.3 Flash | ❌ (missing print) | [warehouse/can_5022_20260925-13h.py](warehouse/can_5022_20260925-13h.py) |
 | 5023 | 2026-09-25 18:37:20 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5023_20260925-18h.py](warehouse/can_5023_20260925-18h.py) |
+| 5024 | 2026-09-25 22:21:14 | NVIDIA: Nemotron 3 Super (free) | ❌ (empty, missing print) | [warehouse/can_5024_20260925-22h.py](warehouse/can_5024_20260925-22h.py) |
