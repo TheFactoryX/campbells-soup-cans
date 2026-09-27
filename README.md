@@ -5118,3 +5118,4 @@ If you need permission, you're thinking too much.
 | 5028 | 2026-09-26 17:11:32 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_5028_20260926-17h.py](warehouse/can_5028_20260926-17h.py) |
 | 5029 | 2026-09-26 19:52:24 | LiquidAI: LFM2.5-2.6B (free) | ❌ (broken) | [warehouse/can_5029_20260926-19h.py](warehouse/can_5029_20260926-19h.py) |
 | 5030 | 2026-09-26 22:52:37 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_5030_20260926-22h.py](warehouse/can_5030_20260926-22h.py) |
+| 5031 | 2026-09-27 01:28:00 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (broken) | [warehouse/can_5031_20260927-01h.py](warehouse/can_5031_20260927-01h.py) |
