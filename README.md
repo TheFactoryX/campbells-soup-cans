@@ -5122,3 +5122,4 @@ If you need permission, you're thinking too much.
 | 5032 | 2026-09-27 08:11:26 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5032_20260927-08h.py](warehouse/can_5032_20260927-08h.py) |
 | 5033 | 2026-09-27 13:59:42 | DeepSeek: DeepSeek V4 Flash Vision Exp | ✅ | [warehouse/can_5033_20260927-13h.py](warehouse/can_5033_20260927-13h.py) |
 | 5034 | 2026-09-27 18:24:46 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_5034_20260927-18h.py](warehouse/can_5034_20260927-18h.py) |
+| 5035 | 2026-09-27 22:12:27 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_5035_20260927-22h.py](warehouse/can_5035_20260927-22h.py) |
