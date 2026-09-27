@@ -5119,3 +5119,4 @@ If you need permission, you're thinking too much.
 | 5029 | 2026-09-26 19:52:24 | LiquidAI: LFM2.5-2.6B (free) | ❌ (broken) | [warehouse/can_5029_20260926-19h.py](warehouse/can_5029_20260926-19h.py) |
 | 5030 | 2026-09-26 22:52:37 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_5030_20260926-22h.py](warehouse/can_5030_20260926-22h.py) |
 | 5031 | 2026-09-27 01:28:00 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (broken) | [warehouse/can_5031_20260927-01h.py](warehouse/can_5031_20260927-01h.py) |
+| 5032 | 2026-09-27 08:11:26 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5032_20260927-08h.py](warehouse/can_5032_20260927-08h.py) |
