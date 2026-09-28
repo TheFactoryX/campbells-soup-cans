@@ -5123,3 +5123,4 @@ If you need permission, you're thinking too much.
 | 5033 | 2026-09-27 13:59:42 | DeepSeek: DeepSeek V4 Flash Vision Exp | ✅ | [warehouse/can_5033_20260927-13h.py](warehouse/can_5033_20260927-13h.py) |
 | 5034 | 2026-09-27 18:24:46 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_5034_20260927-18h.py](warehouse/can_5034_20260927-18h.py) |
 | 5035 | 2026-09-27 22:12:27 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_5035_20260927-22h.py](warehouse/can_5035_20260927-22h.py) |
+| 5036 | 2026-09-28 00:48:29 | NVIDIA: Nemotron 3.5 Lightning (free) | ❌ (empty, missing print) | [warehouse/can_5036_20260928-00h.py](warehouse/can_5036_20260928-00h.py) |
