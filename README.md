@@ -5130,3 +5130,4 @@ If you need permission, you're thinking too much.
 | 5040 | 2026-09-29 01:58:09 | TheDrummer: Skyfall 36B V2 | ❌ (broken) | [warehouse/can_5040_20260929-01h.py](warehouse/can_5040_20260929-01h.py) |
 | 5041 | 2026-09-29 08:32:00 | Qwen: Qwen3.5-35B-A3B | ❌ (broken) | [warehouse/can_5041_20260929-08h.py](warehouse/can_5041_20260929-08h.py) |
 | 5042 | 2026-09-29 15:52:40 | NVIDIA: Nemotron 3.5 Lightning (free) | ❌ (missing print) | [warehouse/can_5042_20260929-15h.py](warehouse/can_5042_20260929-15h.py) |
+| 5043 | 2026-09-29 20:48:20 | NVIDIA: Nemotron 3.5 Lightning (free) | ❌ (empty, missing print) | [warehouse/can_5043_20260929-20h.py](warehouse/can_5043_20260929-20h.py) |
