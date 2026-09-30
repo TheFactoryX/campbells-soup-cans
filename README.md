@@ -5133,3 +5133,4 @@ If you need permission, you're thinking too much.
 | 5043 | 2026-09-29 20:48:20 | NVIDIA: Nemotron 3.5 Lightning (free) | ❌ (empty, missing print) | [warehouse/can_5043_20260929-20h.py](warehouse/can_5043_20260929-20h.py) |
 | 5044 | 2026-09-30 00:27:54 | inclusionAI: Ling 3.0 Flash Sante (free) | ✅ | [warehouse/can_5044_20260930-00h.py](warehouse/can_5044_20260930-00h.py) |
 | 5045 | 2026-09-30 06:43:57 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5045_20260930-06h.py](warehouse/can_5045_20260930-06h.py) |
+| 5046 | 2026-09-30 13:44:28 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_5046_20260930-13h.py](warehouse/can_5046_20260930-13h.py) |
