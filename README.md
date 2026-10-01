@@ -5137,3 +5137,4 @@ If you need permission, you're thinking too much.
 | 5047 | 2026-09-30 19:20:57 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_5047_20260930-19h.py](warehouse/can_5047_20260930-19h.py) |
 | 5048 | 2026-09-30 23:50:37 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_5048_20260930-23h.py](warehouse/can_5048_20260930-23h.py) |
 | 5049 | 2026-10-01 05:55:39 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5049_20261001-05h.py](warehouse/can_5049_20261001-05h.py) |
+| 5050 | 2026-10-01 13:16:56 | Qwen: Qwen3.8 27B (free) | ❌ (empty, missing print) | [warehouse/can_5050_20261001-13h.py](warehouse/can_5050_20261001-13h.py) |
