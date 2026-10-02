@@ -5140,3 +5140,4 @@ If you need permission, you're thinking too much.
 | 5050 | 2026-10-01 13:16:56 | Qwen: Qwen3.8 27B (free) | ❌ (empty, missing print) | [warehouse/can_5050_20261001-13h.py](warehouse/can_5050_20261001-13h.py) |
 | 5051 | 2026-10-01 19:31:53 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_5051_20261001-19h.py](warehouse/can_5051_20261001-19h.py) |
 | 5052 | 2026-10-01 23:52:55 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5052_20261001-23h.py](warehouse/can_5052_20261001-23h.py) |
+| 5053 | 2026-10-02 05:38:23 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_5053_20261002-05h.py](warehouse/can_5053_20261002-05h.py) |
