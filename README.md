@@ -5147,3 +5147,4 @@ If you need permission, you're thinking too much.
 | 5057 | 2026-10-03 01:58:12 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_5057_20261003-01h.py](warehouse/can_5057_20261003-01h.py) |
 | 5058 | 2026-10-03 08:07:01 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_5058_20261003-08h.py](warehouse/can_5058_20261003-08h.py) |
 | 5059 | 2026-10-03 13:23:32 | Free Models Router | ✅ | [warehouse/can_5059_20261003-13h.py](warehouse/can_5059_20261003-13h.py) |
+| 5060 | 2026-10-03 17:57:17 | Space Bunny Alpha | ❌ (broken) | [warehouse/can_5060_20261003-17h.py](warehouse/can_5060_20261003-17h.py) |
