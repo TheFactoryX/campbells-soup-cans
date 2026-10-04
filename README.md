@@ -5151,3 +5151,4 @@ If you need permission, you're thinking too much.
 | 5061 | 2026-10-03 21:16:30 | Free Models Router | ✅ | [warehouse/can_5061_20261003-21h.py](warehouse/can_5061_20261003-21h.py) |
 | 5062 | 2026-10-04 00:38:18 | Space Bunny Alpha | ✅ | [warehouse/can_5062_20261004-00h.py](warehouse/can_5062_20261004-00h.py) |
 | 5063 | 2026-10-04 06:49:53 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5063_20261004-06h.py](warehouse/can_5063_20261004-06h.py) |
+| 5064 | 2026-10-04 13:12:08 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_5064_20261004-13h.py](warehouse/can_5064_20261004-13h.py) |
