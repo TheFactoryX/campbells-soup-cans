@@ -5153,3 +5153,4 @@ If you need permission, you're thinking too much.
 | 5063 | 2026-10-04 06:49:53 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5063_20261004-06h.py](warehouse/can_5063_20261004-06h.py) |
 | 5064 | 2026-10-04 13:12:08 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_5064_20261004-13h.py](warehouse/can_5064_20261004-13h.py) |
 | 5065 | 2026-10-04 17:35:57 | NVIDIA: Nemotron 3.5 Lightning (free) | ❌ (broken, missing print) | [warehouse/can_5065_20261004-17h.py](warehouse/can_5065_20261004-17h.py) |
+| 5066 | 2026-10-04 21:26:29 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_5066_20261004-21h.py](warehouse/can_5066_20261004-21h.py) |
