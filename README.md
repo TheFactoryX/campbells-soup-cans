@@ -5155,3 +5155,4 @@ If you need permission, you're thinking too much.
 | 5065 | 2026-10-04 17:35:57 | NVIDIA: Nemotron 3.5 Lightning (free) | ❌ (broken, missing print) | [warehouse/can_5065_20261004-17h.py](warehouse/can_5065_20261004-17h.py) |
 | 5066 | 2026-10-04 21:26:29 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_5066_20261004-21h.py](warehouse/can_5066_20261004-21h.py) |
 | 5067 | 2026-10-05 00:55:59 | inclusionAI: Ling 3.0 Flash Sante (free) | ✅ | [warehouse/can_5067_20261005-00h.py](warehouse/can_5067_20261005-00h.py) |
+| 5068 | 2026-10-05 07:03:28 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5068_20261005-07h.py](warehouse/can_5068_20261005-07h.py) |
