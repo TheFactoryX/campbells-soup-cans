@@ -5160,3 +5160,4 @@ If you need permission, you're thinking too much.
 | 5070 | 2026-10-05 22:37:53 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5070_20261005-22h.py](warehouse/can_5070_20261005-22h.py) |
 | 5071 | 2026-10-06 02:59:01 | Qwen: Qwen3 VL 32B Instruct | ❌ (broken) | [warehouse/can_5071_20261006-02h.py](warehouse/can_5071_20261006-02h.py) |
 | 5072 | 2026-10-06 10:19:10 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5072_20261006-10h.py](warehouse/can_5072_20261006-10h.py) |
+| 5073 | 2026-10-06 17:11:26 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5073_20261006-17h.py](warehouse/can_5073_20261006-17h.py) |
