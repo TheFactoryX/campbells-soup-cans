@@ -5158,3 +5158,4 @@ If you need permission, you're thinking too much.
 | 5068 | 2026-10-05 07:03:28 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5068_20261005-07h.py](warehouse/can_5068_20261005-07h.py) |
 | 5069 | 2026-10-05 16:01:01 | Meta: Muse Glimmer 30B | ✅ | [warehouse/can_5069_20261005-16h.py](warehouse/can_5069_20261005-16h.py) |
 | 5070 | 2026-10-05 22:37:53 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5070_20261005-22h.py](warehouse/can_5070_20261005-22h.py) |
+| 5071 | 2026-10-06 02:59:01 | Qwen: Qwen3 VL 32B Instruct | ❌ (broken) | [warehouse/can_5071_20261006-02h.py](warehouse/can_5071_20261006-02h.py) |
