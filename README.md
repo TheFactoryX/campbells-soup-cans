@@ -5162,3 +5162,4 @@ If you need permission, you're thinking too much.
 | 5072 | 2026-10-06 10:19:10 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5072_20261006-10h.py](warehouse/can_5072_20261006-10h.py) |
 | 5073 | 2026-10-06 17:11:26 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5073_20261006-17h.py](warehouse/can_5073_20261006-17h.py) |
 | 5074 | 2026-10-06 21:38:01 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5074_20261006-21h.py](warehouse/can_5074_20261006-21h.py) |
+| 5075 | 2026-10-07 01:32:47 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5075_20261007-01h.py](warehouse/can_5075_20261007-01h.py) |
