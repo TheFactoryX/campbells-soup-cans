@@ -5168,3 +5168,4 @@ If you need permission, you're thinking too much.
 | 5078 | 2026-10-07 21:59:03 | inclusionAI: Ling 3.0 Flash Sante (free) | ✅ | [warehouse/can_5078_20261007-21h.py](warehouse/can_5078_20261007-21h.py) |
 | 5079 | 2026-10-08 01:56:28 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5079_20261008-01h.py](warehouse/can_5079_20261008-01h.py) |
 | 5080 | 2026-10-08 08:59:00 | inclusionAI: Ling 3.0 Flash Sante (free) | ✅ | [warehouse/can_5080_20261008-08h.py](warehouse/can_5080_20261008-08h.py) |
+| 5081 | 2026-10-08 16:29:05 | Apodex: Apodex 1.1 Mini (free) | ✅ | [warehouse/can_5081_20261008-16h.py](warehouse/can_5081_20261008-16h.py) |
