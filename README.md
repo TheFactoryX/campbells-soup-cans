@@ -5166,3 +5166,4 @@ If you need permission, you're thinking too much.
 | 5076 | 2026-10-07 08:40:05 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5076_20261007-08h.py](warehouse/can_5076_20261007-08h.py) |
 | 5077 | 2026-10-07 16:29:19 | inclusionAI: Ling 3.0 Flash Sante (free) | ✅ | [warehouse/can_5077_20261007-16h.py](warehouse/can_5077_20261007-16h.py) |
 | 5078 | 2026-10-07 21:59:03 | inclusionAI: Ling 3.0 Flash Sante (free) | ✅ | [warehouse/can_5078_20261007-21h.py](warehouse/can_5078_20261007-21h.py) |
+| 5079 | 2026-10-08 01:56:28 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5079_20261008-01h.py](warehouse/can_5079_20261008-01h.py) |
