@@ -5171,3 +5171,4 @@ If you need permission, you're thinking too much.
 | 5081 | 2026-10-08 16:29:05 | Apodex: Apodex 1.1 Mini (free) | ✅ | [warehouse/can_5081_20261008-16h.py](warehouse/can_5081_20261008-16h.py) |
 | 5082 | 2026-10-08 22:04:26 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5082_20261008-22h.py](warehouse/can_5082_20261008-22h.py) |
 | 5083 | 2026-10-09 02:10:37 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5083_20261009-02h.py](warehouse/can_5083_20261009-02h.py) |
+| 5084 | 2026-10-09 09:05:38 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (empty, missing print) | [warehouse/can_5084_20261009-09h.py](warehouse/can_5084_20261009-09h.py) |
