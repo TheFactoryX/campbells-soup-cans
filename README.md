@@ -5175,3 +5175,4 @@ If you need permission, you're thinking too much.
 | 5085 | 2026-10-09 16:13:33 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5085_20261009-16h.py](warehouse/can_5085_20261009-16h.py) |
 | 5086 | 2026-10-09 20:57:09 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5086_20261009-20h.py](warehouse/can_5086_20261009-20h.py) |
 | 5087 | 2026-10-10 00:52:16 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_5087_20261010-00h.py](warehouse/can_5087_20261010-00h.py) |
+| 5088 | 2026-10-10 07:09:11 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5088_20261010-07h.py](warehouse/can_5088_20261010-07h.py) |
