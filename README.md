@@ -5177,3 +5177,4 @@ If you need permission, you're thinking too much.
 | 5087 | 2026-10-10 00:52:16 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_5087_20261010-00h.py](warehouse/can_5087_20261010-00h.py) |
 | 5088 | 2026-10-10 07:09:11 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5088_20261010-07h.py](warehouse/can_5088_20261010-07h.py) |
 | 5089 | 2026-10-10 13:43:24 | inclusionAI: Ling 3.1 Flash | ✅ | [warehouse/can_5089_20261010-13h.py](warehouse/can_5089_20261010-13h.py) |
+| 5090 | 2026-10-10 18:36:57 | TheDrummer: Skyfall 36B V2 | ❌ (broken) | [warehouse/can_5090_20261010-18h.py](warehouse/can_5090_20261010-18h.py) |
