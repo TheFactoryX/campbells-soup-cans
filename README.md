@@ -5179,3 +5179,4 @@ If you need permission, you're thinking too much.
 | 5089 | 2026-10-10 13:43:24 | inclusionAI: Ling 3.1 Flash | ✅ | [warehouse/can_5089_20261010-13h.py](warehouse/can_5089_20261010-13h.py) |
 | 5090 | 2026-10-10 18:36:57 | TheDrummer: Skyfall 36B V2 | ❌ (broken) | [warehouse/can_5090_20261010-18h.py](warehouse/can_5090_20261010-18h.py) |
 | 5091 | 2026-10-10 22:32:55 | Free Models Router | ✅ | [warehouse/can_5091_20261010-22h.py](warehouse/can_5091_20261010-22h.py) |
+| 5092 | 2026-10-11 01:54:32 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5092_20261011-01h.py](warehouse/can_5092_20261011-01h.py) |
