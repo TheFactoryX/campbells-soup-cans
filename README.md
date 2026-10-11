@@ -5180,3 +5180,4 @@ If you need permission, you're thinking too much.
 | 5090 | 2026-10-10 18:36:57 | TheDrummer: Skyfall 36B V2 | ❌ (broken) | [warehouse/can_5090_20261010-18h.py](warehouse/can_5090_20261010-18h.py) |
 | 5091 | 2026-10-10 22:32:55 | Free Models Router | ✅ | [warehouse/can_5091_20261010-22h.py](warehouse/can_5091_20261010-22h.py) |
 | 5092 | 2026-10-11 01:54:32 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5092_20261011-01h.py](warehouse/can_5092_20261011-01h.py) |
+| 5093 | 2026-10-11 08:52:35 | inclusionAI: Ling 3.1 Flash | ✅ | [warehouse/can_5093_20261011-08h.py](warehouse/can_5093_20261011-08h.py) |
