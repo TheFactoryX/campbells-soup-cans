@@ -5188,3 +5188,4 @@ If you need permission, you're thinking too much.
 | 5098 | 2026-10-12 17:55:57 | Free Models Router | ❌ (missing print) | [warehouse/can_5098_20261012-17h.py](warehouse/can_5098_20261012-17h.py) |
 | 5099 | 2026-10-13 00:40:55 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5099_20261013-00h.py](warehouse/can_5099_20261013-00h.py) |
 | 5100 | 2026-10-13 07:43:01 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_5100_20261013-07h.py](warehouse/can_5100_20261013-07h.py) |
+| 5101 | 2026-10-13 15:59:42 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_5101_20261013-15h.py](warehouse/can_5101_20261013-15h.py) |
