@@ -5186,3 +5186,4 @@ If you need permission, you're thinking too much.
 | 5096 | 2026-10-12 00:33:00 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5096_20261012-00h.py](warehouse/can_5096_20261012-00h.py) |
 | 5097 | 2026-10-12 07:21:45 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5097_20261012-07h.py](warehouse/can_5097_20261012-07h.py) |
 | 5098 | 2026-10-12 17:55:57 | Free Models Router | ❌ (missing print) | [warehouse/can_5098_20261012-17h.py](warehouse/can_5098_20261012-17h.py) |
+| 5099 | 2026-10-13 00:40:55 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5099_20261013-00h.py](warehouse/can_5099_20261013-00h.py) |
