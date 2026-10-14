@@ -5193,3 +5193,4 @@ If you need permission, you're thinking too much.
 | 5103 | 2026-10-14 00:20:47 | LiquidAI: LFM2.5-2.6B (free) | ❌ (broken) | [warehouse/can_5103_20261014-00h.py](warehouse/can_5103_20261014-00h.py) |
 | 5104 | 2026-10-14 06:08:50 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5104_20261014-06h.py](warehouse/can_5104_20261014-06h.py) |
 | 5105 | 2026-10-14 11:53:30 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5105_20261014-11h.py](warehouse/can_5105_20261014-11h.py) |
+| 5106 | 2026-10-14 17:11:05 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_5106_20261014-17h.py](warehouse/can_5106_20261014-17h.py) |
