@@ -5191,3 +5191,4 @@ If you need permission, you're thinking too much.
 | 5101 | 2026-10-13 15:59:42 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_5101_20261013-15h.py](warehouse/can_5101_20261013-15h.py) |
 | 5102 | 2026-10-13 21:15:09 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5102_20261013-21h.py](warehouse/can_5102_20261013-21h.py) |
 | 5103 | 2026-10-14 00:20:47 | LiquidAI: LFM2.5-2.6B (free) | ❌ (broken) | [warehouse/can_5103_20261014-00h.py](warehouse/can_5103_20261014-00h.py) |
+| 5104 | 2026-10-14 06:08:50 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5104_20261014-06h.py](warehouse/can_5104_20261014-06h.py) |
