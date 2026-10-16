@@ -5203,3 +5203,4 @@ If you need permission, you're thinking too much.
 | 5113 | 2026-10-15 22:19:22 | Free Models Router | ❌ (broken) | [warehouse/can_5113_20261015-22h.py](warehouse/can_5113_20261015-22h.py) |
 | 5114 | 2026-10-16 01:21:32 | Tencent: Hy3 | ✅ | [warehouse/can_5114_20261016-01h.py](warehouse/can_5114_20261016-01h.py) |
 | 5115 | 2026-10-16 07:10:35 | NVIDIA: Nemotron 3 Super (free) | ❌ (broken) | [warehouse/can_5115_20261016-07h.py](warehouse/can_5115_20261016-07h.py) |
+| 5116 | 2026-10-16 12:26:24 | AionLabs: Aion-2.0 | ✅ | [warehouse/can_5116_20261016-12h.py](warehouse/can_5116_20261016-12h.py) |
