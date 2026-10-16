@@ -5206,3 +5206,4 @@ If you need permission, you're thinking too much.
 | 5116 | 2026-10-16 12:26:24 | AionLabs: Aion-2.0 | ✅ | [warehouse/can_5116_20261016-12h.py](warehouse/can_5116_20261016-12h.py) |
 | 5117 | 2026-10-16 17:24:34 | Free Models Router | ✅ | [warehouse/can_5117_20261016-17h.py](warehouse/can_5117_20261016-17h.py) |
 | 5118 | 2026-10-16 21:09:25 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5118_20261016-21h.py](warehouse/can_5118_20261016-21h.py) |
+| 5119 | 2026-10-16 23:36:15 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5119_20261016-23h.py](warehouse/can_5119_20261016-23h.py) |
