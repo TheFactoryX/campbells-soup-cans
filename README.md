@@ -5201,3 +5201,4 @@ If you need permission, you're thinking too much.
 | 5111 | 2026-10-15 15:01:19 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_5111_20261015-15h.py](warehouse/can_5111_20261015-15h.py) |
 | 5112 | 2026-10-15 19:08:34 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (broken, missing print) | [warehouse/can_5112_20261015-19h.py](warehouse/can_5112_20261015-19h.py) |
 | 5113 | 2026-10-15 22:19:22 | Free Models Router | ❌ (broken) | [warehouse/can_5113_20261015-22h.py](warehouse/can_5113_20261015-22h.py) |
+| 5114 | 2026-10-16 01:21:32 | Tencent: Hy3 | ✅ | [warehouse/can_5114_20261016-01h.py](warehouse/can_5114_20261016-01h.py) |
