@@ -5211,3 +5211,4 @@ If you need permission, you're thinking too much.
 | 5121 | 2026-10-17 09:22:14 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_5121_20261017-09h.py](warehouse/can_5121_20261017-09h.py) |
 | 5122 | 2026-10-17 13:43:33 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_5122_20261017-13h.py](warehouse/can_5122_20261017-13h.py) |
 | 5123 | 2026-10-17 17:11:09 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_5123_20261017-17h.py](warehouse/can_5123_20261017-17h.py) |
+| 5124 | 2026-10-17 19:24:39 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (empty, missing print) | [warehouse/can_5124_20261017-19h.py](warehouse/can_5124_20261017-19h.py) |
