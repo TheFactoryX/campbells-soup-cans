@@ -5209,3 +5209,4 @@ If you need permission, you're thinking too much.
 | 5119 | 2026-10-16 23:36:15 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5119_20261016-23h.py](warehouse/can_5119_20261016-23h.py) |
 | 5120 | 2026-10-17 04:27:47 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_5120_20261017-04h.py](warehouse/can_5120_20261017-04h.py) |
 | 5121 | 2026-10-17 09:22:14 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_5121_20261017-09h.py](warehouse/can_5121_20261017-09h.py) |
+| 5122 | 2026-10-17 13:43:33 | NVIDIA: Nemotron 3 Super (free) | ✅ | [warehouse/can_5122_20261017-13h.py](warehouse/can_5122_20261017-13h.py) |
