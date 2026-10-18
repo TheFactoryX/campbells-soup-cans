@@ -5215,3 +5215,4 @@ If you need permission, you're thinking too much.
 | 5125 | 2026-10-17 22:19:53 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_5125_20261017-22h.py](warehouse/can_5125_20261017-22h.py) |
 | 5126 | 2026-10-18 05:54:49 | Free Models Router | ✅ | [warehouse/can_5126_20261018-05h.py](warehouse/can_5126_20261018-05h.py) |
 | 5127 | 2026-10-18 11:06:49 | NVIDIA: Nemotron 3.5 Lightning (free) | ❌ (empty, missing print) | [warehouse/can_5127_20261018-11h.py](warehouse/can_5127_20261018-11h.py) |
+| 5128 | 2026-10-18 14:34:49 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_5128_20261018-14h.py](warehouse/can_5128_20261018-14h.py) |
