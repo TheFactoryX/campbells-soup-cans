@@ -5217,3 +5217,4 @@ If you need permission, you're thinking too much.
 | 5127 | 2026-10-18 11:06:49 | NVIDIA: Nemotron 3.5 Lightning (free) | ❌ (empty, missing print) | [warehouse/can_5127_20261018-11h.py](warehouse/can_5127_20261018-11h.py) |
 | 5128 | 2026-10-18 14:34:49 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_5128_20261018-14h.py](warehouse/can_5128_20261018-14h.py) |
 | 5129 | 2026-10-18 18:06:26 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5129_20261018-18h.py](warehouse/can_5129_20261018-18h.py) |
+| 5130 | 2026-10-18 20:44:36 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5130_20261018-20h.py](warehouse/can_5130_20261018-20h.py) |
