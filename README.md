@@ -5227,3 +5227,4 @@ If you need permission, you're thinking too much.
 | 5137 | 2026-10-20 06:01:12 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_5137_20261020-06h.py](warehouse/can_5137_20261020-06h.py) |
 | 5138 | 2026-10-20 11:38:16 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5138_20261020-11h.py](warehouse/can_5138_20261020-11h.py) |
 | 5139 | 2026-10-20 17:07:50 | MiniMax: MiniMax M3.1 Flash (free) | ✅ | [warehouse/can_5139_20261020-17h.py](warehouse/can_5139_20261020-17h.py) |
+| 5140 | 2026-10-20 20:35:31 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5140_20261020-20h.py](warehouse/can_5140_20261020-20h.py) |
