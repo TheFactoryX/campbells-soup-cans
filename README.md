@@ -5232,3 +5232,4 @@ If you need permission, you're thinking too much.
 | 5142 | 2026-10-21 04:49:30 | Nex AGI: Nex-N2.5-Pro | ❌ (broken) | [warehouse/can_5142_20261021-04h.py](warehouse/can_5142_20261021-04h.py) |
 | 5143 | 2026-10-21 10:09:45 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (broken) | [warehouse/can_5143_20261021-10h.py](warehouse/can_5143_20261021-10h.py) |
 | 5144 | 2026-10-21 15:15:21 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_5144_20261021-15h.py](warehouse/can_5144_20261021-15h.py) |
+| 5145 | 2026-10-21 19:20:41 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5145_20261021-19h.py](warehouse/can_5145_20261021-19h.py) |
