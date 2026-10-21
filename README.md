@@ -5230,3 +5230,4 @@ If you need permission, you're thinking too much.
 | 5140 | 2026-10-20 20:35:31 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5140_20261020-20h.py](warehouse/can_5140_20261020-20h.py) |
 | 5141 | 2026-10-20 23:53:11 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5141_20261020-23h.py](warehouse/can_5141_20261020-23h.py) |
 | 5142 | 2026-10-21 04:49:30 | Nex AGI: Nex-N2.5-Pro | ❌ (broken) | [warehouse/can_5142_20261021-04h.py](warehouse/can_5142_20261021-04h.py) |
+| 5143 | 2026-10-21 10:09:45 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (broken) | [warehouse/can_5143_20261021-10h.py](warehouse/can_5143_20261021-10h.py) |
