@@ -5237,3 +5237,4 @@ If you need permission, you're thinking too much.
 | 5147 | 2026-10-22 10:11:55 | Meta: Llama 3.2 1B Instruct | ❌ (broken) | [warehouse/can_5147_20261022-10h.py](warehouse/can_5147_20261022-10h.py) |
 | 5148 | 2026-10-22 15:17:54 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5148_20261022-15h.py](warehouse/can_5148_20261022-15h.py) |
 | 5149 | 2026-10-22 20:07:04 | Free Models Router | ❌ (empty, missing print) | [warehouse/can_5149_20261022-20h.py](warehouse/can_5149_20261022-20h.py) |
+| 5150 | 2026-10-22 23:22:54 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5150_20261022-23h.py](warehouse/can_5150_20261022-23h.py) |
