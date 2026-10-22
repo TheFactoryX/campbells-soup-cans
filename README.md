@@ -5234,3 +5234,4 @@ If you need permission, you're thinking too much.
 | 5144 | 2026-10-21 15:15:21 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_5144_20261021-15h.py](warehouse/can_5144_20261021-15h.py) |
 | 5145 | 2026-10-21 19:20:41 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5145_20261021-19h.py](warehouse/can_5145_20261021-19h.py) |
 | 5146 | 2026-10-21 23:20:27 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5146_20261021-23h.py](warehouse/can_5146_20261021-23h.py) |
+| 5147 | 2026-10-22 10:11:55 | Meta: Llama 3.2 1B Instruct | ❌ (broken) | [warehouse/can_5147_20261022-10h.py](warehouse/can_5147_20261022-10h.py) |
