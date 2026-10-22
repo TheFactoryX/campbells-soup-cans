@@ -5235,3 +5235,4 @@ If you need permission, you're thinking too much.
 | 5145 | 2026-10-21 19:20:41 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5145_20261021-19h.py](warehouse/can_5145_20261021-19h.py) |
 | 5146 | 2026-10-21 23:20:27 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5146_20261021-23h.py](warehouse/can_5146_20261021-23h.py) |
 | 5147 | 2026-10-22 10:11:55 | Meta: Llama 3.2 1B Instruct | ❌ (broken) | [warehouse/can_5147_20261022-10h.py](warehouse/can_5147_20261022-10h.py) |
+| 5148 | 2026-10-22 15:17:54 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5148_20261022-15h.py](warehouse/can_5148_20261022-15h.py) |
