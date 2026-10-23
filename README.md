@@ -5241,3 +5241,4 @@ If you need permission, you're thinking too much.
 | 5151 | 2026-10-23 04:50:46 | Free Models Router | ❌ (empty, broken, missing print) | [warehouse/can_5151_20261023-04h.py](warehouse/can_5151_20261023-04h.py) |
 | 5152 | 2026-10-23 10:04:23 | Recursive: Flint (free) | ✅ | [warehouse/can_5152_20261023-10h.py](warehouse/can_5152_20261023-10h.py) |
 | 5153 | 2026-10-23 15:04:37 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5153_20261023-15h.py](warehouse/can_5153_20261023-15h.py) |
+| 5154 | 2026-10-23 19:14:02 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5154_20261023-19h.py](warehouse/can_5154_20261023-19h.py) |
