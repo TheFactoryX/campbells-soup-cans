@@ -5245,3 +5245,4 @@ If you need permission, you're thinking too much.
 | 5155 | 2026-10-23 22:15:42 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5155_20261023-22h.py](warehouse/can_5155_20261023-22h.py) |
 | 5156 | 2026-10-24 00:46:54 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_5156_20261024-00h.py](warehouse/can_5156_20261024-00h.py) |
 | 5157 | 2026-10-24 05:55:04 | Recursive: Flint (free) | ✅ | [warehouse/can_5157_20261024-05h.py](warehouse/can_5157_20261024-05h.py) |
+| 5158 | 2026-10-24 11:02:11 | LiquidAI: LFM2.5-2.6B (free) | ❌ (broken) | [warehouse/can_5158_20261024-11h.py](warehouse/can_5158_20261024-11h.py) |
