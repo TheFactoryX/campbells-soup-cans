@@ -5247,3 +5247,4 @@ If you need permission, you're thinking too much.
 | 5157 | 2026-10-24 05:55:04 | Recursive: Flint (free) | ✅ | [warehouse/can_5157_20261024-05h.py](warehouse/can_5157_20261024-05h.py) |
 | 5158 | 2026-10-24 11:02:11 | LiquidAI: LFM2.5-2.6B (free) | ❌ (broken) | [warehouse/can_5158_20261024-11h.py](warehouse/can_5158_20261024-11h.py) |
 | 5159 | 2026-10-24 14:33:37 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5159_20261024-14h.py](warehouse/can_5159_20261024-14h.py) |
+| 5160 | 2026-10-24 18:09:41 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5160_20261024-18h.py](warehouse/can_5160_20261024-18h.py) |
