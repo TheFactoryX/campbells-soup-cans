@@ -5252,3 +5252,4 @@ If you need permission, you're thinking too much.
 | 5162 | 2026-10-24 23:15:39 | Poolside: Laguna S 2.1 (free) | ✅ | [warehouse/can_5162_20261024-23h.py](warehouse/can_5162_20261024-23h.py) |
 | 5163 | 2026-10-25 01:16:36 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5163_20261025-01h.py](warehouse/can_5163_20261025-01h.py) |
 | 5164 | 2026-10-25 07:35:41 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5164_20261025-07h.py](warehouse/can_5164_20261025-07h.py) |
+| 5165 | 2026-10-25 13:11:21 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5165_20261025-13h.py](warehouse/can_5165_20261025-13h.py) |
