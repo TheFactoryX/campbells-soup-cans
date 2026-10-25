@@ -5253,3 +5253,4 @@ If you need permission, you're thinking too much.
 | 5163 | 2026-10-25 01:16:36 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5163_20261025-01h.py](warehouse/can_5163_20261025-01h.py) |
 | 5164 | 2026-10-25 07:35:41 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5164_20261025-07h.py](warehouse/can_5164_20261025-07h.py) |
 | 5165 | 2026-10-25 13:11:21 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5165_20261025-13h.py](warehouse/can_5165_20261025-13h.py) |
+| 5166 | 2026-10-25 17:03:34 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5166_20261025-17h.py](warehouse/can_5166_20261025-17h.py) |
