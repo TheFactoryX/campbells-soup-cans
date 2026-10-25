@@ -5255,3 +5255,4 @@ If you need permission, you're thinking too much.
 | 5165 | 2026-10-25 13:11:21 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5165_20261025-13h.py](warehouse/can_5165_20261025-13h.py) |
 | 5166 | 2026-10-25 17:03:34 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5166_20261025-17h.py](warehouse/can_5166_20261025-17h.py) |
 | 5167 | 2026-10-25 19:37:38 | Poolside: Laguna XS 2.1 (free) | ❌ (broken) | [warehouse/can_5167_20261025-19h.py](warehouse/can_5167_20261025-19h.py) |
+| 5168 | 2026-10-25 22:33:54 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5168_20261025-22h.py](warehouse/can_5168_20261025-22h.py) |
