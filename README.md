@@ -5258,3 +5258,4 @@ If you need permission, you're thinking too much.
 | 5168 | 2026-10-25 22:33:54 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5168_20261025-22h.py](warehouse/can_5168_20261025-22h.py) |
 | 5169 | 2026-10-26 06:15:16 | Poolside: Laguna XS 2.1 (free) | ❌ (broken) | [warehouse/can_5169_20261026-06h.py](warehouse/can_5169_20261026-06h.py) |
 | 5170 | 2026-10-26 13:15:58 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_5170_20261026-13h.py](warehouse/can_5170_20261026-13h.py) |
+| 5171 | 2026-10-26 19:23:22 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_5171_20261026-19h.py](warehouse/can_5171_20261026-19h.py) |
