@@ -5256,3 +5256,4 @@ If you need permission, you're thinking too much.
 | 5166 | 2026-10-25 17:03:34 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5166_20261025-17h.py](warehouse/can_5166_20261025-17h.py) |
 | 5167 | 2026-10-25 19:37:38 | Poolside: Laguna XS 2.1 (free) | ❌ (broken) | [warehouse/can_5167_20261025-19h.py](warehouse/can_5167_20261025-19h.py) |
 | 5168 | 2026-10-25 22:33:54 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5168_20261025-22h.py](warehouse/can_5168_20261025-22h.py) |
+| 5169 | 2026-10-26 06:15:16 | Poolside: Laguna XS 2.1 (free) | ❌ (broken) | [warehouse/can_5169_20261026-06h.py](warehouse/can_5169_20261026-06h.py) |
