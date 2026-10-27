@@ -5262,3 +5262,4 @@ If you need permission, you're thinking too much.
 | 5172 | 2026-10-26 23:53:58 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_5172_20261026-23h.py](warehouse/can_5172_20261026-23h.py) |
 | 5173 | 2026-10-27 05:06:48 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5173_20261027-05h.py](warehouse/can_5173_20261027-05h.py) |
 | 5174 | 2026-10-27 10:35:27 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5174_20261027-10h.py](warehouse/can_5174_20261027-10h.py) |
+| 5175 | 2026-10-27 16:39:50 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5175_20261027-16h.py](warehouse/can_5175_20261027-16h.py) |
