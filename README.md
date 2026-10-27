@@ -5260,3 +5260,4 @@ If you need permission, you're thinking too much.
 | 5170 | 2026-10-26 13:15:58 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_5170_20261026-13h.py](warehouse/can_5170_20261026-13h.py) |
 | 5171 | 2026-10-26 19:23:22 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_5171_20261026-19h.py](warehouse/can_5171_20261026-19h.py) |
 | 5172 | 2026-10-26 23:53:58 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_5172_20261026-23h.py](warehouse/can_5172_20261026-23h.py) |
+| 5173 | 2026-10-27 05:06:48 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5173_20261027-05h.py](warehouse/can_5173_20261027-05h.py) |
