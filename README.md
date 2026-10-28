@@ -5265,3 +5265,4 @@ If you need permission, you're thinking too much.
 | 5175 | 2026-10-27 16:39:50 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5175_20261027-16h.py](warehouse/can_5175_20261027-16h.py) |
 | 5176 | 2026-10-27 21:19:53 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_5176_20261027-21h.py](warehouse/can_5176_20261027-21h.py) |
 | 5177 | 2026-10-28 01:22:51 | Free Models Router | ✅ | [warehouse/can_5177_20261028-01h.py](warehouse/can_5177_20261028-01h.py) |
+| 5178 | 2026-10-28 08:33:42 | NVIDIA: Nemotron 3.5 Content Safety (free) | ❌ (empty, broken, missing print) | [warehouse/can_5178_20261028-08h.py](warehouse/can_5178_20261028-08h.py) |
