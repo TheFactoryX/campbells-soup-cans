@@ -5269,3 +5269,4 @@ If you need permission, you're thinking too much.
 | 5179 | 2026-10-28 16:03:22 | Free Models Router | ❌ (broken) | [warehouse/can_5179_20261028-16h.py](warehouse/can_5179_20261028-16h.py) |
 | 5180 | 2026-10-28 21:05:55 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5180_20261028-21h.py](warehouse/can_5180_20261028-21h.py) |
 | 5181 | 2026-10-29 00:57:32 | Recursive: Flint (free) | ✅ | [warehouse/can_5181_20261029-00h.py](warehouse/can_5181_20261029-00h.py) |
+| 5182 | 2026-10-29 07:06:21 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_5182_20261029-07h.py](warehouse/can_5182_20261029-07h.py) |
