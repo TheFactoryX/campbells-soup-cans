@@ -5274,3 +5274,4 @@ If you need permission, you're thinking too much.
 | 5184 | 2026-10-29 20:18:23 | Dots Studio: Dots3-Note Preview (free) | ❌ (broken) | [warehouse/can_5184_20261029-20h.py](warehouse/can_5184_20261029-20h.py) |
 | 5185 | 2026-10-30 01:00:09 | Free Models Router | ✅ | [warehouse/can_5185_20261030-01h.py](warehouse/can_5185_20261030-01h.py) |
 | 5186 | 2026-10-30 07:07:26 | Poolside: Laguna XS 2.1 (free) | ❌ (missing print) | [warehouse/can_5186_20261030-07h.py](warehouse/can_5186_20261030-07h.py) |
+| 5187 | 2026-10-30 14:09:27 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5187_20261030-14h.py](warehouse/can_5187_20261030-14h.py) |
