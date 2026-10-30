@@ -5273,3 +5273,4 @@ If you need permission, you're thinking too much.
 | 5183 | 2026-10-29 14:20:46 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_5183_20261029-14h.py](warehouse/can_5183_20261029-14h.py) |
 | 5184 | 2026-10-29 20:18:23 | Dots Studio: Dots3-Note Preview (free) | ❌ (broken) | [warehouse/can_5184_20261029-20h.py](warehouse/can_5184_20261029-20h.py) |
 | 5185 | 2026-10-30 01:00:09 | Free Models Router | ✅ | [warehouse/can_5185_20261030-01h.py](warehouse/can_5185_20261030-01h.py) |
+| 5186 | 2026-10-30 07:07:26 | Poolside: Laguna XS 2.1 (free) | ❌ (missing print) | [warehouse/can_5186_20261030-07h.py](warehouse/can_5186_20261030-07h.py) |
