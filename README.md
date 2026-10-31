@@ -5278,3 +5278,4 @@ If you need permission, you're thinking too much.
 | 5188 | 2026-10-30 19:23:12 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_5188_20261030-19h.py](warehouse/can_5188_20261030-19h.py) |
 | 5189 | 2026-10-30 23:47:33 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_5189_20261030-23h.py](warehouse/can_5189_20261030-23h.py) |
 | 5190 | 2026-10-31 05:42:44 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5190_20261031-05h.py](warehouse/can_5190_20261031-05h.py) |
+| 5191 | 2026-10-31 12:31:14 | Poolside: Laguna XS 2.1 (free) | ✅ | [warehouse/can_5191_20261031-12h.py](warehouse/can_5191_20261031-12h.py) |
