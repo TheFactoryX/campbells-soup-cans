@@ -5284,3 +5284,4 @@ If you need permission, you're thinking too much.
 | 5194 | 2026-11-01 01:10:43 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5194_20261101-01h.py](warehouse/can_5194_20261101-01h.py) |
 | 5195 | 2026-11-01 07:33:06 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5195_20261101-07h.py](warehouse/can_5195_20261101-07h.py) |
 | 5196 | 2026-11-01 15:10:19 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5196_20261101-15h.py](warehouse/can_5196_20261101-15h.py) |
+| 5197 | 2026-11-01 19:41:02 | Free Models Router | ✅ | [warehouse/can_5197_20261101-19h.py](warehouse/can_5197_20261101-19h.py) |
