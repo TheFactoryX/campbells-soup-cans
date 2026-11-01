@@ -5282,3 +5282,4 @@ If you need permission, you're thinking too much.
 | 5192 | 2026-10-31 17:44:15 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5192_20261031-17h.py](warehouse/can_5192_20261031-17h.py) |
 | 5193 | 2026-10-31 21:35:48 | NVIDIA: Nemotron 3 Nano Omni (free) | ❌ (empty, missing print) | [warehouse/can_5193_20261031-21h.py](warehouse/can_5193_20261031-21h.py) |
 | 5194 | 2026-11-01 01:10:43 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5194_20261101-01h.py](warehouse/can_5194_20261101-01h.py) |
+| 5195 | 2026-11-01 07:33:06 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5195_20261101-07h.py](warehouse/can_5195_20261101-07h.py) |
