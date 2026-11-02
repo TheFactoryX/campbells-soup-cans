@@ -5286,3 +5286,4 @@ If you need permission, you're thinking too much.
 | 5196 | 2026-11-01 15:10:19 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5196_20261101-15h.py](warehouse/can_5196_20261101-15h.py) |
 | 5197 | 2026-11-01 19:41:02 | Free Models Router | ✅ | [warehouse/can_5197_20261101-19h.py](warehouse/can_5197_20261101-19h.py) |
 | 5198 | 2026-11-01 23:36:28 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_5198_20261101-23h.py](warehouse/can_5198_20261101-23h.py) |
+| 5199 | 2026-11-02 06:05:02 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_5199_20261102-06h.py](warehouse/can_5199_20261102-06h.py) |
