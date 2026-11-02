@@ -5288,3 +5288,4 @@ If you need permission, you're thinking too much.
 | 5198 | 2026-11-01 23:36:28 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_5198_20261101-23h.py](warehouse/can_5198_20261101-23h.py) |
 | 5199 | 2026-11-02 06:05:02 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_5199_20261102-06h.py](warehouse/can_5199_20261102-06h.py) |
 | 5200 | 2026-11-02 15:55:50 | MiniMax: MiniMax M3 | ✅ | [warehouse/can_5200_20261102-15h.py](warehouse/can_5200_20261102-15h.py) |
+| 5201 | 2026-11-02 23:30:58 | Google: Gemma 4 31B | ✅ | [warehouse/can_5201_20261102-23h.py](warehouse/can_5201_20261102-23h.py) |
