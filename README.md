@@ -5290,3 +5290,4 @@ If you need permission, you're thinking too much.
 | 5200 | 2026-11-02 15:55:50 | MiniMax: MiniMax M3 | ✅ | [warehouse/can_5200_20261102-15h.py](warehouse/can_5200_20261102-15h.py) |
 | 5201 | 2026-11-02 23:30:58 | Google: Gemma 4 31B | ✅ | [warehouse/can_5201_20261102-23h.py](warehouse/can_5201_20261102-23h.py) |
 | 5202 | 2026-11-03 06:48:37 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5202_20261103-06h.py](warehouse/can_5202_20261103-06h.py) |
+| 5203 | 2026-11-03 15:08:45 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5203_20261103-15h.py](warehouse/can_5203_20261103-15h.py) |
