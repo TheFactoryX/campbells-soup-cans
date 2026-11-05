@@ -5297,3 +5297,4 @@ If you need permission, you're thinking too much.
 | 5207 | 2026-11-04 17:18:30 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5207_20261104-17h.py](warehouse/can_5207_20261104-17h.py) |
 | 5208 | 2026-11-04 23:40:08 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5208_20261104-23h.py](warehouse/can_5208_20261104-23h.py) |
 | 5209 | 2026-11-05 06:47:46 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5209_20261105-06h.py](warehouse/can_5209_20261105-06h.py) |
+| 5210 | 2026-11-05 15:28:02 | Recursive: Flint (free) | ✅ | [warehouse/can_5210_20261105-15h.py](warehouse/can_5210_20261105-15h.py) |
