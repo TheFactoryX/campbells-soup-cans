@@ -5300,3 +5300,4 @@ If you need permission, you're thinking too much.
 | 5210 | 2026-11-05 15:28:02 | Recursive: Flint (free) | ✅ | [warehouse/can_5210_20261105-15h.py](warehouse/can_5210_20261105-15h.py) |
 | 5211 | 2026-11-05 21:59:13 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5211_20261105-21h.py](warehouse/can_5211_20261105-21h.py) |
 | 5212 | 2026-11-06 02:26:26 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5212_20261106-02h.py](warehouse/can_5212_20261106-02h.py) |
+| 5213 | 2026-11-06 10:53:48 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5213_20261106-10h.py](warehouse/can_5213_20261106-10h.py) |
