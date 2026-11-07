@@ -5302,3 +5302,4 @@ If you need permission, you're thinking too much.
 | 5212 | 2026-11-06 02:26:26 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5212_20261106-02h.py](warehouse/can_5212_20261106-02h.py) |
 | 5213 | 2026-11-06 10:53:48 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5213_20261106-10h.py](warehouse/can_5213_20261106-10h.py) |
 | 5214 | 2026-11-06 17:57:57 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5214_20261106-17h.py](warehouse/can_5214_20261106-17h.py) |
+| 5215 | 2026-11-07 02:48:33 | Free Models Router | ✅ | [warehouse/can_5215_20261107-02h.py](warehouse/can_5215_20261107-02h.py) |
