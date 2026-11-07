@@ -5304,3 +5304,4 @@ If you need permission, you're thinking too much.
 | 5214 | 2026-11-06 17:57:57 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5214_20261106-17h.py](warehouse/can_5214_20261106-17h.py) |
 | 5215 | 2026-11-07 02:48:33 | Free Models Router | ✅ | [warehouse/can_5215_20261107-02h.py](warehouse/can_5215_20261107-02h.py) |
 | 5216 | 2026-11-07 10:11:08 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5216_20261107-10h.py](warehouse/can_5216_20261107-10h.py) |
+| 5217 | 2026-11-07 16:27:01 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5217_20261107-16h.py](warehouse/can_5217_20261107-16h.py) |
