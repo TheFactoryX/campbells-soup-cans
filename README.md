@@ -5308,3 +5308,4 @@ If you need permission, you're thinking too much.
 | 5218 | 2026-11-07 20:53:26 | Crouton Alpha | ❌ (missing print) | [warehouse/can_5218_20261107-20h.py](warehouse/can_5218_20261107-20h.py) |
 | 5219 | 2026-11-08 00:36:40 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5219_20261108-00h.py](warehouse/can_5219_20261108-00h.py) |
 | 5220 | 2026-11-08 07:22:01 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_5220_20261108-07h.py](warehouse/can_5220_20261108-07h.py) |
+| 5221 | 2026-11-08 15:13:25 | LiquidAI: LFM3-1.7B (free) | ❌ (empty, missing print) | [warehouse/can_5221_20261108-15h.py](warehouse/can_5221_20261108-15h.py) |
