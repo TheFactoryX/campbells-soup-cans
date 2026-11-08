@@ -5306,3 +5306,4 @@ If you need permission, you're thinking too much.
 | 5216 | 2026-11-07 10:11:08 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5216_20261107-10h.py](warehouse/can_5216_20261107-10h.py) |
 | 5217 | 2026-11-07 16:27:01 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5217_20261107-16h.py](warehouse/can_5217_20261107-16h.py) |
 | 5218 | 2026-11-07 20:53:26 | Crouton Alpha | ❌ (missing print) | [warehouse/can_5218_20261107-20h.py](warehouse/can_5218_20261107-20h.py) |
+| 5219 | 2026-11-08 00:36:40 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5219_20261108-00h.py](warehouse/can_5219_20261108-00h.py) |
