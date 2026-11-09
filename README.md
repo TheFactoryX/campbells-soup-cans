@@ -5311,3 +5311,4 @@ If you need permission, you're thinking too much.
 | 5221 | 2026-11-08 15:13:25 | LiquidAI: LFM3-1.7B (free) | ❌ (empty, missing print) | [warehouse/can_5221_20261108-15h.py](warehouse/can_5221_20261108-15h.py) |
 | 5222 | 2026-11-08 19:43:18 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (broken) | [warehouse/can_5222_20261108-19h.py](warehouse/can_5222_20261108-19h.py) |
 | 5223 | 2026-11-08 23:43:20 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5223_20261108-23h.py](warehouse/can_5223_20261108-23h.py) |
+| 5224 | 2026-11-09 06:31:18 | Crouton Alpha | ✅ | [warehouse/can_5224_20261109-06h.py](warehouse/can_5224_20261109-06h.py) |
