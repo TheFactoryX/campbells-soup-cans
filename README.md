@@ -5312,3 +5312,4 @@ If you need permission, you're thinking too much.
 | 5222 | 2026-11-08 19:43:18 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (broken) | [warehouse/can_5222_20261108-19h.py](warehouse/can_5222_20261108-19h.py) |
 | 5223 | 2026-11-08 23:43:20 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5223_20261108-23h.py](warehouse/can_5223_20261108-23h.py) |
 | 5224 | 2026-11-09 06:31:18 | Crouton Alpha | ✅ | [warehouse/can_5224_20261109-06h.py](warehouse/can_5224_20261109-06h.py) |
+| 5225 | 2026-11-09 17:29:53 | Free Models Router | ✅ | [warehouse/can_5225_20261109-17h.py](warehouse/can_5225_20261109-17h.py) |
