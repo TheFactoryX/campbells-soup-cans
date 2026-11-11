@@ -5319,3 +5319,4 @@ If you need permission, you're thinking too much.
 | 5229 | 2026-11-10 23:23:14 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5229_20261110-23h.py](warehouse/can_5229_20261110-23h.py) |
 | 5230 | 2026-11-11 06:22:49 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5230_20261111-06h.py](warehouse/can_5230_20261111-06h.py) |
 | 5231 | 2026-11-11 15:13:00 | LiquidAI: LFM2.5-2.6B (free) | ❌ (broken) | [warehouse/can_5231_20261111-15h.py](warehouse/can_5231_20261111-15h.py) |
+| 5232 | 2026-11-11 21:59:06 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5232_20261111-21h.py](warehouse/can_5232_20261111-21h.py) |
