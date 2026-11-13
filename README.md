@@ -5323,3 +5323,4 @@ If you need permission, you're thinking too much.
 | 5233 | 2026-11-12 02:59:47 | Free Models Router | ✅ | [warehouse/can_5233_20261112-02h.py](warehouse/can_5233_20261112-02h.py) |
 | 5234 | 2026-11-12 11:12:37 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5234_20261112-11h.py](warehouse/can_5234_20261112-11h.py) |
 | 5235 | 2026-11-12 18:57:09 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_5235_20261112-18h.py](warehouse/can_5235_20261112-18h.py) |
+| 5236 | 2026-11-13 00:25:10 | LiquidAI: LFM2.5-2.6B (free) | ✅ | [warehouse/can_5236_20261113-00h.py](warehouse/can_5236_20261113-00h.py) |
