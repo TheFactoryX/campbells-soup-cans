@@ -5329,3 +5329,4 @@ If you need permission, you're thinking too much.
 | 5239 | 2026-11-13 22:38:20 | inclusionAI: Ling 3.2 Flash (free) | ✅ | [warehouse/can_5239_20261113-22h.py](warehouse/can_5239_20261113-22h.py) |
 | 5240 | 2026-11-14 03:16:32 | Cohere: North Mini Code (free) | ✅ | [warehouse/can_5240_20261114-03h.py](warehouse/can_5240_20261114-03h.py) |
 | 5241 | 2026-11-14 11:28:42 | LiquidAI: LFM3-1.7B (free) | ✅ | [warehouse/can_5241_20261114-11h.py](warehouse/can_5241_20261114-11h.py) |
+| 5242 | 2026-11-14 18:02:36 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5242_20261114-18h.py](warehouse/can_5242_20261114-18h.py) |
