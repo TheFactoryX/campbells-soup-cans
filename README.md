@@ -5333,3 +5333,4 @@ If you need permission, you're thinking too much.
 | 5243 | 2026-11-14 22:24:53 | Recursive: Flint (free) | ✅ | [warehouse/can_5243_20261114-22h.py](warehouse/can_5243_20261114-22h.py) |
 | 5244 | 2026-11-15 02:40:03 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5244_20261115-02h.py](warehouse/can_5244_20261115-02h.py) |
 | 5245 | 2026-11-15 10:55:04 | StepFun: Step 5 Preview | ✅ | [warehouse/can_5245_20261115-10h.py](warehouse/can_5245_20261115-10h.py) |
+| 5246 | 2026-11-15 17:42:43 | Particle AI: Particle-1 (free) | ❌ (missing print) | [warehouse/can_5246_20261115-17h.py](warehouse/can_5246_20261115-17h.py) |
