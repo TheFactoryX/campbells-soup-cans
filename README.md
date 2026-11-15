@@ -5331,3 +5331,4 @@ If you need permission, you're thinking too much.
 | 5241 | 2026-11-14 11:28:42 | LiquidAI: LFM3-1.7B (free) | ✅ | [warehouse/can_5241_20261114-11h.py](warehouse/can_5241_20261114-11h.py) |
 | 5242 | 2026-11-14 18:02:36 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5242_20261114-18h.py](warehouse/can_5242_20261114-18h.py) |
 | 5243 | 2026-11-14 22:24:53 | Recursive: Flint (free) | ✅ | [warehouse/can_5243_20261114-22h.py](warehouse/can_5243_20261114-22h.py) |
+| 5244 | 2026-11-15 02:40:03 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5244_20261115-02h.py](warehouse/can_5244_20261115-02h.py) |
