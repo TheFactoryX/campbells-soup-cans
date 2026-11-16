@@ -5336,3 +5336,4 @@ If you need permission, you're thinking too much.
 | 5246 | 2026-11-15 17:42:43 | Particle AI: Particle-1 (free) | ❌ (missing print) | [warehouse/can_5246_20261115-17h.py](warehouse/can_5246_20261115-17h.py) |
 | 5247 | 2026-11-15 22:48:42 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5247_20261115-22h.py](warehouse/can_5247_20261115-22h.py) |
 | 5248 | 2026-11-16 02:44:05 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5248_20261116-02h.py](warehouse/can_5248_20261116-02h.py) |
+| 5249 | 2026-11-16 11:19:49 | Free Models Router | ✅ | [warehouse/can_5249_20261116-11h.py](warehouse/can_5249_20261116-11h.py) |
