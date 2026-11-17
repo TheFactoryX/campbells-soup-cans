@@ -5338,3 +5338,4 @@ If you need permission, you're thinking too much.
 | 5248 | 2026-11-16 02:44:05 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5248_20261116-02h.py](warehouse/can_5248_20261116-02h.py) |
 | 5249 | 2026-11-16 11:19:49 | Free Models Router | ✅ | [warehouse/can_5249_20261116-11h.py](warehouse/can_5249_20261116-11h.py) |
 | 5250 | 2026-11-16 22:02:48 | Free Models Router | ✅ | [warehouse/can_5250_20261116-22h.py](warehouse/can_5250_20261116-22h.py) |
+| 5251 | 2026-11-17 04:28:57 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5251_20261117-04h.py](warehouse/can_5251_20261117-04h.py) |
