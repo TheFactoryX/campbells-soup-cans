@@ -5345,3 +5345,4 @@ If you need permission, you're thinking too much.
 | 5255 | 2026-11-18 13:59:19 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5255_20261118-13h.py](warehouse/can_5255_20261118-13h.py) |
 | 5256 | 2026-11-18 21:57:24 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5256_20261118-21h.py](warehouse/can_5256_20261118-21h.py) |
 | 5257 | 2026-11-19 03:28:50 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5257_20261119-03h.py](warehouse/can_5257_20261119-03h.py) |
+| 5258 | 2026-11-19 13:09:18 | Recursive: Flint (free) | ✅ | [warehouse/can_5258_20261119-13h.py](warehouse/can_5258_20261119-13h.py) |
