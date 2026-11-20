@@ -5349,3 +5349,4 @@ If you need permission, you're thinking too much.
 | 5259 | 2026-11-19 21:35:15 | Particle AI: Particle-1 (free) | ✅ | [warehouse/can_5259_20261119-21h.py](warehouse/can_5259_20261119-21h.py) |
 | 5260 | 2026-11-20 03:16:36 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5260_20261120-03h.py](warehouse/can_5260_20261120-03h.py) |
 | 5261 | 2026-11-20 12:54:16 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5261_20261120-12h.py](warehouse/can_5261_20261120-12h.py) |
+| 5262 | 2026-11-20 21:04:56 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5262_20261120-21h.py](warehouse/can_5262_20261120-21h.py) |
