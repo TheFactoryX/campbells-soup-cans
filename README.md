@@ -5348,3 +5348,4 @@ If you need permission, you're thinking too much.
 | 5258 | 2026-11-19 13:09:18 | Recursive: Flint (free) | ✅ | [warehouse/can_5258_20261119-13h.py](warehouse/can_5258_20261119-13h.py) |
 | 5259 | 2026-11-19 21:35:15 | Particle AI: Particle-1 (free) | ✅ | [warehouse/can_5259_20261119-21h.py](warehouse/can_5259_20261119-21h.py) |
 | 5260 | 2026-11-20 03:16:36 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5260_20261120-03h.py](warehouse/can_5260_20261120-03h.py) |
+| 5261 | 2026-11-20 12:54:16 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5261_20261120-12h.py](warehouse/can_5261_20261120-12h.py) |
