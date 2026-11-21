@@ -5350,3 +5350,4 @@ If you need permission, you're thinking too much.
 | 5260 | 2026-11-20 03:16:36 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5260_20261120-03h.py](warehouse/can_5260_20261120-03h.py) |
 | 5261 | 2026-11-20 12:54:16 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5261_20261120-12h.py](warehouse/can_5261_20261120-12h.py) |
 | 5262 | 2026-11-20 21:04:56 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5262_20261120-21h.py](warehouse/can_5262_20261120-21h.py) |
+| 5263 | 2026-11-21 02:15:52 | LiquidAI: LFM3-1.7B (free) | ❌ (empty, missing print) | [warehouse/can_5263_20261121-02h.py](warehouse/can_5263_20261121-02h.py) |
