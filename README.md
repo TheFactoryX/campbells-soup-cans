@@ -5353,3 +5353,4 @@ If you need permission, you're thinking too much.
 | 5263 | 2026-11-21 02:15:52 | LiquidAI: LFM3-1.7B (free) | ❌ (empty, missing print) | [warehouse/can_5263_20261121-02h.py](warehouse/can_5263_20261121-02h.py) |
 | 5264 | 2026-11-21 09:56:36 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5264_20261121-09h.py](warehouse/can_5264_20261121-09h.py) |
 | 5265 | 2026-11-21 17:33:02 | Nex AGI: Nex-N2.5-Mini | ✅ | [warehouse/can_5265_20261121-17h.py](warehouse/can_5265_20261121-17h.py) |
+| 5266 | 2026-11-21 23:17:18 | NVIDIA: Nemotron 3.5 Lightning (free) | ✅ | [warehouse/can_5266_20261121-23h.py](warehouse/can_5266_20261121-23h.py) |
