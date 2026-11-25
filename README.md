@@ -5364,3 +5364,4 @@ If you need permission, you're thinking too much.
 | 5274 | 2026-11-24 21:11:25 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5274_20261124-21h.py](warehouse/can_5274_20261124-21h.py) |
 | 5275 | 2026-11-25 04:12:02 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5275_20261125-04h.py](warehouse/can_5275_20261125-04h.py) |
 | 5276 | 2026-11-25 14:25:44 | Thinking Machines: Inkling 2 Mini | ✅ | [warehouse/can_5276_20261125-14h.py](warehouse/can_5276_20261125-14h.py) |
+| 5277 | 2026-11-25 23:37:20 | NVIDIA: Nemotron 3.5 Lightning (free) | ❌ (broken) | [warehouse/can_5277_20261125-23h.py](warehouse/can_5277_20261125-23h.py) |
