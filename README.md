@@ -5362,3 +5362,4 @@ If you need permission, you're thinking too much.
 | 5272 | 2026-11-24 00:51:14 | Dots Studio: Dots3-Note Preview (free) | ✅ | [warehouse/can_5272_20261124-00h.py](warehouse/can_5272_20261124-00h.py) |
 | 5273 | 2026-11-24 10:55:52 | Meta: Muse Spark Open | ✅ | [warehouse/can_5273_20261124-10h.py](warehouse/can_5273_20261124-10h.py) |
 | 5274 | 2026-11-24 21:11:25 | NVIDIA: Nemotron 3 Ultra (free) | ✅ | [warehouse/can_5274_20261124-21h.py](warehouse/can_5274_20261124-21h.py) |
+| 5275 | 2026-11-25 04:12:02 | NVIDIA: Nemotron 3 Nano Omni (free) | ✅ | [warehouse/can_5275_20261125-04h.py](warehouse/can_5275_20261125-04h.py) |
