@@ -5366,3 +5366,4 @@ If you need permission, you're thinking too much.
 | 5276 | 2026-11-25 14:25:44 | Thinking Machines: Inkling 2 Mini | ✅ | [warehouse/can_5276_20261125-14h.py](warehouse/can_5276_20261125-14h.py) |
 | 5277 | 2026-11-25 23:37:20 | NVIDIA: Nemotron 3.5 Lightning (free) | ❌ (broken) | [warehouse/can_5277_20261125-23h.py](warehouse/can_5277_20261125-23h.py) |
 | 5278 | 2026-11-26 08:19:12 | NVIDIA: Nemotron 3.5 Super VL (free) | ✅ | [warehouse/can_5278_20261126-08h.py](warehouse/can_5278_20261126-08h.py) |
+| 5279 | 2026-11-26 19:00:32 | Free Models Router | ✅ | [warehouse/can_5279_20261126-19h.py](warehouse/can_5279_20261126-19h.py) |
