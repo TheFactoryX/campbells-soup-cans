@@ -5369,3 +5369,4 @@ If you need permission, you're thinking too much.
 | 5279 | 2026-11-26 19:00:32 | Free Models Router | ✅ | [warehouse/can_5279_20261126-19h.py](warehouse/can_5279_20261126-19h.py) |
 | 5280 | 2026-11-27 02:10:20 | Qwen: Qwen3.7 Max | ❌ (broken) | [warehouse/can_5280_20261127-02h.py](warehouse/can_5280_20261127-02h.py) |
 | 5281 | 2026-11-27 10:52:34 | Baidu: ERNIE-5.5-Flash-Preview (free) | ❌ (missing print) | [warehouse/can_5281_20261127-10h.py](warehouse/can_5281_20261127-10h.py) |
+| 5282 | 2026-11-27 19:57:28 | Recursive: Flint (free) | ✅ | [warehouse/can_5282_20261127-19h.py](warehouse/can_5282_20261127-19h.py) |
