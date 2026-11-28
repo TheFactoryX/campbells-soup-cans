@@ -5371,3 +5371,4 @@ If you need permission, you're thinking too much.
 | 5281 | 2026-11-27 10:52:34 | Baidu: ERNIE-5.5-Flash-Preview (free) | ❌ (missing print) | [warehouse/can_5281_20261127-10h.py](warehouse/can_5281_20261127-10h.py) |
 | 5282 | 2026-11-27 19:57:28 | Recursive: Flint (free) | ✅ | [warehouse/can_5282_20261127-19h.py](warehouse/can_5282_20261127-19h.py) |
 | 5283 | 2026-11-28 02:41:20 | NVIDIA: Nemotron 3 Ultra (free) | ❌ (broken) | [warehouse/can_5283_20261128-02h.py](warehouse/can_5283_20261128-02h.py) |
+| 5284 | 2026-11-28 11:46:56 | Particle AI: Particle-1 (free) | ✅ | [warehouse/can_5284_20261128-11h.py](warehouse/can_5284_20261128-11h.py) |
